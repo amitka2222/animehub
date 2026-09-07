@@ -3,9 +3,10 @@ import { Link } from 'react-router-dom';
 import { formatDistanceToNow } from 'date-fns';
 import { 
   Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, 
-  Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap
+  Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap, Info
 } from 'lucide-react';
 import { checkHasDub } from '../utils/animeUtils';
+import AnimeDetailModal from '../components/AnimeDetailModal';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
 
@@ -21,6 +22,7 @@ const Discovery = () => {
   const [activeTab, setActiveTab] = useState('all'); // 'all', 'topWeekly', 'newThisWeek', 'top', 'upcoming'
   const [audioFilter, setAudioFilter] = useState('all'); // 'all', 'dub', 'sub'
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedAnime, setSelectedAnime] = useState(null);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/discovery.json`)
@@ -85,7 +87,7 @@ const Discovery = () => {
           </h1>
 
           <p className="text-xs sm:text-sm text-gray-300 mb-4 sm:mb-5 leading-relaxed">
-            Discover weekly top trending anime, fresh releases, explore 12 genre categories, and stay informed with daily RSS news.
+            Discover weekly top trending anime, fresh releases, explore 18 genre categories, and stay informed with daily RSS news — all with in-app details.
           </p>
 
           <div className="flex flex-wrap gap-2.5">
@@ -94,7 +96,7 @@ const Discovery = () => {
               className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold rounded-xl shadow-lg shadow-indigo-600/30 transition-all cursor-pointer"
             >
               <Layers size={14} />
-              <span>Explore Categories</span>
+              <span>Explore 18 Categories</span>
               <ChevronRight size={13} />
             </Link>
 
@@ -243,6 +245,7 @@ const Discovery = () => {
                   anime={anime} 
                   badgeColor="bg-amber-600"
                   badgeText={`#${anime.rank || idx + 1}`}
+                  onSelect={setSelectedAnime}
                 />
               ))}
             </div>
@@ -273,6 +276,7 @@ const Discovery = () => {
                   anime={anime} 
                   badgeColor="bg-emerald-600"
                   badgeText="New"
+                  onSelect={setSelectedAnime}
                 />
               ))}
             </div>
@@ -303,6 +307,7 @@ const Discovery = () => {
                   anime={anime} 
                   badgeColor="bg-indigo-600"
                   badgeText={`#${anime.rank || idx + 1}`}
+                  onSelect={setSelectedAnime}
                 />
               ))}
             </div>
@@ -328,11 +333,23 @@ const Discovery = () => {
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {filteredUpcoming.map((anime) => (
-                <div key={anime.mal_id} className="bg-gray-800 rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 border border-gray-700 hover:border-purple-500/50 transition-colors">
+                <div 
+                  key={anime.mal_id} 
+                  onClick={() => setSelectedAnime(anime)}
+                  className="bg-gray-800 rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 border border-gray-700 hover:border-purple-500/60 transition-all cursor-pointer group select-none"
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      setSelectedAnime(anime);
+                    }
+                  }}
+                >
                   <img 
                     src={anime.images?.webp?.image_url || anime.images?.webp?.large_image_url} 
                     alt={anime.title} 
-                    className="w-20 sm:w-24 h-28 sm:h-36 object-cover rounded shadow shrink-0"
+                    className="w-20 sm:w-24 h-28 sm:h-36 object-cover rounded shadow shrink-0 group-hover:scale-103 transition-transform"
                     onError={(e) => {
                       e.currentTarget.onerror = null;
                       e.currentTarget.src = FALLBACK_POSTER;
@@ -340,20 +357,18 @@ const Discovery = () => {
                   />
                   <div className="flex-1 min-w-0 flex flex-col justify-between">
                     <div>
-                      <h4 className="font-bold text-sm sm:text-base text-gray-100 mb-1 truncate">{anime.title}</h4>
+                      <h4 className="font-bold text-sm sm:text-base text-gray-100 mb-1 truncate group-hover:text-purple-300 transition-colors">
+                        {anime.title}
+                      </h4>
                       <span className="inline-block bg-gray-700 text-[10px] sm:text-xs px-2 py-0.5 rounded text-gray-300 mb-1.5">
                         {anime.season} {anime.year}
                       </span>
                       <p className="text-xs text-gray-400 line-clamp-2">{anime.synopsis || "No synopsis available yet."}</p>
                     </div>
-                    <a 
-                      href={anime.url} 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="mt-2 inline-flex items-center text-xs text-purple-400 hover:text-purple-300 font-medium"
-                    >
-                      View on Kitsu <ExternalLink size={11} className="ml-1" />
-                    </a>
+                    <span className="mt-2 inline-flex items-center text-xs text-purple-400 group-hover:text-purple-300 font-medium">
+                      <span>View Details</span>
+                      <ChevronRight size={13} className="ml-0.5" />
+                    </span>
                   </div>
                 </div>
               ))}
@@ -361,20 +376,34 @@ const Discovery = () => {
           )}
         </section>
       )}
+
+      {/* Internal Anime Detail Modal */}
+      {selectedAnime && (
+        <AnimeDetailModal 
+          anime={selectedAnime} 
+          onClose={() => setSelectedAnime(null)} 
+        />
+      )}
     </div>
   );
 };
 
-const AnimeCard = ({ anime, badgeColor, badgeText }) => {
-  const imageUrl = anime.images?.webp?.large_image_url || anime.images?.webp?.image_url || FALLBACK_POSTER;
+const AnimeCard = ({ anime, badgeColor, badgeText, onSelect }) => {
+  const imageUrl = anime.images?.webp?.large_image_url || anime.images?.webp?.image_url || anime.poster || FALLBACK_POSTER;
   const hasDub = checkHasDub(anime);
 
   return (
-    <a 
-      href={anime.url} 
-      target="_blank" 
-      rel="noopener noreferrer" 
-      className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all group cursor-pointer flex flex-col"
+    <div 
+      onClick={() => onSelect && onSelect(anime)}
+      className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all group cursor-pointer flex flex-col select-none text-left"
+      role="button"
+      tabIndex={0}
+      onKeyDown={(e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          onSelect && onSelect(anime);
+        }
+      }}
     >
       <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden bg-gray-900">
         <img 
@@ -424,7 +453,7 @@ const AnimeCard = ({ anime, badgeColor, badgeText }) => {
           </span>
         </div>
       </div>
-    </a>
+    </div>
   );
 };
 

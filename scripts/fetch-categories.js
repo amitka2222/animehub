@@ -18,7 +18,13 @@ const CATEGORIES = [
   'sci-fi',
   'slice-of-life',
   'sports',
-  'supernatural'
+  'supernatural',
+  'isekai',
+  'psychological',
+  'thriller',
+  'mecha',
+  'music',
+  'shounen'
 ];
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -26,7 +32,7 @@ const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 const fetchWithRetry = (url, retries = 3, timeoutMs = 12000) => {
   return new Promise((resolve, reject) => {
     const attempt = (remaining) => {
-      const req = https.get(url, { headers: { 'User-Agent': 'AnimeHub/1.0' } }, (res) => {
+      const req = https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 AnimeHub/1.0' } }, (res) => {
         let data = '';
         res.on('data', chunk => data += chunk);
         res.on('end', () => {
@@ -34,8 +40,7 @@ const fetchWithRetry = (url, retries = 3, timeoutMs = 12000) => {
             resolve(JSON.parse(data));
           } catch (e) {
             if (remaining > 0) {
-              console.log(`JSON parse error, retrying (${remaining} left)...`);
-              setTimeout(() => attempt(remaining - 1), 1500);
+              setTimeout(() => attempt(remaining - 1), 1000);
             } else {
               reject(e);
             }
@@ -45,8 +50,7 @@ const fetchWithRetry = (url, retries = 3, timeoutMs = 12000) => {
 
       req.on('error', (err) => {
         if (remaining > 0) {
-          console.log(`Request error ${err.message}, retrying (${remaining} left)...`);
-          setTimeout(() => attempt(remaining - 1), 1500);
+          setTimeout(() => attempt(remaining - 1), 1000);
         } else {
           reject(err);
         }
@@ -55,8 +59,7 @@ const fetchWithRetry = (url, retries = 3, timeoutMs = 12000) => {
       req.setTimeout(timeoutMs, () => {
         req.destroy();
         if (remaining > 0) {
-          console.log(`Timeout on ${url}, retrying (${remaining} left)...`);
-          setTimeout(() => attempt(remaining - 1), 1500);
+          setTimeout(() => attempt(remaining - 1), 1000);
         } else {
           reject(new Error(`Request timed out after ${timeoutMs}ms`));
         }
@@ -96,54 +99,92 @@ function checkHasDub(anime) {
   ];
   if (dubTitles.some(t => title.includes(t))) return true;
   if (anime.userCount && anime.userCount > 1500) return true;
-  return (anime.rank || 99) <= 8;
+  return (anime.rank || 99) <= 12;
 }
 
-async function fetchCategories() {
-  console.log('Fetching top anime for all 12 categories...');
+const isValidPoster = (item) => {
+  const url = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
+  return url && !url.includes('Expires=');
+};
+
+const formatAnimeItem = (item, idx) => {
+  const attrs = item.attributes || {};
+  const title = attrs.canonicalTitle || attrs.titles?.en || attrs.titles?.en_jp || 'Anime Title';
+  const season = attrs.subtype || 'TV';
+  const hasDub = checkHasDub({
+    title,
+    season,
+    rank: idx + 1,
+    userCount: attrs.userCount
+  });
+
+  return {
+    id: item.id,
+    title,
+    titles: {
+      en: attrs.titles?.en || null,
+      en_jp: attrs.titles?.en_jp || null,
+      ja_jp: attrs.titles?.ja_jp || null
+    },
+    url: `https://kitsu.io/anime/${attrs.slug}`,
+    poster: attrs.posterImage?.large || attrs.posterImage?.original || 'https://media.kitsu.app/anime/poster_images/7442/large.jpg',
+    cover: attrs.coverImage?.large || attrs.coverImage?.original || null,
+    synopsis: attrs.synopsis || 'No synopsis available.',
+    score: attrs.averageRating ? `${attrs.averageRating}%` : 'N/A',
+    ratingRank: attrs.ratingRank || null,
+    popularityRank: attrs.popularityRank || null,
+    episodes: attrs.episodeCount || null,
+    episodeLength: attrs.episodeLength || null,
+    season,
+    year: attrs.startDate ? attrs.startDate.substring(0, 4) : 'TBA',
+    startDate: attrs.startDate || null,
+    endDate: attrs.endDate || null,
+    status: attrs.status || 'finished',
+    ageRating: attrs.ageRating || null,
+    ageRatingGuide: attrs.ageRatingGuide || null,
+    rank: idx + 1,
+    hasSub: true,
+    hasDub
+  };
+};
+
+export async function fetchCategories() {
+  console.log('Fetching top anime for all 18 categories (25-30 titles each)...');
   const categoryData = {};
 
   for (const cat of CATEGORIES) {
     console.log(`Fetching category: ${cat}...`);
     try {
-      const url = `https://kitsu.io/api/edge/anime?filter%5Bcategories%5D=${cat}&sort=-userCount&page%5Blimit%5D=16`;
-      const res = await fetchWithRetry(url, 3, 15000);
-      const items = res?.data || [];
-      const formatted = items
-        .filter(item => {
-          const img = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
-          return img && !img.includes('Expires=');
-        })
-        .slice(0, 14)
-        .map((item, idx) => {
-          const title = item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title';
-          const season = item.attributes.subtype || 'TV';
-          const hasDub = checkHasDub({
-            title,
-            season,
-            rank: idx + 1,
-            userCount: item.attributes.userCount
-          });
+      // Batch 1 (top 20)
+      const url1 = `https://kitsu.io/api/edge/anime?filter%5Bcategories%5D=${cat}&sort=-userCount&page%5Blimit%5D=20&page%5Boffset%5D=0`;
+      const res1 = await fetchWithRetry(url1, 3, 14000);
+      const items1 = (res1?.data || []).filter(isValidPoster);
+      await delay(250);
 
-          return {
-            id: item.id,
-            title,
-            url: `https://kitsu.io/anime/${item.attributes.slug}`,
-            poster: item.attributes.posterImage?.large || item.attributes.posterImage?.original || 'https://media.kitsu.app/anime/poster_images/7442/large.jpg',
-            synopsis: item.attributes.synopsis || 'No synopsis available.',
-            score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
-            episodes: item.attributes.episodeCount,
-            season,
-            year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
-            rank: idx + 1,
-            hasSub: true,
-            hasDub
-          };
-        });
+      // Batch 2 (next 15)
+      let items2 = [];
+      try {
+        const url2 = `https://kitsu.io/api/edge/anime?filter%5Bcategories%5D=${cat}&sort=-userCount&page%5Blimit%5D=15&page%5Boffset%5D=20`;
+        const res2 = await fetchWithRetry(url2, 2, 10000);
+        items2 = (res2?.data || []).filter(isValidPoster);
+      } catch {
+        // Fallback to batch 1 only
+      }
 
+      // Combine and deduplicate
+      const seenIds = new Set();
+      const combined = [];
+      for (const it of [...items1, ...items2]) {
+        if (!seenIds.has(it.id)) {
+          seenIds.add(it.id);
+          combined.push(it);
+        }
+      }
+
+      const formatted = combined.map((it, idx) => formatAnimeItem(it, idx));
       categoryData[cat] = formatted;
       console.log(`✓ ${cat}: ${formatted.length} titles`);
-      await delay(400);
+      await delay(300);
     } catch (err) {
       console.error(`✗ Failed to fetch category ${cat}:`, err.message);
       categoryData[cat] = [];
@@ -156,9 +197,12 @@ async function fetchCategories() {
   console.log(`Saved JSON to ${publicPath}`);
 
   const fallbackPath = path.join(__dirname, '..', 'src', 'data', 'categoryFallbackData.js');
-  const jsContent = `// Auto-generated initial category data for instant 0ms load\nexport const INITIAL_CATEGORY_DATA = ${JSON.stringify(categoryData, null, 2)};\n`;
+  const jsContent = `// Auto-generated category data for instant 0ms load\nexport const INITIAL_CATEGORY_DATA = ${JSON.stringify(categoryData, null, 2)};\n`;
   fs.writeFileSync(fallbackPath, jsContent);
   console.log(`Saved fallback JS to ${fallbackPath}`);
+  return categoryData;
 }
 
-fetchCategories();
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  fetchCategories();
+}

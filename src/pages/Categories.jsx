@@ -2,23 +2,31 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { 
   Flame, Heart, Sparkles, Trophy, Rocket, Coffee, Ghost, 
   Smile, Zap, Compass, Search, Star, ExternalLink, Filter, 
-  ArrowUpDown, Layers, Film, Headphones, MessageSquare, X
+  ArrowUpDown, Layers, Film, Headphones, MessageSquare, X,
+  Globe, Brain, ShieldAlert, Cpu, Music, Swords, Eye
 } from 'lucide-react';
 import { INITIAL_CATEGORY_DATA } from '../data/categoryFallbackData';
+import AnimeDetailModal from '../components/AnimeDetailModal';
 
 const CATEGORIES = [
-  { id: 'action', name: 'Action', icon: Flame, color: 'from-orange-500 to-amber-600', activeBorder: 'border-orange-500' },
-  { id: 'adventure', name: 'Adventure', icon: Compass, color: 'from-emerald-500 to-teal-600', activeBorder: 'border-emerald-500' },
-  { id: 'comedy', name: 'Comedy', icon: Smile, color: 'from-yellow-400 to-amber-500', activeBorder: 'border-yellow-400' },
-  { id: 'drama', name: 'Drama', icon: Film, color: 'from-sky-500 to-blue-600', activeBorder: 'border-sky-500' },
-  { id: 'fantasy', name: 'Fantasy', icon: Sparkles, color: 'from-purple-500 to-indigo-600', activeBorder: 'border-purple-500' },
-  { id: 'horror', name: 'Horror', icon: Ghost, color: 'from-red-600 to-rose-700', activeBorder: 'border-red-600' },
-  { id: 'mystery', name: 'Mystery', icon: Search, color: 'from-indigo-500 to-violet-600', activeBorder: 'border-indigo-500' },
-  { id: 'romance', name: 'Romance', icon: Heart, color: 'from-pink-500 to-rose-500', activeBorder: 'border-pink-500' },
-  { id: 'sci-fi', name: 'Sci-Fi', icon: Rocket, color: 'from-cyan-500 to-blue-600', activeBorder: 'border-cyan-500' },
-  { id: 'slice-of-life', name: 'Slice of Life', icon: Coffee, color: 'from-amber-600 to-yellow-600', activeBorder: 'border-amber-600' },
-  { id: 'sports', name: 'Sports', icon: Trophy, color: 'from-lime-500 to-green-600', activeBorder: 'border-lime-500' },
-  { id: 'supernatural', name: 'Supernatural', icon: Zap, color: 'from-fuchsia-500 to-purple-600', activeBorder: 'border-fuchsia-500' },
+  { id: 'action', name: 'Action', icon: Flame, color: 'from-orange-500 to-amber-600' },
+  { id: 'adventure', name: 'Adventure', icon: Compass, color: 'from-emerald-500 to-teal-600' },
+  { id: 'comedy', name: 'Comedy', icon: Smile, color: 'from-yellow-400 to-amber-500' },
+  { id: 'drama', name: 'Drama', icon: Film, color: 'from-sky-500 to-blue-600' },
+  { id: 'fantasy', name: 'Fantasy', icon: Sparkles, color: 'from-purple-500 to-indigo-600' },
+  { id: 'horror', name: 'Horror', icon: Ghost, color: 'from-red-600 to-rose-700' },
+  { id: 'mystery', name: 'Mystery', icon: Search, color: 'from-indigo-500 to-violet-600' },
+  { id: 'romance', name: 'Romance', icon: Heart, color: 'from-pink-500 to-rose-500' },
+  { id: 'sci-fi', name: 'Sci-Fi', icon: Rocket, color: 'from-cyan-500 to-blue-600' },
+  { id: 'slice-of-life', name: 'Slice of Life', icon: Coffee, color: 'from-amber-600 to-yellow-600' },
+  { id: 'sports', name: 'Sports', icon: Trophy, color: 'from-lime-500 to-green-600' },
+  { id: 'supernatural', name: 'Supernatural', icon: Zap, color: 'from-fuchsia-500 to-purple-600' },
+  { id: 'isekai', name: 'Isekai', icon: Globe, color: 'from-teal-500 to-emerald-600' },
+  { id: 'psychological', name: 'Psychological', icon: Brain, color: 'from-violet-600 to-purple-700' },
+  { id: 'thriller', name: 'Thriller', icon: ShieldAlert, color: 'from-rose-600 to-red-600' },
+  { id: 'mecha', name: 'Mecha', icon: Cpu, color: 'from-blue-600 to-cyan-600' },
+  { id: 'music', name: 'Music', icon: Music, color: 'from-pink-600 to-purple-600' },
+  { id: 'shounen', name: 'Shounen', icon: Swords, color: 'from-amber-500 to-orange-600' }
 ];
 
 const SORT_OPTIONS = [
@@ -35,10 +43,10 @@ const Categories = () => {
   const [audioFilter, setAudioFilter] = useState('all'); // 'all', 'dub', 'sub'
   const [searchQuery, setSearchQuery] = useState('');
   const [categoryDataMap, setCategoryDataMap] = useState(INITIAL_CATEGORY_DATA);
+  const [selectedAnime, setSelectedAnime] = useState(null);
 
   const activeCategoryObj = CATEGORIES.find(c => c.id === selectedCategory) || CATEGORIES[0];
 
-  // Fetch updated categories.json in background if available
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/categories.json`)
       .then(res => {
@@ -51,8 +59,7 @@ const Categories = () => {
         }
       })
       .catch(err => {
-        // Silently use bundled INITIAL_CATEGORY_DATA
-        console.warn('Using bundled initial categories data:', err.message);
+        console.warn('Using initial categories data:', err.message);
       });
   }, []);
 
@@ -74,7 +81,6 @@ const Categories = () => {
         return yearB - yearA;
       });
     } else {
-      // Default: Most Popular / Rank
       list.sort((a, b) => (a.rank || 99) - (b.rank || 99));
     }
 
@@ -108,12 +114,12 @@ const Categories = () => {
           <h2 className="text-2xl sm:text-3xl font-bold text-white">Browse by Category</h2>
         </div>
         <p className="text-xs sm:text-sm text-gray-400">
-          Explore curated top anime across 12 popular genres — from intense Action to heartfelt Romance.
+          Explore curated anime across 18 genres — click any title for full synopsis, audio info, and details right here.
         </p>
       </header>
 
-      {/* Category Pills Grid: 3 columns on mobile, 4 on tablet, 6 on desktop */}
-      <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 sm:gap-3">
+      {/* Category Pills Grid: 18 categories */}
+      <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 sm:gap-2.5">
         {CATEGORIES.map(category => {
           const Icon = category.icon;
           const isSelected = selectedCategory === category.id;
@@ -124,13 +130,13 @@ const Categories = () => {
                 setSelectedCategory(category.id);
                 setSearchQuery('');
               }}
-              className={`flex items-center justify-center sm:justify-start space-x-1.5 sm:space-x-2.5 p-2 sm:p-3 rounded-xl transition-all cursor-pointer text-left border ${
+              className={`flex items-center justify-center sm:justify-start space-x-1.5 sm:space-x-2 p-2 sm:p-2.5 rounded-xl transition-all cursor-pointer text-left border ${
                 isSelected 
                   ? `bg-gradient-to-r ${category.color} text-white font-semibold shadow-lg shadow-black/40 border-transparent scale-102` 
                   : 'bg-gray-800/80 hover:bg-gray-700/80 text-gray-300 border-gray-700/60 hover:border-gray-600'
               }`}
             >
-              <Icon size={16} className={`shrink-0 ${isSelected ? 'text-white' : 'text-gray-400'}`} />
+              <Icon size={15} className={`shrink-0 ${isSelected ? 'text-white' : 'text-gray-400'}`} />
               <span className="text-xs sm:text-sm truncate">{category.name}</span>
             </button>
           );
@@ -229,6 +235,9 @@ const Categories = () => {
               {filteredAnime.length} Titles
             </span>
           </h3>
+          <span className="text-[11px] text-gray-400 hidden sm:inline">
+            Click any title to view details
+          </span>
         </div>
 
         {filteredAnime.length === 0 ? (
@@ -245,12 +254,18 @@ const Categories = () => {
         ) : (
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4 md:gap-6">
             {filteredAnime.map((anime) => (
-              <a
+              <div
                 key={anime.id}
-                href={anime.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col"
+                onClick={() => setSelectedAnime(anime)}
+                className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col select-none text-left"
+                role="button"
+                tabIndex={0}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    setSelectedAnime(anime);
+                  }
+                }}
               >
                 <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden bg-gray-900">
                   <img
@@ -301,11 +316,19 @@ const Categories = () => {
                     </span>
                   </div>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
         )}
       </section>
+
+      {/* Internal Anime Detail Modal */}
+      {selectedAnime && (
+        <AnimeDetailModal 
+          anime={selectedAnime} 
+          onClose={() => setSelectedAnime(null)} 
+        />
+      )}
     </div>
   );
 };
