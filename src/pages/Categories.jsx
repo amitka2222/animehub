@@ -22,9 +22,9 @@ const CATEGORIES = [
 ];
 
 const SORT_OPTIONS = [
-  { id: '-userCount', label: 'Most Popular' },
+  { id: '-userCount', label: 'Popular' },
   { id: '-averageRating', label: 'Top Rated' },
-  { id: '-startDate', label: 'Newest Releases' },
+  { id: '-startDate', label: 'Newest' },
 ];
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
@@ -98,22 +98,22 @@ const Categories = () => {
   }, [categoryDataMap, selectedCategory, sortBy, audioFilter, searchQuery]);
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-6 sm:space-y-8">
       {/* Header */}
-      <header className="border-b border-gray-800 pb-6">
-        <div className="flex items-center space-x-3 mb-2">
-          <div className="p-2.5 bg-indigo-600/20 text-indigo-400 rounded-xl border border-indigo-500/30">
-            <Layers size={24} />
+      <header className="border-b border-gray-800 pb-4 sm:pb-6">
+        <div className="flex items-center space-x-2.5 mb-1.5">
+          <div className="p-2 sm:p-2.5 bg-indigo-600/20 text-indigo-400 rounded-xl border border-indigo-500/30">
+            <Layers size={20} className="sm:w-6 sm:h-6" />
           </div>
-          <h2 className="text-3xl font-bold text-white">Browse by Category</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-white">Browse by Category</h2>
         </div>
-        <p className="text-gray-400">
+        <p className="text-xs sm:text-sm text-gray-400">
           Explore curated top anime across 12 popular genres — from intense Action to heartfelt Romance.
         </p>
       </header>
 
-      {/* Category Pills Grid */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
+      {/* Category Pills Grid: 3 columns on mobile, 4 on tablet, 6 on desktop */}
+      <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2 sm:gap-3">
         {CATEGORIES.map(category => {
           const Icon = category.icon;
           const isSelected = selectedCategory === category.id;
@@ -124,33 +124,33 @@ const Categories = () => {
                 setSelectedCategory(category.id);
                 setSearchQuery('');
               }}
-              className={`flex items-center space-x-2.5 p-3 rounded-xl transition-all cursor-pointer text-left border ${
+              className={`flex items-center justify-center sm:justify-start space-x-1.5 sm:space-x-2.5 p-2 sm:p-3 rounded-xl transition-all cursor-pointer text-left border ${
                 isSelected 
                   ? `bg-gradient-to-r ${category.color} text-white font-semibold shadow-lg shadow-black/40 border-transparent scale-102` 
                   : 'bg-gray-800/80 hover:bg-gray-700/80 text-gray-300 border-gray-700/60 hover:border-gray-600'
               }`}
             >
-              <Icon size={18} className={isSelected ? 'text-white' : 'text-gray-400'} />
-              <span className="text-sm truncate">{category.name}</span>
+              <Icon size={16} className={`shrink-0 ${isSelected ? 'text-white' : 'text-gray-400'}`} />
+              <span className="text-xs sm:text-sm truncate">{category.name}</span>
             </button>
           );
         })}
       </div>
 
       {/* Active Category Controls: Sort, Audio & Search */}
-      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-gray-800/60 p-4 rounded-2xl border border-gray-700/60 shadow-lg">
-        <div className="flex flex-wrap items-center gap-4">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-gray-800/60 p-3 sm:p-4 rounded-2xl border border-gray-700/60 shadow-lg">
+        <div className="flex flex-wrap items-center gap-2.5 sm:gap-4">
           {/* Sort By */}
-          <div className="flex items-center space-x-2">
-            <span className="text-sm font-medium text-gray-300 flex items-center">
-              <ArrowUpDown size={15} className="mr-1.5 text-indigo-400" /> Sort:
+          <div className="flex items-center space-x-1.5">
+            <span className="text-xs sm:text-sm font-medium text-gray-300 flex items-center">
+              <ArrowUpDown size={14} className="mr-1 text-indigo-400" /> Sort:
             </span>
-            <div className="flex space-x-1.5">
+            <div className="flex space-x-1">
               {SORT_OPTIONS.map(opt => (
                 <button
                   key={opt.id}
                   onClick={() => setSortBy(opt.id)}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all cursor-pointer ${
+                  className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-all cursor-pointer ${
                     sortBy === opt.id
                       ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/30'
                       : 'bg-gray-700/70 text-gray-300 hover:bg-gray-700'
@@ -166,45 +166,45 @@ const Categories = () => {
           <div className="flex bg-gray-900/80 p-1 rounded-xl border border-gray-700/80">
             <button
               onClick={() => setAudioFilter('all')}
-              className={`px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+              className={`px-2.5 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
                 audioFilter === 'all'
                   ? 'bg-indigo-600 text-white shadow'
                   : 'text-gray-400 hover:text-white'
               }`}
             >
-              All Audio
+              All
             </button>
             <button
               onClick={() => setAudioFilter('sub')}
-              className={`flex items-center gap-1 px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
                 audioFilter === 'sub'
                   ? 'bg-indigo-600 text-white shadow'
                   : 'text-gray-400 hover:text-white'
               }`}
             >
-              <MessageSquare size={13} />
+              <MessageSquare size={12} />
               <span>SUB</span>
             </button>
             <button
               onClick={() => setAudioFilter('dub')}
-              className={`flex items-center gap-1 px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+              className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
                 audioFilter === 'dub'
                   ? 'bg-amber-600 text-white shadow'
                   : 'text-gray-400 hover:text-white'
               }`}
             >
-              <Headphones size={13} />
+              <Headphones size={12} />
               <span>DUB</span>
             </button>
           </div>
         </div>
 
         {/* Search */}
-        <div className="relative min-w-[240px]">
-          <Search size={15} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
+        <div className="relative w-full sm:w-auto sm:min-w-[220px]">
+          <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
           <input
             type="text"
-            placeholder={`Search in ${activeCategoryObj.name}...`}
+            placeholder={`Search ${activeCategoryObj.name}...`}
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             className="w-full bg-gray-900/80 border border-gray-700 rounded-xl pl-8 pr-8 py-1.5 text-xs text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
@@ -214,27 +214,27 @@ const Categories = () => {
               onClick={() => setSearchQuery('')}
               className="absolute right-2.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-white cursor-pointer"
             >
-              <X size={14} />
+              <X size={13} />
             </button>
           )}
         </div>
       </div>
 
       {/* Anime Grid Section */}
-      <section>
-        <div className="flex items-center justify-between mb-6">
-          <h3 className="text-xl font-bold text-white flex items-center space-x-2">
+      <section className="space-y-3 sm:space-y-4">
+        <div className="flex items-center justify-between">
+          <h3 className="text-lg sm:text-xl font-bold text-white flex items-center space-x-2">
             <span>{activeCategoryObj.name} Anime</span>
-            <span className="text-xs bg-indigo-500/20 text-indigo-300 px-2.5 py-0.5 rounded-full border border-indigo-500/30 font-medium">
+            <span className="text-[11px] sm:text-xs bg-indigo-500/20 text-indigo-300 px-2 py-0.5 rounded-full border border-indigo-500/30 font-medium">
               {filteredAnime.length} Titles
             </span>
           </h3>
         </div>
 
         {filteredAnime.length === 0 ? (
-          <div className="py-16 text-center bg-gray-800/40 rounded-2xl border border-gray-700/60 p-8">
-            <p className="text-gray-300 font-medium mb-2">No anime matched your current filter.</p>
-            <p className="text-gray-500 text-sm mb-4">Try clearing the search query or setting audio to "All Audio".</p>
+          <div className="py-12 sm:py-16 text-center bg-gray-800/40 rounded-2xl border border-gray-700/60 p-6 sm:p-8">
+            <p className="text-gray-300 font-medium mb-1.5 text-sm sm:text-base">No anime matched your current filter.</p>
+            <p className="text-gray-500 text-xs sm:text-sm mb-4">Try clearing the search query or setting audio to "All".</p>
             <button
               onClick={() => { setSearchQuery(''); setAudioFilter('all'); }}
               className="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold rounded-lg transition-colors cursor-pointer"
@@ -243,7 +243,7 @@ const Categories = () => {
             </button>
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4 md:gap-6">
             {filteredAnime.map((anime) => (
               <a
                 key={anime.id}
@@ -252,7 +252,7 @@ const Categories = () => {
                 rel="noopener noreferrer"
                 className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col"
               >
-                <div className="relative h-64 overflow-hidden bg-gray-900">
+                <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden bg-gray-900">
                   <img
                     src={anime.poster}
                     alt={anime.title}
@@ -262,39 +262,39 @@ const Categories = () => {
                       e.currentTarget.src = FALLBACK_POSTER;
                     }}
                   />
-                  <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-xs font-bold px-2 py-0.5 rounded border border-white/10 z-10">
+                  <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded border border-white/10 z-10">
                     #{anime.rank}
                   </div>
-                  <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[11px] font-semibold px-2 py-0.5 rounded z-10">
+                  <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[10px] sm:text-[11px] font-semibold px-2 py-0.5 rounded z-10">
                     {anime.season} • {anime.year}
                   </div>
 
                   {/* SUB / DUB Audio Badges */}
                   <div className="absolute bottom-2 right-2 flex items-center gap-1 z-10">
-                    <span className="bg-indigo-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                    <span className="bg-indigo-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
                       SUB
                     </span>
                     {anime.hasDub && (
-                      <span className="bg-amber-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                      <span className="bg-amber-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
                         DUB
                       </span>
                     )}
                   </div>
                 </div>
 
-                <div className="p-4 flex-1 flex flex-col justify-between">
+                <div className="p-2.5 sm:p-4 flex-1 flex flex-col justify-between">
                   <div>
-                    <h4 className="font-bold text-gray-100 line-clamp-2 mb-1.5 group-hover:text-indigo-300 transition-colors">
+                    <h4 className="font-bold text-xs sm:text-sm text-gray-100 line-clamp-2 mb-1 sm:mb-1.5 group-hover:text-indigo-300 transition-colors">
                       {anime.title}
                     </h4>
-                    <p className="text-xs text-gray-400 line-clamp-3 leading-relaxed">
+                    <p className="text-[11px] sm:text-xs text-gray-400 line-clamp-2 sm:line-clamp-3 leading-relaxed">
                       {anime.synopsis}
                     </p>
                   </div>
 
-                  <div className="mt-4 pt-3 border-t border-gray-700/60 flex justify-between items-center text-xs">
+                  <div className="mt-2.5 sm:mt-4 pt-2 sm:pt-3 border-t border-gray-700/60 flex justify-between items-center text-[10px] sm:text-xs">
                     <span className="flex items-center text-yellow-400 font-medium">
-                      <Star size={13} className="mr-1 fill-current" /> {anime.score}
+                      <Star size={12} className="mr-1 fill-current" /> {anime.score}
                     </span>
                     <span className="text-gray-400 font-medium">
                       {anime.episodes ? `${anime.episodes} Eps` : 'Ongoing'}
