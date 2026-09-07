@@ -17,7 +17,7 @@ const Discovery = () => {
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
-    fetch('./data/discovery.json')
+    fetch(`${import.meta.env.BASE_URL}data/discovery.json`)
       .then(res => res.json())
       .then(json => {
         setData({
