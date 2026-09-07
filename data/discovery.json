@@ -1,10 +1,18 @@
 {
-  "lastUpdated": "2026-09-07T09:02:06.584Z",
+  "lastUpdated": "2026-09-07T15:59:09.483Z",
   "topWeekly": [
     {
       "mal_id": "12",
+      "id": "12",
       "title": "One Piece",
+      "titles": {
+        "en": "One Piece",
+        "en_jp": "One Piece",
+        "ja_jp": "ONE PIECE"
+      },
       "url": "https://kitsu.io/anime/one-piece",
+      "poster": "https://media.kitsu.app/anime/poster_images/12/large.jpg",
+      "cover": "https://media.kitsu.app/anime/12/cover_image/large-3e72f400a87b5241780c5082f0582611.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/12/large.jpg",
@@ -24,8 +32,16 @@
     },
     {
       "mal_id": "210",
+      "id": "210",
       "title": "Detective Conan",
+      "titles": {
+        "en": "Detective Conan",
+        "en_jp": "Meitantei Conan",
+        "ja_jp": "名探偵コナン"
+      },
       "url": "https://kitsu.io/anime/detective-conan",
+      "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/210/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -45,8 +61,16 @@
     },
     {
       "mal_id": "856",
+      "id": "856",
       "title": "Crayon Shin-chan",
+      "titles": {
+        "en": "Shin Chan",
+        "en_jp": "Crayon Shin-chan",
+        "ja_jp": "クレヨンしんちゃん"
+      },
       "url": "https://kitsu.io/anime/crayon-shin-chan",
+      "poster": "https://media.kitsu.app/anime/poster_images/856/large.jpg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/856/large.jpg",
@@ -66,8 +90,16 @@
     },
     {
       "mal_id": "44778",
+      "id": "44778",
       "title": "Youjo Senki II",
+      "titles": {
+        "en": "Saga of Tanya the Evil II",
+        "en_jp": "Youjo Senki II",
+        "ja_jp": "幼女戦記 II"
+      },
       "url": "https://kitsu.io/anime/youjo-senki-ii",
+      "poster": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
@@ -75,7 +107,7 @@
         }
       },
       "synopsis": "The second season of Youjo Senki.",
-      "score": "80.54%",
+      "score": "80.58%",
       "episodes": 12,
       "rank": 4,
       "season": "TV",
@@ -87,8 +119,16 @@
     },
     {
       "mal_id": "50023",
+      "id": "50023",
       "title": "Daemons of the Shadow Realm",
+      "titles": {
+        "en": "Daemons of the Shadow Realm",
+        "en_jp": "Yomi no Tsugai",
+        "ja_jp": "黄泉のツガイ"
+      },
       "url": "https://kitsu.io/anime/daemons-of-the-shadow-realm",
+      "poster": "https://media.kitsu.app/anime/50023/poster_image/large-83bcc1806d52156538574d1eeb8ba4bd.jpeg",
+      "cover": "https://media.kitsu.app/anime/50023/cover_image/large-36271a9d8916e8746f173ac796b210ba.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50023/poster_image/large-83bcc1806d52156538574d1eeb8ba4bd.jpeg",
@@ -96,7 +136,7 @@
         }
       },
       "synopsis": "Yuru, a young hunter who lives in a small village deep in the mountains, hunts wild game and leads a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them? Enter a breathtaking mystical fantasy as exciting Daemon battles intertwine the mysterious and supernatural.\n\n(Source: Crunchyroll)",
-      "score": "78.42%",
+      "score": "78.45%",
       "episodes": 24,
       "rank": 5,
       "season": "TV",
@@ -108,8 +148,16 @@
     },
     {
       "mal_id": "49235",
+      "id": "49235",
       "title": "Tensei Shitara Slime Datta Ken 4th Season",
+      "titles": {
+        "en": "That Time I Got Reincarnated as a Slime Season 4",
+        "en_jp": "Tensei Shitara Slime Datta Ken 4th Season",
+        "ja_jp": "転生したらスライムだった件 第4期"
+      },
       "url": "https://kitsu.io/anime/tensei-shitara-slime-datta-ken-4th-season",
+      "poster": "https://media.kitsu.app/anime/49235/poster_image/large-e16bada49e69db582b723a08447b88dd.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49235/poster_image/large-e16bada49e69db582b723a08447b88dd.jpeg",
@@ -117,7 +165,7 @@
         }
       },
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
-      "score": "82.48%",
+      "score": "82.45%",
       "episodes": 24,
       "rank": 6,
       "season": "TV",
@@ -129,8 +177,16 @@
     },
     {
       "mal_id": "49002",
+      "id": "49002",
       "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+      "titles": {
+        "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
+        "en_jp": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+        "ja_jp": "無職転生 ～異世界行ったら本気だす～ 第3期"
+      },
       "url": "https://kitsu.io/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Season-3",
+      "poster": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
+      "cover": "https://media.kitsu.app/anime/49002/cover_image/large-2b36b6f9472d3d6193f597b42f97f013.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
@@ -150,8 +206,16 @@
     },
     {
       "mal_id": "43740",
+      "id": "43740",
       "title": "Holo no Graffiti",
+      "titles": {
+        "en": "Holo Graffiti",
+        "en_jp": "Holo no Graffiti",
+        "ja_jp": "ホロのぐらふぃてぃ"
+      },
       "url": "https://kitsu.io/anime/holo-no-graffiti",
+      "poster": "https://media.kitsu.app/anime/poster_images/43740/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/43740/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/43740/large.jpg",
@@ -171,8 +235,16 @@
     },
     {
       "mal_id": "5443",
+      "id": "5443",
       "title": "Doraemon (2005)",
+      "titles": {
+        "en": null,
+        "en_jp": "Doraemon (2005)",
+        "ja_jp": "ドラえもん (2005)"
+      },
       "url": "https://kitsu.io/anime/doraemon-2005",
+      "poster": "https://media.kitsu.app/anime/poster_images/5443/large.jpg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/5443/large.jpg",
@@ -192,8 +264,16 @@
     },
     {
       "mal_id": "41923",
+      "id": "41923",
       "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "titles": {
+        "en": "Sparks of Tomorrow",
+        "en_jp": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+        "ja_jp": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+      },
       "url": "https://kitsu.io/anime/nijusseiki-denki-mokuroku",
+      "poster": "https://media.kitsu.app/anime/41923/poster_image/large-c1af40424413d4f96056e9e936b89363.jpeg",
+      "cover": "https://media.kitsu.app/anime/41923/cover_image/large-ff115d0f3785b8d30f54eeb892617780.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/41923/poster_image/large-c1af40424413d4f96056e9e936b89363.jpeg",
@@ -201,7 +281,7 @@
         }
       },
       "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
-      "score": "75.56%",
+      "score": "75.52%",
       "episodes": 13,
       "rank": 10,
       "season": "TV",
@@ -215,8 +295,16 @@
   "newThisWeek": [
     {
       "mal_id": "49889",
+      "id": "49889",
       "title": "Shiguang Dailiren III",
+      "titles": {
+        "en": "Link Click Season 3",
+        "en_jp": null,
+        "ja_jp": null
+      },
       "url": "https://kitsu.io/anime/shiguang-dailiren-iii",
+      "poster": "https://media.kitsu.app/anime/49889/poster_image/large-dd622330d474dced2895fda4241d7b6b.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49889/poster_image/large-dd622330d474dced2895fda4241d7b6b.jpeg",
@@ -232,12 +320,20 @@
       "year": "2026",
       "status": "current",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "50815",
+      "id": "50815",
       "title": "You Shou Yan 6th Season",
+      "titles": {
+        "en": "Fabulous Beasts 6",
+        "en_jp": "You Shou Yan 6th Season",
+        "ja_jp": "有兽焉 第六季"
+      },
       "url": "https://kitsu.io/anime/you-shou-yan-6th-season",
+      "poster": "https://media.kitsu.app/anime/50815/poster_image/large-55127500c466dec5b2c3e6858d52d634.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50815/poster_image/large-55127500c466dec5b2c3e6858d52d634.jpeg",
@@ -253,12 +349,20 @@
       "year": "2026",
       "status": "current",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "50769",
+      "id": "50769",
       "title": "Perfect Addiction",
+      "titles": {
+        "en": null,
+        "en_jp": "Perfect Addiction",
+        "ja_jp": null
+      },
       "url": "https://kitsu.io/anime/perfect-addiction",
+      "poster": "https://media.kitsu.app/anime/50769/poster_image/large-3e3d03cd50ec761f8e24fc4e9f9b78f6.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50769/poster_image/large-3e3d03cd50ec761f8e24fc4e9f9b78f6.jpeg",
@@ -278,8 +382,16 @@
     },
     {
       "mal_id": "50878",
+      "id": "50878",
       "title": "Li Xiongmao",
+      "titles": {
+        "en": "Raised by Demons: Panda Li",
+        "en_jp": null,
+        "ja_jp": null
+      },
       "url": "https://kitsu.io/anime/li-xiongmao",
+      "poster": "https://media.kitsu.app/anime/50878/poster_image/large-35977b996084692dcc483cb829a21d1f.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50878/poster_image/large-35977b996084692dcc483cb829a21d1f.jpeg",
@@ -295,12 +407,20 @@
       "year": "2026",
       "status": "current",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "49444",
+      "id": "49444",
       "title": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+      "titles": {
+        "en": "BLEACH: Thousand-Year Blood War Part 4 - The Calamity",
+        "en_jp": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+        "ja_jp": "BLEACH 千年血戦篇-禍進譚-"
+      },
       "url": "https://kitsu.io/anime/bleach-sennen-kessen-hen-kashintan",
+      "poster": "https://media.kitsu.app/anime/49444/poster_image/large-826dac61d63459c4077fefafb4b9eaa1.jpeg",
+      "cover": "https://media.kitsu.app/anime/49444/cover_image/large-baa4b4ffbb1ada49c13b95195202c1d4.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49444/poster_image/large-826dac61d63459c4077fefafb4b9eaa1.jpeg",
@@ -320,8 +440,16 @@
     },
     {
       "mal_id": "50279",
+      "id": "50279",
       "title": "Yi Nian Yong Heng: Wanjie Ji",
+      "titles": {
+        "en": "A Will Eternal Final Season",
+        "en_jp": null,
+        "ja_jp": null
+      },
       "url": "https://kitsu.io/anime/yi-nian-yong-heng-wanjie-ji",
+      "poster": "https://media.kitsu.app/anime/50279/poster_image/large-672dd1eeb227b3156831ab35374ba36a.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50279/poster_image/large-672dd1eeb227b3156831ab35374ba36a.jpeg",
@@ -337,12 +465,20 @@
       "year": "2026",
       "status": "current",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "49265",
+      "id": "49265",
       "title": "Nige Jouzu no Wakagimi 2nd Season",
+      "titles": {
+        "en": "The Elusive Samurai Season 2",
+        "en_jp": "Nige Jouzu no Wakagimi 2nd Season",
+        "ja_jp": "逃げ上手の若君 第二期"
+      },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
+      "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260907%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260907T155903Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c79d9da02d53f9f81bd06ce179fc092d2906d85a9167feed3518683e8ea5c63f",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
@@ -362,8 +498,16 @@
     },
     {
       "mal_id": "50954",
+      "id": "50954",
       "title": "Ushiro no Shoumen Kamui-san Mini Anime Gekijou",
+      "titles": {
+        "en": null,
+        "en_jp": "Ushiro no Shoumen Kamui-san Mini Anime Gekijou",
+        "ja_jp": "うしろの正面カムイさん ミニアニメ劇場"
+      },
       "url": "https://kitsu.io/anime/ushiro-no-shoumen-kamui-san-mini-anime-gekijou",
+      "poster": "https://media.kitsu.app/anime/50954/poster_image/large-c5afc08565aaf44b5854d8351e896eed.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50954/poster_image/large-c5afc08565aaf44b5854d8351e896eed.jpeg",
@@ -379,12 +523,20 @@
       "year": "2026",
       "status": "current",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "50773",
+      "id": "50773",
       "title": "Yami Shibai 17",
+      "titles": {
+        "en": "Theatre of Darkness: Yamishibai 17",
+        "en_jp": "Yami Shibai 17",
+        "ja_jp": "闇芝居 十七期"
+      },
       "url": "https://kitsu.io/anime/yami-shibai-17",
+      "poster": "https://media.kitsu.app/anime/50773/poster_image/large-9609f5df315fc8ac740d16ac9ac6e666.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50773/poster_image/large-9609f5df315fc8ac740d16ac9ac6e666.jpeg",
@@ -404,8 +556,16 @@
     },
     {
       "mal_id": "50179",
+      "id": "50179",
       "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+      "titles": {
+        "en": null,
+        "en_jp": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+        "ja_jp": "花織さんは転生しても喧嘩がしたい"
+      },
       "url": "https://kitsu.io/anime/hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+      "poster": "https://media.kitsu.app/anime/50179/poster_image/large-1868b3657c84b05a38d1f05a25d5e680.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50179/poster_image/large-1868b3657c84b05a38d1f05a25d5e680.jpeg",
@@ -427,8 +587,16 @@
   "top": [
     {
       "mal_id": "7442",
+      "id": "7442",
       "title": "Attack on Titan",
+      "titles": {
+        "en": "Attack on Titan",
+        "en_jp": "Shingeki no Kyojin",
+        "ja_jp": "進撃の巨人"
+      },
       "url": "https://kitsu.io/anime/attack-on-titan",
+      "poster": "https://media.kitsu.app/anime/poster_images/7442/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/7442/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/7442/large.jpg",
@@ -448,8 +616,16 @@
     },
     {
       "mal_id": "11469",
+      "id": "11469",
       "title": "Boku no Hero Academia",
+      "titles": {
+        "en": "My Hero Academia",
+        "en_jp": "Boku no Hero Academia",
+        "ja_jp": "僕のヒーローアカデミア"
+      },
       "url": "https://kitsu.io/anime/boku-no-hero-academia",
+      "poster": "https://media.kitsu.app/anime/poster_images/11469/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/11469/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/11469/large.jpg",
@@ -469,8 +645,16 @@
     },
     {
       "mal_id": "12268",
+      "id": "12268",
       "title": "Boku no Hero Academia 2",
+      "titles": {
+        "en": "My Hero Academia Season 2",
+        "en_jp": "Boku no Hero Academia 2",
+        "ja_jp": "僕のヒーローアカデミア２"
+      },
       "url": "https://kitsu.io/anime/boku-no-hero-academia-2nd-season",
+      "poster": "https://media.kitsu.app/anime/poster_images/12268/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/12268/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/12268/large.jpg",
@@ -478,7 +662,7 @@
         }
       },
       "synopsis": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all around will decide who is the top Hero in training.\n\n(Source: Anime News Network)",
-      "score": "83.21%",
+      "score": "83.2%",
       "episodes": 25,
       "rank": 3,
       "season": "TV",
@@ -490,8 +674,16 @@
     },
     {
       "mal_id": "10740",
+      "id": "10740",
       "title": "One Punch Man",
+      "titles": {
+        "en": null,
+        "en_jp": "One Punch Man",
+        "ja_jp": "ワンパンマン"
+      },
       "url": "https://kitsu.io/anime/one-punch-man",
+      "poster": "https://media.kitsu.app/anime/poster_images/10740/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/10740/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/10740/large.jpg",
@@ -511,8 +703,16 @@
     },
     {
       "mal_id": "13881",
+      "id": "13881",
       "title": "Boku no Hero Academia 3",
+      "titles": {
+        "en": "My Hero Academia Season 3",
+        "en_jp": "Boku no Hero Academia 3",
+        "ja_jp": "僕のヒーローアカデミア３"
+      },
       "url": "https://kitsu.io/anime/boku-no-hero-academia-3rd-season",
+      "poster": "https://media.kitsu.app/anime/poster_images/13881/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/13881/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/13881/large.jpg",
@@ -532,8 +732,16 @@
     },
     {
       "mal_id": "1376",
+      "id": "1376",
       "title": "Death Note",
+      "titles": {
+        "en": "Death Note",
+        "en_jp": "Death Note",
+        "ja_jp": "デスノート"
+      },
       "url": "https://kitsu.io/anime/death-note",
+      "poster": "https://media.kitsu.app/anime/poster_images/1376/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/1376/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/1376/large.jpg",
@@ -553,8 +761,16 @@
     },
     {
       "mal_id": "3936",
+      "id": "3936",
       "title": "Fullmetal Alchemist: Brotherhood",
+      "titles": {
+        "en": "Fullmetal Alchemist: Brotherhood",
+        "en_jp": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+        "ja_jp": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+      },
       "url": "https://kitsu.io/anime/fullmetal-alchemist-brotherhood",
+      "poster": "https://media.kitsu.app/anime/poster_images/3936/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/3936/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/3936/large.jpg",
@@ -574,8 +790,16 @@
     },
     {
       "mal_id": "11614",
+      "id": "11614",
       "title": "Kimi no Na wa.",
+      "titles": {
+        "en": "Your Name.",
+        "en_jp": "Kimi no Na wa.",
+        "ja_jp": "君の名は。"
+      },
       "url": "https://kitsu.io/anime/kimi-no-na-wa",
+      "poster": "https://media.kitsu.app/anime/poster_images/11614/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/11614/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/11614/large.jpg",
@@ -595,8 +819,16 @@
     },
     {
       "mal_id": "6448",
+      "id": "6448",
       "title": "Hunter x Hunter (2011)",
+      "titles": {
+        "en": "Hunter x Hunter (2011)",
+        "en_jp": "Hunter x Hunter (2011)",
+        "ja_jp": "HUNTER×HUNTER ハンターハンター"
+      },
       "url": "https://kitsu.io/anime/hunter-x-hunter-2011",
+      "poster": "https://media.kitsu.app/anime/poster_images/6448/large.jpg",
+      "cover": "https://media.kitsu.app/anime/cover_images/6448/large.jpg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/6448/large.jpg",
@@ -616,8 +848,16 @@
     },
     {
       "mal_id": "41370",
+      "id": "41370",
       "title": "Kimetsu no Yaiba",
+      "titles": {
+        "en": "Demon Slayer: Kimetsu no Yaiba",
+        "en_jp": "Kimetsu no Yaiba",
+        "ja_jp": "鬼滅の刃"
+      },
       "url": "https://kitsu.io/anime/kimetsu-no-yaiba",
+      "poster": "https://media.kitsu.app/anime/poster_images/41370/large.jpg",
+      "cover": "https://media.kitsu.app/anime/41370/cover_image/large-3de3cc6d2b33162c928de10aa201e4ba.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/poster_images/41370/large.jpg",
@@ -639,8 +879,16 @@
   "upcoming": [
     {
       "mal_id": "45666",
+      "id": "45666",
       "title": "Mahoutsukai no Yoru",
+      "titles": {
+        "en": "Witch on the Holy Night",
+        "en_jp": "Mahoutsukai no Yoru",
+        "ja_jp": "魔法使いの夜"
+      },
       "url": "https://kitsu.io/anime/mahoutsukai-no-yoru",
+      "poster": "https://media.kitsu.app/anime/45666/poster_image/large-145a2514c9ecdb1b50cf7d89df36f88d.jpeg",
+      "cover": "https://media.kitsu.app/anime/45666/cover_image/large-417527d7685dba45bfa1cbe1551df19f.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/45666/poster_image/large-145a2514c9ecdb1b50cf7d89df36f88d.jpeg",
@@ -660,8 +908,16 @@
     },
     {
       "mal_id": "47017",
+      "id": "47017",
       "title": "Made in Abyss: Mezameru Shinpi",
+      "titles": {
+        "en": "Made In Abyss: Awakening Mystery",
+        "en_jp": "Made in Abyss: Mezameru Shinpi",
+        "ja_jp": "メイドインアビス 目覚める神秘"
+      },
       "url": "https://kitsu.io/anime/Made-in-Abyss-Mezameru-Shinpi",
+      "poster": "https://media.kitsu.app/anime/47017/poster_image/large-e82b48ac2bf47c53520d120eae09670a.jpeg",
+      "cover": "https://media.kitsu.app/anime/47017/cover_image/large-af5a6f3790736c2a8fc3e76c28c6fac6.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/47017/poster_image/large-e82b48ac2bf47c53520d120eae09670a.jpeg",
@@ -681,8 +937,16 @@
     },
     {
       "mal_id": "50016",
+      "id": "50016",
       "title": "Cyberpunk: Edgerunners II",
+      "titles": {
+        "en": "CYBERPUNK: EDGERUNNERS II",
+        "en_jp": "Cyberpunk: Edgerunners II",
+        "ja_jp": "サイバーパンク: エッジランナーズ II"
+      },
       "url": "https://kitsu.io/anime/Cyberpunk-Edgerunners-II",
+      "poster": "https://media.kitsu.app/anime/50016/poster_image/large-c00e4abb4e356c1259a940b3bcf99894.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50016/poster_image/large-c00e4abb4e356c1259a940b3bcf99894.jpeg",
@@ -698,12 +962,20 @@
       "year": "2026",
       "status": "upcoming",
       "hasSub": true,
-      "hasDub": false
+      "hasDub": true
     },
     {
       "mal_id": "48397",
+      "id": "48397",
       "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "titles": {
+        "en": "A Returner's Magic Should Be Special Season 2",
+        "en_jp": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+        "ja_jp": "帰還者の魔法は特別です 第2期"
+      },
       "url": "https://kitsu.io/anime/kikansha-no-mahou-wa-tokubetsu-desu-2nd-season",
+      "poster": "https://media.kitsu.app/anime/48397/poster_image/large-872f73365c8858abcec975a61bbe6d11.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/48397/poster_image/large-872f73365c8858abcec975a61bbe6d11.jpeg",
@@ -723,8 +995,16 @@
     },
     {
       "mal_id": "50024",
+      "id": "50024",
       "title": "Black Clover 2nd Season",
+      "titles": {
+        "en": "Black Clover Season 2",
+        "en_jp": "Black Clover 2nd Season",
+        "ja_jp": "ブラッククローバー 第2期"
+      },
       "url": "https://kitsu.io/anime/Black-Clover-Season-2",
+      "poster": "https://media.kitsu.app/anime/50024/poster_image/large-0afb0d5b575c5e4c5690c9016ea1233f.jpeg",
+      "cover": "https://media.kitsu.app/anime/50024/cover_image/large-62990aafd712a8c60e5f39444d5724ce.jpeg",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/50024/poster_image/large-0afb0d5b575c5e4c5690c9016ea1233f.jpeg",
@@ -744,8 +1024,16 @@
     },
     {
       "mal_id": "49752",
+      "id": "49752",
       "title": "Ao no Hako 2nd Season",
+      "titles": {
+        "en": "Blue Box Season 2",
+        "en_jp": "Ao no Hako 2nd Season",
+        "ja_jp": "アオのハコ 第2期"
+      },
       "url": "https://kitsu.io/anime/ao-no-hako-2",
+      "poster": "https://media.kitsu.app/anime/49752/poster_image/large-7cac4e9c740559275b458099b1608b12.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49752/poster_image/large-7cac4e9c740559275b458099b1608b12.jpeg",
@@ -765,8 +1053,16 @@
     },
     {
       "mal_id": "49883",
+      "id": "49883",
       "title": "Aoashi 2nd Season",
+      "titles": {
+        "en": null,
+        "en_jp": "Aoashi 2nd Season",
+        "ja_jp": "アオアシ 第2期"
+      },
       "url": "https://kitsu.io/anime/aoashi-2nd-season",
+      "poster": "https://media.kitsu.app/anime/49883/poster_image/large-d5bdc14bd1057e9ce15d4dc202c7c656.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49883/poster_image/large-d5bdc14bd1057e9ce15d4dc202c7c656.jpeg",
@@ -786,8 +1082,16 @@
     },
     {
       "mal_id": "49008",
+      "id": "49008",
       "title": "Magical Knight Rayearth (2026)",
+      "titles": {
+        "en": null,
+        "en_jp": "Magical Knight Rayearth (2026)",
+        "ja_jp": "魔法騎士レイアース (2026)"
+      },
       "url": "https://kitsu.io/anime/magical-knight-rayearth-2026",
+      "poster": "https://media.kitsu.app/anime/49008/poster_image/large-744c4394a93562c5863f0cd8d060319d.jpeg",
+      "cover": null,
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49008/poster_image/large-744c4394a93562c5863f0cd8d060319d.jpeg",
@@ -800,6 +1104,35 @@
       "rank": 8,
       "season": "TV",
       "startDate": "2026-10-07",
+      "year": "2026",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "50626",
+      "id": "50626",
+      "title": "Ranma 1/2 (2024) 3",
+      "titles": {
+        "en": "Ranma1/2 (2024) Season 3",
+        "en_jp": "Ranma 1/2 (2024) 3",
+        "ja_jp": "らんま1/2 第3期"
+      },
+      "url": "https://kitsu.io/anime/Ranma-12-2024-3",
+      "poster": "https://media.kitsu.app/anime/50626/poster_image/large-d7d98ce91ec169282830a8c3cf1a900d.jpeg",
+      "cover": "https://media.kitsu.app/anime/50626/cover_image/large-0a5164605e41805d9c841cc0a3007186.jpeg",
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50626/poster_image/large-d7d98ce91ec169282830a8c3cf1a900d.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50626/poster_image/small-6381edeeeab26ca9cc9aa7625f800ec7.jpeg"
+        }
+      },
+      "synopsis": "The third season of Ranma 1/2 (2024).",
+      "score": "N/A",
+      "episodes": null,
+      "rank": 9,
+      "season": "TV",
+      "startDate": "2026-10-03",
       "year": "2026",
       "status": "upcoming",
       "hasSub": true,
