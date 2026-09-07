@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { HashRouter, Routes, Route, NavLink, useLocation } from 'react-router-dom';
-import { Compass, Layers, Image as ImageIcon, Search, Menu, X, Sparkles, ExternalLink } from 'lucide-react';
+import { Compass, Layers, Image as ImageIcon, Search, Menu, X, Newspaper } from 'lucide-react';
 
 import Discovery from './pages/Discovery';
 import Categories from './pages/Categories';
+import News from './pages/News';
 import Entertainment from './pages/Entertainment';
 import Utility from './pages/Utility';
 
@@ -42,7 +43,7 @@ function AppContent() {
     }`;
 
   const mobileBottomTabClass = ({ isActive }) =>
-    `flex flex-col items-center justify-center py-1 px-3 rounded-lg text-xs font-medium transition-colors ${
+    `flex flex-col items-center justify-center py-1 px-2 rounded-lg text-xs font-medium transition-colors ${
       isActive
         ? 'text-indigo-400 font-semibold'
         : 'text-gray-400 hover:text-gray-200'
@@ -65,7 +66,7 @@ function AppContent() {
 
         <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          className="p-2 text-gray-300 hover:text-white bg-gray-800/80 hover:bg-gray-700 rounded-lg border border-gray-700 transition-colors"
+          className="p-2 text-gray-300 hover:text-white bg-gray-800/80 hover:bg-gray-700 rounded-lg border border-gray-700 transition-colors cursor-pointer"
           aria-label="Toggle navigation menu"
         >
           {mobileMenuOpen ? <X size={20} /> : <Menu size={20} />}
@@ -94,7 +95,7 @@ function AppContent() {
               </div>
               <button
                 onClick={() => setMobileMenuOpen(false)}
-                className="p-1.5 text-gray-400 hover:text-white rounded-lg hover:bg-gray-700"
+                className="p-1.5 text-gray-400 hover:text-white rounded-lg hover:bg-gray-700 cursor-pointer"
               >
                 <X size={20} />
               </button>
@@ -111,6 +112,11 @@ function AppContent() {
                 <span>Categories</span>
               </NavLink>
 
+              <NavLink to="/news" className={mobileDrawerLinkClass}>
+                <Newspaper className="text-rose-400" size={20} />
+                <span>Daily News</span>
+              </NavLink>
+
               <NavLink to="/fun" className={mobileDrawerLinkClass}>
                 <ImageIcon className="text-pink-400" size={20} />
                 <span>Entertainment</span>
@@ -124,7 +130,7 @@ function AppContent() {
 
             <div className="mt-auto pt-6 border-t border-gray-700 text-xs text-gray-400 text-center">
               <p className="font-medium text-gray-300">AnimeHub Mobile</p>
-              <p className="mt-1">Auto-updated weekly via GitHub Actions</p>
+              <p className="mt-1">News updated daily • Catalog weekly</p>
             </div>
           </aside>
         </div>
@@ -152,6 +158,11 @@ function AppContent() {
             <span>Categories</span>
           </NavLink>
 
+          <NavLink to="/news" className={desktopNavLinkClass}>
+            <Newspaper className="text-rose-400" size={20} />
+            <span>Daily News</span>
+          </NavLink>
+
           <NavLink to="/fun" className={desktopNavLinkClass}>
             <ImageIcon className="text-pink-400" size={20} />
             <span>Entertainment</span>
@@ -164,7 +175,11 @@ function AppContent() {
         </div>
         
         <div className="mt-auto pt-6 border-t border-gray-700 text-xs text-gray-400 text-center">
-          Updated Weekly via GitHub Actions
+          <div className="flex items-center justify-center gap-1.5 text-rose-400 mb-1">
+            <span className="w-2 h-2 rounded-full bg-rose-500 animate-pulse"></span>
+            <span>News Updated Daily</span>
+          </div>
+          Catalog Updated Weekly
         </div>
       </nav>
 
@@ -180,6 +195,7 @@ function AppContent() {
           <Routes>
             <Route path="/" element={<Discovery />} />
             <Route path="/categories" element={<Categories />} />
+            <Route path="/news" element={<News />} />
             <Route path="/fun" element={<Entertainment />} />
             <Route path="/tools" element={<Utility />} />
           </Routes>
@@ -187,12 +203,12 @@ function AppContent() {
       </main>
 
       {/* Mobile Bottom Tab Bar (App-style navigation for thumb access) */}
-      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-gray-900/95 backdrop-blur-lg border-t border-gray-800 px-2 py-2 flex justify-around items-center shadow-2xl">
+      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-gray-900/95 backdrop-blur-lg border-t border-gray-800 px-1 py-2 flex justify-around items-center shadow-2xl">
         <NavLink to="/" className={mobileBottomTabClass}>
           {({ isActive }) => (
             <>
               <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
-                <Compass size={20} className={isActive ? 'text-indigo-400' : 'text-gray-400'} />
+                <Compass size={19} className={isActive ? 'text-indigo-400' : 'text-gray-400'} />
               </div>
               <span className="text-[10px] mt-0.5">Discovery</span>
             </>
@@ -203,9 +219,20 @@ function AppContent() {
           {({ isActive }) => (
             <>
               <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
-                <Layers size={20} className={isActive ? 'text-amber-400' : 'text-gray-400'} />
+                <Layers size={19} className={isActive ? 'text-amber-400' : 'text-gray-400'} />
               </div>
               <span className="text-[10px] mt-0.5">Categories</span>
+            </>
+          )}
+        </NavLink>
+
+        <NavLink to="/news" className={mobileBottomTabClass}>
+          {({ isActive }) => (
+            <>
+              <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
+                <Newspaper size={19} className={isActive ? 'text-rose-400' : 'text-gray-400'} />
+              </div>
+              <span className="text-[10px] mt-0.5">News</span>
             </>
           )}
         </NavLink>
@@ -214,7 +241,7 @@ function AppContent() {
           {({ isActive }) => (
             <>
               <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
-                <ImageIcon size={20} className={isActive ? 'text-pink-400' : 'text-gray-400'} />
+                <ImageIcon size={19} className={isActive ? 'text-pink-400' : 'text-gray-400'} />
               </div>
               <span className="text-[10px] mt-0.5">Fun</span>
             </>
@@ -225,7 +252,7 @@ function AppContent() {
           {({ isActive }) => (
             <>
               <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
-                <Search size={20} className={isActive ? 'text-green-400' : 'text-gray-400'} />
+                <Search size={19} className={isActive ? 'text-green-400' : 'text-gray-400'} />
               </div>
               <span className="text-[10px] mt-0.5">Search</span>
             </>

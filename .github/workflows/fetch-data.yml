@@ -1,9 +1,9 @@
-name: Fetch Anime Data
+name: Fetch Anime Data & Daily News
 
 on:
   schedule:
-    # Run once a week on Sunday at midnight UTC
-    - cron: '0 0 * * 0'
+    # Run daily at 06:00 UTC
+    - cron: '0 6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -24,12 +24,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
         
-      - name: Fetch Data
+      - name: Fetch Data & News
         run: node scripts/fetch-data.js
         
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(data): weekly automated discovery & categories data update"
-          file_pattern: "public/data/*.json src/data/categoryFallbackData.js"
+          commit_message: "chore(data): daily automated news, discovery & categories update"
+          file_pattern: "public/data/*.json src/data/categoryFallbackData.js src/data/newsFallbackData.js"
           branch: main

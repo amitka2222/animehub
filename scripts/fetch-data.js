@@ -231,11 +231,14 @@ async function fetchCategoriesData() {
   console.log(`Saved fallback JS to ${fallbackPath}`);
 }
 
+import { fetchAnimeNews } from './fetch-news.js';
+
 async function run() {
   try {
     await fetchDiscoveryData();
     await fetchCategoriesData();
-    console.log('All anime data updated successfully!');
+    await fetchAnimeNews();
+    console.log('All anime data and daily news updated successfully!');
   } catch (error) {
     console.error('Data update encountered an error:', error);
     process.exit(1);
