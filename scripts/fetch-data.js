@@ -28,33 +28,84 @@ async function fetchDiscoveryData() {
   console.log('Fetching anime discovery data from Kitsu API...');
   
   try {
-    // Kitsu API as Jikan seems to be having upstream connection issues to MAL
-    const topAnimeReq = await fetchJson('https://kitsu.io/api/edge/anime?sort=-userCount&page[limit]=10');
-    await delay(1000);
+    // 1. Top Airing Anime This Week
+    console.log('Fetching top airing anime this week...');
+    const topWeeklyReq = await fetchJson('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=current&sort=-userCount&page%5Blimit%5D=10');
+    await delay(500);
+
+    // 2. New Anime Releases This Week
+    console.log('Fetching new anime releases this week...');
+    const newWeeklyReq = await fetchJson('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=current&sort=-startDate&page%5Blimit%5D=20');
+    await delay(500);
+
+    // 3. All-time Top Anime
+    console.log('Fetching all-time top anime...');
+    const topAnimeReq = await fetchJson('https://kitsu.io/api/edge/anime?sort=-userCount&page%5Blimit%5D=10');
+    await delay(500);
     
-    const upcomingAnimeReq = await fetchJson('https://kitsu.io/api/edge/anime?filter[status]=upcoming&sort=-userCount&page[limit]=10');
+    // 4. Upcoming Anime
+    console.log('Fetching upcoming anime...');
+    const upcomingAnimeReq = await fetchJson('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=upcoming&sort=-userCount&page%5Blimit%5D=10');
     
-    const formatKitsuData = (item) => ({
-      mal_id: item.id, // we'll just use the kitsu ID 
-      title: item.attributes.canonicalTitle,
+    const formatKitsuData = (item, index) => ({
+      mal_id: item.id,
+      title: item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title',
       url: `https://kitsu.io/anime/${item.attributes.slug}`,
-      images: { webp: { large_image_url: item.attributes.posterImage?.large, image_url: item.attributes.posterImage?.small } },
-      synopsis: item.attributes.synopsis,
-      score: item.attributes.averageRating,
+      images: { 
+        webp: { 
+          large_image_url: item.attributes.posterImage?.large || item.attributes.posterImage?.original || item.attributes.coverImage?.large, 
+          image_url: item.attributes.posterImage?.small || item.attributes.posterImage?.medium 
+        } 
+      },
+      synopsis: item.attributes.synopsis || 'No synopsis available.',
+      score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
       episodes: item.attributes.episodeCount,
-      rank: item.attributes.ratingRank,
-      season: item.attributes.subtype,
-      year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA'
+      rank: index !== undefined ? index + 1 : (item.attributes.ratingRank || 'N/A'),
+      season: item.attributes.subtype || 'TV',
+      startDate: item.attributes.startDate,
+      year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
+      status: item.attributes.status
     });
 
-    const top = topAnimeReq.data ? topAnimeReq.data.map(formatKitsuData) : [];
-    const upcoming = upcomingAnimeReq.data ? upcomingAnimeReq.data.map(formatKitsuData) : [];
+    const isValidPoster = (item) => {
+      const url = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
+      return url && !url.includes('Expires=');
+    };
+
+    const topWeekly = topWeeklyReq.data 
+      ? topWeeklyReq.data
+          .filter(isValidPoster)
+          .slice(0, 10)
+          .map((item, idx) => formatKitsuData(item, idx)) 
+      : [];
+
+    const newThisWeek = newWeeklyReq.data 
+      ? newWeeklyReq.data
+          .filter(isValidPoster)
+          .slice(0, 10)
+          .map((item, idx) => formatKitsuData(item, idx))
+      : [];
+
+    const top = topAnimeReq.data 
+      ? topAnimeReq.data
+          .filter(isValidPoster)
+          .slice(0, 10)
+          .map((item, idx) => formatKitsuData(item, idx)) 
+      : [];
+
+    const upcoming = upcomingAnimeReq.data 
+      ? upcomingAnimeReq.data
+          .filter(isValidPoster)
+          .slice(0, 10)
+          .map((item, idx) => formatKitsuData(item, idx)) 
+      : [];
 
     const discoveryData = {
       lastUpdated: new Date().toISOString(),
+      topWeekly,
+      newThisWeek,
       top,
-      upcoming,
-      news: [] // Kitsu doesn't have a simple news endpoint, we'll leave it empty for now
+      upcoming
     };
 
     const outputPath = path.join(__dirname, '..', 'public', 'data', 'discovery.json');
