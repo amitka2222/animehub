@@ -1,6 +1,10 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import { Link } from 'react-router-dom';
 import { formatDistanceToNow } from 'date-fns';
-import { Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, Search, Tv, Headphones, MessageSquare, X } from 'lucide-react';
+import { 
+  Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, 
+  Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap
+} from 'lucide-react';
 import { checkHasDub } from '../utils/animeUtils';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
@@ -61,18 +65,59 @@ const Discovery = () => {
     return (
       <div className="h-full min-h-[400px] flex flex-col items-center justify-center space-y-4">
         <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-indigo-500"></div>
-        <p className="text-sm text-gray-400">Loading anime discovery catalog...</p>
+        <p className="text-sm text-gray-400">Loading anime catalog...</p>
       </div>
     );
   }
 
   return (
     <div className="space-y-6 sm:space-y-8">
-      {/* Header */}
-      <header className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-3 border-b border-gray-800 pb-4 sm:pb-6">
+      {/* Homepage Welcome Hero Banner */}
+      <div className="relative overflow-hidden bg-gradient-to-r from-indigo-900/60 via-purple-900/40 to-gray-850 rounded-2xl sm:rounded-3xl border border-indigo-500/30 p-5 sm:p-7 shadow-xl">
+        <div className="relative z-10 max-w-2xl">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-500/20 text-indigo-300 text-[11px] sm:text-xs font-semibold border border-indigo-500/30 mb-2.5">
+            <Sparkles size={13} className="text-indigo-400" />
+            <span>Welcome to AnimeHub</span>
+          </div>
+
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight leading-tight mb-2">
+            Your Central Portal for <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-300 to-pink-400">Anime & News</span>
+          </h1>
+
+          <p className="text-xs sm:text-sm text-gray-300 mb-4 sm:mb-5 leading-relaxed">
+            Discover weekly top trending anime, fresh releases, explore 12 genre categories, and stay informed with daily RSS news.
+          </p>
+
+          <div className="flex flex-wrap gap-2.5">
+            <Link
+              to="/categories"
+              className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold rounded-xl shadow-lg shadow-indigo-600/30 transition-all cursor-pointer"
+            >
+              <Layers size={14} />
+              <span>Explore Categories</span>
+              <ChevronRight size={13} />
+            </Link>
+
+            <Link
+              to="/news"
+              className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-gray-800 hover:bg-gray-700 text-gray-200 hover:text-white text-xs font-semibold rounded-xl border border-gray-700 transition-all cursor-pointer"
+            >
+              <Newspaper size={14} className="text-rose-400" />
+              <span>Daily News Feed</span>
+              <ChevronRight size={13} />
+            </Link>
+          </div>
+        </div>
+
+        {/* Decorative corner accent */}
+        <div className="absolute -right-6 -bottom-6 w-44 h-44 bg-indigo-500/10 rounded-full blur-2xl pointer-events-none" />
+      </div>
+
+      {/* Header and Last Updated Status */}
+      <header className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-3 border-b border-gray-800 pb-3 sm:pb-4">
         <div>
-          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-1.5 flex items-center gap-2">
-            Anime Discovery
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-1 flex items-center gap-2">
+            Discovery & Rankings
           </h2>
           <p className="text-xs sm:text-sm text-gray-400">
             Top airing shows this week, new releases, and community favorites.

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { HashRouter, Routes, Route, NavLink, useLocation } from 'react-router-dom';
-import { Compass, Layers, Image as ImageIcon, Search, Menu, X, Newspaper } from 'lucide-react';
+import { HashRouter, Routes, Route, NavLink, Link, useLocation } from 'react-router-dom';
+import { Home, Compass, Layers, Image as ImageIcon, Search, Menu, X, Newspaper } from 'lucide-react';
 
 import Discovery from './pages/Discovery';
 import Categories from './pages/Categories';
@@ -55,14 +55,14 @@ function AppContent() {
 
       {/* Mobile Top App Header */}
       <header className="sticky top-0 z-30 flex items-center justify-between px-4 py-3 bg-gray-900/95 backdrop-blur-md border-b border-gray-800 md:hidden">
-        <div className="flex items-center space-x-2.5">
-          <div className="w-8 h-8 bg-indigo-500 rounded-full flex items-center justify-center shadow-md shadow-indigo-500/40">
+        <Link to="/" className="flex items-center space-x-2.5 cursor-pointer group">
+          <div className="w-8 h-8 bg-indigo-500 group-hover:scale-105 transition-transform rounded-full flex items-center justify-center shadow-md shadow-indigo-500/40">
             <span className="font-bold text-sm">A</span>
           </div>
-          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
+          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 group-hover:opacity-90 transition-opacity">
             AnimeHub
           </span>
-        </div>
+        </Link>
 
         <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -85,14 +85,18 @@ function AppContent() {
           {/* Drawer Content */}
           <aside className="relative w-4/5 max-w-xs bg-gray-800 border-r border-gray-700 p-6 flex flex-col h-full z-10 shadow-2xl animate-in slide-in-from-left duration-200">
             <div className="flex items-center justify-between mb-8">
-              <div className="flex items-center space-x-3">
-                <div className="w-9 h-9 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-500/40">
+              <Link 
+                to="/" 
+                onClick={() => setMobileMenuOpen(false)} 
+                className="flex items-center space-x-3 cursor-pointer group"
+              >
+                <div className="w-9 h-9 bg-indigo-500 group-hover:scale-105 transition-transform rounded-full flex items-center justify-center shadow-lg shadow-indigo-500/40">
                   <span className="font-bold text-base">A</span>
                 </div>
                 <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
                   AnimeHub
                 </h1>
-              </div>
+              </Link>
               <button
                 onClick={() => setMobileMenuOpen(false)}
                 className="p-1.5 text-gray-400 hover:text-white rounded-lg hover:bg-gray-700 cursor-pointer"
@@ -103,8 +107,8 @@ function AppContent() {
 
             <nav className="space-y-2 flex-grow">
               <NavLink to="/" className={mobileDrawerLinkClass}>
-                <Compass className="text-indigo-400" size={20} />
-                <span>Discovery</span>
+                <Home className="text-indigo-400" size={20} />
+                <span>Home</span>
               </NavLink>
 
               <NavLink to="/categories" className={mobileDrawerLinkClass}>
@@ -138,19 +142,23 @@ function AppContent() {
 
       {/* Desktop Sidebar Navigation */}
       <nav className="hidden md:flex md:w-64 bg-gray-800 p-6 flex-col h-full border-r border-gray-700 shadow-xl z-10 shrink-0">
-        <div className="flex items-center space-x-3 mb-10">
-          <div className="w-10 h-10 bg-indigo-500 rounded-full flex items-center justify-center shadow-lg shadow-indigo-500/40">
+        <Link 
+          to="/" 
+          className="flex items-center space-x-3 mb-10 group cursor-pointer"
+          title="Go to AnimeHub Homepage"
+        >
+          <div className="w-10 h-10 bg-indigo-500 group-hover:scale-105 transition-transform rounded-full flex items-center justify-center shadow-lg shadow-indigo-500/40">
             <span className="font-bold text-xl">A</span>
           </div>
-          <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
+          <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 group-hover:opacity-90 transition-opacity">
             AnimeHub
           </h1>
-        </div>
+        </Link>
         
         <div className="space-y-2 flex-grow">
           <NavLink to="/" className={desktopNavLinkClass}>
-            <Compass className="text-indigo-400" size={20} />
-            <span>Discovery</span>
+            <Home className="text-indigo-400" size={20} />
+            <span>Home</span>
           </NavLink>
           
           <NavLink to="/categories" className={desktopNavLinkClass}>
@@ -202,15 +210,15 @@ function AppContent() {
         </div>
       </main>
 
-      {/* Mobile Bottom Tab Bar (App-style navigation for thumb access) */}
+      {/* Mobile Bottom Tab Bar */}
       <nav className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-gray-900/95 backdrop-blur-lg border-t border-gray-800 px-1 py-2 flex justify-around items-center shadow-2xl">
         <NavLink to="/" className={mobileBottomTabClass}>
           {({ isActive }) => (
             <>
               <div className={`p-1 rounded-full transition-transform ${isActive ? 'scale-110' : ''}`}>
-                <Compass size={19} className={isActive ? 'text-indigo-400' : 'text-gray-400'} />
+                <Home size={19} className={isActive ? 'text-indigo-400' : 'text-gray-400'} />
               </div>
-              <span className="text-[10px] mt-0.5">Discovery</span>
+              <span className="text-[10px] mt-0.5">Home</span>
             </>
           )}
         </NavLink>
