@@ -1,11 +1,10 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import axios from 'axios';
 import { 
   Flame, Heart, Sparkles, Trophy, Rocket, Coffee, Ghost, 
   Smile, Zap, Compass, Search, Star, ExternalLink, Filter, 
-  ArrowUpDown, Layers, Film, Headphones, MessageSquare
+  ArrowUpDown, Layers, Film, Headphones, MessageSquare, X
 } from 'lucide-react';
-import { checkHasDub } from '../utils/animeUtils';
+import { INITIAL_CATEGORY_DATA } from '../data/categoryFallbackData';
 
 const CATEGORIES = [
   { id: 'action', name: 'Action', icon: Flame, color: 'from-orange-500 to-amber-600', activeBorder: 'border-orange-500' },
@@ -34,82 +33,69 @@ const Categories = () => {
   const [selectedCategory, setSelectedCategory] = useState('action');
   const [sortBy, setSortBy] = useState('-userCount');
   const [audioFilter, setAudioFilter] = useState('all'); // 'all', 'dub', 'sub'
-  const [animeList, setAnimeList] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
-  const [cache, setCache] = useState({});
+  const [categoryDataMap, setCategoryDataMap] = useState(INITIAL_CATEGORY_DATA);
 
   const activeCategoryObj = CATEGORIES.find(c => c.id === selectedCategory) || CATEGORIES[0];
 
+  // Fetch updated categories.json in background if available
   useEffect(() => {
-    const cacheKey = `${selectedCategory}_${sortBy}`;
-    if (cache[cacheKey]) {
-      setAnimeList(cache[cacheKey]);
-      setLoading(false);
-      return;
-    }
-
-    setLoading(true);
-    const categorySlug = selectedCategory;
-
-    axios.get(`https://kitsu.io/api/edge/anime?filter%5Bcategories%5D=${categorySlug}&sort=${sortBy}&page%5Blimit%5D=15`, {
-      timeout: 8000
-    })
+    fetch(`${import.meta.env.BASE_URL}data/categories.json`)
       .then(res => {
-        const items = res.data?.data || [];
-        const formatted = items
-          .filter(item => {
-            const img = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
-            return img && !img.includes('Expires=');
-          })
-          .map((item, idx) => {
-            const title = item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title';
-            const season = item.attributes.subtype || 'TV';
-            const hasDub = checkHasDub({
-              title,
-              season,
-              rank: idx + 1,
-              hasDub: item.attributes.userCount > 1000
-            });
-
-            return {
-              id: item.id,
-              title,
-              url: `https://kitsu.io/anime/${item.attributes.slug}`,
-              poster: item.attributes.posterImage?.large || item.attributes.posterImage?.original || FALLBACK_POSTER,
-              synopsis: item.attributes.synopsis || 'No synopsis available.',
-              score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
-              episodes: item.attributes.episodeCount,
-              season,
-              year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
-              rank: idx + 1,
-              hasSub: true,
-              hasDub
-            };
-          });
-
-        setAnimeList(formatted);
-        setCache(prev => ({ ...prev, [cacheKey]: formatted }));
-        setLoading(false);
+        if (!res.ok) throw new Error('Network response was not ok');
+        return res.json();
+      })
+      .then(json => {
+        if (json && Object.keys(json).length > 0) {
+          setCategoryDataMap(prev => ({ ...prev, ...json }));
+        }
       })
       .catch(err => {
-        console.error('Failed to load category anime:', err);
-        setLoading(false);
+        // Silently use bundled INITIAL_CATEGORY_DATA
+        console.warn('Using bundled initial categories data:', err.message);
       });
-  }, [selectedCategory, sortBy]);
+  }, []);
 
   const filteredAnime = useMemo(() => {
-    let result = animeList;
-    if (audioFilter === 'dub') {
-      result = result.filter(anime => anime.hasDub);
+    const rawList = categoryDataMap[selectedCategory] || INITIAL_CATEGORY_DATA[selectedCategory] || [];
+    let list = [...rawList];
+
+    // Sort
+    if (sortBy === '-averageRating') {
+      list.sort((a, b) => {
+        const scoreA = parseFloat(a.score) || 0;
+        const scoreB = parseFloat(b.score) || 0;
+        return scoreB - scoreA;
+      });
+    } else if (sortBy === '-startDate') {
+      list.sort((a, b) => {
+        const yearA = parseInt(a.year, 10) || 0;
+        const yearB = parseInt(b.year, 10) || 0;
+        return yearB - yearA;
+      });
+    } else {
+      // Default: Most Popular / Rank
+      list.sort((a, b) => (a.rank || 99) - (b.rank || 99));
     }
-    if (!searchQuery.trim()) return result;
-    const q = searchQuery.toLowerCase();
-    return result.filter(anime => 
-      anime.title.toLowerCase().includes(q) ||
-      anime.synopsis.toLowerCase().includes(q)
-    );
-  }, [animeList, searchQuery, audioFilter]);
+
+    // Audio filter
+    if (audioFilter === 'dub') {
+      list = list.filter(anime => anime.hasDub);
+    } else if (audioFilter === 'sub') {
+      list = list.filter(anime => anime.hasSub);
+    }
+
+    // Search query filter
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase();
+      list = list.filter(anime => 
+        (anime.title && anime.title.toLowerCase().includes(q)) ||
+        (anime.synopsis && anime.synopsis.toLowerCase().includes(q))
+      );
+    }
+
+    return list;
+  }, [categoryDataMap, selectedCategory, sortBy, audioFilter, searchQuery]);
 
   return (
     <div className="space-y-8">
@@ -122,7 +108,7 @@ const Categories = () => {
           <h2 className="text-3xl font-bold text-white">Browse by Category</h2>
         </div>
         <p className="text-gray-400">
-          Discover anime across genres — from high-octane Action to heartfelt Romance and thrilling Sci-Fi.
+          Explore curated top anime across 12 popular genres — from intense Action to heartfelt Romance.
         </p>
       </header>
 
@@ -152,7 +138,7 @@ const Categories = () => {
       </div>
 
       {/* Active Category Controls: Sort, Audio & Search */}
-      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-gray-800/60 p-4 rounded-2xl border border-gray-700/60">
+      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-gray-800/60 p-4 rounded-2xl border border-gray-700/60 shadow-lg">
         <div className="flex flex-wrap items-center gap-4">
           {/* Sort By */}
           <div className="flex items-center space-x-2">
@@ -164,9 +150,9 @@ const Categories = () => {
                 <button
                   key={opt.id}
                   onClick={() => setSortBy(opt.id)}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                  className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all cursor-pointer ${
                     sortBy === opt.id
-                      ? 'bg-indigo-600 text-white shadow'
+                      ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/30'
                       : 'bg-gray-700/70 text-gray-300 hover:bg-gray-700'
                   }`}
                 >
@@ -213,37 +199,48 @@ const Categories = () => {
           </div>
         </div>
 
-        <div className="relative min-w-[220px]">
+        {/* Search */}
+        <div className="relative min-w-[240px]">
           <Search size={15} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
           <input
             type="text"
             placeholder={`Search in ${activeCategoryObj.name}...`}
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-gray-900/80 border border-gray-700 rounded-xl pl-8 pr-3 py-1.5 text-xs text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
+            className="w-full bg-gray-900/80 border border-gray-700 rounded-xl pl-8 pr-8 py-1.5 text-xs text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
           />
+          {searchQuery && (
+            <button 
+              onClick={() => setSearchQuery('')}
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-white cursor-pointer"
+            >
+              <X size={14} />
+            </button>
+          )}
         </div>
       </div>
 
-      {/* Anime Grid */}
+      {/* Anime Grid Section */}
       <section>
         <div className="flex items-center justify-between mb-6">
           <h3 className="text-xl font-bold text-white flex items-center space-x-2">
             <span>{activeCategoryObj.name} Anime</span>
-            <span className="text-xs bg-indigo-500/20 text-indigo-300 px-2.5 py-0.5 rounded-full border border-indigo-500/30">
+            <span className="text-xs bg-indigo-500/20 text-indigo-300 px-2.5 py-0.5 rounded-full border border-indigo-500/30 font-medium">
               {filteredAnime.length} Titles
             </span>
           </h3>
         </div>
 
-        {loading ? (
-          <div className="py-24 flex flex-col items-center justify-center space-y-3">
-            <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-indigo-500"></div>
-            <p className="text-sm text-gray-400">Fetching {activeCategoryObj.name} anime...</p>
-          </div>
-        ) : filteredAnime.length === 0 ? (
-          <div className="py-16 text-center text-gray-500 bg-gray-800/40 rounded-2xl border border-gray-800">
-            No anime found matching your search and audio filter.
+        {filteredAnime.length === 0 ? (
+          <div className="py-16 text-center bg-gray-800/40 rounded-2xl border border-gray-700/60 p-8">
+            <p className="text-gray-300 font-medium mb-2">No anime matched your current filter.</p>
+            <p className="text-gray-500 text-sm mb-4">Try clearing the search query or setting audio to "All Audio".</p>
+            <button
+              onClick={() => { setSearchQuery(''); setAudioFilter('all'); }}
+              className="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold rounded-lg transition-colors cursor-pointer"
+            >
+              Reset Filters
+            </button>
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
@@ -253,7 +250,7 @@ const Categories = () => {
                 href={anime.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all group cursor-pointer flex flex-col"
+                className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col"
               >
                 <div className="relative h-64 overflow-hidden bg-gray-900">
                   <img
@@ -290,7 +287,7 @@ const Categories = () => {
                     <h4 className="font-bold text-gray-100 line-clamp-2 mb-1.5 group-hover:text-indigo-300 transition-colors">
                       {anime.title}
                     </h4>
-                    <p className="text-xs text-gray-400 line-clamp-3">
+                    <p className="text-xs text-gray-400 line-clamp-3 leading-relaxed">
                       {anime.synopsis}
                     </p>
                   </div>

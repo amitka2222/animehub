@@ -99,80 +99,7 @@ function checkHasDub(anime) {
   return (anime.rank || 99) <= 8;
 }
 
-const isValidPoster = (item) => {
-  const url = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
-  return url && !url.includes('Expires=');
-};
-
-const formatKitsuData = (item, index) => ({
-  mal_id: item.id,
-  title: item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title',
-  url: `https://kitsu.io/anime/${item.attributes.slug}`,
-  images: { 
-    webp: { 
-      large_image_url: item.attributes.posterImage?.large || item.attributes.posterImage?.original || item.attributes.coverImage?.large, 
-      image_url: item.attributes.posterImage?.small || item.attributes.posterImage?.medium 
-    } 
-  },
-  synopsis: item.attributes.synopsis || 'No synopsis available.',
-  score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
-  episodes: item.attributes.episodeCount,
-  rank: index !== undefined ? index + 1 : (item.attributes.ratingRank || 'N/A'),
-  season: item.attributes.subtype || 'TV',
-  startDate: item.attributes.startDate,
-  year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
-  status: item.attributes.status,
-  hasSub: true,
-  hasDub: checkHasDub({
-    title: item.attributes.canonicalTitle || item.attributes.titles?.en || '',
-    season: item.attributes.subtype || 'TV',
-    userCount: item.attributes.userCount,
-    rank: index !== undefined ? index + 1 : 99
-  })
-});
-
-async function fetchDiscoveryData() {
-  console.log('Fetching anime discovery data from Kitsu API...');
-  
-  // 1. Top Airing Anime This Week
-  console.log('Fetching top airing anime this week...');
-  const topWeeklyReq = await fetchWithRetry('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=current&sort=-userCount&page%5Blimit%5D=12');
-  await delay(400);
-
-  // 2. New Anime Releases This Week
-  console.log('Fetching new anime releases this week...');
-  const newWeeklyReq = await fetchWithRetry('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=current&sort=-startDate&page%5Blimit%5D=20');
-  await delay(400);
-
-  // 3. All-time Top Anime
-  console.log('Fetching all-time top anime...');
-  const topAnimeReq = await fetchWithRetry('https://kitsu.io/api/edge/anime?sort=-userCount&page%5Blimit%5D=12');
-  await delay(400);
-  
-  // 4. Upcoming Anime
-  console.log('Fetching upcoming anime...');
-  const upcomingAnimeReq = await fetchWithRetry('https://kitsu.io/api/edge/anime?filter%5Bstatus%5D=upcoming&sort=-userCount&page%5Blimit%5D=12');
-
-  const topWeekly = (topWeeklyReq.data || []).filter(isValidPoster).slice(0, 10).map((item, idx) => formatKitsuData(item, idx));
-  const newThisWeek = (newWeeklyReq.data || []).filter(isValidPoster).slice(0, 10).map((item, idx) => formatKitsuData(item, idx));
-  const top = (topAnimeReq.data || []).filter(isValidPoster).slice(0, 10).map((item, idx) => formatKitsuData(item, idx));
-  const upcoming = (upcomingAnimeReq.data || []).filter(isValidPoster).slice(0, 10).map((item, idx) => formatKitsuData(item, idx));
-
-  const discoveryData = {
-    lastUpdated: new Date().toISOString(),
-    topWeekly,
-    newThisWeek,
-    top,
-    upcoming
-  };
-
-  const outputPath = path.join(__dirname, '..', 'public', 'data', 'discovery.json');
-  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(discoveryData, null, 2));
-  console.log(`Successfully saved discovery data to ${outputPath}`);
-}
-
-async function fetchCategoriesData() {
+async function fetchCategories() {
   console.log('Fetching top anime for all 12 categories...');
   const categoryData = {};
 
@@ -183,7 +110,10 @@ async function fetchCategoriesData() {
       const res = await fetchWithRetry(url, 3, 15000);
       const items = res?.data || [];
       const formatted = items
-        .filter(isValidPoster)
+        .filter(item => {
+          const img = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
+          return img && !img.includes('Expires=');
+        })
         .slice(0, 14)
         .map((item, idx) => {
           const title = item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title';
@@ -213,7 +143,7 @@ async function fetchCategoriesData() {
 
       categoryData[cat] = formatted;
       console.log(`✓ ${cat}: ${formatted.length} titles`);
-      await delay(350);
+      await delay(400);
     } catch (err) {
       console.error(`✗ Failed to fetch category ${cat}:`, err.message);
       categoryData[cat] = [];
@@ -231,15 +161,4 @@ async function fetchCategoriesData() {
   console.log(`Saved fallback JS to ${fallbackPath}`);
 }
 
-async function run() {
-  try {
-    await fetchDiscoveryData();
-    await fetchCategoriesData();
-    console.log('All anime data updated successfully!');
-  } catch (error) {
-    console.error('Data update encountered an error:', error);
-    process.exit(1);
-  }
-}
-
-run();
+fetchCategories();

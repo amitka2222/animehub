@@ -2,9 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AnimeHub</title>
+    <script>
+      // Single Page App redirect: route /animehub/categories -> /animehub/#/categories
+      (function() {
+        var path = window.location.pathname;
+        var base = '/animehub/';
+        if (path.startsWith(base) && path.length > base.length) {
+          var sub = path.slice(base.length);
+          if (!sub.startsWith('#') && !sub.includes('.')) {
+            window.location.replace(base + '#/' + sub + window.location.search);
+          }
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

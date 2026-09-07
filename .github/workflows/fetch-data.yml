@@ -30,6 +30,6 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(data): weekly automated discovery data update"
-          file_pattern: "public/data/discovery.json"
+          commit_message: "chore(data): weekly automated discovery & categories data update"
+          file_pattern: "public/data/*.json src/data/categoryFallbackData.js"
           branch: main
