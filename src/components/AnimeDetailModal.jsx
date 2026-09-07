@@ -1,8 +1,9 @@
 import React, { useEffect } from 'react';
 import { 
   X, Star, Calendar, Film, Headphones, MessageSquare, 
-  ExternalLink, Clock, Tag, Award, Info, Sparkles 
+  ExternalLink, Clock, Tag, Award, Info, Sparkles, Tv, PlayCircle, Globe
 } from 'lucide-react';
+import { getDualTitles, getStreamingPlatforms } from '../utils/animeUtils';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
 
@@ -24,14 +25,21 @@ const AnimeDetailModal = ({ anime, onClose }) => {
 
   const poster = anime.poster || anime.images?.webp?.large_image_url || anime.images?.webp?.image_url || FALLBACK_POSTER;
   const score = anime.score || (anime.averageRating ? `${anime.averageRating}%` : 'N/A');
-  const title = anime.title || 'Anime Title';
-  const enTitle = anime.titles?.en && anime.titles?.en !== title ? anime.titles.en : null;
-  const jpTitle = anime.titles?.ja_jp || anime.titles?.en_jp || null;
+  
+  // Extract dual titles
+  const { primaryTitle, englishTitle, romajiTitle, japaneseTitle } = getDualTitles(anime);
+  const displayTitle = anime.title || primaryTitle;
+  
   const synopsis = anime.synopsis || 'No synopsis available for this anime.';
   const episodes = anime.episodes ? `${anime.episodes} Episodes` : 'Ongoing';
   const format = anime.season || 'TV Series';
   const year = anime.year || (anime.startDate ? anime.startDate.substring(0, 4) : 'TBA');
   const status = anime.status === 'current' ? 'Currently Airing' : anime.status === 'upcoming' ? 'Coming Soon' : 'Finished Airing';
+
+  // Get prioritized streaming platforms (Crunchyroll prioritized)
+  const streamingPlatforms = getStreamingPlatforms(anime);
+  const crunchyroll = streamingPlatforms.find(p => p.id === 'crunchyroll');
+  const otherPlatforms = streamingPlatforms.filter(p => p.id !== 'crunchyroll');
 
   return (
     <div 
@@ -47,7 +55,7 @@ const AnimeDetailModal = ({ anime, onClose }) => {
           {anime.cover ? (
             <img 
               src={anime.cover} 
-              alt={title} 
+              alt={displayTitle} 
               className="w-full h-full object-cover opacity-60"
             />
           ) : (
@@ -69,7 +77,7 @@ const AnimeDetailModal = ({ anime, onClose }) => {
             <div className="w-24 sm:w-32 h-36 sm:h-48 rounded-xl overflow-hidden shadow-2xl border-2 border-gray-700 shrink-0 bg-gray-950">
               <img 
                 src={poster} 
-                alt={title} 
+                alt={displayTitle} 
                 className="w-full h-full object-cover"
                 onError={(e) => {
                   e.currentTarget.onerror = null;
@@ -94,7 +102,7 @@ const AnimeDetailModal = ({ anime, onClose }) => {
 
         {/* Scrollable Content Body */}
         <div className="flex-1 overflow-y-auto p-4 sm:p-6 pt-8 sm:pt-10 space-y-5">
-          {/* Titles & Metadata */}
+          {/* Titles & Dual-Language Names */}
           <div>
             <div className="sm:hidden mb-2">
               <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full border ${
@@ -108,16 +116,34 @@ const AnimeDetailModal = ({ anime, onClose }) => {
               </span>
             </div>
 
+            {/* Main Title */}
             <h2 className="text-xl sm:text-2xl font-bold text-white leading-snug">
-              {title}
+              {displayTitle}
             </h2>
 
-            {enTitle && (
-              <p className="text-xs sm:text-sm text-indigo-300 mt-0.5 font-medium">{enTitle}</p>
-            )}
-            {jpTitle && (
-              <p className="text-xs text-gray-400 mt-0.5">{jpTitle}</p>
-            )}
+            {/* Dual Names Section: English & Japanese Original */}
+            <div className="flex flex-wrap items-center gap-2 mt-2">
+              {englishTitle && englishTitle.toLowerCase() !== displayTitle.toLowerCase() && (
+                <div className="inline-flex items-center gap-1.5 bg-blue-950/50 border border-blue-500/30 px-2.5 py-1 rounded-lg text-xs text-blue-200">
+                  <span className="font-semibold text-blue-400">English:</span>
+                  <span>{englishTitle}</span>
+                </div>
+              )}
+
+              {romajiTitle && romajiTitle.toLowerCase() !== displayTitle.toLowerCase() && (
+                <div className="inline-flex items-center gap-1.5 bg-purple-950/50 border border-purple-500/30 px-2.5 py-1 rounded-lg text-xs text-purple-200">
+                  <span className="font-semibold text-purple-400">Romaji:</span>
+                  <span className="italic">{romajiTitle}</span>
+                </div>
+              )}
+
+              {japaneseTitle && (
+                <div className="inline-flex items-center gap-1.5 bg-rose-950/40 border border-rose-500/30 px-2.5 py-1 rounded-lg text-xs text-rose-200 font-jp">
+                  <span className="font-semibold text-rose-400">日本語:</span>
+                  <span>{japaneseTitle}</span>
+                </div>
+              )}
+            </div>
 
             {/* Badges strip */}
             <div className="flex flex-wrap items-center gap-2 mt-3">
@@ -143,6 +169,83 @@ const AnimeDetailModal = ({ anime, onClose }) => {
                 </span>
               )}
             </div>
+          </div>
+
+          {/* WHERE TO WATCH / STREAMING LOCATIONS (PRIORITIZING CRUNCHYROLL) */}
+          <div className="bg-gray-850 rounded-2xl p-4 sm:p-5 border border-gray-700/80 shadow-lg space-y-3">
+            <div className="flex items-center justify-between">
+              <h3 className="text-sm sm:text-base font-bold text-white flex items-center gap-2">
+                <Tv size={17} className="text-orange-400" />
+                <span>Where to Watch</span>
+              </h3>
+              <span className="text-[11px] text-orange-400 font-semibold bg-orange-500/10 border border-orange-500/30 px-2.5 py-0.5 rounded-full">
+                Crunchyroll Prioritized
+              </span>
+            </div>
+
+            {/* Primary Featured: Crunchyroll */}
+            {crunchyroll && (
+              <a
+                href={crunchyroll.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group relative overflow-hidden flex flex-col sm:flex-row sm:items-center justify-between p-3.5 sm:p-4 rounded-xl bg-gradient-to-r from-orange-600 via-amber-600 to-orange-500 hover:from-orange-500 hover:via-amber-500 hover:to-orange-600 text-white shadow-lg shadow-orange-600/25 transition-all border border-orange-400/40 cursor-pointer"
+              >
+                <div className="flex items-center space-x-3 mb-2 sm:mb-0">
+                  <div className="w-10 h-10 rounded-lg bg-black/25 flex items-center justify-center shrink-0 border border-white/20">
+                    <PlayCircle size={22} className="text-white fill-orange-500" />
+                  </div>
+                  <div>
+                    <div className="flex items-center gap-2">
+                      <span className="font-extrabold text-base tracking-wide">Crunchyroll</span>
+                      <span className="text-[10px] font-bold bg-black/40 text-amber-200 px-2 py-0.5 rounded-md border border-white/10 uppercase tracking-wider">
+                        ★ Primary Stream
+                      </span>
+                    </div>
+                    <p className="text-xs text-orange-100/90 mt-0.5">
+                      Stream official SUB & DUB in HD • Largest anime library
+                    </p>
+                  </div>
+                </div>
+
+                <div className="flex items-center gap-1.5 self-end sm:self-auto bg-black/30 group-hover:bg-black/40 px-3.5 py-1.5 rounded-lg text-xs font-bold tracking-wide border border-white/20 transition-colors">
+                  <span>Watch on Crunchyroll</span>
+                  <ExternalLink size={13} />
+                </div>
+              </a>
+            )}
+
+            {/* Secondary Streaming Locations (Netflix, Hulu) */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1">
+              {otherPlatforms.map((platform) => (
+                <a
+                  key={platform.id}
+                  href={platform.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center justify-between p-2.5 sm:p-3 rounded-xl bg-gray-800/80 hover:bg-gray-750 border border-gray-700/80 hover:border-gray-600 transition-all text-gray-200 hover:text-white cursor-pointer group"
+                >
+                  <div className="flex items-center space-x-2.5 min-w-0">
+                    <div className="w-7 h-7 rounded-lg bg-gray-900 flex items-center justify-center shrink-0 border border-gray-700">
+                      <PlayCircle size={15} className={platform.id === 'netflix' ? 'text-red-500' : 'text-emerald-400'} />
+                    </div>
+                    <div className="truncate">
+                      <p className="text-xs font-bold text-gray-200 truncate">{platform.name}</p>
+                      <p className="text-[10px] text-gray-400 truncate">{platform.tagline}</p>
+                    </div>
+                  </div>
+
+                  <span className="text-[11px] text-gray-400 group-hover:text-gray-200 flex items-center gap-1 shrink-0 ml-2">
+                    <span>Search</span>
+                    <ExternalLink size={11} />
+                  </span>
+                </a>
+              ))}
+            </div>
+            
+            <p className="text-[11px] text-gray-400 italic text-center sm:text-left pt-1">
+              Links search official streaming services directly for availability in your region.
+            </p>
           </div>
 
           {/* Audio Availability Banner */}

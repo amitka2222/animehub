@@ -7,6 +7,7 @@ import {
 } from 'lucide-react';
 import { INITIAL_CATEGORY_DATA } from '../data/categoryFallbackData';
 import AnimeDetailModal from '../components/AnimeDetailModal';
+import { getDualTitles, matchesAnimeSearch } from '../utils/animeUtils';
 
 const CATEGORIES = [
   { id: 'action', name: 'Action', icon: Flame, color: 'from-orange-500 to-amber-600' },
@@ -91,13 +92,9 @@ const Categories = () => {
       list = list.filter(anime => anime.hasSub);
     }
 
-    // Search query filter
+    // Search query filter (matches both English and Japanese names)
     if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase();
-      list = list.filter(anime => 
-        (anime.title && anime.title.toLowerCase().includes(q)) ||
-        (anime.synopsis && anime.synopsis.toLowerCase().includes(q))
-      );
+      list = list.filter(anime => matchesAnimeSearch(anime, searchQuery));
     }
 
     return list;
@@ -253,71 +250,87 @@ const Categories = () => {
           </div>
         ) : (
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4 md:gap-6">
-            {filteredAnime.map((anime) => (
-              <div
-                key={anime.id}
-                onClick={() => setSelectedAnime(anime)}
-                className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col select-none text-left"
-                role="button"
-                tabIndex={0}
-                onKeyDown={(e) => {
-                  if (e.key === 'Enter' || e.key === ' ') {
-                    e.preventDefault();
-                    setSelectedAnime(anime);
-                  }
-                }}
-              >
-                <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden bg-gray-900">
-                  <img
-                    src={anime.poster}
-                    alt={anime.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    onError={(e) => {
-                      e.currentTarget.onerror = null;
-                      e.currentTarget.src = FALLBACK_POSTER;
-                    }}
-                  />
-                  <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded border border-white/10 z-10">
-                    #{anime.rank}
-                  </div>
-                  <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[10px] sm:text-[11px] font-semibold px-2 py-0.5 rounded z-10">
-                    {anime.season} • {anime.year}
-                  </div>
-
-                  {/* SUB / DUB Audio Badges */}
-                  <div className="absolute bottom-2 right-2 flex items-center gap-1 z-10">
-                    <span className="bg-indigo-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
-                      SUB
-                    </span>
-                    {anime.hasDub && (
-                      <span className="bg-amber-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
-                        DUB
+            {filteredAnime.map((anime) => {
+              const { primaryTitle, secondaryTitle } = getDualTitles(anime);
+              return (
+                <div
+                  key={anime.id}
+                  onClick={() => setSelectedAnime(anime)}
+                  className="bg-gray-800 rounded-xl overflow-hidden shadow-lg border border-gray-700 hover:border-indigo-500 hover:-translate-y-1 transition-all duration-200 group cursor-pointer flex flex-col select-none text-left"
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      setSelectedAnime(anime);
+                    }
+                  }}
+                >
+                  <div className="relative h-48 sm:h-56 md:h-64 overflow-hidden bg-gray-900">
+                    <img
+                      src={anime.poster}
+                      alt={anime.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      onError={(e) => {
+                        e.currentTarget.onerror = null;
+                        e.currentTarget.src = FALLBACK_POSTER;
+                      }}
+                    />
+                    {/* Crunchyroll stream indicator */}
+                    <div className="absolute top-2 left-2 z-10">
+                      <span className="bg-black/75 backdrop-blur-xs text-orange-400 border border-orange-500/40 text-[9px] font-extrabold px-1.5 py-0.5 rounded shadow flex items-center gap-1">
+                        <span className="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse" />
+                        CR
                       </span>
-                    )}
+                    </div>
+
+                    <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded border border-white/10 z-10">
+                      #{anime.rank}
+                    </div>
+                    <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[10px] sm:text-[11px] font-semibold px-2 py-0.5 rounded z-10">
+                      {anime.season} • {anime.year}
+                    </div>
+
+                    {/* SUB / DUB Audio Badges */}
+                    <div className="absolute bottom-2 right-2 flex items-center gap-1 z-10">
+                      <span className="bg-indigo-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                        SUB
+                      </span>
+                      {anime.hasDub && (
+                        <span className="bg-amber-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                          DUB
+                        </span>
+                      )}
+                    </div>
+                  </div>
+
+                  <div className="p-2.5 sm:p-4 flex-1 flex flex-col justify-between">
+                    <div>
+                      <h4 className="font-bold text-xs sm:text-sm text-gray-100 line-clamp-1 mb-0.5 group-hover:text-indigo-300 transition-colors">
+                        {anime.title || primaryTitle}
+                      </h4>
+                      {secondaryTitle && (
+                        <p className="text-[10px] sm:text-[11px] text-indigo-300/80 italic truncate mb-1">
+                          {secondaryTitle}
+                        </p>
+                      )}
+                      <p className="text-[11px] sm:text-xs text-gray-400 line-clamp-2 leading-relaxed mt-0.5">
+                        {anime.synopsis}
+                      </p>
+                    </div>
+
+                    <div className="mt-2.5 sm:mt-4 pt-2 sm:pt-3 border-t border-gray-700/60 flex justify-between items-center text-[10px] sm:text-xs">
+                      <span className="flex items-center text-yellow-400 font-medium">
+                        <Star size={12} className="mr-1 fill-current" /> {anime.score}
+                      </span>
+                      <span className="text-gray-400 font-medium">
+                        {anime.episodes ? `${anime.episodes} Eps` : 'Ongoing'}
+                      </span>
+                    </div>
                   </div>
                 </div>
-
-                <div className="p-2.5 sm:p-4 flex-1 flex flex-col justify-between">
-                  <div>
-                    <h4 className="font-bold text-xs sm:text-sm text-gray-100 line-clamp-2 mb-1 sm:mb-1.5 group-hover:text-indigo-300 transition-colors">
-                      {anime.title}
-                    </h4>
-                    <p className="text-[11px] sm:text-xs text-gray-400 line-clamp-2 sm:line-clamp-3 leading-relaxed">
-                      {anime.synopsis}
-                    </p>
-                  </div>
-
-                  <div className="mt-2.5 sm:mt-4 pt-2 sm:pt-3 border-t border-gray-700/60 flex justify-between items-center text-[10px] sm:text-xs">
-                    <span className="flex items-center text-yellow-400 font-medium">
-                      <Star size={12} className="mr-1 fill-current" /> {anime.score}
-                    </span>
-                    <span className="text-gray-400 font-medium">
-                      {anime.episodes ? `${anime.episodes} Eps` : 'Ongoing'}
-                    </span>
-                  </div>
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         )}
       </section>

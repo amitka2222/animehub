@@ -5,7 +5,7 @@ import {
   Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, 
   Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap, Info
 } from 'lucide-react';
-import { checkHasDub } from '../utils/animeUtils';
+import { checkHasDub, getDualTitles, matchesAnimeSearch } from '../utils/animeUtils';
 import AnimeDetailModal from '../components/AnimeDetailModal';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
@@ -51,11 +51,7 @@ const Discovery = () => {
       result = result.filter(item => item.hasSub);
     }
     if (!searchQuery.trim()) return result;
-    const q = searchQuery.toLowerCase();
-    return result.filter(item => 
-      (item.title && item.title.toLowerCase().includes(q)) || 
-      (item.synopsis && item.synopsis.toLowerCase().includes(q))
-    );
+    return result.filter(item => matchesAnimeSearch(item, searchQuery));
   };
 
   const filteredTopWeekly = useMemo(() => filterByAudioAndQuery(data.topWeekly), [data.topWeekly, searchQuery, audioFilter]);
@@ -332,46 +328,59 @@ const Discovery = () => {
             <p className="text-gray-500 text-xs sm:text-sm py-4">No upcoming anime matched your search query.</p>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {filteredUpcoming.map((anime) => (
-                <div 
-                  key={anime.mal_id} 
-                  onClick={() => setSelectedAnime(anime)}
-                  className="bg-gray-800 rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 border border-gray-700 hover:border-purple-500/60 transition-all cursor-pointer group select-none"
-                  role="button"
-                  tabIndex={0}
-                  onKeyDown={(e) => {
-                    if (e.key === 'Enter' || e.key === ' ') {
-                      e.preventDefault();
-                      setSelectedAnime(anime);
-                    }
-                  }}
-                >
-                  <img 
-                    src={anime.images?.webp?.image_url || anime.images?.webp?.large_image_url} 
-                    alt={anime.title} 
-                    className="w-20 sm:w-24 h-28 sm:h-36 object-cover rounded shadow shrink-0 group-hover:scale-103 transition-transform"
-                    onError={(e) => {
-                      e.currentTarget.onerror = null;
-                      e.currentTarget.src = FALLBACK_POSTER;
+              {filteredUpcoming.map((anime) => {
+                const { primaryTitle, secondaryTitle } = getDualTitles(anime);
+                return (
+                  <div 
+                    key={anime.mal_id} 
+                    onClick={() => setSelectedAnime(anime)}
+                    className="bg-gray-800 rounded-xl p-3 sm:p-4 flex gap-3 sm:gap-4 border border-gray-700 hover:border-purple-500/60 transition-all cursor-pointer group select-none"
+                    role="button"
+                    tabIndex={0}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        setSelectedAnime(anime);
+                      }
                     }}
-                  />
-                  <div className="flex-1 min-w-0 flex flex-col justify-between">
-                    <div>
-                      <h4 className="font-bold text-sm sm:text-base text-gray-100 mb-1 truncate group-hover:text-purple-300 transition-colors">
-                        {anime.title}
-                      </h4>
-                      <span className="inline-block bg-gray-700 text-[10px] sm:text-xs px-2 py-0.5 rounded text-gray-300 mb-1.5">
-                        {anime.season} {anime.year}
+                  >
+                    <img 
+                      src={anime.images?.webp?.image_url || anime.images?.webp?.large_image_url} 
+                      alt={anime.title} 
+                      className="w-20 sm:w-24 h-28 sm:h-36 object-cover rounded shadow shrink-0 group-hover:scale-103 transition-transform"
+                      onError={(e) => {
+                        e.currentTarget.onerror = null;
+                        e.currentTarget.src = FALLBACK_POSTER;
+                      }}
+                    />
+                    <div className="flex-1 min-w-0 flex flex-col justify-between">
+                      <div>
+                        <h4 className="font-bold text-sm sm:text-base text-gray-100 mb-0.5 truncate group-hover:text-purple-300 transition-colors">
+                          {anime.title || primaryTitle}
+                        </h4>
+                        {secondaryTitle && (
+                          <p className="text-[11px] text-purple-300/80 italic truncate mb-1">
+                            {secondaryTitle}
+                          </p>
+                        )}
+                        <div className="flex flex-wrap items-center gap-1.5 mb-1.5">
+                          <span className="inline-block bg-gray-700 text-[10px] sm:text-xs px-2 py-0.5 rounded text-gray-300">
+                            {anime.season} {anime.year}
+                          </span>
+                          <span className="inline-flex items-center text-[10px] bg-orange-500/20 text-orange-300 border border-orange-500/30 px-1.5 py-0.2 rounded font-semibold">
+                            Crunchyroll
+                          </span>
+                        </div>
+                        <p className="text-xs text-gray-400 line-clamp-2">{anime.synopsis || "No synopsis available yet."}</p>
+                      </div>
+                      <span className="mt-2 inline-flex items-center text-xs text-purple-400 group-hover:text-purple-300 font-medium">
+                        <span>View Details</span>
+                        <ChevronRight size={13} className="ml-0.5" />
                       </span>
-                      <p className="text-xs text-gray-400 line-clamp-2">{anime.synopsis || "No synopsis available yet."}</p>
                     </div>
-                    <span className="mt-2 inline-flex items-center text-xs text-purple-400 group-hover:text-purple-300 font-medium">
-                      <span>View Details</span>
-                      <ChevronRight size={13} className="ml-0.5" />
-                    </span>
                   </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
           )}
         </section>
@@ -391,6 +400,7 @@ const Discovery = () => {
 const AnimeCard = ({ anime, badgeColor, badgeText, onSelect }) => {
   const imageUrl = anime.images?.webp?.large_image_url || anime.images?.webp?.image_url || anime.poster || FALLBACK_POSTER;
   const hasDub = checkHasDub(anime);
+  const { primaryTitle, secondaryTitle } = getDualTitles(anime);
 
   return (
     <div 
@@ -421,6 +431,14 @@ const AnimeCard = ({ anime, badgeColor, badgeText, onSelect }) => {
           </div>
         )}
 
+        {/* Stream on Crunchyroll badge */}
+        <div className="absolute top-2 left-2 z-10">
+          <span className="bg-black/75 backdrop-blur-xs text-orange-400 border border-orange-500/40 text-[9px] font-extrabold px-1.5 py-0.5 rounded shadow flex items-center gap-1">
+            <span className="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse" />
+            CR
+          </span>
+        </div>
+
         {/* SUB / DUB Audio Badges */}
         <div className="absolute bottom-2 left-2 flex items-center gap-1 z-10">
           <span className="bg-indigo-600/95 text-white text-[9px] sm:text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
@@ -436,10 +454,15 @@ const AnimeCard = ({ anime, badgeColor, badgeText, onSelect }) => {
 
       <div className="p-2.5 sm:p-4 flex-1 flex flex-col justify-between">
         <div>
-          <h4 className="font-bold text-xs sm:text-sm text-gray-100 line-clamp-2 mb-1 sm:mb-1.5 group-hover:text-indigo-300 transition-colors">
-            {anime.title}
+          <h4 className="font-bold text-xs sm:text-sm text-gray-100 line-clamp-1 mb-0.5 group-hover:text-indigo-300 transition-colors">
+            {anime.title || primaryTitle}
           </h4>
-          <p className="text-[11px] sm:text-xs text-gray-400 line-clamp-2 sm:line-clamp-3 leading-relaxed">
+          {secondaryTitle && (
+            <p className="text-[10px] sm:text-[11px] text-indigo-300/80 italic truncate mb-1">
+              {secondaryTitle}
+            </p>
+          )}
+          <p className="text-[11px] sm:text-xs text-gray-400 line-clamp-2 leading-relaxed mt-0.5">
             {anime.synopsis}
           </p>
         </div>
