@@ -1,0 +1,35 @@
+name: Fetch Anime Data
+
+on:
+  schedule:
+    # Run once a week on Sunday at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Fetch Data
+        run: node scripts/fetch-data.js
+        
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): weekly automated discovery data update"
+          file_pattern: "public/data/discovery.json"
+          branch: main
