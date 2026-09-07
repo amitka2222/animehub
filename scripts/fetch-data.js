@@ -64,7 +64,13 @@ async function fetchDiscoveryData() {
       season: item.attributes.subtype || 'TV',
       startDate: item.attributes.startDate,
       year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
-      status: item.attributes.status
+      status: item.attributes.status,
+      hasSub: true,
+      hasDub: Boolean(
+        (item.attributes.userCount && item.attributes.userCount > 1000) ||
+        (item.attributes.subtype === 'TV' && !item.attributes.canonicalTitle?.toLowerCase().includes('mini anime')) ||
+        ['Attack on Titan', 'One Piece', 'Boku no Hero Academia', 'Bleach', 'Detective Conan', 'Death Note', 'Hunter x Hunter', 'Slime', 'Re:Zero'].some(t => item.attributes.canonicalTitle?.includes(t))
+      )
     });
 
     const isValidPoster = (item) => {

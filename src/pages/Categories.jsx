@@ -3,8 +3,9 @@ import axios from 'axios';
 import { 
   Flame, Heart, Sparkles, Trophy, Rocket, Coffee, Ghost, 
   Smile, Zap, Compass, Search, Star, ExternalLink, Filter, 
-  ArrowUpDown, Layers, Film
+  ArrowUpDown, Layers, Film, Headphones, MessageSquare
 } from 'lucide-react';
+import { checkHasDub } from '../utils/animeUtils';
 
 const CATEGORIES = [
   { id: 'action', name: 'Action', icon: Flame, color: 'from-orange-500 to-amber-600', activeBorder: 'border-orange-500' },
@@ -32,6 +33,7 @@ const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.
 const Categories = () => {
   const [selectedCategory, setSelectedCategory] = useState('action');
   const [sortBy, setSortBy] = useState('-userCount');
+  const [audioFilter, setAudioFilter] = useState('all'); // 'all', 'dub', 'sub'
   const [animeList, setAnimeList] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -60,18 +62,31 @@ const Categories = () => {
             const img = item.attributes?.posterImage?.large || item.attributes?.posterImage?.original;
             return img && !img.includes('Expires=');
           })
-          .map((item, idx) => ({
-            id: item.id,
-            title: item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title',
-            url: `https://kitsu.io/anime/${item.attributes.slug}`,
-            poster: item.attributes.posterImage?.large || item.attributes.posterImage?.original || FALLBACK_POSTER,
-            synopsis: item.attributes.synopsis || 'No synopsis available.',
-            score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
-            episodes: item.attributes.episodeCount,
-            season: item.attributes.subtype || 'TV',
-            year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
-            rank: idx + 1
-          }));
+          .map((item, idx) => {
+            const title = item.attributes.canonicalTitle || item.attributes.titles?.en || 'Anime Title';
+            const season = item.attributes.subtype || 'TV';
+            const hasDub = checkHasDub({
+              title,
+              season,
+              rank: idx + 1,
+              hasDub: item.attributes.userCount > 1000
+            });
+
+            return {
+              id: item.id,
+              title,
+              url: `https://kitsu.io/anime/${item.attributes.slug}`,
+              poster: item.attributes.posterImage?.large || item.attributes.posterImage?.original || FALLBACK_POSTER,
+              synopsis: item.attributes.synopsis || 'No synopsis available.',
+              score: item.attributes.averageRating ? `${item.attributes.averageRating}%` : 'N/A',
+              episodes: item.attributes.episodeCount,
+              season,
+              year: item.attributes.startDate ? item.attributes.startDate.substring(0, 4) : 'TBA',
+              rank: idx + 1,
+              hasSub: true,
+              hasDub
+            };
+          });
 
         setAnimeList(formatted);
         setCache(prev => ({ ...prev, [cacheKey]: formatted }));
@@ -84,13 +99,17 @@ const Categories = () => {
   }, [selectedCategory, sortBy]);
 
   const filteredAnime = useMemo(() => {
-    if (!searchQuery.trim()) return animeList;
+    let result = animeList;
+    if (audioFilter === 'dub') {
+      result = result.filter(anime => anime.hasDub);
+    }
+    if (!searchQuery.trim()) return result;
     const q = searchQuery.toLowerCase();
-    return animeList.filter(anime => 
+    return result.filter(anime => 
       anime.title.toLowerCase().includes(q) ||
       anime.synopsis.toLowerCase().includes(q)
     );
-  }, [animeList, searchQuery]);
+  }, [animeList, searchQuery, audioFilter]);
 
   return (
     <div className="space-y-8">
@@ -132,26 +151,65 @@ const Categories = () => {
         })}
       </div>
 
-      {/* Active Category Controls: Sort & Search */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-gray-800/60 p-4 rounded-2xl border border-gray-700/60">
-        <div className="flex items-center space-x-2">
-          <span className="text-sm font-medium text-gray-300 flex items-center">
-            <ArrowUpDown size={15} className="mr-1.5 text-indigo-400" /> Sort by:
-          </span>
-          <div className="flex space-x-1.5">
-            {SORT_OPTIONS.map(opt => (
-              <button
-                key={opt.id}
-                onClick={() => setSortBy(opt.id)}
-                className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
-                  sortBy === opt.id
-                    ? 'bg-indigo-600 text-white shadow'
-                    : 'bg-gray-700/70 text-gray-300 hover:bg-gray-700'
-                }`}
-              >
-                {opt.label}
-              </button>
-            ))}
+      {/* Active Category Controls: Sort, Audio & Search */}
+      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-gray-800/60 p-4 rounded-2xl border border-gray-700/60">
+        <div className="flex flex-wrap items-center gap-4">
+          {/* Sort By */}
+          <div className="flex items-center space-x-2">
+            <span className="text-sm font-medium text-gray-300 flex items-center">
+              <ArrowUpDown size={15} className="mr-1.5 text-indigo-400" /> Sort:
+            </span>
+            <div className="flex space-x-1.5">
+              {SORT_OPTIONS.map(opt => (
+                <button
+                  key={opt.id}
+                  onClick={() => setSortBy(opt.id)}
+                  className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                    sortBy === opt.id
+                      ? 'bg-indigo-600 text-white shadow'
+                      : 'bg-gray-700/70 text-gray-300 hover:bg-gray-700'
+                  }`}
+                >
+                  {opt.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Audio Filter (SUB / DUB) */}
+          <div className="flex bg-gray-900/80 p-1 rounded-xl border border-gray-700/80">
+            <button
+              onClick={() => setAudioFilter('all')}
+              className={`px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'all'
+                  ? 'bg-indigo-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              All Audio
+            </button>
+            <button
+              onClick={() => setAudioFilter('sub')}
+              className={`flex items-center gap-1 px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'sub'
+                  ? 'bg-indigo-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              <MessageSquare size={13} />
+              <span>SUB</span>
+            </button>
+            <button
+              onClick={() => setAudioFilter('dub')}
+              className={`flex items-center gap-1 px-3 py-1 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'dub'
+                  ? 'bg-amber-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              <Headphones size={13} />
+              <span>DUB</span>
+            </button>
           </div>
         </div>
 
@@ -185,7 +243,7 @@ const Categories = () => {
           </div>
         ) : filteredAnime.length === 0 ? (
           <div className="py-16 text-center text-gray-500 bg-gray-800/40 rounded-2xl border border-gray-800">
-            No anime found matching your search.
+            No anime found matching your search and audio filter.
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
@@ -207,11 +265,23 @@ const Categories = () => {
                       e.currentTarget.src = FALLBACK_POSTER;
                     }}
                   />
-                  <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-xs font-bold px-2 py-0.5 rounded border border-white/10">
+                  <div className="absolute top-2 right-2 bg-black/70 backdrop-blur-sm text-white text-xs font-bold px-2 py-0.5 rounded border border-white/10 z-10">
                     #{anime.rank}
                   </div>
-                  <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[11px] font-semibold px-2 py-0.5 rounded">
+                  <div className="absolute bottom-2 left-2 bg-indigo-600/90 text-white text-[11px] font-semibold px-2 py-0.5 rounded z-10">
                     {anime.season} • {anime.year}
+                  </div>
+
+                  {/* SUB / DUB Audio Badges */}
+                  <div className="absolute bottom-2 right-2 flex items-center gap-1 z-10">
+                    <span className="bg-indigo-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                      SUB
+                    </span>
+                    {anime.hasDub && (
+                      <span className="bg-amber-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+                        DUB
+                      </span>
+                    )}
                   </div>
                 </div>
 

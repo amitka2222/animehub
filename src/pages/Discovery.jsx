@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { formatDistanceToNow } from 'date-fns';
-import { Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, Search, Tv } from 'lucide-react';
+import { Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, Search, Tv, Headphones, MessageSquare } from 'lucide-react';
+import { checkHasDub } from '../utils/animeUtils';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
 
@@ -14,6 +15,7 @@ const Discovery = () => {
   });
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('all'); // 'all', 'topWeekly', 'newThisWeek', 'top', 'upcoming'
+  const [audioFilter, setAudioFilter] = useState('all'); // 'all', 'dub', 'sub'
   const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
@@ -35,19 +37,23 @@ const Discovery = () => {
       });
   }, []);
 
-  const filterByQuery = (list) => {
-    if (!searchQuery.trim()) return list;
+  const filterByAudioAndQuery = (list) => {
+    let result = list;
+    if (audioFilter === 'dub') {
+      result = result.filter(item => checkHasDub(item));
+    }
+    if (!searchQuery.trim()) return result;
     const q = searchQuery.toLowerCase();
-    return list.filter(item => 
+    return result.filter(item => 
       item.title.toLowerCase().includes(q) || 
       (item.synopsis && item.synopsis.toLowerCase().includes(q))
     );
   };
 
-  const filteredTopWeekly = useMemo(() => filterByQuery(data.topWeekly), [data.topWeekly, searchQuery]);
-  const filteredNewThisWeek = useMemo(() => filterByQuery(data.newThisWeek), [data.newThisWeek, searchQuery]);
-  const filteredTop = useMemo(() => filterByQuery(data.top), [data.top, searchQuery]);
-  const filteredUpcoming = useMemo(() => filterByQuery(data.upcoming), [data.upcoming, searchQuery]);
+  const filteredTopWeekly = useMemo(() => filterByAudioAndQuery(data.topWeekly), [data.topWeekly, searchQuery, audioFilter]);
+  const filteredNewThisWeek = useMemo(() => filterByAudioAndQuery(data.newThisWeek), [data.newThisWeek, searchQuery, audioFilter]);
+  const filteredTop = useMemo(() => filterByAudioAndQuery(data.top), [data.top, searchQuery, audioFilter]);
+  const filteredUpcoming = useMemo(() => filterByAudioAndQuery(data.upcoming), [data.upcoming, searchQuery, audioFilter]);
 
   if (loading) {
     return (
@@ -107,15 +113,53 @@ const Discovery = () => {
           })}
         </div>
 
-        <div className="relative min-w-[240px]">
-          <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
-          <input
-            type="text"
-            placeholder="Filter anime by title..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-gray-800 border border-gray-700 rounded-xl pl-9 pr-4 py-2 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
-          />
+        <div className="flex flex-wrap items-center gap-3">
+          {/* Audio Filter (SUB / DUB) */}
+          <div className="flex bg-gray-800 p-1 rounded-xl border border-gray-700/80">
+            <button
+              onClick={() => setAudioFilter('all')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'all'
+                  ? 'bg-indigo-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              All Audio
+            </button>
+            <button
+              onClick={() => setAudioFilter('sub')}
+              className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'sub'
+                  ? 'bg-indigo-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              <MessageSquare size={13} />
+              <span>SUB</span>
+            </button>
+            <button
+              onClick={() => setAudioFilter('dub')}
+              className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors cursor-pointer ${
+                audioFilter === 'dub'
+                  ? 'bg-amber-600 text-white shadow'
+                  : 'text-gray-400 hover:text-white'
+              }`}
+            >
+              <Headphones size={13} />
+              <span>DUB</span>
+            </button>
+          </div>
+
+          <div className="relative min-w-[200px]">
+            <Search size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
+            <input
+              type="text"
+              placeholder="Filter anime by title..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full bg-gray-800 border border-gray-700 rounded-xl pl-9 pr-4 py-2 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition-colors"
+            />
+          </div>
         </div>
       </div>
 
@@ -264,9 +308,9 @@ const Discovery = () => {
   );
 };
 
-// Reusable Anime Card Component
 const AnimeCard = ({ anime, badgeColor, badgeText }) => {
   const imageUrl = anime.images?.webp?.large_image_url || anime.images?.webp?.image_url || FALLBACK_POSTER;
+  const hasDub = checkHasDub(anime);
 
   return (
     <a 
@@ -286,10 +330,22 @@ const AnimeCard = ({ anime, badgeColor, badgeText }) => {
           }}
         />
         {badgeText && (
-          <div className={`absolute top-2 right-2 ${badgeColor || 'bg-indigo-600'} text-white text-xs font-bold px-2.5 py-1 rounded shadow`}>
+          <div className={`absolute top-2 right-2 ${badgeColor || 'bg-indigo-600'} text-white text-xs font-bold px-2.5 py-1 rounded shadow z-10`}>
             {badgeText}
           </div>
         )}
+
+        {/* SUB / DUB Audio Badges */}
+        <div className="absolute bottom-2 left-2 flex items-center gap-1 z-10">
+          <span className="bg-indigo-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+            SUB
+          </span>
+          {hasDub && (
+            <span className="bg-amber-600/95 text-white text-[10px] font-bold px-1.5 py-0.5 rounded shadow">
+              DUB
+            </span>
+          )}
+        </div>
       </div>
 
       <div className="p-4 flex-1 flex flex-col justify-between">

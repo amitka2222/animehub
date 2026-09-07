@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T08:37:55.309Z",
+  "lastUpdated": "2026-09-07T09:02:06.584Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -18,7 +18,9 @@
       "season": "TV",
       "startDate": "1999-10-20",
       "year": "1999",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "210",
@@ -37,7 +39,9 @@
       "season": "TV",
       "startDate": "1996-01-08",
       "year": "1996",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "856",
@@ -56,7 +60,9 @@
       "season": "TV",
       "startDate": "1992-04-13",
       "year": "1992",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "44778",
@@ -75,7 +81,9 @@
       "season": "TV",
       "startDate": "2026-07-08",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50023",
@@ -94,7 +102,9 @@
       "season": "TV",
       "startDate": "2026-04-04",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "49235",
@@ -113,7 +123,9 @@
       "season": "TV",
       "startDate": "2026-04-03",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "49002",
@@ -132,7 +144,9 @@
       "season": "TV",
       "startDate": "2026-07-04",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "43740",
@@ -151,7 +165,9 @@
       "season": "ONA",
       "startDate": "2019-05-05",
       "year": "2019",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "5443",
@@ -170,7 +186,9 @@
       "season": "TV",
       "startDate": "2005-04-15",
       "year": "2005",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "41923",
@@ -189,7 +207,9 @@
       "season": "TV",
       "startDate": "2026-07-05",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     }
   ],
   "newThisWeek": [
@@ -210,7 +230,9 @@
       "season": "ONA",
       "startDate": "2026-08-14",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "50815",
@@ -229,7 +251,9 @@
       "season": "ONA",
       "startDate": "2026-08-05",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "50769",
@@ -248,7 +272,9 @@
       "season": "TV",
       "startDate": "2026-07-31",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50878",
@@ -267,7 +293,9 @@
       "season": "ONA",
       "startDate": "2026-07-29",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "49444",
@@ -286,7 +314,9 @@
       "season": "TV",
       "startDate": "2026-07-25",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50279",
@@ -305,7 +335,9 @@
       "season": "ONA",
       "startDate": "2026-07-22",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "49265",
@@ -324,7 +356,9 @@
       "season": "TV",
       "startDate": "2026-07-17",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50954",
@@ -343,7 +377,9 @@
       "season": "ONA",
       "startDate": "2026-07-12",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "50773",
@@ -362,7 +398,9 @@
       "season": "TV",
       "startDate": "2026-07-12",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50179",
@@ -381,7 +419,9 @@
       "season": "TV",
       "startDate": "2026-07-12",
       "year": "2026",
-      "status": "current"
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
     }
   ],
   "top": [
@@ -402,7 +442,9 @@
       "season": "TV",
       "startDate": "2013-04-07",
       "year": "2013",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "11469",
@@ -421,7 +463,9 @@
       "season": "TV",
       "startDate": "2016-04-03",
       "year": "2016",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "12268",
@@ -440,7 +484,9 @@
       "season": "TV",
       "startDate": "2017-04-01",
       "year": "2017",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "10740",
@@ -459,7 +505,9 @@
       "season": "TV",
       "startDate": "2015-10-05",
       "year": "2015",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "13881",
@@ -478,7 +526,9 @@
       "season": "TV",
       "startDate": "2018-04-07",
       "year": "2018",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "1376",
@@ -497,7 +547,9 @@
       "season": "TV",
       "startDate": "2006-10-04",
       "year": "2006",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "3936",
@@ -516,7 +568,9 @@
       "season": "TV",
       "startDate": "2009-04-05",
       "year": "2009",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "11614",
@@ -535,7 +589,9 @@
       "season": "movie",
       "startDate": "2016-08-26",
       "year": "2016",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "6448",
@@ -554,7 +610,9 @@
       "season": "TV",
       "startDate": "2011-10-02",
       "year": "2011",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "41370",
@@ -573,7 +631,9 @@
       "season": "TV",
       "startDate": "2019-04-06",
       "year": "2019",
-      "status": "finished"
+      "status": "finished",
+      "hasSub": true,
+      "hasDub": true
     }
   ],
   "upcoming": [
@@ -594,7 +654,9 @@
       "season": "movie",
       "startDate": "2026-11-20",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "47017",
@@ -613,7 +675,9 @@
       "season": "movie",
       "startDate": "2026-10-23",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50016",
@@ -632,7 +696,9 @@
       "season": "ONA",
       "startDate": "2026-10-20",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": false
     },
     {
       "mal_id": "48397",
@@ -651,7 +717,9 @@
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "50024",
@@ -670,7 +738,9 @@
       "season": "TV",
       "startDate": "2026-10-03",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "49752",
@@ -689,7 +759,9 @@
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "49883",
@@ -708,7 +780,9 @@
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     },
     {
       "mal_id": "49008",
@@ -727,7 +801,9 @@
       "season": "TV",
       "startDate": "2026-10-07",
       "year": "2026",
-      "status": "upcoming"
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
     }
   ]
 }
