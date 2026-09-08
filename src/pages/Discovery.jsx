@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { formatDistanceToNow } from 'date-fns';
 import { 
   Star, Calendar, ExternalLink, Activity, Flame, Sparkles, Trophy, 
-  Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap, Info
+  Search, Tv, Headphones, MessageSquare, X, Layers, Newspaper, ChevronRight, Zap, Info, Palette
 } from 'lucide-react';
 import { checkHasDub, getDualTitles, matchesAnimeSearch } from '../utils/animeUtils';
 import AnimeDetailModal from '../components/AnimeDetailModal';
@@ -93,6 +93,15 @@ const Discovery = () => {
             >
               <Layers size={14} />
               <span>Explore 18 Categories</span>
+              <ChevronRight size={13} />
+            </Link>
+
+            <Link
+              to="/creators"
+              className="inline-flex items-center gap-1.5 px-3.5 py-2 bg-purple-600/80 hover:bg-purple-600 text-white text-xs font-semibold rounded-xl border border-purple-500/40 shadow-lg shadow-purple-600/25 transition-all cursor-pointer"
+            >
+              <Palette size={14} className="text-purple-200" />
+              <span>Artists & Creators</span>
               <ChevronRight size={13} />
             </Link>
 

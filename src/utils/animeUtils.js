@@ -1,3 +1,5 @@
+import { CREATORS_DATA } from '../data/creatorsData';
+
 /**
  * AnimeHub Utility Module
  * Provides dual-name detection (English vs Japanese/Romaji), 
@@ -401,7 +403,28 @@ export const getStreamingPlatforms = (anime) => {
 };
 
 /**
- * Checks whether an anime matches a search query across all dual titles and synopsis
+ * Resolves the creator/artist for a given anime
+ */
+export const getAnimeCreator = (anime) => {
+  if (!anime) return null;
+  const rawTitle = (anime.title || '').toLowerCase();
+  const { englishTitle, romajiTitle } = getDualTitles(anime);
+  const en = (englishTitle || '').toLowerCase();
+  const rom = (romajiTitle || '').toLowerCase();
+
+  const fullStr = `${rawTitle} ${en} ${rom}`;
+
+  for (const creator of CREATORS_DATA) {
+    if (creator.associatedTitles.some(titleKey => fullStr.includes(titleKey))) {
+      return creator;
+    }
+  }
+
+  return null;
+};
+
+/**
+ * Checks whether an anime matches a search query across dual titles, creator, and synopsis
  */
 export const matchesAnimeSearch = (anime, query) => {
   if (!query || !query.trim()) return true;
@@ -418,6 +441,13 @@ export const matchesAnimeSearch = (anime, query) => {
   if (anime.titles?.en && anime.titles.en.toLowerCase().includes(q)) return true;
   if (anime.titles?.en_jp && anime.titles.en_jp.toLowerCase().includes(q)) return true;
   if (anime.titles?.ja_jp && anime.titles.ja_jp.toLowerCase().includes(q)) return true;
+
+  // Check creator match
+  const creator = getAnimeCreator(anime);
+  if (creator) {
+    if (creator.name.toLowerCase().includes(q)) return true;
+    if (creator.japaneseName.toLowerCase().includes(q)) return true;
+  }
 
   const synopsis = (anime.synopsis || '').toLowerCase();
   if (synopsis.includes(q)) return true;

@@ -1,9 +1,10 @@
 import React, { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import { 
   X, Star, Calendar, Film, Headphones, MessageSquare, 
-  ExternalLink, Clock, Tag, Award, Info, Sparkles, Tv, PlayCircle, Globe
+  ExternalLink, Clock, Tag, Award, Info, Sparkles, Tv, PlayCircle, Globe, Palette
 } from 'lucide-react';
-import { getDualTitles, getStreamingPlatforms } from '../utils/animeUtils';
+import { getDualTitles, getStreamingPlatforms, getAnimeCreator } from '../utils/animeUtils';
 
 const FALLBACK_POSTER = 'https://media.kitsu.app/anime/poster_images/7442/large.jpg';
 
@@ -40,6 +41,9 @@ const AnimeDetailModal = ({ anime, onClose }) => {
   const streamingPlatforms = getStreamingPlatforms(anime);
   const crunchyroll = streamingPlatforms.find(p => p.id === 'crunchyroll');
   const otherPlatforms = streamingPlatforms.filter(p => p.id !== 'crunchyroll');
+
+  // Resolve creator/artist
+  const creator = getAnimeCreator(anime);
 
   return (
     <div 
@@ -142,6 +146,19 @@ const AnimeDetailModal = ({ anime, onClose }) => {
                   <span className="font-semibold text-rose-400">日本語:</span>
                   <span>{japaneseTitle}</span>
                 </div>
+              )}
+
+              {creator && (
+                <Link
+                  to={`/creators?creator=${creator.id}`}
+                  onClick={onClose}
+                  className="inline-flex items-center gap-1.5 bg-purple-900/30 hover:bg-purple-900/60 border border-purple-500/40 text-purple-300 hover:text-purple-200 text-xs px-2.5 py-1 rounded-lg transition-colors cursor-pointer group"
+                  title={`View more anime works by ${creator.name}`}
+                >
+                  <Palette size={13} className="text-purple-400 group-hover:scale-110 transition-transform" />
+                  <span className="font-semibold text-purple-400">Creator:</span>
+                  <span className="underline decoration-purple-500/40 underline-offset-2">{creator.name}</span>
+                </Link>
               )}
             </div>
 

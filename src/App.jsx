@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { HashRouter, Routes, Route, NavLink, Link, useLocation } from 'react-router-dom';
-import { Home, Compass, Layers, Image as ImageIcon, Search, Menu, X, Newspaper } from 'lucide-react';
+import { Home, Compass, Layers, Image as ImageIcon, Search, Menu, X, Newspaper, Palette } from 'lucide-react';
 
 import Discovery from './pages/Discovery';
 import Categories from './pages/Categories';
+import Creators from './pages/Creators';
 import News from './pages/News';
 import Entertainment from './pages/Entertainment';
 import Utility from './pages/Utility';
@@ -116,6 +117,11 @@ function AppContent() {
                 <span>Categories</span>
               </NavLink>
 
+              <NavLink to="/creators" className={mobileDrawerLinkClass}>
+                <Palette className="text-purple-400" size={20} />
+                <span>Creators & Artists</span>
+              </NavLink>
+
               <NavLink to="/news" className={mobileDrawerLinkClass}>
                 <Newspaper className="text-rose-400" size={20} />
                 <span>Daily News</span>
@@ -166,6 +172,11 @@ function AppContent() {
             <span>Categories</span>
           </NavLink>
 
+          <NavLink to="/creators" className={desktopNavLinkClass}>
+            <Palette className="text-purple-400" size={20} />
+            <span>Creators & Artists</span>
+          </NavLink>
+
           <NavLink to="/news" className={desktopNavLinkClass}>
             <Newspaper className="text-rose-400" size={20} />
             <span>Daily News</span>
@@ -203,6 +214,7 @@ function AppContent() {
           <Routes>
             <Route path="/" element={<Discovery />} />
             <Route path="/categories" element={<Categories />} />
+            <Route path="/creators" element={<Creators />} />
             <Route path="/news" element={<News />} />
             <Route path="/fun" element={<Entertainment />} />
             <Route path="/tools" element={<Utility />} />
