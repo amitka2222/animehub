@@ -168,15 +168,36 @@ async function fetchDiscoveryData() {
 }
 
 async function run() {
+  console.log('Starting automated data sync...');
+  
+  // 1. Always fetch daily news first
   try {
-    await fetchDiscoveryData();
-    await fetchCategories();
+    console.log('[1/3] Updating Daily Anime News...');
     await fetchAnimeNews();
-    console.log('All anime data, 18 categories, and daily news updated successfully!');
+    console.log('✓ Daily News updated successfully.');
   } catch (error) {
-    console.error('Data update encountered an error:', error);
-    process.exit(1);
+    console.error('✗ Error updating daily news:', error.message);
   }
+
+  // 2. Fetch discovery data
+  try {
+    console.log('[2/3] Updating Discovery Data...');
+    await fetchDiscoveryData();
+    console.log('✓ Discovery data updated successfully.');
+  } catch (error) {
+    console.error('✗ Error updating discovery data:', error.message);
+  }
+
+  // 3. Fetch categories data
+  try {
+    console.log('[3/3] Updating Categories Data...');
+    await fetchCategories();
+    console.log('✓ Categories data updated successfully.');
+  } catch (error) {
+    console.error('✗ Error updating categories data:', error.message);
+  }
+
+  console.log('Data synchronization run finished.');
 }
 
 run();

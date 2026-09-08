@@ -2,12 +2,12 @@ name: Fetch Anime Data & Daily News
 
 on:
   schedule:
-    # Run daily at 06:00 UTC
-    - cron: '0 6 * * *'
+    # Run every 6 hours: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
-  fetch-and-commit:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,6 +20,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
           
       - name: Install dependencies
         run: npm ci
@@ -27,9 +28,18 @@ jobs:
       - name: Fetch Data & News
         run: node scripts/fetch-data.js
         
-      - name: Commit and Push changes
+      - name: Build Production Bundle
+        run: npm run build
+        
+      - name: Commit and Push to main
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(data): daily automated news, discovery & categories update"
+          commit_message: "chore(data): automated daily news, discovery & categories update [skip ci]"
           file_pattern: "public/data/*.json src/data/categoryFallbackData.js src/data/newsFallbackData.js"
           branch: main
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
