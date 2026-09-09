@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T10:12:15.835Z",
+  "lastUpdated": "2026-09-09T15:24:00.654Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探���コナン"
+        "ja_jp": "名探偵コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T101212Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c3cb5484a0236876db5fe0e6b6ca9535e830b4a8b2b2ea800ef41f594cb92e42",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T152357Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c3ac184789008b01a78cfd85ad004813007d53550f6cf46f4d7ee9de4a2a3599",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
@@ -1023,6 +1023,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "50192",
+      "id": "50192",
+      "title": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+      "titles": {
+        "en": null,
+        "en_jp": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
+        "ja_jp": "青春ブタ野郎はディアフレンドの夢を見ない"
+      },
+      "url": "https://kitsu.io/anime/seishun-buta-yarou-wa-dear-friend-no-yume-wo-minai",
+      "poster": "https://media.kitsu.app/anime/50192/poster_image/large-2e1cbe6309b9a34c5f2222826551987f.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50192/poster_image/large-2e1cbe6309b9a34c5f2222826551987f.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50192/poster_image/small-f4cb7002301dab7a861a8b98f61f012a.jpeg"
+        }
+      },
+      "synopsis": "Theatrical follow-up to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.\n\n\"Actually, I’m Touko Kirishima.\"\n\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another. The social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n\n―Stop Touko Kirishima,\n―Before reality is rewritten.\n\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".\n\n(Source: Crunchyroll News, edited)",
+      "score": "N/A",
+      "episodes": 1,
+      "rank": 6,
+      "season": "movie",
+      "startDate": "2026-10-16",
+      "year": "2026",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "49752",
       "id": "49752",
       "title": "Ao no Hako 2nd Season",
@@ -1043,7 +1072,7 @@
       "synopsis": "The second season of Ao no Hako",
       "score": "N/A",
       "episodes": null,
-      "rank": 6,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
@@ -1072,7 +1101,7 @@
       "synopsis": "The second season of Aoashi.",
       "score": "N/A",
       "episodes": null,
-      "rank": 7,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
@@ -1101,7 +1130,7 @@
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "score": "N/A",
       "episodes": null,
-      "rank": 8,
+      "rank": 9,
       "season": "TV",
       "startDate": "2026-10-09",
       "year": "2026",
@@ -1130,7 +1159,7 @@
       "synopsis": "In celebration of \"Magic Knight Rayearth”anime’s 30th anniversary, a new animation project has been launched!",
       "score": "N/A",
       "episodes": null,
-      "rank": 9,
+      "rank": 10,
       "season": "TV",
       "startDate": "2026-10-07",
       "year": "2026",
