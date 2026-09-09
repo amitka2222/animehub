@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-08T20:22:46.051Z",
+  "lastUpdated": "2026-09-09T01:43:44.731Z",
   "items": [
+    {
+      "id": "ann-MS8uMjQxNTQw",
+      "title": "Jaadugar: A Witch in Mongolia ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episode-11/.241540",
+      "description": "And so our witch reveals herself.",
+      "pubDate": "2026-09-09T00:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1MjU",
+      "title": "Though I Am an Inept Villainess ‒ Episode 9",
+      "link": "https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-9/.241525",
+      "description": "Reirin has had it with not being believed, with being underestimated, and that means that she’s done asking for permission.",
+      "pubDate": "2026-09-08T23:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1MjQ",
+      "title": "Goodbye, Lara ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/goodbye-lara/episode-10/.241524",
+      "description": "Did Lara never really have a chance?",
+      "pubDate": "2026-09-08T22:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1MTM",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-7/.241513",
+      "description": "Especially fresh off the heels of some of the best episodes of Thousand-Year Blood War yet, an episode like this one that still feels half-baked is pretty disappointing.",
+      "pubDate": "2026-09-08T21:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1MTE",
+      "title": "Manga Diary of a Male Porn Star Manga Listed to End With 12th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-08/manga-diary-of-a-male-porn-star-manga-listed-to-end-with-12th-volume/.241511",
+      "description": "Manga launched in January 2020; Seven Seas Entertainment publishes manga in English",
+      "pubDate": "2026-09-08T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1MDY",
+      "title": "Sparks of Tomorrow ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-10/.241506",
+      "description": "I am so tired of this show and how it perpetually robs itself of any tension and expects me to care about characters who only rarely behave like actual human beings.",
+      "pubDate": "2026-09-08T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1Mzg",
+      "title": "Deadline: Lionsgate Partners with Toei Animation for U.S. Distribution of Projects Including Monkey Quest Film",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-08/deadline-lionsgate-partners-with-toei-animation-for-u.s-distribution-of-projects-including-monkey-/.241538",
+      "description": "Lionsgate to handle distribution for 2027 film in U.S.",
+      "pubDate": "2026-09-08T20:17:05.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": null
+    },
     {
       "id": "ann-cy8uMjQxNTA4",
       "title": "Akira Anime Film's 4K Re-Release Opens With US$3.1 Million in U.S.",
@@ -428,76 +498,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-07/japanese-animation-tv-ranking-august-24-30/.241458",
       "description": "Detective Conan gets 5.9% rating; From Old Country Bumpkin to Master Swordsman season 2 maintains 2.6% rating",
       "pubDate": "2026-09-07T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjM5NzAw",
-      "title": "Naoko Yamada Visited Mongolia to Prepare for Jaadugar: A Witch in Mongolia Anime",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/naoko-yamada-visited-mongolia-to-prepare-for-jaadugar-a-witch-in-mongolia-anime/.239700",
-      "description": "We spoke with Yamada about the anime's unique position as a historical series set in 13th-century Mongolia, and about how she and Góngora traveled to its real-life setting to experience life there firsthand.",
-      "pubDate": "2026-09-07T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-aS8uMjQxNDkz",
-      "title": "Hololive VTuber Agency Launch 1st TV Anime Project From Studio Kai",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/hololive-vtuber-agency-launch-1st-tv-anime-project-from-studio-kai/.241493",
-      "description": "\"Odeholo\" project is part of hololive's 10th anniversary celebration",
-      "pubDate": "2026-09-07T12:42:28.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTQ4OA",
-      "title": "Chiikawa Film Earns Total of 13.9 Billion Yen, Currently Biggest Film of 2026 in Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/chiikawa-film-earns-total-of-13.9-billion-yen-currently-biggest-film-of-2026-in-japan/.241488",
-      "description": "Film surpassed Detective Conan: Highway no Datenshi film's 13.7 billion yen cumulative earning",
-      "pubDate": "2026-09-07T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQxNDkx",
-      "title": "A Tale of the Secret Saint TV Anime Reveals More Cast, October 3 Debut in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/a-tale-of-the-secret-saint-tv-anime-reveals-more-cast-october-3-debut-in-video/.241491",
-      "description": "Kikunosuke Toya joins cast as Curtis Bannister",
-      "pubDate": "2026-09-07T11:49:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTQ4NQ",
-      "title": "New Sgt. Frog TV Anime Reveals October 3 Debut, Main Cast in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/new-sgt-frog-tv-anime-reveals-october-3-debut-main-cast-in-video/.241485",
-      "description": "Makoto Koichi, more star in series featuring brand-new cast",
-      "pubDate": "2026-09-07T09:52:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Keroro Gunsou☆' Reveals Main Cast, Staff, First Promo",
-      "link": "https://myanimelist.net/news/74681689?_location=rss",
-      "description": "The official website for a new television anime adaptation of Mine Yoshizaki's Keroro Gunsou (Sgt. Frog) manga revealed the main cast, staff, a key visual (pictured right), and the first promotional video on Monday. The anime series is scheduled to premiere on October 3 at 9:30 a.m. on TV Tokyo. Cast Keroro Gunso: Makoto Koichi (Tomo-chan wa Onnanoko!) NEW Tamama Nitobei: Rika Nagae (PriPri Chii-chan!!) NEW Giroro Gocho: Toshiki Masuda (Boku no Hero Academia) NEW Kururu Socho: Kousuke Echi...",
-      "pubDate": "2026-09-07T09:41:33.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788773969-1baa655cafd3b522a5144d7caf477fc5.jpeg"
-    },
-    {
-      "id": "ann-LS8uMjQxNDg0",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals More Cast Members, Opening Song in 2nd Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-more-cast-members-opening-song-in-2nd-/.241484",
-      "description": "Miyuki Sakurai, Natsumi Fujiwara, Takehito Koyasu, more join anime's cast; yama performs opening song \"Sayonara wa Iwanai\"",
-      "pubDate": "2026-09-07T09:33:59.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T20:23:03.910Z",
+  "lastUpdated": "2026-09-09T01:43:58.605Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探偵コ���ン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -107,7 +107,7 @@
         }
       },
       "synopsis": "The second season of Youjo Senki.",
-      "score": "80.67%",
+      "score": "80.65%",
       "episodes": 12,
       "rank": 4,
       "season": "TV",
@@ -165,7 +165,7 @@
         }
       },
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
-      "score": "82.43%",
+      "score": "82.37%",
       "episodes": 24,
       "rank": 6,
       "season": "TV",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "score": "84.45%",
+      "score": "84.5%",
       "episodes": 14,
       "rank": 7,
       "season": "TV",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260908%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260908T202300Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7ee6691e7c924a23b180f8b5a993e4f0f469fd1872145e263cab9a0fe6c9f598",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T014355Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a8d6204c67052c1d0ce6fe0ba5aa0564e809c334210725ac94cdeb94727cd5ac",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
