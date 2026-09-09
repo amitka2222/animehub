@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T01:43:58.605Z",
+  "lastUpdated": "2026-09-09T10:12:15.835Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コ���ン"
+        "ja_jp": "名探���コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -107,7 +107,7 @@
         }
       },
       "synopsis": "The second season of Youjo Senki.",
-      "score": "80.65%",
+      "score": "80.64%",
       "episodes": 12,
       "rank": 4,
       "season": "TV",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T014355Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a8d6204c67052c1d0ce6fe0ba5aa0564e809c334210725ac94cdeb94727cd5ac",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T101212Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c3cb5484a0236876db5fe0e6b6ca9535e830b4a8b2b2ea800ef41f594cb92e42",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",

@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-09T01:43:44.731Z",
+  "lastUpdated": "2026-09-09T10:12:11.007Z",
   "items": [
+    {
+      "id": "ann-di8uMjQxNTUz",
+      "title": "Redoing My Youth In Another World -The God Of Death Is My Fanboy- BL Manga Gets 'Motion Comic' on TV",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/redoing-my-youth-in-another-world-the-god-of-death-is-my-fanboy-bl-manga-gets-motion-comic-on-tv/.241553",
+      "description": "January 2027 series incorporates generative AI into traditional motion comic methods",
+      "pubDate": "2026-09-09T08:13:41.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1NTU",
+      "title": "Fate/EXTRA Record Game Streams Character Video for Saber",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/fate-extra-record-game-streams-character-video-for-saber/.241555",
+      "description": "Sakura Tange reprises role in January 28 game",
+      "pubDate": "2026-09-09T08:03:23.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": null
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "From The Apothecary Diaries to Jurassic Shadows: Norihiro Naganuma's Next Creative Challenge",
+      "link": "https://myanimelist.net/news/74690718?_location=rss",
+      "description": "What happens when the director behind Kusuriya no Hitorigoto (The Apothecary Diaries) and Mahoutsukai no Yome (The Ancient Magus' Bride) trades court intrigue and fantasy for dinosaurs, ninjas, and superpowered makeup? That is the question at the heart of Ryuugeshou no Shinobi (Jurassic Shadows), the first fully original anime project from director Norihiro Naganuma. The series made its world premiere announcement at Anime Expo 2026, where Naganuma appeared alongside Avex Pictures producer...",
+      "pubDate": "2026-09-09T06:30:09.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788934799-a8a68ce2729b480cc9530b1146ed7839.jpeg"
+    },
+    {
+      "id": "ann-ay8uMjQxNTUx",
+      "title": "Shiden Kanzaki Launches Black Bullet Reboot Project, New Original Work",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/shiden-kanzaki-launches-black-bullet-reboot-project-new-original-work/.241551",
+      "description": "New World Order reboot to start with revised story, end with completely new story",
+      "pubDate": "2026-09-09T06:26:27.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": null
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Black Bullet' Light Novel Relaunches After 12 Years",
+      "link": "https://myanimelist.net/news/74690587?_location=rss",
+      "description": "Publishing company Kadokawa announced on Wednesday that Shiden Kanzaki's action sci-fi light novel Black Bullet is relaunching following a 12-year hiatus. The reboot, titled Black Bullet: New World Order, will be a revised and expanded version of the original light novel. The story will cover the events of the first six original volumes through the New World Order's fourth volume, before continuing into a completely new arc in the fifth volume, which will be a fully rewritten version...",
+      "pubDate": "2026-09-09T05:43:51.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788932506-525e2e9396166d3b08b257f7b361635f.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Kin to Tetsu' Concludes Serialization",
+      "link": "https://myanimelist.net/news/74690517?_location=rss",
+      "description": "Ayaka Katayama's Kin to Tetsu (Fungus and Iron) has concluded with its 105th chapter in the October 2026 issue of Bessatsu Shounen Magazine on Tuesday, marking the end of the series' five-year serialization. Katayama began drawing the dystopian sci-fi suspense manga in Bessatsu Shounen Magazine in March 2021. Kodansha published the ninth volume on April 9, with the tenth and final volume set to be released on October 8. Kodansha USA licensed the manga for digital release in English in...",
+      "pubDate": "2026-09-09T05:13:25.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788930532-c280d6fedb2aea6bf9cf4cc52974a388.jpeg"
+    },
+    {
+      "id": "ann-LS8uMjQxNTQ5",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime's Video Reveals More Cast, Opening Song, October 6 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-video-reveals-more-cast-/.241549",
+      "description": "Takumi Yamazaki, Taiten Kusunoki, Megumi Toyoguchi join cast",
+      "pubDate": "2026-09-09T04:22:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-LjI0MTUxNg",
+      "title": "It Took 15,000 Drawings to Make 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You' Dance",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-08/it-took-15000-drawings-to-make-the-100-girlfriends-who-really-really-really-really-really-love-you-/.241516",
+      "description": "Watch the 10-minute idol performance come to life in hand-drawn 2D frames",
+      "pubDate": "2026-09-09T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-cy8uMjQxNTIw",
+      "title": "Over 100 Pokémon Take Over Tokyo's Nihonbashi, Yaesu Districts",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-08/over-100-pokemon-take-over-tokyo-nihonbashi-yaesu-districts/.241520",
+      "description": "Can you find 'em all?",
+      "pubDate": "2026-09-09T03:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": null
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Cheat Fuyo' Unveils Additional Cast, Opening Theme, First Promo",
+      "link": "https://myanimelist.net/news/74690257?_location=rss",
+      "description": "The official website for the television anime adaptation of Asa Rokushima's Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add \"Enhancement Points\" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want,...",
+      "pubDate": "2026-09-09T03:22:49.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788924097-7254d6525f5ca7aed427afa22a93132b.jpeg"
+    },
+    {
+      "id": "ann-bi8uMjQxNTQ0",
+      "title": "Live-Action Anata o Korosu Tabi BL Series Gets 2nd Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-08/live-action-anata-o-korosu-tabi-bl-series-gets-2nd-season/.241544",
+      "description": "Yakuza story returns on October 8 with new, returning cast members",
+      "pubDate": "2026-09-09T02:11:27.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": null
+    },
+    {
+      "id": "ann-Ni8uMjQxNTQy",
+      "title": "'She Professed Herself Pupil of the Wise Man' Manga to End in Volume 16",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-08/she-professed-herself-pupil-of-the-wise-man-manga-to-end-in-volume-16/.241542",
+      "description": "Manga adaptation of light novels debuted in 2016",
+      "pubDate": "2026-09-09T02:00:51.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": null
+    },
+    {
+      "id": "ann-Ly4yNDE1NDE",
+      "title": "Amasian TV Streams Hyakusho Kizoku-the farmer's days Seasons 2, 3 for Free",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-08/amasian-tv-streams-hyakusho-kizoku-the-farmer-days-seasons-2-3-for-free/.241541",
+      "description": "Fullmetal Alchemist creator Hiromu Arakawa's anime streams with English subtitles",
+      "pubDate": "2026-09-09T01:23:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
     {
       "id": "ann-MS8uMjQxNTQw",
       "title": "Jaadugar: A Witch in Mongolia ‒ Episode 11",
@@ -370,136 +500,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-08T09:01:10.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-aS8uMjQxNDk4",
-      "title": "The World is Dancing Anime Casts Nobunaga Shimazaki",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/the-world-is-dancing-anime-casts-nobunaga-shimazaki/.241498",
-      "description": "Shimazaki plays protagonist Oniyasha as young adult",
-      "pubDate": "2026-09-08T05:59:03.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-bi8uMjQxNDk3",
-      "title": "Geek Pictures Unveils Panchsheela Indian-Japanese Magical Girl Animation",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/geek-pictures-unveils-panchsheela-indian-japanese-magical-girl-animation/.241497",
-      "description": "Tokyo-based Geek Pictures' subsidiary Geek Pictures India produces project",
-      "pubDate": "2026-09-08T04:00:49.000Z",
-      "source": "Anime News Network",
-      "category": "Animation",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE0ODc",
-      "title": "Marriage Toxin TV Anime's 2nd Season Reveals Promo Video, Key Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/marriage-toxin-tv-anime-2nd-season-reveals-promo-video-key-visual/.241487",
-      "description": "1st season of anime based on Jōmyaku, Mizuki Yoda's manga premiered on April 7",
-      "pubDate": "2026-09-08T01:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "The Power of Will: Rie Takahashi and Saori Hayami on Rediscovering 'Magic Knight Rayearth'",
-      "link": "https://myanimelist.net/news/74684465?_location=rss",
-      "description": "Since its debut in 1993, CLAMP's Magic Knight Rayearth has remained a beloved classic, remembered for its memorable heroines, imaginative fantasy world, and themes of friendship and willpower. Now, over thirty years later, the series returns with a brand-new television anime adaptation, introducing the magical world of Cefiro to a new generation when it premieres this October. Ahead of the anime's advance screening at Anime Expo 2026, we sat down with Rie Takahashi and Saori Hayami, w...",
-      "pubDate": "2026-09-07T23:40:56.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788824365-ac533e40c02bff86dc3303db7160bb27.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTQ5Ng",
-      "title": "You Are a Four Leaf Clover Romantic Suspense Manga Gets Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/you-are-a-four-leaf-clover-romantic-suspense-manga-gets-anime/.241496",
-      "description": "Koushi's story of bullied student whose 1st love suddenly appears years later",
-      "pubDate": "2026-09-07T23:06:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE0NzA",
-      "title": "Fake It to Break It! Manga Changes Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/fake-it-to-break-it-manga-changes-artists/.241470",
-      "description": "Megumi Dorokawa takes over as artist from September 10",
-      "pubDate": "2026-09-07T19:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxNDY5",
-      "title": "Tamer: Trash-Tier to Top-Tier Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/tamer-trash-tier-to-top-tier-manga-ends/.241469",
-      "description": "NiwaRhythm's manga adaptation of Tamaki Yoshigae's novels debuted in October 2020",
-      "pubDate": "2026-09-07T17:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDEyMTg",
-      "title": "Look Back Live-Action Film Review",
-      "link": "https://www.animenewsnetwork.com/review/look-back/live-action-film/.241218",
-      "description": "The live-action movie of Tatsuki Fujimoto’s manga tragedy can’t match the anime but is still a moving experience.",
-      "pubDate": "2026-09-07T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Kimi wa Yotsuba no Clover' Gets Anime Adaptation",
-      "link": "https://myanimelist.net/news/74682926?_location=rss",
-      "description": "The official X (formerly Twitter) account of author Koushi announced on Tuesday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga is receiving an anime adaptation, revealing an announcement visual (pictured). Koushi began serializing the romantic thriller manga in Shounen Champion in July 2024. Akita Shoten published the tenth volume on Tuesday. Synopsis Uichi, once a happy and popular boy, is now the victim of cruel bullying. Then suddenly Yotsuha, his childhood friend and f...",
-      "pubDate": "2026-09-07T15:43:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788795753-d4475c9208c4229dd5876a97691495ac.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE0NTc",
-      "title": "Japan's Video Game Rankings, August 24-30",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/japan-video-game-rankings-august-24-30/.241457",
-      "description": "Rhythm Heaven Groove stays at #1 for 4 weeks straight; ELDEN RING Tarnished Edition for Switch 2 debuts at #2",
-      "pubDate": "2026-09-07T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Studio KAI Produces Hololive TV Anime 'Odeholo'",
-      "link": "https://myanimelist.net/news/74682835?_location=rss",
-      "description": "Production company Kadokawa and entertainment company Cover Corporation announced on Monday that VTuber agency Hololive is producing a television anime titled Odeholo, revealing an announcement visual (pictured above) and announcement promo. Studio KAI, the animation studio behind Yuusha-kei ni Shosu (Sentenced to Be a Hero) and Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu (Skeleton Knight in Another World), is producing the anime project. The project was revealed during the \"Hololive...",
-      "pubDate": "2026-09-07T15:11:45.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788793853-032779f5ed4a9c76373d3133113ea8b9.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTQ3Mg",
-      "title": "Manta to Distribute Manga from KADOKAWA and Square Enix Globally",
-      "link": "https://www.animenewsnetwork.com/press-release/2026-09-07/manta-to-distribute-manga-from-kadokawa-and-square-enix-globally/.241472",
-      "description": "More than 300 titles have been added to Manta's catalogue, among them The Apothecary Diaries, Proud to be the Villainess, Daemons of the Shadow Realm, & more.",
-      "pubDate": "2026-09-07T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-MC8uMjQxNDU4",
-      "title": "Japanese Animation TV Ranking, August 24-30",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-07/japanese-animation-tv-ranking-august-24-30/.241458",
-      "description": "Detective Conan gets 5.9% rating; From Old Country Bumpkin to Master Swordsman season 2 maintains 2.6% rating",
-      "pubDate": "2026-09-07T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
