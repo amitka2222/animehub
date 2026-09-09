@@ -6,9 +6,57 @@ import {
 } from 'lucide-react';
 import { INITIAL_NEWS_DATA } from '../data/newsFallbackData';
 
+const NewsThumbnail = ({ image, title, source, category, isFeatured = false }) => {
+  const [imgError, setImgError] = useState(false);
+
+  const getSourceGradient = () => {
+    switch (source) {
+      case 'Crunchyroll News':
+        return 'from-amber-600/30 via-orange-950/40 to-gray-950 border-orange-500/30 text-orange-400';
+      case 'Anime News Network':
+        return 'from-indigo-950/80 via-blue-950/40 to-gray-950 border-indigo-500/30 text-indigo-400';
+      case 'MyAnimeList':
+        return 'from-purple-950/80 via-violet-950/40 to-gray-950 border-purple-500/30 text-purple-400';
+      default:
+        return 'from-rose-950/80 via-gray-900 to-gray-950 border-rose-500/30 text-rose-400';
+    }
+  };
+
+  const containerClass = isFeatured
+    ? "w-full lg:w-72 h-48 sm:h-56 rounded-2xl overflow-hidden shadow-xl shrink-0"
+    : "w-full h-40 sm:h-44 rounded-xl overflow-hidden mb-3.5 shadow-md shrink-0";
+
+  if (!image || imgError) {
+    return (
+      <div className={`${containerClass} bg-gradient-to-br ${getSourceGradient()} border flex flex-col items-center justify-center p-4 relative group-hover:scale-101 transition-transform select-none`}>
+        <div className="flex flex-col items-center text-center z-10 space-y-1.5">
+          <div className="p-2.5 rounded-xl bg-gray-900/80 border border-white/10 shadow-inner">
+            <Newspaper size={isFeatured ? 26 : 20} className="opacity-90" />
+          </div>
+          <span className="text-[11px] font-bold text-gray-200 tracking-wide line-clamp-1">{category || source}</span>
+          <span className="text-[10px] text-gray-400 font-medium">{source}</span>
+        </div>
+        <div className="absolute -bottom-6 -right-6 w-24 h-24 rounded-full bg-white/5 blur-xl pointer-events-none" />
+      </div>
+    );
+  }
+
+  return (
+    <div className={`${containerClass} bg-gray-950 border border-gray-700/60 relative`}>
+      <img
+        src={image}
+        alt={title}
+        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+        loading="lazy"
+        onError={() => setImgError(true)}
+      />
+    </div>
+  );
+};
+
 const News = () => {
   const [newsData, setNewsData] = useState(INITIAL_NEWS_DATA);
-  const [selectedSource, setSelectedSource] = useState('all'); // 'all', 'Anime News Network', 'MyAnimeList'
+  const [selectedSource, setSelectedSource] = useState('all'); // 'all', 'Crunchyroll News', 'Anime News Network', 'MyAnimeList'
   const [searchQuery, setSearchQuery] = useState('');
   const [refreshing, setRefreshing] = useState(false);
   const [refreshMessage, setRefreshMessage] = useState(null);
@@ -33,24 +81,24 @@ const News = () => {
       console.warn('Could not fetch static news.json, using current data:', err.message);
     }
 
-    // 2. Query live RSS feed via RSS-to-JSON for breaking stories
+    // 2. Query live Crunchyroll RSS feed via RSS-to-JSON for breaking stories with native images
     try {
-      const liveRes = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.animenewsnetwork.com%2Fall%2Frss.xml%3Fann-edition%3Dw');
+      const liveRes = await fetch('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcr-news-api-service.prd.crunchyrollsvc.com%2Fv1%2Fen-US%2Frss');
       if (liveRes.ok) {
         const liveJson = await liveRes.json();
         if (liveJson.status === 'ok' && Array.isArray(liveJson.items)) {
           const liveItems = liveJson.items.map(it => ({
-            id: 'ann-live-' + Math.abs((it.link || it.title).split('').reduce((a, b) => ((a << 5) - a) + b.charCodeAt(0), 0)),
+            id: 'cr-live-' + Math.abs((it.link || it.title).split('').reduce((a, b) => ((a << 5) - a) + b.charCodeAt(0), 0)),
             title: it.title,
             link: it.link,
             description: (it.description || '').replace(/<[^>]*>/g, '').trim(),
             pubDate: new Date(it.pubDate).toISOString(),
-            source: 'Anime News Network',
-            category: it.categories?.[0] || 'Anime',
+            source: 'Crunchyroll News',
+            category: it.categories?.[0] || 'Crunchyroll News',
             image: it.thumbnail || it.enclosure?.link || null
           }));
 
-          // Merge & deduplicate
+          // Merge & deduplicate, preserving existing high-res images
           const combined = [...liveItems, ...baseItems];
           const seen = new Set();
           const unique = [];
@@ -58,6 +106,11 @@ const News = () => {
             const key = (item.title || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 35);
             if (!seen.has(key)) {
               seen.add(key);
+              // If incoming has no image, preserve baseItems image if present
+              if (!item.image) {
+                const match = baseItems.find(b => (b.title || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 35) === key);
+                if (match?.image) item.image = match.image;
+              }
               unique.push(item);
             }
           }
@@ -65,7 +118,7 @@ const News = () => {
 
           setNewsData({
             lastUpdated: new Date().toISOString(),
-            items: unique.slice(0, 50)
+            items: unique.slice(0, 60)
           });
         }
       }
@@ -193,6 +246,19 @@ const News = () => {
             All Sources ({sources.all})
           </button>
 
+          {sources['Crunchyroll News'] && (
+            <button
+              onClick={() => setSelectedSource('Crunchyroll News')}
+              className={`px-3 py-1.5 rounded-xl text-xs font-medium whitespace-nowrap transition-all cursor-pointer ${
+                selectedSource === 'Crunchyroll News'
+                  ? 'bg-orange-600 text-white shadow-md shadow-orange-600/30 font-semibold'
+                  : 'bg-gray-700/70 text-gray-300 hover:bg-gray-700'
+              }`}
+            >
+              Crunchyroll News ({sources['Crunchyroll News']})
+            </button>
+          )}
+
           {sources['Anime News Network'] && (
             <button
               onClick={() => setSelectedSource('Anime News Network')}
@@ -258,27 +324,26 @@ const News = () => {
       {featuredItem && (
         <article className="relative overflow-hidden bg-gradient-to-r from-rose-950/60 via-gray-900 to-indigo-950/40 rounded-2xl sm:rounded-3xl border border-rose-500/30 p-5 sm:p-7 shadow-xl group">
           <div className="flex flex-col lg:flex-row gap-5 lg:gap-8 items-start">
-            {featuredItem.image ? (
-              <div className="w-full lg:w-72 h-44 sm:h-52 rounded-xl overflow-hidden shadow-lg border border-gray-700 shrink-0 bg-gray-950">
-                <img
-                  src={featuredItem.image}
-                  alt={featuredItem.title}
-                  className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-300"
-                />
-              </div>
-            ) : (
-              <div className="w-full lg:w-48 h-32 rounded-xl bg-rose-900/20 border border-rose-500/20 flex flex-col items-center justify-center text-rose-400 shrink-0">
-                <Sparkles size={28} className="mb-1" />
-                <span className="text-[11px] font-bold uppercase tracking-wider">Featured Story</span>
-              </div>
-            )}
+            <NewsThumbnail
+              image={featuredItem.image}
+              title={featuredItem.title}
+              source={featuredItem.source}
+              category={featuredItem.category}
+              isFeatured={true}
+            />
 
             <div className="flex-1 min-w-0">
               <div className="flex flex-wrap items-center gap-2 mb-2">
                 <span className="bg-rose-600 text-white text-[10px] sm:text-xs font-extrabold px-2.5 py-0.5 rounded shadow">
                   TOP STORY
                 </span>
-                <span className="text-[11px] text-rose-300 font-semibold bg-rose-500/10 border border-rose-500/20 px-2 py-0.5 rounded">
+                <span className={`text-[11px] font-semibold border px-2 py-0.5 rounded ${
+                  featuredItem.source === 'Crunchyroll News'
+                    ? 'bg-orange-500/10 text-orange-300 border-orange-500/30'
+                    : featuredItem.source === 'Anime News Network'
+                    ? 'bg-indigo-500/10 text-indigo-300 border-indigo-500/30'
+                    : 'bg-purple-500/10 text-purple-300 border-purple-500/30'
+                }`}>
                   {featuredItem.source}
                 </span>
                 <span className="text-[11px] text-gray-400 flex items-center gap-1">
@@ -320,21 +385,20 @@ const News = () => {
               className="bg-gray-800/80 hover:bg-gray-750 border border-gray-700/80 hover:border-rose-500/50 rounded-2xl p-4 transition-all duration-200 flex flex-col justify-between group shadow-md hover:-translate-y-0.5"
             >
               <div>
-                {/* Article thumbnail if available */}
-                {item.image && (
-                  <div className="h-36 sm:h-40 rounded-xl overflow-hidden mb-3 bg-gray-900 border border-gray-700/60">
-                    <img
-                      src={item.image}
-                      alt={item.title}
-                      className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-300"
-                      loading="lazy"
-                    />
-                  </div>
-                )}
+                {/* Article thumbnail with fallback */}
+                <NewsThumbnail
+                  image={item.image}
+                  title={item.title}
+                  source={item.source}
+                  category={item.category}
+                  isFeatured={false}
+                />
 
                 <div className="flex items-center justify-between gap-2 mb-2">
                   <span className={`text-[10px] font-bold px-2 py-0.5 rounded-md border ${
-                    item.source === 'Anime News Network'
+                    item.source === 'Crunchyroll News'
+                      ? 'bg-orange-950/70 text-orange-300 border-orange-500/40'
+                      : item.source === 'Anime News Network'
                       ? 'bg-indigo-950/60 text-indigo-300 border-indigo-500/30'
                       : 'bg-purple-950/60 text-purple-300 border-purple-500/30'
                   }`}>
