@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T15:17:45.945Z",
+  "lastUpdated": "2026-09-10T20:08:38.130Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "���探偵コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -78,7 +78,7 @@
         }
       },
       "synopsis": "Just because an anime features a young protagonist does not necessarily mean that it is an appropriate series to show your children. Young Shinnosuke, or Shin-chan for short, is a very creative young boy that lives with his eccentric parents, Misae and Hiroshi, as well as his Prima Donna younger sister, Himawari, and has loads of unique friends to boot. \nEveryday life for little Shin-chan is full of funny (and shocking) moments, most of which stem from his unnatural and sometimes profane use of language, as well as his constant acts of inappropriate behavior. Shin-chan's famous \"elephant\" gag is one of the most defining moments in Crayon Shin-chan, simply because it is the epitome of crude comedy, one of the core themes of the series.Crayon Shin-chan is a hilarious show about the day in the life of a young, curious boy, that captures the awkwardness of growing up as well as the beauty of being true to one's self, no matter what others say.",
-      "score": "78.15%",
+      "score": "78.14%",
       "episodes": null,
       "rank": 3,
       "season": "TV",
@@ -107,7 +107,7 @@
         }
       },
       "synopsis": "The second season of Youjo Senki.",
-      "score": "80.59%",
+      "score": "80.66%",
       "episodes": 12,
       "rank": 4,
       "season": "TV",
@@ -165,7 +165,7 @@
         }
       },
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
-      "score": "82.42%",
+      "score": "82.44%",
       "episodes": 24,
       "rank": 6,
       "season": "TV",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260910%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260910T151743Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=eecf8ae9b718c9950bc0bb3daed1e38a5c453fe762719dfec9e67fdbed81e9ba",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260910%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260910T200836Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1ce96d89fd7d2ec37dfb4a4ce16c292d0a862d3889cd91e2ea2e244454fa6576",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
@@ -965,6 +965,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "46275",
+      "id": "46275",
+      "title": "Tantei wa mou, Shindeiru. Season 2",
+      "titles": {
+        "en": "The Detective Is Already Dead Season 2",
+        "en_jp": "Tantei wa mou, Shindeiru. Season 2",
+        "ja_jp": "探偵はもう、死んでいる。Season2"
+      },
+      "url": "https://kitsu.io/anime/tantei-wa-mou-shindeiru-season-2",
+      "poster": "https://media.kitsu.app/anime/46275/poster_image/large-52959221a44e67e78ea77661ad965192.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/46275/poster_image/large-52959221a44e67e78ea77661ad965192.jpeg",
+          "image_url": "https://media.kitsu.app/anime/46275/poster_image/small-4c98ca6faff0a7ba6ca5e40c6ef95747.jpeg"
+        }
+      },
+      "synopsis": "The second season of Tantei wa mou, Shindeiru..",
+      "score": "N/A",
+      "episodes": null,
+      "rank": 4,
+      "season": "TV",
+      "startDate": "2026-10-07",
+      "year": "2026",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "48397",
       "id": "48397",
       "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
@@ -985,7 +1014,7 @@
       "synopsis": "The second season of Kikansha no Mahou wa Tokubetsu desu.",
       "score": "N/A",
       "episodes": null,
-      "rank": 4,
+      "rank": 5,
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
@@ -1014,7 +1043,7 @@
       "synopsis": "The second season of Black Clover.",
       "score": "N/A",
       "episodes": null,
-      "rank": 5,
+      "rank": 6,
       "season": "TV",
       "startDate": "2026-10-03",
       "year": "2026",
@@ -1043,7 +1072,7 @@
       "synopsis": "Theatrical follow-up to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.\n\n\"Actually, I’m Touko Kirishima.\"\n\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another. The social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n\n―Stop Touko Kirishima,\n―Before reality is rewritten.\n\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".\n\n(Source: Crunchyroll News, edited)",
       "score": "N/A",
       "episodes": 1,
-      "rank": 6,
+      "rank": 7,
       "season": "movie",
       "startDate": "2026-10-16",
       "year": "2026",
@@ -1072,7 +1101,7 @@
       "synopsis": "The second season of Ao no Hako",
       "score": "N/A",
       "episodes": null,
-      "rank": 7,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
@@ -1101,7 +1130,7 @@
       "synopsis": "The second season of Aoashi.",
       "score": "N/A",
       "episodes": null,
-      "rank": 8,
+      "rank": 9,
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
@@ -1130,38 +1159,9 @@
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "score": "N/A",
       "episodes": null,
-      "rank": 9,
-      "season": "TV",
-      "startDate": "2026-10-09",
-      "year": "2026",
-      "status": "upcoming",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "50392",
-      "id": "50392",
-      "title": "PSYЯEN",
-      "titles": {
-        "en": "PSYREN",
-        "en_jp": "PSYЯEN",
-        "ja_jp": "PSYREN -サイレン-"
-      },
-      "url": "https://kitsu.io/anime/psyren",
-      "poster": "https://media.kitsu.app/anime/50392/poster_image/large-06fe551262b90b28e44003cd23fb4319.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50392/poster_image/large-06fe551262b90b28e44003cd23fb4319.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50392/poster_image/small-5c4f2c565c51d57f63fe9a2127b55764.jpeg"
-        }
-      },
-      "synopsis": "One day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth. A few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”\n\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n\n(Source: Official Site)",
-      "score": "N/A",
-      "episodes": null,
       "rank": 10,
       "season": "TV",
-      "startDate": "2026-10-05",
+      "startDate": "2026-10-09",
       "year": "2026",
       "status": "upcoming",
       "hasSub": true,
