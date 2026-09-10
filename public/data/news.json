@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-09-09T20:06:18.398Z",
+  "lastUpdated": "2026-09-10T01:38:50.598Z",
   "items": [
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance Episode 10 Insert Song Anime Music Video Streamed",
+      "link": "https://crunchyroll.com/news/latest/2026/9/10/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-episode-10-insert-song-anime-music-video",
+      "description": "The latest Nanoha anime series is available on Crunchyroll",
+      "pubDate": "2026-09-10T01:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/dbd66ac822/anchor-flame-anime-mv.jpg"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Sins of Kujo Live-Action Feature Film Unveils New Teaser Trailer, More Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/10/sins-of-kujo-live-action-feature-film-new-teaser-trailer",
+      "description": "The film starring Yuya Yagira releases in Japan on January 8, 2027",
+      "pubDate": "2026-09-10T00:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/137bb41453/sins-of-kujo-trailer.png"
+    },
+    {
+      "id": "ann-MS8uMjQxNTg5",
+      "title": "Prinny Party: Going Overboard! Game Launches on November 11",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/prinny-party-going-overboard-game-launches-on-november-11/.241589",
+      "description": "Game available on Switch 2, Switch, PS5, PC via Steam",
+      "pubDate": "2026-09-10T00:10:55.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241589/package.webp"
+    },
+    {
+      "id": "ann-LjI0MTU4OA",
+      "title": "Shueisha Games Reveals Hoshin Engi Roguelite Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/shueisha-games-reveals-hoshin-engi-roguelite-game/.241588",
+      "description": "HOSHiN ENGi Re:surrection game launches for Switch 2, PS5, PC via Steam in 2027",
+      "pubDate": "2026-09-09T23:41:47.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/youtube/tJfaFGB_FHI.jpg"
+    },
+    {
+      "id": "ann-LjI0MTU3Nw",
+      "title": "Square Enix Unveils Final Fantasy VII Revelation Game's Trailer, Crisis Core: Final Fantasy VII Reunion Remaster's Switch 2 Version",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/square-enix-unveils-final-fantasy-vii-revelation-game-trailer-crisis-core-final-fantasy-vii-reunion-/.241577",
+      "description": "Crisis Core: Final Fantasy VII Reunion launches on same day as announcement on Wednesday",
+      "pubDate": "2026-09-09T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUH/youtube/52XI7iyjYJk.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQxNTY0",
+      "title": "Dragon Quest Heroes: Torneko's Mystery Dungeon Game's HD Version Announced for Same Day Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/dragon-quest-heroes-torneko-mystery-dungeon-game-hd-version-announced-for-same-day-release/.241564",
+      "description": "Also: Dragon Quest Monsters: The Withered World game gets demo",
+      "pubDate": "2026-09-09T20:36:28.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/ou5pR-evRfE.jpg"
+    },
+    {
+      "id": "ann-LjI0MTU5NA",
+      "title": "Square Enix Announces Romancing SaGa 3: Destinies United Remake Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-09/square-enix-announces-romancing-saga-3-destinies-united-remake-game/.241594",
+      "description": "Remake of 1995 Super Famicom game launches for Switch 2, Switch, PS5, Xbox X|S, PC on February 16",
+      "pubDate": "2026-09-09T20:01:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/youtube/wtX1kIvG7-g.jpg"
+    },
     {
       "id": "ann-Ly4yNDE1OTM",
       "title": "Fatal Fury City of the Wolves Game's Trailers Reveal Switch 2 Version, Tokyo Revengers DLC Characters",
@@ -399,7 +469,7 @@
       "pubDate": "2026-09-09T03:45:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/interest.3/241520/kv-pc.png.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -419,7 +489,7 @@
       "pubDate": "2026-09-09T02:11:27.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.9/241544/anataokorosutabi-s2.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQxNTQy",
@@ -429,7 +499,7 @@
       "pubDate": "2026-09-09T02:00:51.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/cms/news.9/241542/81grmpguoes.sl1500.jpg"
+      "image": null
     },
     {
       "id": "cr-LW1peWF0YQ",
@@ -449,7 +519,7 @@
       "pubDate": "2026-09-09T01:23:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG3/cms/news.9/241541/1eihglfycknncvnl24woagqypgvlso.png.jpg"
+      "image": null
     },
     {
       "id": "ann-MS8uMjQxNTQw",
@@ -459,7 +529,7 @@
       "pubDate": "2026-09-09T00:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/episode-review.5/241540/tvvnduq.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE1MjU",
@@ -530,76 +600,6 @@
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/ec669efe19/attack-on-titan3-screen.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQxNTA4",
-      "title": "Akira Anime Film's 4K Re-Release Opens With US$3.1 Million in U.S.",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/akira-anime-film-4k-re-release-opens-with-usd3.1-million-in-u.s/.241508",
-      "description": "Film earned US$2.6 million Friday-Sunday plus estimated US$535,000 on Labor Day",
-      "pubDate": "2026-09-08T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTQ5NQ",
-      "title": "One Piece (2026-) ‒ Episode 1177",
-      "link": "https://www.animenewsnetwork.com/review/one-piece/episode-1177/.241495",
-      "description": "The fact that the children’s nightmare manifestations are just twisted personifications of their mothers is crazy work.",
-      "pubDate": "2026-09-08T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ni8uMjQxNTM3",
-      "title": "Manga Artist Shin'ichi Abe Dies at 76",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/manga-artist-shinichi-abe-dies-at-76/.241537",
-      "description": "Abe was known for That Miyoko Asagaya Feeling manga",
-      "pubDate": "2026-09-08T19:11:56.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-LS8uMjQxNTE5",
-      "title": "Manga Up! Global Adds Dragon and Flower, 'I Was Sacrificed to a Vampire, But He Spoils Me Instead!' 1 More Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/manga-up-global-adds-dragon-and-flower-i-was-sacrificed-to-a-vampire-but-he-spoils-me-instead-1-/.241519",
-      "description": "Also: Wildcard Alchemist: Building the Ultimate Guild With a Divine Fluffy Beast and Random Alchemy Skill",
-      "pubDate": "2026-09-08T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE0NzY",
-      "title": "Daemons of the Shadow Realm ‒ Episode 22",
-      "link": "https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-22/.241476",
-      "description": "Is Gonzo a manipulative puppet master? Sure. But there is more to him than that.",
-      "pubDate": "2026-09-08T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZC8uMjQxNTI5",
-      "title": "Naoki Azuma Launches New Glitch Witch Manga Set in Ghost in the Shell World",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-08/naoki-azuma-launches-new-glitch-witch-manga-set-in-ghost-in-the-shell-world/.241529",
-      "description": "Masamune Shirow credited for original concept for manga that debuted on Wednesday",
-      "pubDate": "2026-09-08T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-c2UtZGF0ZQ",
-      "title": "Street Fighter 6 Arjun DLC Character Launches October 13",
-      "link": "https://crunchyroll.com/news/latest/2026/9/8/street-fighter-6-arjun-dlc-character-release-date",
-      "description": "New video shows off gameplay for the addition",
-      "pubDate": "2026-09-08T18:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a257cb5cfb/arjun-sf6.jpg"
     }
   ]
 }

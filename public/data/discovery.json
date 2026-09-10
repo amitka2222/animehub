@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T20:06:23.318Z",
+  "lastUpdated": "2026-09-10T01:38:53.933Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探偵コ���ン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260909%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260909T200620Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=078a8ac823639be4c36f830256b6a817f0015543107b819e0deee7bd14d85b9c",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260910%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260910T013852Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0f06265d160913435cbc3eb1cde89a744113fc043f18625950f4d5b462042683",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
