@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-10T15:17:39.696Z",
+  "lastUpdated": "2026-09-10T20:08:35.494Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Shuiro no Kamen' Reveals Additional Cast, Staff, Theme Songs, Second Promo",
+      "link": "https://myanimelist.net/news/74699348?_location=rss",
+      "description": "The official website for the Shuiro no Kamen (The Vermilion Mask) television anime adaptation revealed additional cast, staff, second key visual (pictured), theme songs, and a second promotional video on Friday. The anime adapting Dr.Poro and Nabana Naba's action fantasy manga is scheduled to premiere on October 10 at 5:30 p.m. on Yoimiuri TV and Nippon TV. Cast Hien: Kenji Nojima (Banana Fish) Lasgarl: Aoi Koga (Kaguya-sama wa Kokurasetai) Clown: Yuuki Shin (Gachiakuta) Rinne: Akihisa Waka...",
+      "pubDate": "2026-09-10T19:59:36.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789070319-3215c558c7ef19b6ab52071cdb132fb4.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTY0MQ",
+      "title": "The Vermilion Mask Anime's 2nd Main Trailer Reveals Theme Songs, More Cast, October 10 Premiere",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/the-vermilion-mask-anime-2nd-main-trailer-reveals-theme-songs-more-cast-october-10-premiere/.241641",
+      "description": "Video previews opening theme song by MAN WITH A MISSION, ending theme by yutori",
+      "pubDate": "2026-09-10T19:27:49.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/youtube/iX4N-Z5Hbxw.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2Mzk",
+      "title": "Ace Combat 8: Wings of Theve Game Gets 4-Episode Live-Action Prequel Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/ace-combat-8-wings-of-theve-game-gets-4-episode-live-action-prequel-series/.241639",
+      "description": "1st episode of Ace Combat Hour Zero premieres on September 15 on YouTube",
+      "pubDate": "2026-09-10T19:03:59.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0I/youtube/a1QaRUZ85eA.jpg"
+    },
+    {
+      "id": "cr-bmF0by1kbGM",
+      "title": "DEAD OR ALIVE 6 Last Round Adds Newcomer Minato",
+      "link": "https://crunchyroll.com/news/latest/2026/9/10/dead-or-alive-6-last-round-minato-dlc",
+      "description": "Shion Wakayama voices the character, nicknamed TOKYO JK",
+      "pubDate": "2026-09-10T19:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/adf00157fe/dead-or-alive-6-last-round-minato-dlc-screenshot-7.jpg"
+    },
+    {
+      "id": "cr-LXdpbmRvdw",
+      "title": "LEVEL-5 Delays DECAPOLICE to 2027 Release Window",
+      "link": "https://crunchyroll.com/news/latest/2026/9/10/level-5-delays-decapolice-to-2027-release-window",
+      "description": "Crime RPG will be playable at Tokyo Game Show 2026",
+      "pubDate": "2026-09-10T17:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/bca908dd9f/decapolice-delay.jpg"
+    },
+    {
+      "id": "ann-LjI0MTYxNg",
+      "title": "Voice Actor Mike McFarland Dies at 56 (Updated)",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616",
+      "description": "McFarland had brain tumor removed in January 2025, was diagnosed with glioblastoma in August 2025",
+      "pubDate": "2026-09-10T17:12:35.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/news.8/219980/mikemcfarland.jpg"
+    },
+    {
+      "id": "ann-Yy8uMjQxNjMw",
+      "title": "Level 5's Holy Horror Mansion Game's Trailer Reveals 2027 Release for Switch 2, PS5, PC",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/level-5-holy-horror-mansion-game-trailer-reveals-2027-release-for-switch-2-ps5-pc/.241630",
+      "description": "RPG features ghostly mechanics based on real-life performers",
+      "pubDate": "2026-09-10T16:33:48.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOB/youtube/M9Z7dKpTL7c.jpg"
+    },
+    {
+      "id": "cr-Zm9yLTIwMjc",
+      "title": "Professor Layton and the Curious Village Remake Planned for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/10/professor-layton-and-the-curious-village-remake-planned-for-2027",
+      "description": "The new release will be available for Switch, Switch 2, PS5 and Steam",
+      "pubDate": "2026-09-10T16:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e3a9309e63/professir-layton-remake-hero.png"
+    },
+    {
+      "id": "cr-LTIyLXJlY2Fw",
+      "title": "Daemons of the Shadow Realm Episode 21 and 22 Recap “Zashiki-Warashi and Higashi Village” and “The Kagemori Brothers and the Kuroya Siblings”",
+      "link": "https://crunchyroll.com/news/features/2026/9/10/daemons-of-the-shadow-realm-episode-21-and-22-recap",
+      "description": "Healing and moving forward",
+      "pubDate": "2026-09-10T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/3b51223d76/daemons-of-the-shadow-realm-episode-21.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDEwNjI",
+      "title": "The Demons Are Planning Something Good Volumes 1-2 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/the-demons-are-planning-something-good/volumes-1-2/.241062",
+      "description": "This naughty workplace comedy benefits from its delightful streak of camaraderie; demons they might be.",
+      "pubDate": "2026-09-10T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g08/cms/review.2/241062/cover.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2MzE",
+      "title": "Compile Heart's Villion:Code Game Heads West in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/compile-heart-villion-code-game-heads-west-in-2027/.241631",
+      "description": "School RPG launches for Switch 2, Switch, PS5, PS4, PC",
+      "pubDate": "2026-09-10T15:41:40.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV8/youtube/p5UkO3kCw7g.jpg"
+    },
+    {
+      "id": "ann-bC8uMjQxNTYw",
+      "title": "Straight Edge Launches Horizontal Manga Label",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560",
+      "description": "Straight Edge Comic label searches for original authors, manga artists, freelance editors",
+      "pubDate": "2026-09-10T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.9/241560/edge.webp"
+    },
     {
       "id": "cr-aW50ZXJ2aWV3",
       "title": "Waterparks' Awsten Knight Discusses Anime, Pokémon Cards and Talking to His Younger Self",
@@ -320,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T06:56:36.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/news.8/229131/physint.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTU5MQ",
@@ -330,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T04:23:54.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRF/cms/news.9/241591/banner-rgb-scaled.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE1OTY",
@@ -340,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T04:01:04.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBH/youtube/52Fei-sLLQc.jpg"
+      "image": null
     },
     {
       "id": "ann-by8uMjQxNTU5",
@@ -350,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/interest.3/241559/hasbro-master-sword-2026.jpeg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxNTk1",
@@ -360,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T03:56:51.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO2/cms/news.9/237133/star-fox.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTU5OQ",
@@ -370,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T03:53:45.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDC/cms/news.9/241599/hrxhdivbmaafcrq.jpg"
+      "image": null
     },
     {
       "id": "cr-Yy12aWRlbw",
@@ -400,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T00:10:55.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241589/package.webp"
+      "image": null
     },
     {
       "id": "ann-LjI0MTU4OA",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1788976526-aa5d6f6b70f17e0d001df8413ba1181b.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTU4Mg",
-      "title": "The Apothecary Diaries Series Gets New Mystery Game for Consoles, PC",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/the-apothecary-diaries-series-gets-new-mystery-game-for-consoles-pc/.241582",
-      "description": "The Apothecary Diaries: The False Imperial Brother launches in early 2027 for Switch 2, Switch, PS5, PC",
-      "pubDate": "2026-09-09T17:35:21.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU3Ng",
-      "title": "Danganronpa 2x2 Game's Trailer Reveals January 14 Release",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/danganronpa-2x2-game-trailer-reveals-january-14-release/.241576",
-      "description": "Video previews new scenario, Slayhem Mode",
-      "pubDate": "2026-09-09T17:14:51.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE1Njg",
-      "title": "Level 5 Announces Yo-kai Watch 2: Haunted Domain Game for Switch 2",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/level-5-announces-yo-kai-watch-2-haunted-domain-game-for-switch-2/.241568",
-      "description": "English-subbed trailer teases updated version of Yo-kai Watch 2 3DS game",
-      "pubDate": "2026-09-09T16:56:27.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU3OA",
-      "title": "SSS-Class Revival Hunter Novel/Webtoon Gets Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/sss-class-revival-hunter-novel-webtoon-gets-anime/.241578",
-      "description": "STUDIO fu's anime of Sinnoa, Neida's webtoon premieres in January 2027",
-      "pubDate": "2026-09-09T16:31:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bC10cmFpbGVy",
-      "title": "The Apothecary Diaries: The False Imperial Brother Game Unveils First Full Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/9/the-apothecary-diaries-the-false-imperial-brother-game-unveils-first-full-trailer",
-      "description": "Brand-new story featured in series’ first console game in early 2027",
-      "pubDate": "2026-09-09T16:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/bbc7aa585d/apothecary-diaries-game.jpg"
-    },
-    {
-      "id": "cr-bmNoeXJvbGw",
-      "title": "SSS-Class Revival Hunter Anime Adaptation Announced for January 2027, Will Stream on Crunchyroll",
-      "link": "https://crunchyroll.com/news/latest/2026/9/9/sss-class-revival-hunter-anime-january-2027-stream-crunchyroll",
-      "description": "Hiroaki Sakurai will direct the series at STUDIO fu",
-      "pubDate": "2026-09-09T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1486x835/192c11b129/sss-class-revival-hunter.png"
-    },
-    {
-      "id": "ann-LjI0MTExNg",
-      "title": "Daughter of a Thousand Faces Volume 1 Comic Review",
-      "link": "https://www.animenewsnetwork.com/review/daughter-of-a-thousand-faces/volume-1/.241116",
-      "description": "What's a girl to do when she accidentally makes a pact with a demon in the depths of the Abyss?",
-      "pubDate": "2026-09-09T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "manhua",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU3Mg",
-      "title": "Persona 4 Revival, Persona 6 Games Get Switch 2 Releases",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/persona-4-revival-persona-6-games-get-switch-2-releases/.241572",
-      "description": "Persona 4 Revival launches on Switch 2 on May 20",
-      "pubDate": "2026-09-09T15:52:12.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU2NQ",
-      "title": "Monster Hunter Wilds Game Gets Switch 2 Release on December 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/monster-hunter-wilds-game-gets-switch-2-release-on-december-4/.241565",
-      "description": "Game's Ascendance expansion also heads to Switch 2",
-      "pubDate": "2026-09-09T15:38:24.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU2Nw",
-      "title": "Hyrule Warriors: Age of Calamity Game Gets Definitive Edition for Switch 2",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/hyrule-warriors-age-of-calamity-game-gets-definitive-edition-for-switch-2/.241567",
-      "description": "cite>Hyrule Warriors: Age of Calamity Definitive Edition launches on February 25",
-      "pubDate": "2026-09-09T15:27:20.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-ZC1iZXlvbmQ",
-      "title": "New Kirby and Metroid Games Revealed, Tokyo Revengers Joins Fatal Fury and More from Today's Nintendo Direct",
-      "link": "https://crunchyroll.com/news/latest/2026/9/9/nintendo-direct-september-2026-metroid-ravenous-kirby-and-the-world-beyond",
-      "description": "Miis also return to Woo-hoo Island!",
-      "pubDate": "2026-09-09T15:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/882aec4521/kirby-and-the-world-beyond-announcement-trailer.png"
-    },
-    {
-      "id": "ann-ZS8uMjQxNTY5",
-      "title": "Professor Layton and The New World of Steam Game's Trailer Reveals December 10 Release",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/professor-layton-and-the-new-world-of-steam-game-trailer-reveals-december-10-release/.241569",
-      "description": "Game launches worldwide for Switch 2, Switch, PS5, PC",
-      "pubDate": "2026-09-09T15:11:15.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
     }
   ]
 };
