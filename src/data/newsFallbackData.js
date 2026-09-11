@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-11T01:38:10.486Z",
+  "lastUpdated": "2026-09-11T10:04:29.886Z",
   "items": [
+    {
+      "id": "cr-bWUtc29uZ3M",
+      "title": "Chitose Is in the Ramune Bottle Cour 2 Anime Trailer Reveals Premiere Date, Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/chitose-is-in-the-ramune-bottle-cour-2-anime-october-13-release-date-trailer-theme-songs",
+      "description": "Crunchyroll currently streams the first cour",
+      "pubDate": "2026-09-11T10:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6287452f6f/chitose-is-in-the-ramune-bottle-cour-2.jpg"
+    },
+    {
+      "id": "cr-ZS10cmFpbGVy",
+      "title": "A Wild Last Boss Appeared! Season 2 Anime Trailer Reveals Premiere Date, More Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/a-wild-last-boss-appeared-season-2-anime-october-3-release-date-trailer",
+      "description": "Crunchyroll currently streams the first season",
+      "pubDate": "2026-09-11T09:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1320x743/54759b7402/a-wild-last-boss-appeared-season-2.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Psyren' Reveals Additional Cast, Staff, Opening Theme, Main Promo",
+      "link": "https://myanimelist.net/news/74702197?_location=rss",
+      "description": "The official website for the television anime adaptation of Toshiaki Iwashiro's Psyren manga revealed additional cast, staff, opening theme, key visual (pictured), and the main promotional video on Friday. The anime is scheduled to premiere on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Yuuko Kaida (Spy x Family) and Nobuyuki Hiyama (Gachiakuta) are joining the cast as Matsuri Yagumo and Dholaki, respectively. Staff Creature Design: Yoshitaka Taniguchi (Se...",
+      "pubDate": "2026-09-11T09:21:31.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789118472-d6a3d2e0f03c8fcb73768d53a189c9b3.jpeg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "PSYREN Anime Goes Game Start in New Trailer Revealing October 5 Premiere",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/psyren-tv-anime-game-trailer-visual",
+      "description": "More cast members, the opening theme, a new visual were revealed",
+      "pubDate": "2026-09-11T09:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/2e45aac483/psyren-tv-anime-trailer.jpg"
+    },
+    {
+      "id": "ann-LjI0MTY2MQ",
+      "title": "Psyren TV Anime Reveals More Cast, Opening Theme Artist, October 5 Debut in Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/psyren-tv-anime-reveals-more-cast-opening-theme-artist-october-5-debut-in-video/.241661",
+      "description": "CLAN QUEEN performs opening; Yūko Kaida, Nobuyuki Hiyama join cast",
+      "pubDate": "2026-09-11T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
+    },
+    {
+      "id": "cr-dC1waG90b3M",
+      "title": "That Time I Got Reincarnated as a Slime 3rd Stage Play Unveils Key Visual, Main Cast Photos",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/that-time-i-got-reincarnated-as-a-slime-3rd-stage-play-key-visual-main-cast-photos",
+      "description": "The 3rd installment will be performed in Tokyo from October 22 to 25",
+      "pubDate": "2026-09-11T05:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/2f94f8dd63/slime-stage-play-3-header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2NDg",
+      "title": "Live-Action Ao to Midori BL Series Unveils Theme Song Artists, Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/live-action-ao-to-midori-bl-series-unveils-theme-song-artists-visual/.241648",
+      "description": "ONE N' ONLY performs opening theme song \"Crush On You\"",
+      "pubDate": "2026-09-11T04:06:56.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/cms/news.9/241648/aotomidori.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Announces Production Staff",
+      "link": "https://myanimelist.net/news/74701299?_location=rss",
+      "description": "WWWave Corporation's Deregula animation label opened an official website for the television anime adaptation of Kennoji and R_ringo's Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga revealed the production staff and a key visual (pictured). Staff Director: Masayoshi Nishita (Kakushite! Makina-san!!) Series Director: Tokihiro Sasaki (Nobunaga-sensei no Osanazuma director) Series Composition: Youhei Kash...",
+      "pubDate": "2026-09-11T04:02:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789099265-b32ea5c720056dfaecaa20cf904758c4.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE2NTM",
+      "title": "My Sword Saint Master Is Too Cute to Live With! Anime Reveals Staff, New Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/my-sword-saint-master-is-too-cute-to-live-with-anime-reveals-staff-new-visual/.241653",
+      "description": "Makina-san's a Love Bot?! director Masayoshi Nishida directs anime at Wolfsbane, Lightbox",
+      "pubDate": "2026-09-11T04:02:01.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241653/swordsaint-kv2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2NDk",
+      "title": "'Optimus Prime: Awakening' Animated Short's Clip Posted",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/optimus-prime-awakening-animated-short-clip-posted/.241649",
+      "description": "Short debuts alongside The Transformers: The Movie 4K re-release",
+      "pubDate": "2026-09-11T03:55:40.000Z",
+      "source": "Anime News Network",
+      "category": "Animation",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU7/youtube/ivlzW7oRI_E.jpg"
+    },
+    {
+      "id": "ann-LjI0MTY0Nw",
+      "title": "Muramasa: Revenant Blades Game Launches on February 4",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-10/muramasa-revenant-blades-game-launches-on-february-4/.241647",
+      "description": "New long gameplay video posted for game on PS5, Switch, Switch 2, Steam",
+      "pubDate": "2026-09-11T03:36:42.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/youtube/s-OJ0zxVCaY.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Sasaki to Pii-chan Season 2' Unveils Additional Cast, Staff, Opening Theme, First Promo",
+      "link": "https://myanimelist.net/news/74700557?_location=rss",
+      "description": "The official website for the television anime adaptation of Buncololi's Sasaki to Pii-chan (Sasaki and Peeps) light novel unveiled additional cast, staff, a second key visual (pictured), the opening theme, and first promotional video for the second season on Friday. The anime series is scheduled to premiere on October 7 at 10:00 p.m. on AT-X, followed by Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Voice actors Tasuku Hatanaka (SK&infin;) and...",
+      "pubDate": "2026-09-11T01:51:08.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789091402-c7cacaec398e4b90d722b70097572c7a.jpeg"
+    },
+    {
+      "id": "cr-ZS1jbGlwcw",
+      "title": "BanG Dream! YUME∞MITA Anime Releases New Mugendai Mewtype Visual, Performance Clips",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/bang-dream-yume-mita-anime-mugendai-mewtype-new-visual-performance-clips",
+      "description": "Crunchyroll streamed the latest BanG Dream! TV anime",
+      "pubDate": "2026-09-11T01:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/ae34e6fdb2/bang-dream-yume-mita.jpg"
+    },
     {
       "id": "cr-ZS1zb25ncw",
       "title": "The Vermilion Mask Anime Trailer Reveals Premiere Date, Theme Songs",
@@ -400,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T10:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.9/241611/eat2.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTYxOA",
@@ -410,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T09:46:42.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/youtube/5YITB8v8WKI.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -430,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T09:03:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.9/238213/tanya.jpg"
+      "image": null
     },
     {
       "id": "cr-bW9yZS1jYXN0",
@@ -450,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.9/241608/family.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQxNjE3",
@@ -460,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-10T08:57:39.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/youtube/iOBBvmV2Q8A.jpg"
+      "image": null
     },
     {
       "id": "ann-by8uMjQxNTk3",
@@ -468,136 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-10/xenoblade-chronicles-3-game-switch-2-edition-highlights-new-character-new-mode-in-video/.241597",
       "description": "Heroes' Vault mode adds roguelite gameplay for game launching on December 3",
       "pubDate": "2026-09-10T08:49:15.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-bS8uMjQxNjA5",
-      "title": "Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609",
-      "description": "Film debuts on Amazon Prime Video on October 23, features original story with new cast, staff",
-      "pubDate": "2026-09-10T07:30:21.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQxNjEz",
-      "title": "Live-Action Sins of Kujo Film's Teaser Reveals More Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/live-action-sins-of-kujo-film-teaser-reveals-more-cast/.241613",
-      "description": "Kiyohiko Shibukawa, Haru Kuroki, Yui Narumi, Eita Okuno, Mutsuo Yoshioka, Yū Tokui join cast",
-      "pubDate": "2026-09-10T07:08:20.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTYwNw",
-      "title": "Xbox Game Studios Takes Over Publishing Hideo Kojima's Physint Action Espionage Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/xbox-game-studios-takes-over-publishing-hideo-kojima-physint-action-espionage-game/.241607",
-      "description": "Kojima: SIE slated game for cancelation in June, studio spent 3 months finding new partner",
-      "pubDate": "2026-09-10T06:56:36.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU5MQ",
-      "title": "Tokyo Gap-Financing Market Highlights 5 Animation Projects Seeking More Funding",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/tokyo-gap-financing-market-highlights-5-animation-projects-seeking-more-funding/.241591",
-      "description": "Projects include those from OLM, P.I.C.S.",
-      "pubDate": "2026-09-10T04:23:54.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE1OTY",
-      "title": "Pikmin 4 Game Gets Switch 2 Edition, Dandori Academy Mode",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/pikmin-4-game-gets-switch-2-edition-dandori-academy-mode/.241596",
-      "description": "New game mode adds puzzles, global leaderboard",
-      "pubDate": "2026-09-10T04:01:04.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQxNTU5",
-      "title": "Become a Champion of Hyrule with Zelda's Electronic Master Sword From Hasbro",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-09/become-a-champion-of-hyrule-with-zelda-electronic-master-sword-from-hasbro/.241559",
-      "description": "Or would you rather be the Hero of Time?",
-      "pubDate": "2026-09-10T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxNTk1",
-      "title": "Star Fox Remake Game Gets Free Update, Star Fox Adventures Added to Nintendo Classics",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/star-fox-remake-game-gets-free-update-star-fox-adventures-added-to-nintendo-classics/.241595",
-      "description": "Free update to battle mode launches September 29",
-      "pubDate": "2026-09-10T03:56:51.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU5OQ",
-      "title": "Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599",
-      "description": "3rd part launched on May 14",
-      "pubDate": "2026-09-10T03:53:45.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-Yy12aWRlbw",
-      "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance Episode 10 Insert Song Anime Music Video Streamed",
-      "link": "https://crunchyroll.com/news/latest/2026/9/10/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-episode-10-insert-song-anime-music-video",
-      "description": "The latest Nanoha anime series is available on Crunchyroll",
-      "pubDate": "2026-09-10T01:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/dbd66ac822/anchor-flame-anime-mv.jpg"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Sins of Kujo Live-Action Feature Film Unveils New Teaser Trailer, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/10/sins-of-kujo-live-action-feature-film-new-teaser-trailer",
-      "description": "The film starring Yuya Yagira releases in Japan on January 8, 2027",
-      "pubDate": "2026-09-10T00:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/137bb41453/sins-of-kujo-trailer.png"
-    },
-    {
-      "id": "ann-MS8uMjQxNTg5",
-      "title": "Prinny Party: Going Overboard! Game Launches on November 11",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/prinny-party-going-overboard-game-launches-on-november-11/.241589",
-      "description": "Game available on Switch 2, Switch, PS5, PC via Steam",
-      "pubDate": "2026-09-10T00:10:55.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU4OA",
-      "title": "Shueisha Games Reveals Hoshin Engi Roguelite Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/shueisha-games-reveals-hoshin-engi-roguelite-game/.241588",
-      "description": "HOSHiN ENGi Re:surrection game launches for Switch 2, PS5, PC via Steam in 2027",
-      "pubDate": "2026-09-09T23:41:47.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU3Nw",
-      "title": "Square Enix Unveils Final Fantasy VII Revelation Game's Trailer, Crisis Core: Final Fantasy VII Reunion Remaster's Switch 2 Version",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-09/square-enix-unveils-final-fantasy-vii-revelation-game-trailer-crisis-core-final-fantasy-vii-reunion-/.241577",
-      "description": "Crisis Core: Final Fantasy VII Reunion launches on same day as announcement on Wednesday",
-      "pubDate": "2026-09-09T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
       "image": null
