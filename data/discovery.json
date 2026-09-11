@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T20:08:38.130Z",
+  "lastUpdated": "2026-09-11T01:38:13.808Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "���探偵コナン"
+        "ja_jp": "名探偵コ���ン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -428,7 +428,7 @@
         }
       },
       "synopsis": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and the Quincies...\n\nThe Royal Guard Squad Zero confronts Yhwach as he attempts to enter the Royal Palace. However, the Quincy King and his Royal Guard shatter Squad Zero's powerful Bankai and finally step into the Reio Greater Palace. Ichibe Hyosube entrusts Ichigo Kurosaki and his allies to protect the Soul King, but due to Yhwach's trickery, Ichigo cuts down the Soul King with his sword.\n\nThe death of the Soul King mirrors the collapse of the Three Worlds, as distortions and omens of destruction start to appear in all realms. The Thirteen Court Guard Squads join forces with the surviving Quincies and head for the Royal Palace, but it's fallen under the control of the Wandenreich, who have transformed it into the Wahr Welt. The Royal Guard wait for them within the castle, ominously towering against the sky.\n\nFierce battles then erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?\n\n(Source: Official Site)",
-      "score": "85.65%",
+      "score": "85.53%",
       "episodes": 10,
       "rank": 5,
       "season": "TV",
@@ -478,7 +478,7 @@
       },
       "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
       "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260910%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260910T200836Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1ce96d89fd7d2ec37dfb4a4ce16c292d0a862d3889cd91e2ea2e244454fa6576",
+      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260911%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260911T013811Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=6c7044f479f35b0addf6430aa38099af385ad230f1de428ff31fc03ab73f07b0",
       "images": {
         "webp": {
           "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
@@ -720,7 +720,7 @@
         }
       },
       "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
-      "score": "83.47%",
+      "score": "83.46%",
       "episodes": 25,
       "rank": 5,
       "season": "TV",
@@ -1023,6 +1023,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "48960",
+      "id": "48960",
+      "title": "Tokyo Revengers: Santen Sensou-hen",
+      "titles": {
+        "en": "Tokyo Revengers: The Three Deities",
+        "en_jp": "Tokyo Revengers: Santen Sensou-hen",
+        "ja_jp": "東京リベンジャーズ 三天戦争編"
+      },
+      "url": "https://kitsu.io/anime/Tokyo-Revengers-Zokuhen",
+      "poster": "https://media.kitsu.app/anime/48960/poster_image/large-2375db16de3365e12917b2520323fd7a.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/48960/poster_image/large-2375db16de3365e12917b2520323fd7a.jpeg",
+          "image_url": "https://media.kitsu.app/anime/48960/poster_image/small-103ae373a58af45ad204e10bb821e5ed.jpeg"
+        }
+      },
+      "synopsis": "Sequel to Tokyo Revengers: Tenjiku-hen.",
+      "score": "N/A",
+      "episodes": null,
+      "rank": 6,
+      "season": "TV",
+      "startDate": "2026-10-02",
+      "year": "2026",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "50024",
       "id": "50024",
       "title": "Black Clover 2nd Season",
@@ -1043,7 +1072,7 @@
       "synopsis": "The second season of Black Clover.",
       "score": "N/A",
       "episodes": null,
-      "rank": 6,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-10-03",
       "year": "2026",
@@ -1072,7 +1101,7 @@
       "synopsis": "Theatrical follow-up to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.\n\n\"Actually, I’m Touko Kirishima.\"\n\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another. The social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n\n―Stop Touko Kirishima,\n―Before reality is rewritten.\n\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".\n\n(Source: Crunchyroll News, edited)",
       "score": "N/A",
       "episodes": 1,
-      "rank": 7,
+      "rank": 8,
       "season": "movie",
       "startDate": "2026-10-16",
       "year": "2026",
@@ -1101,7 +1130,7 @@
       "synopsis": "The second season of Ao no Hako",
       "score": "N/A",
       "episodes": null,
-      "rank": 8,
+      "rank": 9,
       "season": "TV",
       "startDate": "2026-10-04",
       "year": "2026",
@@ -1130,38 +1159,9 @@
       "synopsis": "The second season of Aoashi.",
       "score": "N/A",
       "episodes": null,
-      "rank": 9,
-      "season": "TV",
-      "startDate": "2026-10-04",
-      "year": "2026",
-      "status": "upcoming",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "50471",
-      "id": "50471",
-      "title": "Hotaru no Yomeiri",
-      "titles": {
-        "en": "Firefly Wedding",
-        "en_jp": "Hotaru no Yomeiri",
-        "ja_jp": "ホタルの嫁入り"
-      },
-      "url": "https://kitsu.io/anime/hotaru-no-yomeiri",
-      "poster": "https://media.kitsu.app/anime/50471/poster_image/large-9a05f244f74b31ac1d41074ec61d4f38.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50471/poster_image/large-9a05f244f74b31ac1d41074ec61d4f38.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50471/poster_image/small-a4c4afc4999018a4d6d675bf75c367e7.jpeg"
-        }
-      },
-      "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
-      "score": "N/A",
-      "episodes": null,
       "rank": 10,
       "season": "TV",
-      "startDate": "2026-10-09",
+      "startDate": "2026-10-04",
       "year": "2026",
       "status": "upcoming",
       "hasSub": true,
