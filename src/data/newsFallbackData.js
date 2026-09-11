@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-11T15:20:10.490Z",
+  "lastUpdated": "2026-09-11T20:07:46.614Z",
   "items": [
+    {
+      "id": "cr-YS1ldXJvcGU",
+      "title": "Villion:Code Action-RPG Has 2027 Plans for North America, Europe",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/villion-code-action-rpg-2027-north-america-europe",
+      "description": "Koji Okada produces the console and PC-due game",
+      "pubDate": "2026-09-11T19:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/cad32491c1/villion-code.png"
+    },
+    {
+      "id": "cr-c2FrYW1vdG8",
+      "title": "Puella Magi Madoka Magica -Walpurgisnacht Rising- Anime Film Reveals Maaya Sakamoto Casting",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-maaya-sakamoto",
+      "description": "Be aware of potential spoilers for the film, now screening in Japan",
+      "pubDate": "2026-09-11T19:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a17efb9428/madoka-kyubey.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2Njg",
+      "title": "'Harem Camp!' Anime's English Dub Releases on September 18",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668",
+      "description": "AnimeFesta anime based on Yuuki HB's manga premiered in October 2022",
+      "pubDate": "2026-09-11T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.9/241668/image4.png.jpg"
+    },
+    {
+      "id": "cr-Y2gtZGF0ZQ",
+      "title": "Muramasa: Revenant Blades Gameplay Showcased Ahead of February Launch",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/muramasa-revenant-blades-gameplay-showcase-february-launch-date",
+      "description": "Vanillaware revival heads to PS4, Switch, Switch 2 and PC",
+      "pubDate": "2026-09-11T17:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/475a0d60e9/muramasa-revenant-blades1.png"
+    },
+    {
+      "id": "cr-MC1hbmltZQ",
+      "title": "BABYMETAL Reveals Their Top 10 Anime!",
+      "link": "https://crunchyroll.com/news/features/2026/9/11/babymetal-top-10-anime",
+      "description": "From ONE PIECE to The Apothecary Diaries and more!",
+      "pubDate": "2026-09-11T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/2b7d0281d0/babymetal.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2NzU",
+      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals Maaya Sakamoto's Role",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/madoka-magica-walpurgisnacht-rising-anime-film-reveals-maaya-sakamoto-role/.241675",
+      "description": "Sakamoto plays unnamed upperclassman in film",
+      "pubDate": "2026-09-11T16:20:15.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.8/226689/madoka-magica-walpurgisnacht-rising-.jpg"
+    },
+    {
+      "id": "cr-aGFyLWRhdGVk",
+      "title": "UNDER NIGHT IN-BIRTH II Sys:Celes DLC Character Zohar Dated",
+      "link": "https://crunchyroll.com/news/latest/2026/9/11/under-night-in-birth-ii-sys-celes-dlc-character-zohar-dated",
+      "description": "Fourth playable addition arrives on September 15",
+      "pubDate": "2026-09-11T16:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c3d213af4d/uni2-zohar-screenshot-1.png"
+    },
+    {
+      "id": "cr-aGxpZ2h0cw",
+      "title": "The Yu-Gi-Oh! World Championship Reveals the Game’s Key Component",
+      "link": "https://crunchyroll.com/news/features/2026/9/11/yu-gi-oh-world-championship-2026-highlights",
+      "description": "Having fun is a necessary part of Yu-Gi-Oh!, even during competitions",
+      "pubDate": "2026-09-11T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/780aedd140/yu-gi-oh.png"
+    },
+    {
+      "id": "ann-Ly4yNDEyMDg",
+      "title": "Victoria of Many Faces Season 1  Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/victoria-of-many-faces-season-1/anime-series/.241208",
+      "description": "The push and pull Victoria feels between her longing to settle down and the feeling that she must constantly be ready to flee are what bring intrigue to this show.",
+      "pubDate": "2026-09-11T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC6/cms/review.2/241208/victoria-of-many-faces-cover.png.jpg"
+    },
     {
       "id": "cr-bi1tZWF0LQ",
       "title": "Manga Artist Uoto Announces New Manga Titled Hallucination Meat",
@@ -11,6 +101,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/96650c0f40/uoto-hallucination-meat-logo.png"
+    },
+    {
+      "id": "ann-Ly4yNDE2NzQ",
+      "title": "'Sound! Euphonium, The Final Movie Part 2' Streams Video Featuring New Footage",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-11/sound-euphonium-the-final-movie-part-2-streams-video-featuring-new-footage/.241674",
+      "description": "Film opened on Friday",
+      "pubDate": "2026-09-11T14:56:58.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLF/youtube/lGUrg_RwuyQ.jpg"
     },
     {
       "id": "ann-Ly4yNDE2NzE",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Features",
       "image": "https://a.storyblok.com/f/178900/960x540/3b51223d76/daemons-of-the-shadow-realm-episode-21.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDEwNjI",
-      "title": "The Demons Are Planning Something Good Volumes 1-2 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/the-demons-are-planning-something-good/volumes-1-2/.241062",
-      "description": "This naughty workplace comedy benefits from its delightful streak of camaraderie; demons they might be.",
-      "pubDate": "2026-09-10T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g08/cms/review.2/241062/cover.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2MzE",
-      "title": "Compile Heart's Villion:Code Game Heads West in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/compile-heart-villion-code-game-heads-west-in-2027/.241631",
-      "description": "School RPG launches for Switch 2, Switch, PS5, PS4, PC",
-      "pubDate": "2026-09-10T15:41:40.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV8/youtube/p5UkO3kCw7g.jpg"
-    },
-    {
-      "id": "ann-bC8uMjQxNTYw",
-      "title": "Straight Edge Launches Horizontal Manga Label",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560",
-      "description": "Straight Edge Comic label searches for original authors, manga artists, freelance editors",
-      "pubDate": "2026-09-10T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.9/241560/edge.webp"
-    },
-    {
-      "id": "cr-aW50ZXJ2aWV3",
-      "title": "Waterparks' Awsten Knight Discusses Anime, Pokémon Cards and Talking to His Younger Self",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/10/waterparks-awsten-knight-interview",
-      "description": "He also reveals who the hottest Dragon Ball Z character is",
-      "pubDate": "2026-09-10T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x720/69578cc826/waterparks.png"
-    },
-    {
-      "id": "ann-cy8uMjQxNjI5",
-      "title": "Yo-kai Watch 2: Haunted Domain Game's Extended Trailer Reveals PS5, PC Releases",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/yo-kai-watch-2-haunted-domain-game-extended-trailer-reveals-ps5-pc-releases/.241629",
-      "description": "Updated version of Yo-kai Watch 2 3DS game also launches for Switch 2",
-      "pubDate": "2026-09-10T14:51:32.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/J1IIJTnccBA.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQxNjI3",
-      "title": "Professor Layton and the Curious Village Game Gets Remake",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/professor-layton-and-the-curious-village-game-gets-remake/.241627",
-      "description": "Also: Professor Layton and The New World of Steam streams new trailer, behind-the-scenes video",
-      "pubDate": "2026-09-10T14:31:17.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-bi8uMjQxNTE4",
-      "title": "Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518",
-      "description": "Madoka Magica -Walpurgisnacht: Rising- drops to #3, 33rd Shin-chan film to #7",
-      "pubDate": "2026-09-10T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bmNoLWRhdGU",
-      "title": "Prinny Party: Going Overboard! Launches in the West on November 11",
-      "link": "https://crunchyroll.com/news/latest/2026/9/10/prinny-party-going-overboard-launch-date",
-      "description": "You can check out a demo while you wait",
-      "pubDate": "2026-09-10T14:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/08e5b91e2f/prinny-party-date.jpg"
-    },
-    {
-      "id": "ann-LjI0MTYyNg",
-      "title": "Witch on the Holy Night Film Screens in U.S., Canada on January 29",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/witch-on-the-holy-night-film-screens-in-u.s-canada-on-january-29/.241626",
-      "description": "Crunchyroll, Sony Pictures Entertainment to screen film subbed/dubbed",
-      "pubDate": "2026-09-10T14:05:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTU1NA",
-      "title": "This Week in Anime - Sparkles and Shadows",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-10/.241554",
-      "description": "Magical girl stories were dark long before Madoka Magica.",
-      "pubDate": "2026-09-10T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
