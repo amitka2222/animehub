@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T14:27:57.049Z",
+  "lastUpdated": "2026-09-12T19:43:58.456Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "score": "84.46%",
+      "score": "84.51%",
       "episodes": 14,
       "rank": 7,
       "season": "TV",
@@ -294,6 +294,35 @@
   ],
   "newThisWeek": [
     {
+      "mal_id": "51031",
+      "id": "51031",
+      "title": "Poke Oki Season 2",
+      "titles": {
+        "en": null,
+        "en_jp": "Poke Oki Season 2",
+        "ja_jp": "ポケ起き SEASON2"
+      },
+      "url": "https://kitsu.io/anime/poke-oki-season-2",
+      "poster": "https://media.kitsu.app/anime/51031/poster_image/large-406751c7fd2e903954e59378f34ca8e8.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/51031/poster_image/large-406751c7fd2e903954e59378f34ca8e8.jpeg",
+          "image_url": "https://media.kitsu.app/anime/51031/poster_image/small-3deabdaa523a22db22ca1e0c534e5fc6.jpeg"
+        }
+      },
+      "synopsis": "Second season of Poke Oki.",
+      "score": "N/A",
+      "episodes": 4,
+      "rank": 1,
+      "season": "ONA",
+      "startDate": "2026-09-07",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "50866",
       "id": "50866",
       "title": "Ghost Meets Gal!",
@@ -314,7 +343,7 @@
       "synopsis": "Cardfight!! Vanguard spin-off centered on two girls aiming to become idols.\n\n(Source: Official X Account)",
       "score": "N/A",
       "episodes": null,
-      "rank": 1,
+      "rank": 2,
       "season": "TV",
       "startDate": "2026-09-05",
       "year": "2026",
@@ -343,7 +372,7 @@
       "synopsis": "The final season of Zhu Xian.",
       "score": "N/A",
       "episodes": 26,
-      "rank": 2,
+      "rank": 3,
       "season": "ONA",
       "startDate": "2026-08-21",
       "year": "2026",
@@ -372,7 +401,7 @@
       "synopsis": "While searching for a celestial book, Master Cui mistakenly released a treasure-gathering toad. The toad, captivated by human pleasures, reincarnated as Dou Zhanlong. To escape a heavenly tribulation, the toad split its three souls and seven spirits within Dou Zhanlong's spiritual aperture, creating nine incarnations that landed in nine different locations. These nine Dou Zhanlongs, existing in different parallel universes, died once and were replaced by another incarnation. They collectively endured \"nine deaths and thirteen calamities.\" Our story begins with the first Dou Zhanlong.\n\n(Source: Official YouTube Channel)",
       "score": "N/A",
       "episodes": 16,
-      "rank": 3,
+      "rank": 4,
       "season": "ONA",
       "startDate": "2026-08-16",
       "year": "2026",
@@ -401,7 +430,7 @@
       "synopsis": "Third season of Shiguang Dailiren (Link Click).",
       "score": "N/A",
       "episodes": 24,
-      "rank": 4,
+      "rank": 5,
       "season": "ONA",
       "startDate": "2026-08-14",
       "year": "2026",
@@ -430,7 +459,7 @@
       "synopsis": "The sixth season of You Shou Yan.",
       "score": "N/A",
       "episodes": 12,
-      "rank": 5,
+      "rank": 6,
       "season": "ONA",
       "startDate": "2026-08-05",
       "year": "2026",
@@ -459,7 +488,7 @@
       "synopsis": "In the game, Xiao Wujin, the server's top swordsman, and Tao Zhiyao, the most wanted female criminal, meet under unusual circumstances. In reality, Xiao He, the campus heartthrob of Dongchuan University, and Shen Xin, a freshman, meet and become friends through a university e-sports competition. Together with their friend Yang Yao, they form a team, overcoming numerous challenges to win the championship! Xiao He and Shen Xin heal and encourage each other, walking hand in hand on their path to pursuing their dreams. With the help of their friends Yang Yao and Xiang Nan, what sparks will fly between them?\n\n(Source: Official YouTube Channel)",
       "score": "N/A",
       "episodes": 16,
-      "rank": 6,
+      "rank": 7,
       "season": "ONA",
       "startDate": "2026-08-03",
       "year": "2026",
@@ -488,7 +517,7 @@
       "synopsis": "Akihito is a college student obsessed with looks and sex, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who's set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae's secret: he's gay, and a bottom. Sae confesses he's been having trouble feeling pleasure from sex. Breaking through Sae's mental barriers is exactly the lovemaking challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?\n\n(Source: Seven Seas Entertainment)",
       "score": "N/A",
       "episodes": null,
-      "rank": 7,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-07-31",
       "year": "2026",
@@ -517,7 +546,7 @@
       "synopsis": "Adapted from a novel by Wen Zhou, this story follows Li Xiongmao, a human boy raised by demons who is sent by his master to leave Black-White Mountain and kill the three enemies responsible for the demons’ downfall. As he searches for the truth, he gradually unravels the mysteries behind the conflict between humans and demons, the secrets of the dynasty, and his own destiny.\n\n(Source: iQIYI, translated)",
       "score": "N/A",
       "episodes": 18,
-      "rank": 8,
+      "rank": 9,
       "season": "ONA",
       "startDate": "2026-07-29",
       "year": "2026",
@@ -546,38 +575,9 @@
       "synopsis": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and the Quincies...\n\nThe Royal Guard Squad Zero confronts Yhwach as he attempts to enter the Royal Palace. However, the Quincy King and his Royal Guard shatter Squad Zero's powerful Bankai and finally step into the Reio Greater Palace. Ichibe Hyosube entrusts Ichigo Kurosaki and his allies to protect the Soul King, but due to Yhwach's trickery, Ichigo cuts down the Soul King with his sword.\n\nThe death of the Soul King mirrors the collapse of the Three Worlds, as distortions and omens of destruction start to appear in all realms. The Thirteen Court Guard Squads join forces with the surviving Quincies and head for the Royal Palace, but it's fallen under the control of the Wandenreich, who have transformed it into the Wahr Welt. The Royal Guard wait for them within the castle, ominously towering against the sky.\n\nFierce battles then erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?\n\n(Source: Official Site)",
       "score": "85.58%",
       "episodes": 10,
-      "rank": 9,
+      "rank": 10,
       "season": "TV",
       "startDate": "2026-07-25",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "50279",
-      "id": "50279",
-      "title": "Yi Nian Yong Heng: Wanjie Ji",
-      "titles": {
-        "en": "A Will Eternal Final Season",
-        "en_jp": null,
-        "ja_jp": null
-      },
-      "url": "https://kitsu.io/anime/yi-nian-yong-heng-wanjie-ji",
-      "poster": "https://media.kitsu.app/anime/50279/poster_image/large-672dd1eeb227b3156831ab35374ba36a.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50279/poster_image/large-672dd1eeb227b3156831ab35374ba36a.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50279/poster_image/small-121a30d0ada651bbbc2def7d6c5b927b.jpeg"
-        }
-      },
-      "synopsis": "For the sake of all living beings, Bai Xiaochun is forced to engage in a final battle with Tongtian Daoist. With the old world shattered, the group is scattered across the Eternal Continent beyond the heavens. Here, Bai Xiaochun will face even greater challenges and more powerful enemies…\n(Source: Tencent, translated)",
-      "score": "N/A",
-      "episodes": 46,
-      "rank": 10,
-      "season": "ONA",
-      "startDate": "2026-07-22",
       "year": "2026",
       "status": "current",
       "hasSub": true,
