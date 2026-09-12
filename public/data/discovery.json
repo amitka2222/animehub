@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T01:44:02.995Z",
+  "lastUpdated": "2026-09-12T09:40:16.693Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名��偵コナン"
+        "ja_jp": "名探偵��ナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -165,7 +165,7 @@
         }
       },
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
-      "score": "82.44%",
+      "score": "82.5%",
       "episodes": 24,
       "rank": 6,
       "season": "TV",
@@ -352,6 +352,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "50977",
+      "id": "50977",
+      "title": "Caishen Dou Zhanlong",
+      "titles": {
+        "en": "Golden Curse",
+        "en_jp": null,
+        "ja_jp": null
+      },
+      "url": "https://kitsu.io/anime/caishen-dou-zhanlong",
+      "poster": "https://media.kitsu.app/anime/50977/poster_image/large-b3dc5040b78f97f1337c2609c52b61e9.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50977/poster_image/large-b3dc5040b78f97f1337c2609c52b61e9.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50977/poster_image/small-43235ca75dc16ffcd5cb9797485c1cb4.jpeg"
+        }
+      },
+      "synopsis": "While searching for a celestial book, Master Cui mistakenly released a treasure-gathering toad. The toad, captivated by human pleasures, reincarnated as Dou Zhanlong. To escape a heavenly tribulation, the toad split its three souls and seven spirits within Dou Zhanlong's spiritual aperture, creating nine incarnations that landed in nine different locations. These nine Dou Zhanlongs, existing in different parallel universes, died once and were replaced by another incarnation. They collectively endured \"nine deaths and thirteen calamities.\" Our story begins with the first Dou Zhanlong.\n\n(Source: Official YouTube Channel)",
+      "score": "N/A",
+      "episodes": 16,
+      "rank": 3,
+      "season": "ONA",
+      "startDate": "2026-08-16",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "49889",
       "id": "49889",
       "title": "Shiguang Dailiren III",
@@ -372,7 +401,7 @@
       "synopsis": "Third season of Shiguang Dailiren (Link Click).",
       "score": "N/A",
       "episodes": 24,
-      "rank": 3,
+      "rank": 4,
       "season": "ONA",
       "startDate": "2026-08-14",
       "year": "2026",
@@ -401,9 +430,38 @@
       "synopsis": "The sixth season of You Shou Yan.",
       "score": "N/A",
       "episodes": 12,
-      "rank": 4,
+      "rank": 5,
       "season": "ONA",
       "startDate": "2026-08-05",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "50978",
+      "id": "50978",
+      "title": "Cheng Ye Xiao He",
+      "titles": {
+        "en": "To Be Winner",
+        "en_jp": null,
+        "ja_jp": null
+      },
+      "url": "https://kitsu.io/anime/cheng-ye-xiao-he",
+      "poster": "https://media.kitsu.app/anime/50978/poster_image/large-3de2a9c13de04165d91fc5c39c926302.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50978/poster_image/large-3de2a9c13de04165d91fc5c39c926302.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50978/poster_image/small-b26d02bb67e010d144ebdf8e243db959.jpeg"
+        }
+      },
+      "synopsis": "In the game, Xiao Wujin, the server's top swordsman, and Tao Zhiyao, the most wanted female criminal, meet under unusual circumstances. In reality, Xiao He, the campus heartthrob of Dongchuan University, and Shen Xin, a freshman, meet and become friends through a university e-sports competition. Together with their friend Yang Yao, they form a team, overcoming numerous challenges to win the championship! Xiao He and Shen Xin heal and encourage each other, walking hand in hand on their path to pursuing their dreams. With the help of their friends Yang Yao and Xiang Nan, what sparks will fly between them?\n\n(Source: Official YouTube Channel)",
+      "score": "N/A",
+      "episodes": 16,
+      "rank": 6,
+      "season": "ONA",
+      "startDate": "2026-08-03",
       "year": "2026",
       "status": "current",
       "hasSub": true,
@@ -430,7 +488,7 @@
       "synopsis": "Akihito is a college student obsessed with looks and sex, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who's set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae's secret: he's gay, and a bottom. Sae confesses he's been having trouble feeling pleasure from sex. Breaking through Sae's mental barriers is exactly the lovemaking challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?\n\n(Source: Seven Seas Entertainment)",
       "score": "N/A",
       "episodes": null,
-      "rank": 5,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-07-31",
       "year": "2026",
@@ -459,7 +517,7 @@
       "synopsis": "Adapted from a novel by Wen Zhou, this story follows Li Xiongmao, a human boy raised by demons who is sent by his master to leave Black-White Mountain and kill the three enemies responsible for the demons’ downfall. As he searches for the truth, he gradually unravels the mysteries behind the conflict between humans and demons, the secrets of the dynasty, and his own destiny.\n\n(Source: iQIYI, translated)",
       "score": "N/A",
       "episodes": 18,
-      "rank": 6,
+      "rank": 8,
       "season": "ONA",
       "startDate": "2026-07-29",
       "year": "2026",
@@ -488,7 +546,7 @@
       "synopsis": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and the Quincies...\n\nThe Royal Guard Squad Zero confronts Yhwach as he attempts to enter the Royal Palace. However, the Quincy King and his Royal Guard shatter Squad Zero's powerful Bankai and finally step into the Reio Greater Palace. Ichibe Hyosube entrusts Ichigo Kurosaki and his allies to protect the Soul King, but due to Yhwach's trickery, Ichigo cuts down the Soul King with his sword.\n\nThe death of the Soul King mirrors the collapse of the Three Worlds, as distortions and omens of destruction start to appear in all realms. The Thirteen Court Guard Squads join forces with the surviving Quincies and head for the Royal Palace, but it's fallen under the control of the Wandenreich, who have transformed it into the Wahr Welt. The Royal Guard wait for them within the castle, ominously towering against the sky.\n\nFierce battles then erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?\n\n(Source: Official Site)",
       "score": "85.58%",
       "episodes": 10,
-      "rank": 7,
+      "rank": 9,
       "season": "TV",
       "startDate": "2026-07-25",
       "year": "2026",
@@ -517,67 +575,9 @@
       "synopsis": "For the sake of all living beings, Bai Xiaochun is forced to engage in a final battle with Tongtian Daoist. With the old world shattered, the group is scattered across the Eternal Continent beyond the heavens. Here, Bai Xiaochun will face even greater challenges and more powerful enemies…\n(Source: Tencent, translated)",
       "score": "N/A",
       "episodes": 46,
-      "rank": 8,
-      "season": "ONA",
-      "startDate": "2026-07-22",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "49265",
-      "id": "49265",
-      "title": "Nige Jouzu no Wakagimi 2nd Season",
-      "titles": {
-        "en": "The Elusive Samurai Season 2",
-        "en_jp": "Nige Jouzu no Wakagimi 2nd Season",
-        "ja_jp": "逃げ上手の若君 第二期"
-      },
-      "url": "https://kitsu.io/anime/nige-jouzu-no-wakagimi-2nd-season",
-      "poster": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-      "cover": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260912%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260912T014401Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=728a95bb2bc97d71026a10bf09a48cdc5ff9d724997a8621f5a3ca9ded6d0a84",
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/49265/poster_image/large-58721274b1529e64785a86388ef577aa.jpeg",
-          "image_url": "https://media.kitsu.app/anime/49265/poster_image/small-7e4eb51bbd1511338ce2b56079292e8d.jpeg"
-        }
-      },
-      "synopsis": "The second season of Nige Jouzu no Wakagimi.",
-      "score": "N/A",
-      "episodes": 12,
-      "rank": 9,
-      "season": "TV",
-      "startDate": "2026-07-17",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "50954",
-      "id": "50954",
-      "title": "Ushiro no Shoumen Kamui-san Mini Anime Gekijou",
-      "titles": {
-        "en": null,
-        "en_jp": "Ushiro no Shoumen Kamui-san Mini Anime Gekijou",
-        "ja_jp": "うしろの正面カムイさん ミニアニメ劇場"
-      },
-      "url": "https://kitsu.io/anime/ushiro-no-shoumen-kamui-san-mini-anime-gekijou",
-      "poster": "https://media.kitsu.app/anime/50954/poster_image/large-c5afc08565aaf44b5854d8351e896eed.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50954/poster_image/large-c5afc08565aaf44b5854d8351e896eed.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50954/poster_image/small-9a120016b34374b15d9974c9d664a854.jpeg"
-        }
-      },
-      "synopsis": "A weekly mini anime shown with each episode of Ushiro no Shoumen Kamui-san exclusively on the AT-X broadcast of the TV anime and online on OceanVeil.",
-      "score": "N/A",
-      "episodes": 12,
       "rank": 10,
       "season": "ONA",
-      "startDate": "2026-07-12",
+      "startDate": "2026-07-22",
       "year": "2026",
       "status": "current",
       "hasSub": true,
