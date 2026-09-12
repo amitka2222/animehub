@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T09:40:16.693Z",
+  "lastUpdated": "2026-09-12T14:27:57.049Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵��ナン"
+        "ja_jp": "名探偵コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "score": "84.6%",
+      "score": "84.46%",
       "episodes": 14,
       "rank": 7,
       "season": "TV",
@@ -263,29 +263,29 @@
       "hasDub": true
     },
     {
-      "mal_id": "41923",
-      "id": "41923",
-      "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "mal_id": "50040",
+      "id": "50040",
+      "title": "Super no Ura de Yani Suu Futari",
       "titles": {
-        "en": "Sparks of Tomorrow",
-        "en_jp": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-        "ja_jp": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+        "en": "Smoking Behind the Supermarket With You",
+        "en_jp": "Super no Ura de Yani Suu Futari",
+        "ja_jp": "スーパーの裏でヤニ吸うふたり"
       },
-      "url": "https://kitsu.io/anime/nijusseiki-denki-mokuroku",
-      "poster": "https://media.kitsu.app/anime/41923/poster_image/large-c1af40424413d4f96056e9e936b89363.jpeg",
-      "cover": "https://media.kitsu.app/anime/41923/cover_image/large-ff115d0f3785b8d30f54eeb892617780.jpeg",
+      "url": "https://kitsu.io/anime/super-no-ura-de-yani-suu-futari",
+      "poster": "https://media.kitsu.app/anime/50040/poster_image/large-6c60537fbda7aa6ce812138bed3f26f6.jpeg",
+      "cover": "https://media.kitsu.app/anime/50040/cover_image/large-49baf6fc44cf03e9b40aea1c694a32eb.jpeg",
       "images": {
         "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/41923/poster_image/large-c1af40424413d4f96056e9e936b89363.jpeg",
-          "image_url": "https://media.kitsu.app/anime/41923/poster_image/small-abcbcb5cd9f43870e53b25136621badf.jpeg"
+          "large_image_url": "https://media.kitsu.app/anime/50040/poster_image/large-6c60537fbda7aa6ce812138bed3f26f6.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50040/poster_image/small-4902c2ee0a34d6a7dad51361631106b8.jpeg"
         }
       },
-      "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
-      "score": "75.84%",
-      "episodes": 13,
+      "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n\n(Source: Crunchyroll)\n\nNote: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026, in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast, which starts on July 9th, 2026.",
+      "score": "82.86%",
+      "episodes": 12,
       "rank": 10,
       "season": "TV",
-      "startDate": "2026-07-05",
+      "startDate": "2026-07-09",
       "year": "2026",
       "status": "current",
       "hasSub": true,

@@ -1,7 +1,307 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-12T09:40:14.142Z",
+  "lastUpdated": "2026-09-12T14:27:54.185Z",
   "items": [
+    {
+      "id": "ann-LjI0MTY1MA",
+      "title": "Netflix Announces Cast for Webtoon-Based Live-Action Series Outback",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/netflix-announces-cast-for-webtoon-based-live-action-series-outback/.241650",
+      "description": "Series based on G'day webtoon follows man who travels to Australia after his older sister's sudden death",
+      "pubDate": "2026-09-12T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.9/241650/hr5iywww8acx8ic.jfif.jpeg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Puella Magi Madoka Magica -Walpurgisnacht Rising- Anime Film Cracks the Soul Gem in New Spoiler-Filled Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-now-showing-trailer",
+      "description": "Spoilers also fill the brand new visual for the film",
+      "pubDate": "2026-09-12T12:47:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/b756bb71df/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-now-showing-trailer.png"
+    },
+    {
+      "id": "cr-LXRlYXNlcg",
+      "title": "Expelled from Paradise: Resonance of the Heart Anime Film Confirms Rie Kugimiya Cast in New Teaser",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/expelled-from-paradise-resonance-of-the-heart-anime-film-rie-kugimiya-cast-teaser",
+      "description": "Additional character art published for upcoming sequel movie",
+      "pubDate": "2026-09-12T12:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/3f9638ef0c/expelled_from_paradise_resonance_of_the_heart_header3.jpg"
+    },
+    {
+      "id": "cr-LXRvLWNhc3Q",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke Cour 2 Anime Adds Kaede Hondo to Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-cour-2-anime-adds-kaede-hondo-to-cast",
+      "description": "New trailer shared ahead of final episodes",
+      "pubDate": "2026-09-12T12:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/47ea27a33c/charlotte-bookworm.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTcwNA",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting \"Yoroshiku★Girl\" Segment",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704",
+      "description": "Film opens on November 6 in Japan",
+      "pubDate": "2026-09-12T12:32:19.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/youtube/YpWptN-jwzk.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MDU",
+      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals New Promo Video, Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/madoka-magica-walpurgisnacht-rising-anime-film-reveals-new-promo-video-visual/.241705",
+      "description": "Film opened in Japan on August 28",
+      "pubDate": "2026-09-12T12:20:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/youtube/mESs-ii2l6A.jpg"
+    },
+    {
+      "id": "ann-LjI0MTcwMA",
+      "title": "Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film Reveals New Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-reveals-new-video/.241700",
+      "description": "Rie Kugimiya reprises role as Angela Balzac",
+      "pubDate": "2026-09-12T12:06:02.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/youtube/vA-PSVAPgyo.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Magical Explorer Anime Releases Kosuke Takioto Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/magical-explorer-anime-kosuke-takioto-character-trailer",
+      "description": "White Fox-animated new fantasy series will premiere on October 3",
+      "pubDate": "2026-09-12T11:49:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/254daa71e9/magical-explorer-kosuke-takioto.png"
+    },
+    {
+      "id": "ann-bC8uMjQxNzAy",
+      "title": "New Detective Conan 2-Hour Anime Special Reveals Promo Video, Theme Song Artist, Main Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/new-detective-conan-2-hour-anime-special-reveals-promo-video-theme-song-artist-main-visual/.241702",
+      "description": "Mai Kuraki will perform opening theme song \"Hallelujah\" in September 25 anime special",
+      "pubDate": "2026-09-12T11:47:59.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/youtube/WWNZGCffhj4.jpg"
+    },
+    {
+      "id": "ann-Zi8uMjQxNzAz",
+      "title": "'Fall in Love, You False Angels' Anime Reveals Promo Video, Cast, Staff",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/fall-in-love-you-false-angels-anime-reveals-promo-video-cast-staff/.241703",
+      "description": "Nao Ojika plays Otogi Katsura, Taito Ban plays Toki Ninomae in 2027 television anime",
+      "pubDate": "2026-09-12T11:33:58.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/youtube/YwfMd7KW8ac.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Bless' Reveals Main Cast, Character Promo, Winter 2027 Debut",
+      "link": "https://myanimelist.net/news/74707781?_location=rss",
+      "description": "The Aniplex One Focus 2026 event revealed the main cast, a teaser visual (pictured), and character promotional video for the television anime adaptation of Yukino Sonoyama's Bless manga on Saturday. The anime series is scheduled to premiere on Fuji TV's NoitaminA programming block at 11.30. p.m. in January 2027. Voice actors Tomohiro Ono (Tomodachi Game) and Chiyuki Miura (Shibou Yuugi de Meshi wo Kuu.) are starring as Aia Udagawa and Jun Sumisaki, respectively. Shoutarou Kitamura (Mak...",
+      "pubDate": "2026-09-12T11:27:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789212327-eea84b34cfe6893f307940020169dab6.jpeg"
+    },
+    {
+      "id": "ann-dC8uMjQxNjk3",
+      "title": "Bless TV Anime Reveals Main Cast, January 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/bless-tv-anime-reveals-main-cast-january-2027-debut/.241697",
+      "description": "Tomohiro Ōno, Chiyuki Miura star",
+      "pubDate": "2026-09-12T11:19:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9C/cms/news.9/241697/bless-kv.jfif.jpeg"
+    },
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "Bless Anime Unveils January 2027 Premiere, Teaser Visual, Two Main Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/bless-anime-january-2027-premiere-teaser-visual-two-main-cast-members",
+      "description": "Tomohiro Ono and Chiyuki Miura voice the main characters",
+      "pubDate": "2026-09-12T11:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/0e2e989da9/bless-teaser-visual-header.jpg"
+    },
+    {
+      "id": "cr-aW4tY2FzdA",
+      "title": "Fall in Love, You False Angels Anime Reveals Main Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/fall-in-love-you-false-angels-anime-main-cast",
+      "description": "MAPPA is producing the adaptation of Coco Uzuki's rom-com manga",
+      "pubDate": "2026-09-12T11:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/d839e129ea/fall-in-love-you-false-angels.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "GROTESQQQUE Anthology Anime Film Takes on the Night in Trailer for 2nd Part",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/grotesqqque-anthology-anime-film-yoroshiku-shoujo-trailer",
+      "description": "Lead: The three-part project premieres in Japan on November 6",
+      "pubDate": "2026-09-12T11:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/bb37120123/grotesqqque-anthology-anime-film-yoroshiku-shoujo.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Koiseyo Mayakashi Tenshi-domo' Unveils Main Cast, Additional Staff, Promo",
+      "link": "https://myanimelist.net/news/74707678?_location=rss",
+      "description": "The Aniplex One Focus 2026 event unveiled the main cast, additional staff, and a cast announcement promotional video for the television anime adaptation of Coco Uzuki's Koiseyo Mayakashi Tenshi-domo (Fall in Love, You False Angels) manga on Saturday. The anime is scheduled to premiere in 2027. Voice actors Nao Ojika (Mahou no Shimai Lulutto Lilly) and Taito Ban (Ore dake Level Up na Ken) are starring the anime as Otogi Katsura and Toki Ninomae, respectively. Yuuki Kurihara (Haigakura) and Y...",
+      "pubDate": "2026-09-12T11:08:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789211219-35f0412d6a622fe152260e73395186b9.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQxNzAx",
+      "title": "Jyuо̄ Mujin Dandivine Original TV Anime's New Promo Video Previews Opening, Ending Themes",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/jyu-mujin-dandivine-original-tv-anime-new-promo-video-previews-opening-ending-themes/.241701",
+      "description": "Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7",
+      "pubDate": "2026-09-12T10:50:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/youtube/ihJfkOT_0wU.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Vertex Force' Reveals Additional Cast, Theme Songs, Second Promo",
+      "link": "https://myanimelist.net/news/74707563?_location=rss",
+      "description": "The Aniplex One Focus 2026 event revealed additional cast, theme songs, a key visual (pictured), and the second promotional video for the Vertex Force original television anime on Friday. The anime is scheduled to premiere on Tokyo MX, BS11, Gunma TV, and Tochigi TV at 11:30 p.m. on October 3. Voice actors Kazuki Ura (Bungou Stray Dogs 5th Season) and Nana Mizuki (Dandadan) are joining the cast as Alan and EDVA, respectively. Japanese pop music group ClariS (Lycoris Recoil) is performing the ope...",
+      "pubDate": "2026-09-12T10:49:08.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789209950-061b769380aab771d2c6a07baf00a04f.jpeg"
+    },
+    {
+      "id": "cr-dmlzdWFscw",
+      "title": "The Guy She Was Interested In Wasn’t a Guy at All Anime Reveals Pair of Character Posters",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/the-guy-she-was-interested-in-wasn-t-a-guy-at-all-anime-mitsuki-koga-and-aya-osawa-visuals",
+      "description": "The green music series is set to premiere in January 2027",
+      "pubDate": "2026-09-12T10:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1076/844c5fbfcf/the-guy-she-was-interested-in-wasn-t-a-guy-at-all-anime-aya-osawa-teaser.png"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "Please Excuse My Younger Brothers Anime Reveals Cour 2 Opening Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/please-excuse-my-younger-brothers-anime-cour-2-opening-theme-song",
+      "description": "Crunchyroll is simulcasting the rom-com series",
+      "pubDate": "2026-09-12T10:43:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/049e89e263/please-excuse-my-younger-brothers.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2OTA",
+      "title": "Please Excuse My Younger Brothers TV Anime Reveals New Opening Theme Artist, Special Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/please-excuse-my-younger-brothers-tv-anime-reveals-new-opening-theme-artist-special-promo-video/.241690",
+      "description": "Neguse performs new opening theme song for show's 2nd part",
+      "pubDate": "2026-09-12T10:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/youtube/dSzOu8l60HQ.jpg"
+    },
+    {
+      "id": "cr-aW5nLXNvbmdz",
+      "title": "Jyu-Oh Mujin Dandivine Anime Releases Key Visual, Main Trailer Featuring Opening and Ending Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/jyu-oh-mujin-dandivine-anime-key-visual-main-trailer-opening-and-ending-songs",
+      "description": "The original robot anime premiers on October 7",
+      "pubDate": "2026-09-12T10:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c1c1069224/jyu-oh-mujin-dandivine.png"
+    },
+    {
+      "id": "cr-Zy1hcnRpc3Rz",
+      "title": "Vertex Force Anime Unveils 2nd Trailer, Visual, Theme Song Artists",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/vertex-force-anime-2nd-trailer-visual-theme-song-artists",
+      "description": "Kazuki Ura, Nana Mizuki newly join the cast",
+      "pubDate": "2026-09-12T10:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8be67e67f2/vertex-force-trailer-2.png"
+    },
+    {
+      "id": "cr-cC10cmFpbGVy",
+      "title": "Inherit the Winds Anime Shows Off Expanded Characters in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/inherit-the-winds-tv-anime-character-round-up-trailer",
+      "description": "The TV anime series is set to premiere in January 2027",
+      "pubDate": "2026-09-12T10:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1076/1457f62c43/inherit-the-winds-anime-yamanami-keisuke.png"
+    },
+    {
+      "id": "ann-Ly4yNDE2ODc",
+      "title": "Vertex Force Original Anime Reveals Theme Song Artists, More Cast in 2nd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/vertex-force-original-anime-reveals-theme-song-artists-more-cast-in-2nd-promo-video/.241687",
+      "description": "Kazuki Ura, Nana Mizuki join cast; ClariS, Hashimero perform themes",
+      "pubDate": "2026-09-12T10:10:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY5/cms/news.9/239935/vertex-force-visual.jfif.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTY5Ng",
+      "title": "Ascendance of a Bookworm Part 3 Anime Casts Kaede Hondo, Reveals Climax Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/ascendance-of-a-bookworm-part-3-anime-casts-kaede-hondo-reveals-climax-promo-video/.241696",
+      "description": "Kaede Hondo joins cast as character Charlotte",
+      "pubDate": "2026-09-12T10:09:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/youtube/9Du-FEehHfI.jpg"
+    },
+    {
+      "id": "cr-ZWFzZS1kYXRl",
+      "title": "Reborn as a Space Mercenary Anime Premieres on October 4",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/reborn-as-a-space-mercenary-anime-october-4-release-date",
+      "description": "Crunchyroll will simulcast the sci-fi isekai series",
+      "pubDate": "2026-09-12T10:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0302fb2e2d/reborn-as-a-space-mercenary.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQxNjk5",
+      "title": "Fate/EXTRA Record Game Streams Character Video for Archer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/fate-extra-record-game-streams-character-video-for-archer/.241699",
+      "description": "Junichi Suwabe voices character in game launching on January 28",
+      "pubDate": "2026-09-12T10:05:41.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/herald/201198/screenshot-2026-09-12-190444.png.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxNjg2",
+      "title": "Inherit the Winds Anime's New Video Highlights 5 Characters",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/inherit-the-winds-anime-new-video-highlights-5-characters/.241686",
+      "description": "Anime debuts 1st in theaters on November 13 before airing starting in January 2027",
+      "pubDate": "2026-09-12T09:53:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.9/241686/ktm-pv-014.jpg"
+    },
+    {
+      "id": "ann-LjI0MTY5OA",
+      "title": "Reborn as a Space Mercenary TV Anime Debuts on October 4",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-12/reborn-as-a-space-mercenary-tv-anime-debuts-on-october-4/.241698",
+      "description": "The Aniplex One Focus livestream event on Saturday revealed that Reborn as a Space Mercenary, the television anime of Ryūto and Tetsuhiro Nabeshima's Reborn...",
+      "pubDate": "2026-09-12T09:43:44.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/encyc/A34592-1682407064.1774320495.jpg"
+    },
     {
       "id": "ann-Ly4yNDE2OTM",
       "title": "Yūsanchi! from Yū-hachi TV Anime Reveals October 5 Debut, Main Cast in Promo Video",
@@ -133,16 +433,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://a.storyblok.com/f/178900/960x540/cad32491c1/villion-code.png"
     },
     {
-      "id": "cr-c2FrYW1vdG8",
-      "title": "Puella Magi Madoka Magica -Walpurgisnacht Rising- Anime Film Reveals Maaya Sakamoto Casting",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-maaya-sakamoto",
-      "description": "Be aware of potential spoilers for the film, now screening in Japan",
-      "pubDate": "2026-09-11T19:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a17efb9428/madoka-kyubey.jpg"
-    },
-    {
       "id": "ann-Ly4yNDE2Njg",
       "title": "'Harem Camp!' Anime's English Dub Releases on September 18",
       "link": "https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668",
@@ -171,16 +461,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Features",
       "image": "https://a.storyblok.com/f/178900/960x540/2b7d0281d0/babymetal.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NzU",
-      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals Maaya Sakamoto's Role",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/madoka-magica-walpurgisnacht-rising-anime-film-reveals-maaya-sakamoto-role/.241675",
-      "description": "Sakamoto plays unnamed upperclassman in film",
-      "pubDate": "2026-09-11T16:20:15.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.8/226689/madoka-magica-walpurgisnacht-rising-.jpg"
     },
     {
       "id": "cr-aGFyLWRhdGVk",
@@ -318,286 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/interview/2026-09-11/director-hiroshi-ikehata-aims-for-big-laughs-in-giant-ojo-sama-anime/.241045",
       "description": "We caught up with the experienced director to ask him a few questions about working on a project where the character is bigger than a skyscraper.",
       "pubDate": "2026-09-11T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/interview/241045/ojoukv.jpg"
-    },
-    {
-      "id": "ann-MC8uMjQxNjY5",
-      "title": "Young Ladies Don't Play Fighting Games ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-10/.241669",
-      "description": "Not only are the girls falling in love with fighting games, but also, very much so, with each other.",
-      "pubDate": "2026-09-11T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/episode-review.5/241669/yl-2.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY2Ng",
-      "title": "Under Night In-Birth II Sys:Celes Fighting Game Releases DLC Character Zohar The 'Doppelganger' on September 15",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/under-night-in-birth-ii-sys-celes-fighting-game-releases-dlc-character-zohar-the-doppelganger-on-/.241666",
-      "description": "Character releases on September 15 for PS5, PC via Steam; releases for Switch on September 23",
-      "pubDate": "2026-09-11T12:19:45.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/news.9/241666/image-8.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY2Nw",
-      "title": "Voice Actor Kentarō Itō Goes on Hiatus Following Brain Hemorrhage, Surgery",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/voice-actor-kentaro-ito-goes-on-hiatus-following-brain-hemorrhage-surgery/.241667",
-      "description": "Agency states his life is not in danger, he will focus on rehabilitation with goal of returning to work",
-      "pubDate": "2026-09-11T11:41:06.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/cms/news.9/241667/kentaro-ito.jpg"
-    },
-    {
-      "id": "ann-NC8uMjQxNjYw",
-      "title": "Shakugan no Shana: Blaze Edge Browser Game Launches on September 14",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/shakugan-no-shana-blaze-edge-browser-game-launches-on-september-14/.241660",
-      "description": "Free-to-play game with in-app purchases will be available in Japanese, English, Traditional Chinese, Korean",
-      "pubDate": "2026-09-11T11:00:48.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJL/cms/news.9/241660/66d31cca7b0c3c01795e454fa7409d39d7605a0e3de4795628ee5188.png.jpg"
-    },
-    {
-      "id": "cr-eS12aXN1YWw",
-      "title": "A certain dark item Anime Gets New Visual Featuring the Dark Side Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/a-certain-dark-item-anime-new-key-visual",
-      "description": "The series is set to premiere on October 9",
-      "pubDate": "2026-09-11T10:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/75eaca122d/a-certain-dark-item-anime-trailer-screen.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Toaru Anbu no Item' Announces Additional Staff",
-      "link": "https://myanimelist.net/news/74702372?_location=rss",
-      "description": "The official website for the television anime adaptation of Kazuma Kamachi's Toaru Anbu no Item (A Certain Dark Side's Item) light novel revealed additional staff and a key visual (pictured) on Friday. The anime series is scheduled to premiere on October 9 at 10.30 p.m. on AT-X, followed by Tokyo MX and BS11 on October 10. Staff Series Composition: Shougo Yasukawa (Shokugeki no Souma) Animation Character Design Corporation: Kiyotaka Haimura (Dungeon ni Deai wo Motomeru no wa Machigatte...",
-      "pubDate": "2026-09-11T10:52:14.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789123776-371b6a46b37b60a46758a06c336fa059.jpeg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "BLACK TORCH Anime Final Trailer Released",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/black-torch-anime-final-trailer",
-      "description": "Crunchyroll streams the supernatural action series",
-      "pubDate": "2026-09-11T10:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x576/5a60d4db21/black-torch.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY2NQ",
-      "title": "Black Torch TV Anime Reveals 'Final' Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/black-torch-tv-anime-reveals-final-promo-video/.241665",
-      "description": "Series debuted on July 4",
-      "pubDate": "2026-09-11T10:07:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/youtube/bSuIMBT9rf0.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NjI",
-      "title": "Chitose Is in the Ramune Bottle Anime's 2nd Part Reveals October 13 Debut in Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/chitose-is-in-the-ramune-bottle-anime-2nd-part-reveals-october-13-debut-in-promo-video/.241662",
-      "description": "Cider Girl, aruma perform theme songs",
-      "pubDate": "2026-09-11T10:02:30.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/cms/news.9/241662/thumbnail.jpg"
-    },
-    {
-      "id": "cr-bWUtc29uZ3M",
-      "title": "Chitose Is in the Ramune Bottle Cour 2 Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/chitose-is-in-the-ramune-bottle-cour-2-anime-october-13-release-date-trailer-theme-songs",
-      "description": "Crunchyroll currently streams the first cour",
-      "pubDate": "2026-09-11T10:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6287452f6f/chitose-is-in-the-ramune-bottle-cour-2.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY2Mw",
-      "title": "Your Anime Rankings - Best of Summer 2026, Sep 2-8",
-      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241663",
-      "description": "The World Is Dancing lost its footing in the last two episodes, going down 5 spots in the cumulative and taking down Mushoku Tensei with it! See how your favorite shows stack up this week.",
-      "pubDate": "2026-09-11T10:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC0/cms/weekly-ranking/241663/summer2026-montage-w10.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Yasei no Last Boss ga Arawareta! 2nd Season' Unveils Additional Cast, Ending Theme, Second Promo",
-      "link": "https://myanimelist.net/news/74702269?_location=rss",
-      "description": "The official website for the television anime adaptation of Firehead's Yasei no Last Boss ga Arawareta! (A Wild Last Boss Appeared!) light novel unveiled additional cast, the ending theme, and second promotional video for the second season on Friday. The new season is scheduled to premiere on October 3 at 10:30 p.m. on Tokyo MX, followed by BS Asahi, and Kansai TV. Cast Sagittarius: Atsushi Miyauchi (Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou) Leon: Akio Ootsuka (Fate/Zero) M...",
-      "pubDate": "2026-09-11T09:57:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789120570-d7b8034a8dc3fe85aa4c6eb500583a0d.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTY2NA",
-      "title": "A Wild Last Boss Appeared! Season 2 Anime Reveals September 26 Early Streaming Debut, More Cast in 2nd Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/a-wild-last-boss-appeared-season-2-anime-reveals-september-26-early-streaming-debut-more-cast-in-/.241664",
-      "description": "Chakura performs ending theme song",
-      "pubDate": "2026-09-11T09:49:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN5/youtube/qF7rpSynOk0.jpg"
-    },
-    {
-      "id": "cr-ZS10cmFpbGVy",
-      "title": "A Wild Last Boss Appeared! Season 2 Anime Trailer Reveals Premiere Date, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/a-wild-last-boss-appeared-season-2-anime-october-3-release-date-trailer",
-      "description": "Crunchyroll currently streams the first season",
-      "pubDate": "2026-09-11T09:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1320x743/54759b7402/a-wild-last-boss-appeared-season-2.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Psyren' Reveals Additional Cast, Staff, Opening Theme, Main Promo",
-      "link": "https://myanimelist.net/news/74702197?_location=rss",
-      "description": "The official website for the television anime adaptation of Toshiaki Iwashiro's Psyren manga revealed additional cast, staff, opening theme, key visual (pictured), and the main promotional video on Friday. The anime is scheduled to premiere on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Yuuko Kaida (Spy x Family) and Nobuyuki Hiyama (Gachiakuta) are joining the cast as Matsuri Yagumo and Dholaki, respectively. Staff Creature Design: Yoshitaka Taniguchi (Se...",
-      "pubDate": "2026-09-11T09:21:31.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789118472-d6a3d2e0f03c8fcb73768d53a189c9b3.jpeg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "PSYREN Anime Goes Game Start in New Trailer Revealing October 5 Premiere",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/psyren-tv-anime-game-trailer-visual",
-      "description": "More cast members, the opening theme, a new visual were revealed",
-      "pubDate": "2026-09-11T09:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2e45aac483/psyren-tv-anime-trailer.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY2MQ",
-      "title": "Psyren TV Anime Reveals More Cast, Opening Theme Artist, October 5 Debut in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/psyren-tv-anime-reveals-more-cast-opening-theme-artist-october-5-debut-in-video/.241661",
-      "description": "CLAN QUEEN performs opening; Yūko Kaida, Nobuyuki Hiyama join cast",
-      "pubDate": "2026-09-11T09:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
-    },
-    {
-      "id": "cr-dC1waG90b3M",
-      "title": "That Time I Got Reincarnated as a Slime 3rd Stage Play Unveils Key Visual, Main Cast Photos",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/that-time-i-got-reincarnated-as-a-slime-3rd-stage-play-key-visual-main-cast-photos",
-      "description": "The 3rd installment will be performed in Tokyo from October 22 to 25",
-      "pubDate": "2026-09-11T05:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/2f94f8dd63/slime-stage-play-3-header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NDg",
-      "title": "Live-Action Ao to Midori BL Series Unveils Theme Song Artists, Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/live-action-ao-to-midori-bl-series-unveils-theme-song-artists-visual/.241648",
-      "description": "ONE N' ONLY performs opening theme song \"Crush On You\"",
-      "pubDate": "2026-09-11T04:06:56.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/cms/news.9/241648/aotomidori.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Announces Production Staff",
-      "link": "https://myanimelist.net/news/74701299?_location=rss",
-      "description": "WWWave Corporation's Deregula animation label opened an official website for the television anime adaptation of Kennoji and R_ringo's Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga revealed the production staff and a key visual (pictured). Staff Director: Masayoshi Nishita (Kakushite! Makina-san!!) Series Director: Tokihiro Sasaki (Nobunaga-sensei no Osanazuma director) Series Composition: Youhei Kash...",
-      "pubDate": "2026-09-11T04:02:35.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789099265-b32ea5c720056dfaecaa20cf904758c4.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NTM",
-      "title": "My Sword Saint Master Is Too Cute to Live With! Anime Reveals Staff, New Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/my-sword-saint-master-is-too-cute-to-live-with-anime-reveals-staff-new-visual/.241653",
-      "description": "Makina-san's a Love Bot?! director Masayoshi Nishida directs anime at Wolfsbane, Lightbox",
-      "pubDate": "2026-09-11T04:02:01.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241653/swordsaint-kv2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NDk",
-      "title": "'Optimus Prime: Awakening' Animated Short's Clip Posted",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/optimus-prime-awakening-animated-short-clip-posted/.241649",
-      "description": "Short debuts alongside The Transformers: The Movie 4K re-release",
-      "pubDate": "2026-09-11T03:55:40.000Z",
-      "source": "Anime News Network",
-      "category": "Animation",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU7/youtube/ivlzW7oRI_E.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY0Nw",
-      "title": "Muramasa: Revenant Blades Game Launches on February 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/muramasa-revenant-blades-game-launches-on-february-4/.241647",
-      "description": "New long gameplay video posted for game on PS5, Switch, Switch 2, Steam",
-      "pubDate": "2026-09-11T03:36:42.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/youtube/s-OJ0zxVCaY.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Sasaki to Pii-chan Season 2' Unveils Additional Cast, Staff, Opening Theme, First Promo",
-      "link": "https://myanimelist.net/news/74700557?_location=rss",
-      "description": "The official website for the television anime adaptation of Buncololi's Sasaki to Pii-chan (Sasaki and Peeps) light novel unveiled additional cast, staff, a second key visual (pictured), the opening theme, and first promotional video for the second season on Friday. The anime series is scheduled to premiere on October 7 at 10:00 p.m. on AT-X, followed by Tokyo MX and BS Nippon Television, with the first episode broadcasting as a one-hour special. Voice actors Tasuku Hatanaka (SK&infin;) and...",
-      "pubDate": "2026-09-11T01:51:08.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789091402-c7cacaec398e4b90d722b70097572c7a.jpeg"
-    },
-    {
-      "id": "cr-ZS1jbGlwcw",
-      "title": "BanG Dream! YUME∞MITA Anime Releases New Mugendai Mewtype Visual, Performance Clips",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/bang-dream-yume-mita-anime-mugendai-mewtype-new-visual-performance-clips",
-      "description": "Crunchyroll streamed the latest BanG Dream! TV anime",
-      "pubDate": "2026-09-11T01:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/ae34e6fdb2/bang-dream-yume-mita.jpg"
-    },
-    {
-      "id": "cr-ZS1zb25ncw",
-      "title": "The Vermilion Mask Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/the-vermilion-mask-anime-october-10-release-date-main-trailer-key-visual-theme-songs",
-      "description": "The Vermilion Mask anime will premiere on October 10",
-      "pubDate": "2026-09-11T01:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/282d35d852/the-vermilion-mask.jpg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Sasaki and Peeps Season 2 Anime Unveils October 7 Premiere, New Trailer and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/sasaki-and-peeps-season-2-anime-october-7-premiere-new-trailer-visual",
-      "description": "MADKID perfoms the opening theme \"Unbroken\"",
-      "pubDate": "2026-09-11T01:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/660efadef6/sasaki-and-peeps-season2-trailer.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQxNjQ1",
-      "title": "Sasaki and Peeps 2nd Season Anime Reveals Main Trailer, 2 New Cast Members, Opening Theme Song, October 7 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-10/sasaki-and-peeps-2nd-season-anime-reveals-main-trailer-2-new-cast-members-opening-theme-song-/.241645",
-      "description": "MADKID perform opening theme song \"Unbroken\"",
-      "pubDate": "2026-09-11T01:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
