@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-12T14:27:54.185Z",
+  "lastUpdated": "2026-09-12T19:43:56.257Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE2NTg",
+      "title": "Japan's Video Game Rankings, August 31-September 6",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/japan-video-game-rankings-august-31-september-6/.241658",
+      "description": "Onimusha: Way of the Sword PS5 version debuts at #1, Switch 2 version at #3",
+      "pubDate": "2026-09-12T18:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/cms/news.9/241658/onimusha.jpg"
+    },
+    {
+      "id": "cr-cGVyZm9ybWVy",
+      "title": "Detective Conan Anime Special Reveals Teaser Trailer, Key Art, Theme Song Performer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/detective-conan-anime-30th-anniversary-special-reveals-teaser-trailer-key-art-theme-song-performer",
+      "description": "The special celebrating the TV anime's 30th anniversary broadcasts on September 25",
+      "pubDate": "2026-09-12T18:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/6ec2adbe42/detective_conan_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Grotesqqque' Reveals Supporting Cast, Trailer for \"Yoroshiku★Shoujo\" Segment",
+      "link": "https://myanimelist.net/news/74709373?_location=rss",
+      "description": "The Aniplex One Focus 2026 event revealed supporting cast for the Grotesqqque original anime movie and a trailer for its Yoroshiku★Shoujo segment on Saturday. The three-story omnibus movie will premiere in Japanese theaters on November 6. Cast Mitoge: Youko Hikasa (Kaoru Hana wa Rin to Saku) Mimosa: Riho Sugiyama (Amagami-san Chi no Enmusubi) Kava: Ayaka Ohashi (Akame ga Kill!) Shouta Horie (Shiunji-ke no Kodomotachi), Yuyoyuppe (Mob Psycho 100), Ayato Shinozaki (Kage no Jitsuryokusha ni Naritak...",
+      "pubDate": "2026-09-12T17:55:08.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789235488-103e5404e86b5454912844ba6bb973a2.jpeg"
+    },
+    {
+      "id": "cr-LWRlbGF5ZWQ",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Episodes 49 and 50 Delayed",
+      "link": "https://crunchyroll.com/news/latest/2026/9/12/bleach-thousand-year-blood-war-the-calamity-anime-episodes-49-and-50-delayed",
+      "description": "Episodes will now air on October 19 and 26, respectively",
+      "pubDate": "2026-09-12T17:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f3cf4a7d69/bleach-tybw-delay.jpeg"
+    },
+    {
+      "id": "ann-Ni8uMjQxNjU5",
+      "title": "Japanese Animation TV Ranking, August 31-September 6",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/japanese-animation-tv-ranking-august-31-september-6/.241659",
+      "description": "From Old Country Bumpkin to Master Swordsman season 2 earns 2.4% rating",
+      "pubDate": "2026-09-12T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOD/encyc/A36693-2730177393.1777629947.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDExOTQ",
+      "title": "MARRIAGETOXIN Volume 12-14 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/marriagetoxin-volume-12-14/manga/.241194",
+      "description": "You’ll be happy to know that the story is kicking things up a notch in the best way possible.",
+      "pubDate": "2026-09-12T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYN/cms/review.2/241194/marriage-toxin-vol-12-pre-order-8533905.webp"
+    },
+    {
+      "id": "cr-aW50ZXJ2aWV3",
+      "title": "Silica Gel: Anime and Rock Treat Catharsis As the Point, Not a Side Effect",
+      "link": "https://crunchyroll.com/news/interviews/2026/9/12/silica-gel-band-interview",
+      "description": "Anime absolutely feeds the music",
+      "pubDate": "2026-09-12T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/e91a209c40/silica-gel-band.jpg"
+    },
     {
       "id": "ann-LjI0MTY1MA",
       "title": "Netflix Announces Cast for Webtoon-Based Live-Action Series Outback",
@@ -530,76 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-11T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/news.9/241651/hrz8z6cxeaeum4y.jfif.jpeg"
-    },
-    {
-      "id": "ann-by8uMjQxNDk0",
-      "title": "This Week in Games - Catching Up with Sony and Nintendo",
-      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-09-11/catching-up-with-sony-and-nintendo/.241494",
-      "description": "Both Sony and Nintendo had showcases in the last week - did they have anything worth being excited about?",
-      "pubDate": "2026-09-11T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/this-week-in-games/241494/metraven.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kyokou Suiri' Author to Launch 'Vampire Juujikai' Sequel in October 2026",
-      "link": "https://myanimelist.net/news/74702759?_location=rss",
-      "description": "The official X account of Square Enix's Monthly Shounen Gangan announced on Friday that Kyokou Suiri (In/Spectre) author Kyou Shirodaira will launch a sequel manga of Vampire Juujikai. Titled Vampire Juujikai: Inu ni wa Inu no Uta (Vampire Cross World: A Song for Dogs). The manga featuring illustrations by Yuri Kimura will begin in the November issue on October 9. Shirodaira and Kimura serialized Vampire Juujikai (The Record of a Fallen Vampire) in Shounen Gangan magazine from August 2003 t...",
-      "pubDate": "2026-09-11T13:47:09.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789134141-0d99cf7c8cf024062bc1b13fddb67941.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NzA",
-      "title": "Smoking Behind the Supermarket with You ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-10/.241670",
-      "description": "Even though this episode is plenty of fun, I would have liked it more if there was 50% less yelling.",
-      "pubDate": "2026-09-11T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/episode-review.5/241670/supermarket-smoking-episode-10.png.jpg"
-    },
-    {
-      "id": "ann-eC8uMjQxNjUy",
-      "title": "Webtoon-Based Live-Action Series Mousetrap Rises to No. 1 on Global Non-English Series on Netflix",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/webtoon-based-live-action-series-mousetrap-rises-to-no-1-on-global-non-english-series-on-netflix/.241652",
-      "description": "Series based on webtoon Field Mouse recorded 4.4 million views, appeared in Top 10 in 45 countries",
-      "pubDate": "2026-09-11T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.9/240389/hog3mw5xgaaujzu.jfif.jpeg"
-    },
-    {
-      "id": "cr-b24tdmlzdWFs",
-      "title": "The Ogre's Bride and Bride of the Barrier Master Anime Team Up in Collaboration Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/the-ogres-bride-and-bride-of-the-barrier-master-anime-collaboration-visual",
-      "description": "Both anime series are adapted from light novels written by Kureha",
-      "pubDate": "2026-09-11T13:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/3508x2480/5d74c449df/the_ogres_bride_bride_of_the_barrier_master_collaboration_visual.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Yowaki MAX Reijo Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta Anime Introduces Heroine Pia Rockwell in Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/yowaki-max-reijo-nano-ni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-pia-rockwell-character-trailer",
-      "description": "Adaptation based on isekai fantasy light novel series premieres on October 4",
-      "pubDate": "2026-09-11T13:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/83727ef325/yowaki_max_reijo_nano_ni_pia_rockwell_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MTA0NQ",
-      "title": "Director Hiroshi Ikehata Aims for Big Laughs in Giant Ojō-sama Anime",
-      "link": "https://www.animenewsnetwork.com/interview/2026-09-11/director-hiroshi-ikehata-aims-for-big-laughs-in-giant-ojo-sama-anime/.241045",
-      "description": "We caught up with the experienced director to ask him a few questions about working on a project where the character is bigger than a skyscraper.",
-      "pubDate": "2026-09-11T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
