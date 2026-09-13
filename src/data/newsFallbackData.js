@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-13T01:35:02.162Z",
+  "lastUpdated": "2026-09-13T10:41:28.979Z",
   "items": [
+    {
+      "id": "ann-LjI0MTcyNQ",
+      "title": "Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/overgeared-anime-reveals-3rd-trailer-2-new-cast-members/.241725",
+      "description": "Yūki Murata, Yurika Hirayama join cast of October 2 series",
+      "pubDate": "2026-09-13T08:15:44.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBC/youtube/e1Km0FqUZl0.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQxNzEy",
+      "title": "Fatal Fury City of the Wolves Game Adds DLC Character Kim Kaphwan on September 24",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/fatal-fury-city-of-the-wolves-game-adds-dlc-character-kim-kaphwan-on-september-24/.241712",
+      "description": "Playable characters joins season 3 DLC roster",
+      "pubDate": "2026-09-13T08:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD5/youtube/3i01uLeWrKI.jpg"
+    },
+    {
+      "id": "cr-YWwtY2FzdA",
+      "title": "Overgeared Anime Unveils New Trailer, Key Visual and Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/13/overgeared-anime-trailer-key-visual-additional-cast",
+      "description": "Crunchyroll will stream the manhwa adaptation",
+      "pubDate": "2026-09-13T07:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/317b59775c/overgeared.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MjM",
+      "title": "Actor, Narrator Leo Morimoto Dies at 83",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/actor-narrator-leo-morimoto-dies-at-83/.241723",
+      "description": "The Wings of Honnêamise star, Bartender show's narrator died on September 4",
+      "pubDate": "2026-09-13T07:05:57.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPI/cms/news.9/241723/depositphotos-644419636-l.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tempal: Item no Chikara' Unveils Additional Cast, Third Promo",
+      "link": "https://myanimelist.net/news/74712551?_location=rss",
+      "description": "The official website for the television anime adaptation of Saenal Park and Team Argo's Tempal: Item no Chikara (Overgeared) webtoon unveiled a pair of additional cast, third key visual (pictured), and third promotional video on Saturday. The anime series is scheduled to premiere on October 2 at 11:30 p.m. on Tokyo MX and BS11. Voice actresses Yuki Murata and Yurika Hirayama (Tamon-kun Ima Docchi!?) are joining the cast as Irene and Isabel, respectively. Ayako Kouno (Sword Art Online: Progr...",
+      "pubDate": "2026-09-13T06:21:19.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789280417-b24cc51c31628fed7c61ea1dfbedbc00.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTcxNQ",
+      "title": "Kei Urana's Gachiakuta Manga Continues Hiatus",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/kei-urana-gachiakuta-manga-continues-hiatus/.241715",
+      "description": "Kodansha published latest chapter on August 5, manga is on hiatus so author can do research",
+      "pubDate": "2026-09-13T06:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.9/241715/gachiakuta.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MTA",
+      "title": "Level 5 CEO Akihiro Hino Addresses Use of AI in Latest Presentation",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-12/level-5-ceo-akihiro-hino-addresses-use-of-ai-in-latest-presentation/.241710",
+      "description": "Hino: “We incorporated cutting-edge AI that also served as an experiment, in our earnest desire to make a phenomenal presentation. We understand this may have offended some, and we sincerely apologize.”",
+      "pubDate": "2026-09-13T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/interest.3/241710/level-5-vision-2026-ii-dream-logo.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MTY",
+      "title": "The Oblivious Saint Can't Contain Her Power Manga Ends in Next Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/the-oblivious-saint-cant-contain-her-power-manga-ends-in-next-volume/.241716",
+      "description": "Manga adaptation debuted in April 2022",
+      "pubDate": "2026-09-13T03:36:06.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.6/202407/the-oblivious-saint-cant-contain-her-power-manga-cover-vol-1.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxNzA5",
+      "title": "The Record of a Fallen Vampire Manga Gets New Series After 19 Years, Teases Announcement",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/the-record-of-a-fallen-vampire-manga-gets-new-series-after-19-years-teases-announcement/.241709",
+      "description": "In/Spectre author Kyo Shirodaira, Yuri Kimura launch Vampire Jūjikai: Inu ni wa Inu no Uta on October 9",
+      "pubDate": "2026-09-13T02:37:02.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/241709/hr5ofwcamaet-qw.jpg"
+    },
+    {
+      "id": "cr-cnMtdmlzdWFs",
+      "title": "Star Detective Precure! Anime Film Releases New Trailers, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/13/star-detective-precure-anime-film-new-trailers-visual",
+      "description": "The 35th Precure film hits Japanese theaters September 18",
+      "pubDate": "2026-09-13T02:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/82bdbe1386/detective-precure-film.png"
+    },
+    {
+      "id": "ann-Ly4yNDE3MDg",
+      "title": "In the Clear Moonlit Dusk Manga to End in 12th Volume Next Spring",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/in-the-clear-moonlit-dusk-manga-to-end-in-12th-volume-next-spring/.241708",
+      "description": "Series reaches 8.2 million copies globally",
+      "pubDate": "2026-09-13T02:03:22.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.9/241708/moonlit-dusk.png.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxNzE4",
+      "title": "Star Detective Precure! Film Assembles You and Idol Precure, Wonderful Precure! in 2 Trailers",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-12/star-detective-precure-film-assembles-you-and-idol-precure-wonderful-precure-in-2-trailers/.241718",
+      "description": "Precure girls from 3 series unite in film opening next Friday",
+      "pubDate": "2026-09-13T01:42:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241718/fix-c-scaled.jpg"
+    },
     {
       "id": "ann-Ly4yNDE3MDY",
       "title": "Orb, 100 Meters Manga Creator Uoto to Launch 2 New Manga Series",
@@ -134,7 +254,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LjI0MTcwNA",
-      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting \"Yoroshiku★Girl\" Segment",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting \"Yoroshiku★Girl\" Segment (Updated)",
       "link": "https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704",
       "description": "Film opens on November 6 in Japan",
       "pubDate": "2026-09-12T12:32:19.000Z",
@@ -420,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T07:03:05.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/youtube/PxXPcoo8uGM.jpg"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQxNjM0",
@@ -430,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/news.9/233582/miichan-yamada-m1-cover-jpn.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -450,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/herald/201185/melty-blood-twilumina.png.jpg"
+      "image": null
     },
     {
       "id": "cr-ci12aXN1YWw",
@@ -478,126 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-11/rilakkuma-short-anime-gets-3rd-season/.241683",
       "description": "Rilakkuma: Ki Mama ni Manpuku Biyori announced after episode 24",
       "pubDate": "2026-09-12T01:09:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/cms/news.9/241683/kv-4.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2ODI",
-      "title": "Ryō Kurashina, Issaku Wake's Jotei Manga Gets New Live-Action TV Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/ryo-kurashina-issaku-wake-jotei-manga-gets-new-live-action-tv-series/.241682",
-      "description": "Live-action Oshi no Ko's Nagisa Saitō stars as woman striving to be \"Empress of Ginza\"",
-      "pubDate": "2026-09-12T00:48:01.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/youtube/3cBHlj7FnMo.jpg"
-    },
-    {
-      "id": "cr-LWhpYXR1cw",
-      "title": "Voice Actor Kentaro Ito Goes on Hiatus Due to Health Issues",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/kentaro-ito-voice-actor-hiatus",
-      "description": "Ito will focus on rehabilitation therapy for the time being",
-      "pubDate": "2026-09-12T00:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/b8752fad55/kentaro-ito.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE1Mzk",
-      "title": "North American Anime, Manga Releases, September 6-12",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/north-american-anime-manga-releases-september-6-12/.241539",
-      "description": "My Hero Academia: Vigilantes, Kaiju No. 8: Mission Recon anime; The Amazing Digital Circus, Say Hello to Mr. Wallaby! manga ship",
-      "pubDate": "2026-09-11T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime. Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB9/cms/news.9/241539/my-hero-academia-vigilantes-bd.jpg"
-    },
-    {
-      "id": "cr-YS1ldXJvcGU",
-      "title": "Villion:Code Action-RPG Has 2027 Plans for North America, Europe",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/villion-code-action-rpg-2027-north-america-europe",
-      "description": "Koji Okada produces the console and PC-due game",
-      "pubDate": "2026-09-11T19:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/cad32491c1/villion-code.png"
-    },
-    {
-      "id": "ann-Ly4yNDE2Njg",
-      "title": "'Harem Camp!' Anime's English Dub Releases on September 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/harem-camp-anime-english-dub-releases-on-september-18/.241668",
-      "description": "AnimeFesta anime based on Yuuki HB's manga premiered in October 2022",
-      "pubDate": "2026-09-11T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.9/241668/image4.png.jpg"
-    },
-    {
-      "id": "cr-Y2gtZGF0ZQ",
-      "title": "Muramasa: Revenant Blades Gameplay Showcased Ahead of February Launch",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/muramasa-revenant-blades-gameplay-showcase-february-launch-date",
-      "description": "Vanillaware revival heads to PS4, Switch, Switch 2 and PC",
-      "pubDate": "2026-09-11T17:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/475a0d60e9/muramasa-revenant-blades1.png"
-    },
-    {
-      "id": "cr-MC1hbmltZQ",
-      "title": "BABYMETAL Reveals Their Top 10 Anime!",
-      "link": "https://crunchyroll.com/news/features/2026/9/11/babymetal-top-10-anime",
-      "description": "From ONE PIECE to The Apothecary Diaries and more!",
-      "pubDate": "2026-09-11T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/2b7d0281d0/babymetal.jpg"
-    },
-    {
-      "id": "cr-aGFyLWRhdGVk",
-      "title": "UNDER NIGHT IN-BIRTH II Sys:Celes DLC Character Zohar Dated",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/under-night-in-birth-ii-sys-celes-dlc-character-zohar-dated",
-      "description": "Fourth playable addition arrives on September 15",
-      "pubDate": "2026-09-11T16:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/c3d213af4d/uni2-zohar-screenshot-1.png"
-    },
-    {
-      "id": "cr-aGxpZ2h0cw",
-      "title": "The Yu-Gi-Oh! World Championship Reveals the Game’s Key Component",
-      "link": "https://crunchyroll.com/news/features/2026/9/11/yu-gi-oh-world-championship-2026-highlights",
-      "description": "Having fun is a necessary part of Yu-Gi-Oh!, even during competitions",
-      "pubDate": "2026-09-11T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/780aedd140/yu-gi-oh.png"
-    },
-    {
-      "id": "ann-Ly4yNDEyMDg",
-      "title": "Victoria of Many Faces Season 1  Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/victoria-of-many-faces-season-1/anime-series/.241208",
-      "description": "The push and pull Victoria feels between her longing to settle down and the feeling that she must constantly be ready to flee are what bring intrigue to this show.",
-      "pubDate": "2026-09-11T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC6/cms/review.2/241208/victoria-of-many-faces-cover.png.jpg"
-    },
-    {
-      "id": "cr-bi1tZWF0LQ",
-      "title": "Manga Artist Uoto Announces New Manga Titled Hallucination Meat",
-      "link": "https://crunchyroll.com/news/latest/2026/9/11/manga-artist-uoto-announces-new-manga-hallucination-meat-",
-      "description": "The Orb and 100 Meters creator starts the new series in Weekly Big Comic Spirits",
-      "pubDate": "2026-09-11T15:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/96650c0f40/uoto-hallucination-meat-logo.png"
-    },
-    {
-      "id": "ann-Ly4yNDE2NzQ",
-      "title": "'Sound! Euphonium, The Final Movie Part 2' Streams Video Featuring New Footage",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/sound-euphonium-the-final-movie-part-2-streams-video-featuring-new-footage/.241674",
-      "description": "Film opened on Friday",
-      "pubDate": "2026-09-11T14:56:58.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
