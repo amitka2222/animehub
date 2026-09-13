@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-13T10:41:28.979Z",
+  "lastUpdated": "2026-09-13T15:08:41.887Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'#Zombie Sagashitemasu' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+      "link": "https://myanimelist.net/news/74713683?_location=rss",
+      "description": "The special livestream presentation for the television anime adaptation of Katsuwo's #Zombie Sagashitemasu (#I'm Looking for Zombie) manga unveiled additional cast, staff, a key visual (pictured right), the theme songs, and first promotional video on Sunday. The anime series is scheduled to premiere on October 3 at 11:30 p.m. on TV Asahi's IMAnimation programming block, followed by BS Asahi and AT-X. Cast: Mikazuki: Youko Hikasa (High School DxD) Touka: Makoto Koichi (Tensei shit...",
+      "pubDate": "2026-09-13T11:43:56.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789299776-8d430c6df60882aa765ad0c2d8bc99fb.jpeg"
+    },
+    {
+      "id": "cr-bWUtc29uZ3M",
+      "title": "#ImLookingForZombies Anime Trailer Reveals Premiere Date, Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/13/im-looking-for-zombies-anime-october-3-release-date-main-trailer-visual-cast-theme-songs",
+      "description": "A main visual and additional cast were also revealed",
+      "pubDate": "2026-09-13T11:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/eca7c1ca99/imlookingforzombies.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQxNzIy",
+      "title": "#I'm Looking For Zombie Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722",
+      "description": "Yōko Hikasa, Makoto Koichi, Tomoyo Takayanagi, Aino Shimada, Kōsuke Toriumi join anime's cast",
+      "pubDate": "2026-09-13T11:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/youtube/Q72YGjPWpRc.jpg"
+    },
     {
       "id": "ann-LjI0MTcyNQ",
       "title": "Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members",
@@ -520,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T07:55:25.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEO/youtube/WprfleUJVck.jpg"
+      "image": null
     },
     {
       "id": "cr-bWUtc29uZ3M",
@@ -570,36 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "RILAKKUMA Anime Releases New Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/rilakkuma-anime-new-trailer-visual",
-      "description": "Crunchyroll streams the adaptation based on San-X mascot character",
-      "pubDate": "2026-09-12T01:57:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/bd31437c21/rilakkuma-trailer-3.png"
-    },
-    {
-      "id": "cr-Yi12aXN1YWw",
-      "title": "From Old Country Bumpkin to Master Swordsman, Reincarnated as a Sword Anime Unveil Collab Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/from-old-country-bumpkin-to-master-swordsman-reincarnated-as-a-sword-anime-collab-visual",
-      "description": "Reincarnated as a Sword Season 2 premieres on October 7",
-      "pubDate": "2026-09-12T01:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/97d3f76b2a/master-swordsman-reincarnated-as-a-sword-collab-visual-header.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY4Mw",
-      "title": "Rilakkuma Short Anime Gets 3rd Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-11/rilakkuma-short-anime-gets-3rd-season/.241683",
-      "description": "Rilakkuma: Ki Mama ni Manpuku Biyori announced after episode 24",
-      "pubDate": "2026-09-12T01:09:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
