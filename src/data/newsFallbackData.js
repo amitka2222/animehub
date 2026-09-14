@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-13T19:55:27.597Z",
+  "lastUpdated": "2026-09-14T01:52:43.264Z",
   "items": [
+    {
+      "id": "cr-aW1lLWNsaXA",
+      "title": "Yu-Gi-Oh! Manga Original Artwork Exhibition Unveils Special Anime Clip",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/yu-gi-oh-manga-original-artwork-exhibition-special-anime-clip",
+      "description": "30th anniversary exhibition is set to open on December 12",
+      "pubDate": "2026-09-14T01:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0c1bd1de0a/yu-gi-oh-manga-exhibition-anime-clip.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Chi. Chikyuu no Undou ni Tsuite' Creator Announces Two New Manga",
+      "link": "https://myanimelist.net/news/74717598?_location=rss",
+      "description": "Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of the Earth), announced two new manga on their X (formerly Twitter) account on Friday and Saturday. The first title, Hallucination Meat, is expected to begin in Shogakukan's Weekly Big Comic Spirits within this year. Test Taker/Cheaters, the second title, will be written by Uoto with artwork by Kyou Yoneshiro. The manga is expected to launch in Kodansha's monthly Afternoon magazine at the beginning of 2027. U...",
+      "pubDate": "2026-09-14T01:28:06.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789349252-d00beffa9975766c5ff616185a5ab3f1.png"
+    },
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "Let's go KAIKIGUMI Opening Song Anime Music Video Streamed",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/lets-go-kaikigumi-opening-song-anime-music-video",
+      "description": "The comedy-horror series is now available on Crunchyroll",
+      "pubDate": "2026-09-14T01:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/823a100256/lets-go-kaikigumi-opening-anime-mv.png"
+    },
+    {
+      "id": "cr-Yy12aWRlb3M",
+      "title": "Cyborg 009 Nemesis Anime Streams Opening and Ending Song Music Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/cyborg-009-nemesis-anime-opening-and-ending-song-music-videos",
+      "description": "Three-episode series premiered on July 19",
+      "pubDate": "2026-09-14T00:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/77a2018c26/cyborg-009-nemesis.jpg"
+    },
     {
       "id": "cr-YW5ub3VuY2Vk",
       "title": "THE iDOLM@STER SideM F@NTASTIC BATTLE FES ~Who goes first~ Anime Concert Film Announced",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/herald/201198/screenshot-2026-09-12-190444.png.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQxNjg2",
-      "title": "Inherit the Winds Anime's New Video Highlights 5 Characters",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/inherit-the-winds-anime-new-video-highlights-5-characters/.241686",
-      "description": "Anime debuts 1st in theaters on November 13 before airing starting in January 2027",
-      "pubDate": "2026-09-12T09:53:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTY5OA",
-      "title": "Reborn as a Space Mercenary TV Anime Debuts on October 4",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-12/reborn-as-a-space-mercenary-tv-anime-debuts-on-october-4/.241698",
-      "description": "The Aniplex One Focus livestream event on Saturday revealed that Reborn as a Space Mercenary, the television anime of Ryūto and Tetsuhiro Nabeshima's Reborn...",
-      "pubDate": "2026-09-12T09:43:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE2OTM",
-      "title": "Yūsanchi! from Yū-hachi TV Anime Reveals October 5 Debut, Main Cast in Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/yusanchi-from-yu-hachi-tv-anime-reveals-october-5-debut-main-cast-in-promo-video/.241693",
-      "description": "Short anime to star Chiaki, Hina Kawata, more",
-      "pubDate": "2026-09-12T07:55:25.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bWUtc29uZ3M",
-      "title": "Romelia War Chronicle Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/romelia-war-chronicle-anime-october-3-release-date-trailer-main-visual-theme-songs",
-      "description": "Crunchyroll will stream the fantasy adventure series",
-      "pubDate": "2026-09-12T07:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4a4d029a09/romelia-war-chronicle.jpg"
     }
   ]
 };
