@@ -1,7 +1,197 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-14T01:52:43.264Z",
+  "lastUpdated": "2026-09-14T11:02:52.023Z",
   "items": [
+    {
+      "id": "ann-LjI0MTc2Mg",
+      "title": "The Ramparts of Ice Season 2 Anime Previews Opening Theme in 2nd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/the-ramparts-of-ice-season-2-anime-previews-opening-theme-in-2nd-promo-video/.241762",
+      "description": "New season debuts on October 1",
+      "pubDate": "2026-09-14T10:56:55.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/youtube/VvzeL7UMCE8.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQxNzYx",
+      "title": "Motohiro Den's Funsō Deshitara Hatta made Geopolitical Manga Gets TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/motohiro-den-funso-deshitara-hatta-made-geopolitical-manga-gets-tv-anime/.241761",
+      "description": "Manga about geopolitical risk consultant who solves cases in different countries launched in 2019",
+      "pubDate": "2026-09-14T10:40:07.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.9/241761/funso.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxNzU5",
+      "title": "New Sgt. Frog TV Anime's 2nd Main Trailer Reveals Theme Songs, 5 New Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/new-sgt-frog-tv-anime-2nd-main-trailer-reveals-theme-songs-5-new-cast/.241759",
+      "description": "Yuki Sakakihara, Minori Fujidera, Sumire Morohoshi, Hiiro Ishibashi, Koko Fukushima join cast of October 3 anime",
+      "pubDate": "2026-09-14T10:19:46.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/youtube/iMyre5xXDzE.jpg"
+    },
+    {
+      "id": "cr-ZS1zb25ncw",
+      "title": "Sgt. Frog New TV Anime Trailer Reveals More Cast, Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/sgt-frog-new-tv-anime-trailer-additional-cast-theme-songs",
+      "description": "The series touches down on October 3",
+      "pubDate": "2026-09-14T09:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e1603d4d60/sgt-frog-new-tv-anime.jpg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmdz",
+      "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion Anime Trailer Reveals Premiere Date, Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/hi-im-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-october-5-release-date-trailer-visual-theme-songs",
+      "description": "A main visual and additional cast details were also revealed",
+      "pubDate": "2026-09-14T09:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b6b7b59923/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQxNzUy",
+      "title": "'Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!' Anime's Video Reveals More Cast, Staff, Theme Songs, October 5 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-video-reveals-more-cast-staff-/.241752",
+      "description": "Hiro Shimono, Akira Sekine join cast; Centimillimental performs opening song, Rainy. performs ending song",
+      "pubDate": "2026-09-14T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/youtube/hGRtocAh3iw.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "The Ramparts of Ice Season 2 Anime Opening Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/the-ramparts-of-ice-season-2-anime-opening-theme-song-trailer",
+      "description": "The romance series returns on October 1",
+      "pubDate": "2026-09-14T08:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/ee83101eed/the-ramparts-of-ice-season-2.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQxNzU0",
+      "title": "Fate/Extra Record Game Reveals Character Video for Caster",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/fate-extra-record-game-reveals-character-video-for-caster/.241754",
+      "description": "Chiwa Saitō voices character in game launching on January 28",
+      "pubDate": "2026-09-14T08:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/cms/news.9/241754/fatecaster.jpg"
+    },
+    {
+      "id": "ann-LjI0MTcyOQ",
+      "title": "Even a Replica Can Fall in Love Manga Ends with 7th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/even-a-replica-can-fall-in-love-manga-ends-with-7th-volume/.241729",
+      "description": "Momose Hanada's adaptation of Harunadon's novel series launched in April 2023",
+      "pubDate": "2026-09-14T07:11:04.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA2/cms/news.9/241729/replica.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NDc",
+      "title": "You and I are Polar Opposites 2nd Season Anime's 12th Episode Airs on September 27",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/you-and-i-are-polar-opposites-2nd-season-anime-12th-episode-airs-on-september-27/.241747",
+      "description": "Anime's 2nd season debuted on July 5",
+      "pubDate": "2026-09-14T06:51:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241747/polar.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQxNzQ0",
+      "title": "Gundam RG XARX-ZERO Anime 'Launches' in N. America, Japan in April 2027",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-14/gundam-rg-xarx-zero-anime-launches-in-n-america-japan-in-april-2027/.241744",
+      "description": "The official website for the Mobile Suit Gundam RG XARX-ZERO anime revealed on Monday that the anime will \"launch\" in North America and Japan...",
+      "pubDate": "2026-09-14T06:13:31.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNI/cms/news.9/239870/xarx-zero-teaser-visual.png.jpg"
+    },
+    {
+      "id": "cr-c2NyZWVuaW5n",
+      "title": "Classic Sci-fi Anime Movie Roujin Z to Get 4K Remaster Revival Screening",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/classic-sci-fi-anime-movie-roujin-z-4k-remaster-revival-screening",
+      "description": "Hiroyuki Kitakubo directed from a screenplay by Katsuhiro Otomo",
+      "pubDate": "2026-09-14T04:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/500394255a/roujin-z-revival-screening.png"
+    },
+    {
+      "id": "ann-Ly4yNDE3MzI",
+      "title": "Open Your Very Own Cat Café with Ranma 1/2 Tableware",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-13/open-your-very-own-cat-cafe-with-ranma-1-2-tableware/.241732",
+      "description": "You'll have to find your own wacky martial artists",
+      "pubDate": "2026-09-14T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHO/cms/interest.3/241732/ranma-tableware-2026-02.jpeg"
+    },
+    {
+      "id": "ann-ZS8uMjQxNzM2",
+      "title": "The World's Strongest Witch Novels Listed to End in 6th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/the-world-strongest-witch-novels-listed-to-end-in-6th-volume/.241736",
+      "description": "Manga adaptation launched in April 2023",
+      "pubDate": "2026-09-14T03:57:35.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.8/221790/the-world-strongest-witch-vol-1-light-novel-cnf.jpg"
+    },
+    {
+      "id": "ann-LjI0MTczMQ",
+      "title": "BanG Dream! Our Notes Mobile Game Streams New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/bang-dream-our-notes-mobile-game-streams-new-trailer/.241731",
+      "description": "Game to launch this year with Traditional Chinese, English, Korean language support",
+      "pubDate": "2026-09-14T03:51:58.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/wA0TcAvctwI.jpg"
+    },
+    {
+      "id": "cr-YXNlLWRhdGU",
+      "title": "Mobile Suit Gundam RG XARX-ZERO Anime Broadcasts in April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/mobile-suit-gundam-rg-xarx-zero-anime-april-2027-release-date",
+      "description": "Kenji Kamiyama directs the series at studio SOLA ANIMATION",
+      "pubDate": "2026-09-14T03:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/1889c8322c/mobile-suit-gundam-rg-xarx-zero.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MjY",
+      "title": "Otomate Brand Unveils Hakuōki Shinkai Kiwame, Other New Game Releases",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/otomate-brand-unveils-hakuoki-shinkai-kiwame-other-new-game-releases/.241726",
+      "description": "Hakuōki on Switch 2 commemorates Otomate's 20th anniversary next year",
+      "pubDate": "2026-09-14T02:50:10.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/youtube/z_sZXMg9xpk.jpg"
+    },
+    {
+      "id": "cr-cmF0aW9ucw",
+      "title": "Cyberpunk: Edgerunners Breaks It Down with Overwatch Collaboration",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/cyberpunk-edgerunners-2-anime-overwatch-fortnite-collaborations",
+      "description": "A Fortnite collaboration is also on the way",
+      "pubDate": "2026-09-14T02:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/12e80ae92f/cyberpunk-edgerunners-overwatch.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3Mzk",
+      "title": "Kazuki Takahashi's Art Exhibit Gets Special Animated Yu-Gi-Oh! Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-13/kazuki-takahashi-art-exhibit-gets-special-animated-yu-gi-oh-video/.241739",
+      "description": "Exhibit takes place in Tokyo from December to February",
+      "pubDate": "2026-09-14T02:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/edklrtKN77o.jpg"
+    },
     {
       "id": "cr-aW1lLWNsaXA",
       "title": "Yu-Gi-Oh! Manga Original Artwork Exhibition Unveils Special Anime Clip",
@@ -330,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.9/241650/hr5iywww8acx8ic.jfif.jpeg"
+      "image": null
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -370,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T12:32:19.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/youtube/YpWptN-jwzk.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3MDU",
@@ -380,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T12:20:56.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/youtube/mESs-ii2l6A.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTcwMA",
@@ -390,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T12:06:02.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/youtube/vA-PSVAPgyo.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -410,197 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-12T11:47:59.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/youtube/WWNZGCffhj4.jpg"
-    },
-    {
-      "id": "ann-Zi8uMjQxNzAz",
-      "title": "'Fall in Love, You False Angels' Anime Reveals Promo Video, Cast, Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/fall-in-love-you-false-angels-anime-reveals-promo-video-cast-staff/.241703",
-      "description": "Nao Ojika plays Otogi Katsura, Taito Ban plays Toki Ninomae in 2027 television anime",
-      "pubDate": "2026-09-12T11:33:58.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/youtube/YwfMd7KW8ac.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Bless' Reveals Main Cast, Character Promo, Winter 2027 Debut",
-      "link": "https://myanimelist.net/news/74707781?_location=rss",
-      "description": "The Aniplex One Focus 2026 event revealed the main cast, a teaser visual (pictured), and character promotional video for the television anime adaptation of Yukino Sonoyama's Bless manga on Saturday. The anime series is scheduled to premiere on Fuji TV's NoitaminA programming block at 11.30. p.m. in January 2027. Voice actors Tomohiro Ono (Tomodachi Game) and Chiyuki Miura (Shibou Yuugi de Meshi wo Kuu.) are starring as Aia Udagawa and Jun Sumisaki, respectively. Shoutarou Kitamura (Mak...",
-      "pubDate": "2026-09-12T11:27:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789212327-eea84b34cfe6893f307940020169dab6.jpeg"
-    },
-    {
-      "id": "ann-dC8uMjQxNjk3",
-      "title": "Bless TV Anime Reveals Main Cast, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/bless-tv-anime-reveals-main-cast-january-2027-debut/.241697",
-      "description": "Tomohiro Ōno, Chiyuki Miura star",
-      "pubDate": "2026-09-12T11:19:40.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9C/cms/news.9/241697/bless-kv.jfif.jpeg"
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "Bless Anime Unveils January 2027 Premiere, Teaser Visual, Two Main Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/bless-anime-january-2027-premiere-teaser-visual-two-main-cast-members",
-      "description": "Tomohiro Ono and Chiyuki Miura voice the main characters",
-      "pubDate": "2026-09-12T11:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/0e2e989da9/bless-teaser-visual-header.jpg"
-    },
-    {
-      "id": "cr-aW4tY2FzdA",
-      "title": "Fall in Love, You False Angels Anime Reveals Main Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/fall-in-love-you-false-angels-anime-main-cast",
-      "description": "MAPPA is producing the adaptation of Coco Uzuki's rom-com manga",
-      "pubDate": "2026-09-12T11:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/d839e129ea/fall-in-love-you-false-angels.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "GROTESQQQUE Anthology Anime Film Takes on the Night in Trailer for 2nd Part",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/grotesqqque-anthology-anime-film-yoroshiku-shoujo-trailer",
-      "description": "Lead: The three-part project premieres in Japan on November 6",
-      "pubDate": "2026-09-12T11:09:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/bb37120123/grotesqqque-anthology-anime-film-yoroshiku-shoujo.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Koiseyo Mayakashi Tenshi-domo' Unveils Main Cast, Additional Staff, Promo",
-      "link": "https://myanimelist.net/news/74707678?_location=rss",
-      "description": "The Aniplex One Focus 2026 event unveiled the main cast, additional staff, and a cast announcement promotional video for the television anime adaptation of Coco Uzuki's Koiseyo Mayakashi Tenshi-domo (Fall in Love, You False Angels) manga on Saturday. The anime is scheduled to premiere in 2027. Voice actors Nao Ojika (Mahou no Shimai Lulutto Lilly) and Taito Ban (Ore dake Level Up na Ken) are starring the anime as Otogi Katsura and Toki Ninomae, respectively. Yuuki Kurihara (Haigakura) and Y...",
-      "pubDate": "2026-09-12T11:08:55.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789211219-35f0412d6a622fe152260e73395186b9.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQxNzAx",
-      "title": "Jyuо̄ Mujin Dandivine Original TV Anime's New Promo Video Previews Opening, Ending Themes",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/jyu-mujin-dandivine-original-tv-anime-new-promo-video-previews-opening-ending-themes/.241701",
-      "description": "Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7",
-      "pubDate": "2026-09-12T10:50:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/youtube/ihJfkOT_0wU.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Vertex Force' Reveals Additional Cast, Theme Songs, Second Promo",
-      "link": "https://myanimelist.net/news/74707563?_location=rss",
-      "description": "The Aniplex One Focus 2026 event revealed additional cast, theme songs, a key visual (pictured), and the second promotional video for the Vertex Force original television anime on Friday. The anime is scheduled to premiere on Tokyo MX, BS11, Gunma TV, and Tochigi TV at 11:30 p.m. on October 3. Voice actors Kazuki Ura (Bungou Stray Dogs 5th Season) and Nana Mizuki (Dandadan) are joining the cast as Alan and EDVA, respectively. Japanese pop music group ClariS (Lycoris Recoil) is performing the ope...",
-      "pubDate": "2026-09-12T10:49:08.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789209950-061b769380aab771d2c6a07baf00a04f.jpeg"
-    },
-    {
-      "id": "cr-dmlzdWFscw",
-      "title": "The Guy She Was Interested In Wasn’t a Guy at All Anime Reveals Pair of Character Posters",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/the-guy-she-was-interested-in-wasn-t-a-guy-at-all-anime-mitsuki-koga-and-aya-osawa-visuals",
-      "description": "The green music series is set to premiere in January 2027",
-      "pubDate": "2026-09-12T10:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/844c5fbfcf/the-guy-she-was-interested-in-wasn-t-a-guy-at-all-anime-aya-osawa-teaser.png"
-    },
-    {
-      "id": "cr-aGVtZS1zb25n",
-      "title": "Please Excuse My Younger Brothers Anime Reveals Cour 2 Opening Theme Song",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/please-excuse-my-younger-brothers-anime-cour-2-opening-theme-song",
-      "description": "Crunchyroll is simulcasting the rom-com series",
-      "pubDate": "2026-09-12T10:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/049e89e263/please-excuse-my-younger-brothers.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2OTA",
-      "title": "Please Excuse My Younger Brothers TV Anime Reveals New Opening Theme Artist, Special Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/please-excuse-my-younger-brothers-tv-anime-reveals-new-opening-theme-artist-special-promo-video/.241690",
-      "description": "Neguse performs new opening theme song for show's 2nd part",
-      "pubDate": "2026-09-12T10:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/youtube/dSzOu8l60HQ.jpg"
-    },
-    {
-      "id": "cr-aW5nLXNvbmdz",
-      "title": "Jyu-Oh Mujin Dandivine Anime Releases Key Visual, Main Trailer Featuring Opening and Ending Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/jyu-oh-mujin-dandivine-anime-key-visual-main-trailer-opening-and-ending-songs",
-      "description": "The original robot anime premiers on October 7",
-      "pubDate": "2026-09-12T10:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/c1c1069224/jyu-oh-mujin-dandivine.png"
-    },
-    {
-      "id": "cr-Zy1hcnRpc3Rz",
-      "title": "Vertex Force Anime Unveils 2nd Trailer, Visual, Theme Song Artists",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/vertex-force-anime-2nd-trailer-visual-theme-song-artists",
-      "description": "Kazuki Ura, Nana Mizuki newly join the cast",
-      "pubDate": "2026-09-12T10:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8be67e67f2/vertex-force-trailer-2.png"
-    },
-    {
-      "id": "cr-cC10cmFpbGVy",
-      "title": "Inherit the Winds Anime Shows Off Expanded Characters in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/inherit-the-winds-tv-anime-character-round-up-trailer",
-      "description": "The TV anime series is set to premiere in January 2027",
-      "pubDate": "2026-09-12T10:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/1457f62c43/inherit-the-winds-anime-yamanami-keisuke.png"
-    },
-    {
-      "id": "ann-Ly4yNDE2ODc",
-      "title": "Vertex Force Original Anime Reveals Theme Song Artists, More Cast in 2nd Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/vertex-force-original-anime-reveals-theme-song-artists-more-cast-in-2nd-promo-video/.241687",
-      "description": "Kazuki Ura, Nana Mizuki join cast; ClariS, Hashimero perform themes",
-      "pubDate": "2026-09-12T10:10:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY5/cms/news.9/239935/vertex-force-visual.jfif.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTY5Ng",
-      "title": "Ascendance of a Bookworm Part 3 Anime Casts Kaede Hondo, Reveals Climax Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/ascendance-of-a-bookworm-part-3-anime-casts-kaede-hondo-reveals-climax-promo-video/.241696",
-      "description": "Kaede Hondo joins cast as character Charlotte",
-      "pubDate": "2026-09-12T10:09:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/youtube/9Du-FEehHfI.jpg"
-    },
-    {
-      "id": "cr-ZWFzZS1kYXRl",
-      "title": "Reborn as a Space Mercenary Anime Premieres on October 4",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/reborn-as-a-space-mercenary-anime-october-4-release-date",
-      "description": "Crunchyroll will simulcast the sci-fi isekai series",
-      "pubDate": "2026-09-12T10:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0302fb2e2d/reborn-as-a-space-mercenary.jpg"
-    },
-    {
-      "id": "ann-ci8uMjQxNjk5",
-      "title": "Fate/EXTRA Record Game Streams Character Video for Archer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/fate-extra-record-game-streams-character-video-for-archer/.241699",
-      "description": "Junichi Suwabe voices character in game launching on January 28",
-      "pubDate": "2026-09-12T10:05:41.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/herald/201198/screenshot-2026-09-12-190444.png.jpg"
+      "image": null
     }
   ]
 };
