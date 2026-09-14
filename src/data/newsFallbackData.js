@@ -1,7 +1,327 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-14T11:02:52.023Z",
+  "lastUpdated": "2026-09-14T17:06:11.116Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE3MTc",
+      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 21",
+      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-21/.241717",
+      "description": "It's a little surprising to confirm that Ferdinand hadn't actually clocked Rosemyne's mana compression.",
+      "pubDate": "2026-09-14T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/episode-review.5/241717/aobw4211.jpg"
+    },
+    {
+      "id": "cr-bi1maWxtcw",
+      "title": "New Sonic Animated Series Announced Alongside Crazy Taxi and Stranger Than Heaven Films",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/new-sonic-animated-series-crazy-taxi-stranger-than-heaven-films",
+      "description": "Crazy Taxi film is a comedy with The Naked Gun writers behind it",
+      "pubDate": "2026-09-14T16:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x480/c534eee522/sonic-gg.jpg"
+    },
+    {
+      "id": "cr-ZGVyLWtpbmc",
+      "title": "Which Relic Would You Wield in Tomb Raider King?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/9/14/relic-quiz-tomb-raider-king",
+      "description": "Would you rather have a legendary sword or the armor of an almost invulnerable warrior? Let's find out!",
+      "pubDate": "2026-09-14T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/1600x900/0bad5f962e/tomb-raider-king-quiz-banner.jpg"
+    },
+    {
+      "id": "ann-LjI0MTM4NQ",
+      "title": "The World's Strongest Witch Volumes 1-2 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/volumes-1-2/.241385",
+      "description": "In a world where only she can see the strategy guide, no one will be able to stand up to this witch’s skills, her weapons, her charisma, or her luck!",
+      "pubDate": "2026-09-14T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB7/cms/review.2/241385/81td4ixhd8l.sl1500.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQxNzcw",
+      "title": "Producer Jeremy Thomas Dies at 77",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/producer-jeremy-thomas-dies-at-77/.241770",
+      "description": "Thomas produced The Last Emperor, Blade of the Immortal live-action films",
+      "pubDate": "2026-09-14T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.9/241770/jeremy-thomas.jpg"
+    },
+    {
+      "id": "cr-dWFyeS0yMDI3",
+      "title": "The Fable Season 2 Anime Premieres in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/the-fable-season-2-anime-premieres-in-january-2027",
+      "description": "Main cast and staff return, new teaser trailer showcased",
+      "pubDate": "2026-09-14T15:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/18c1b947c6/the-fable-s2.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTc3Mw",
+      "title": "Ace Combat 8: Wings of Theve Game's Live-Action Prequel Series Previews Story in Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/ace-combat-8-wings-of-theve-game-live-action-prequel-series-previews-story-in-trailer/.241773",
+      "description": "4-episode series premieres on Tuesday with future episodes on September 17, 23, 29",
+      "pubDate": "2026-09-14T15:30:05.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/youtube/UORmIXTGSyo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MTM",
+      "title": "Chainsmoker Cat ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-10/.241713",
+      "description": "This week we must face the most dehumanizing torture of all: Being trapped in a car with an insufferable wannabe influencer who can't shut her godforsaken phone off for a single second and act like a normal person.",
+      "pubDate": "2026-09-14T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/episode-review.5/241713/chainsmoker-cat-10.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc3Mg",
+      "title": "BanG Dream! Ave Mujica Film's Trailer Previews New Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772",
+      "description": "Video previews \"A Song of Resonance\" for film opening in Japan on October 16",
+      "pubDate": "2026-09-14T15:22:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC9/encyc/A38279-3445315065.1785458309.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NzE",
+      "title": "The Fable Season 2 TV Anime's Trailer Reveals January 2027 Premiere",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/the-fable-season-2-tv-anime-trailer-reveals-january-2027-premiere/.241771",
+      "description": "Season features returning cast/staff",
+      "pubDate": "2026-09-14T15:15:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/VoZ43A3XE-Q.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NTY",
+      "title": "Ushijima the Loan Shark Gets New 1-Shot Set 10 Years After Manga's End",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/ushijima-the-loan-shark-gets-new-1-shot-set-10-years-after-manga-end/.241756",
+      "description": "1-shot will be on display at manga's exhibition in Tokyo from September 19 - October 4",
+      "pubDate": "2026-09-14T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/news.9/241756/ushijima.jpg"
+    },
+    {
+      "id": "cr-ZXMtdm9sLTcy",
+      "title": "Crunchyroll News Puzzles Vol. 72: Quick Learner and Kyoto City Tour",
+      "link": "https://crunchyroll.com/news/quizzes/2026/9/14/crunchyroll-news-puzzles-vol-72",
+      "description": "Test your anime knowledge with our latest puzzle collection!",
+      "pubDate": "2026-09-14T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
+    },
+    {
+      "id": "ann-ZS8uMjQxNzY3",
+      "title": "Latest Crayon Shin-chan Film Becomes Highest-Grossing in Franchise",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/latest-crayon-shin-chan-film-becomes-highest-grossing-in-franchise/.241767",
+      "description": "Franchise's 2026 film has earned over 2.7 billion yen",
+      "pubDate": "2026-09-14T14:45:35.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/news.9/241767/crayon-shin-chan-film-commemorative.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MTE",
+      "title": "KAIJU GIRL CARAMELISE ‒ Episodes 9-11",
+      "link": "https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episodes-9-11/.241711",
+      "description": "The big fight scene picks up once the comedy comes into focus, with the audibly frightened and visibly crying Kuroe whipping Akae around by the tail like Bowser in Super Mario 64.",
+      "pubDate": "2026-09-14T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKG/cms/episode-review.5/241711/ss-2026-09-12-12-49-56-708.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXJz",
+      "title": "Fate/EXTRA Record Game Welcomes Archer and Caster in Two New Character Trailers",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/fate-extra-record-archer-caster-character-trailers",
+      "description": "The game is scheduled for release on January 28, 2027",
+      "pubDate": "2026-09-14T14:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/0b6b9efda8/fate-extra-record-archer.png"
+    },
+    {
+      "id": "ann-LjI0MTczOA",
+      "title": "Hidari Yokoyama Launches Ayaru's Brush with Romance Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/hidari-yokoyama-launches-ayaru-brush-with-romance-manga/.241738",
+      "description": "Manga available in English on Manga Plus",
+      "pubDate": "2026-09-14T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/241738/ippitsuayaru.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Releases Main Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/bang-dream-ave-mujica-prima-aurora-anime-film-main-trailer",
+      "description": "The film premieres in Japan on October 16",
+      "pubDate": "2026-09-14T14:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/1d735e3b93/bang-dream-ave-mujica-prima-aurora-hero.png"
+    },
+    {
+      "id": "cr-bWUtc29uZ3M",
+      "title": "Ranma 1/2 Season 3 Anime Previews Opening, Ending Theme Songs in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/ranma-season-3-anime-third-trailer-opening-ending-theme-songs",
+      "description": "The third season begins on October 3",
+      "pubDate": "2026-09-14T13:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/a79c2a2ae9/2-season-3-anime-third-trailer.png"
+    },
+    {
+      "id": "cr-YXJ0d29yaw",
+      "title": "Crayon Shin-chan 33rd Anime Film Celebrates Box Office Record with New Artwork",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/crayon-shin-chan-33rd-anime-film-celebrates-box-office-record-with-new-artwork",
+      "description": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Yokai Vacation is now the highest-grossing film in the series",
+      "pubDate": "2026-09-14T13:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/99405cf4c3/shin-chan-33rd-film-bo.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQxNjg1",
+      "title": "Tomb Raider King ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/tomb-raider-king/episode-10/.241685",
+      "description": "George pointing a gun in Jooheon’s face because he ripped him off and then telling him to stop talking like he knows everything is one of the most cathartic moments I’ve experienced all season.",
+      "pubDate": "2026-09-14T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g89/cms/episode-review.5/241685/tomraid10.png.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXJz",
+      "title": "To You in the Beyond Anime Film Shares Seven Character Trailers",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/to-you-in-the-beyond-anime-film-seven-character-trailers",
+      "description": "The movie premieres in Japan on October 9",
+      "pubDate": "2026-09-14T13:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x537/ce46607c3f/to-you-in-the-beyond-charpvs.jpg"
+    },
+    {
+      "id": "cr-ZGFwdGF0aW9u",
+      "title": "Funso deshitara Hatta made Manga Announces TV Anime Adaptation",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/funso-deshitara-hatta-made-manga-announces-tv-anime-adaptation",
+      "description": "Geopolitical adventure manga by Den Motohiro has sold more than 1.2 million copies",
+      "pubDate": "2026-09-14T13:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1125x633/317ae496e8/funso_deshitara_hatta_made_manga_banner.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQxNzMw",
+      "title": "NYCC Hosts Voice Actor Hikaru Midorikawa, Shonen Jump+ EIC Yuta Momiyama, More Guests, Events, Anime Premieres",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/nycc-hosts-voice-actor-hikaru-midorikawa-shonen-jump-eic-yuta-momiyama-more-guests-events-anime-/.241730",
+      "description": "New York Comic Con 2026 is taking place at the Javits Center on October 8-11",
+      "pubDate": "2026-09-14T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/233451/sk001-en.jpg"
+    },
+    {
+      "id": "ann-Ly4yMzg4MjM",
+      "title": "Hakos Baelz Talks About Tanya the Evil, the Yakuza Games, and Being a Bit Chūuni",
+      "link": "https://www.animenewsnetwork.com/interview/2026-09-14/hakos-baelz-talks-about-tanya-the-evil-the-yakuza-games-and-being-a-bit-chuuni/.238823",
+      "description": "\"For me, I think every year I try to put more of myself in my performances. Whether through practicing the vocals or practicing the dance, everyone's working really hard to make sure that it's a bigger and better performance for all our fans.\"",
+      "pubDate": "2026-09-14T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "VTubers",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/interview/238823/hakos-thumb.jpg"
+    },
+    {
+      "id": "cr-bGF1bmNoZXM",
+      "title": "Shakugan No Shana: Blaze Edge Idle RPG Launches",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/shakugan-no-shana-blaze-edge-idle-rpg-launches",
+      "description": "Browser game celebrates anime adaptation’s 20th anniversary",
+      "pubDate": "2026-09-14T12:36:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x502/1ce46287bd/shakugan-no-shana-game.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2ODQ",
+      "title": "Clevatess Season 2 ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/clevatess-season-2/episode-10/.241684",
+      "description": "Am I being serious when I say a couple of pandering and blatantly manipulative scenes of Clevatess and Luna reuniting are all I needed to forgive this season's shortcomings? Yes, obviously. Please try to keep up.",
+      "pubDate": "2026-09-14T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/episode-review.5/241684/clevatess-ii-10.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc1NQ",
+      "title": "Pokémon Developer Game Freak Announces Ame nochi Hare Onna Mobile Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/pokemon-developer-game-freak-announces-ame-nochi-hare-onna-mobile-game/.241755",
+      "description": "Game integrated with real-time weather forecasts slated for release this winter",
+      "pubDate": "2026-09-14T11:50:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.9/241755/harekey.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc2Mw",
+      "title": "New Ranma 1/2 Anime's Season 3 Reveals 3rd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/new-ranma-1-2-anime-season-3-reveals-3rd-promo-video/.241763",
+      "description": "Fumino performs opening theme song \"Sunao Miman,\" Yuika performs ending theme song \"Kawaikunai\" for anime season debuting on October 3",
+      "pubDate": "2026-09-14T11:34:16.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/youtube/3uLb6c-4ni0.jpg"
+    },
+    {
+      "id": "ann-LjI0MTY3OA",
+      "title": "I Want to Love You Till Your Dying Day ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-10/.241678",
+      "description": "Mimi really does not understand Sheena at all.",
+      "pubDate": "2026-09-14T11:33:18.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDF/cms/episode-review.5/241678/vlcsnap-2026-09-11-07h34m55s864.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.' Reveals Additional Cast, Staff, Theme Songs, Main Promo",
+      "link": "https://myanimelist.net/news/74719088?_location=rss",
+      "description": "The official website of the Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. (Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion) television anime revealed additional cast, staff, theme songs, the main visual (pictured), and promotional video on Monday. The anime series adapting Eiko Mutsuhana's fantasy romance light novel will air on October 5 at 9.30 p.m. on AT-X, followed by Tokyo MX, BS Nippon TV, and MBS. Voice actors Hiro Shimono (Kimi to Koete Koi ni Naru) a...",
+      "pubDate": "2026-09-14T11:25:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789385108-06ae8bae8337d7851ade71f683d0c1ba.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Web Manga 'Funsou deshitara Hatta made' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74719080?_location=rss",
+      "description": "Publishing company Kodansha announced a television anime adaptation of Motohiro Den's Funsou deshitara Hatta made (If It's a Conflict, Leave it to Hatta) web manga on Monday, revealing an announcement visual (pictured). Den began serializing the mystery seinen manga in the Morning magazine in November 2019 before transferring it on the D Morning web service in September 2021. Kodansha published the 19th volume on February 20, with the 20th volume scheduled for a September 18 release. F...",
+      "pubDate": "2026-09-14T11:20:59.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789384722-b0278bfbc27ca6a6587e47aba289cf84.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NjA",
+      "title": "To You in the Beyond Anime Film Reveals Character Videos",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/to-you-in-the-beyond-anime-film-reveals-character-videos/.241760",
+      "description": "7 character videos stream for film opening on October 9",
+      "pubDate": "2026-09-14T11:18:26.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGN/youtube/1ob-1w56utY.jpg"
+    },
     {
       "id": "ann-LjI0MTc2Mg",
       "title": "The Ramparts of Ice Season 2 Anime Previews Opening Theme in 2nd Promo Video",
@@ -144,7 +464,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LjI0MTczMQ",
-      "title": "BanG Dream! Our Notes Mobile Game Streams New Trailer",
+      "title": "BanG Dream! Our Notes Mobile Game Streams New Trailer (Updated)",
       "link": "https://www.animenewsnetwork.com/news/2026-09-13/bang-dream-our-notes-mobile-game-streams-new-trailer/.241731",
       "description": "Game to launch this year with Traditional Chinese, English, Korean language support",
       "pubDate": "2026-09-14T03:51:58.000Z",
@@ -170,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T02:50:10.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/youtube/z_sZXMg9xpk.jpg"
+      "image": null
     },
     {
       "id": "cr-cmF0aW9ucw",
@@ -190,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T02:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/edklrtKN77o.jpg"
+      "image": null
     },
     {
       "id": "cr-aW1lLWNsaXA",
@@ -260,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-13T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN7/cms/review.2/241308/from-far-away-1.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQxNzMz",
@@ -270,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-13T15:08:52.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/youtube/XfdzSc_a8TQ.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -281,326 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789299776-8d430c6df60882aa765ad0c2d8bc99fb.jpeg"
-    },
-    {
-      "id": "cr-bWUtc29uZ3M",
-      "title": "#ImLookingForZombies Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/13/im-looking-for-zombies-anime-october-3-release-date-main-trailer-visual-cast-theme-songs",
-      "description": "A main visual and additional cast were also revealed",
-      "pubDate": "2026-09-13T11:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/eca7c1ca99/imlookingforzombies.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQxNzIy",
-      "title": "#I'm Looking For Zombie Anime's Main Trailer Reveals More Cast & Staff Members, Theme Songs, October 3 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/im-looking-for-zombie-anime-main-trailer-reveals-more-cast-and-staff-members-theme-songs-october-3-/.241722",
-      "description": "Yōko Hikasa, Makoto Koichi, Tomoyo Takayanagi, Aino Shimada, Kōsuke Toriumi join anime's cast",
-      "pubDate": "2026-09-13T11:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/youtube/Q72YGjPWpRc.jpg"
-    },
-    {
-      "id": "ann-LjI0MTcyNQ",
-      "title": "Overgeared Anime Reveals 3rd Trailer, 2 New Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/overgeared-anime-reveals-3rd-trailer-2-new-cast-members/.241725",
-      "description": "Yūki Murata, Yurika Hirayama join cast of October 2 series",
-      "pubDate": "2026-09-13T08:15:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBC/youtube/e1Km0FqUZl0.jpg"
-    },
-    {
-      "id": "ann-NC8uMjQxNzEy",
-      "title": "Fatal Fury City of the Wolves Game Adds DLC Character Kim Kaphwan on September 24",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/fatal-fury-city-of-the-wolves-game-adds-dlc-character-kim-kaphwan-on-september-24/.241712",
-      "description": "Playable characters joins season 3 DLC roster",
-      "pubDate": "2026-09-13T08:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD5/youtube/3i01uLeWrKI.jpg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "Overgeared Anime Unveils New Trailer, Key Visual and Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/13/overgeared-anime-trailer-key-visual-additional-cast",
-      "description": "Crunchyroll will stream the manhwa adaptation",
-      "pubDate": "2026-09-13T07:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/317b59775c/overgeared.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3MjM",
-      "title": "Actor, Narrator Leo Morimoto Dies at 83",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/actor-narrator-leo-morimoto-dies-at-83/.241723",
-      "description": "The Wings of Honnêamise star, Bartender show's narrator died on September 4",
-      "pubDate": "2026-09-13T07:05:57.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPI/cms/news.9/241723/depositphotos-644419636-l.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Tempal: Item no Chikara' Unveils Additional Cast, Third Promo",
-      "link": "https://myanimelist.net/news/74712551?_location=rss",
-      "description": "The official website for the television anime adaptation of Saenal Park and Team Argo's Tempal: Item no Chikara (Overgeared) webtoon unveiled a pair of additional cast, third key visual (pictured), and third promotional video on Saturday. The anime series is scheduled to premiere on October 2 at 11:30 p.m. on Tokyo MX and BS11. Voice actresses Yuki Murata and Yurika Hirayama (Tamon-kun Ima Docchi!?) are joining the cast as Irene and Isabel, respectively. Ayako Kouno (Sword Art Online: Progr...",
-      "pubDate": "2026-09-13T06:21:19.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789280417-b24cc51c31628fed7c61ea1dfbedbc00.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTcxNQ",
-      "title": "Kei Urana's Gachiakuta Manga Continues Hiatus",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/kei-urana-gachiakuta-manga-continues-hiatus/.241715",
-      "description": "Kodansha published latest chapter on August 5, manga is on hiatus so author can do research",
-      "pubDate": "2026-09-13T06:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.9/241715/gachiakuta.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3MTA",
-      "title": "Level 5 CEO Akihiro Hino Addresses Use of AI in Latest Presentation",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-12/level-5-ceo-akihiro-hino-addresses-use-of-ai-in-latest-presentation/.241710",
-      "description": "Hino: “We incorporated cutting-edge AI that also served as an experiment, in our earnest desire to make a phenomenal presentation. We understand this may have offended some, and we sincerely apologize.”",
-      "pubDate": "2026-09-13T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/interest.3/241710/level-5-vision-2026-ii-dream-logo.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE3MTY",
-      "title": "The Oblivious Saint Can't Contain Her Power Manga Ends in Next Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/the-oblivious-saint-cant-contain-her-power-manga-ends-in-next-volume/.241716",
-      "description": "Manga adaptation debuted in April 2022",
-      "pubDate": "2026-09-13T03:36:06.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.6/202407/the-oblivious-saint-cant-contain-her-power-manga-cover-vol-1.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQxNzA5",
-      "title": "The Record of a Fallen Vampire Manga Gets New Series After 19 Years, Teases Announcement",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/the-record-of-a-fallen-vampire-manga-gets-new-series-after-19-years-teases-announcement/.241709",
-      "description": "In/Spectre author Kyo Shirodaira, Yuri Kimura launch Vampire Jūjikai: Inu ni wa Inu no Uta on October 9",
-      "pubDate": "2026-09-13T02:37:02.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/241709/hr5ofwcamaet-qw.jpg"
-    },
-    {
-      "id": "cr-cnMtdmlzdWFs",
-      "title": "Star Detective Precure! Anime Film Releases New Trailers, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/13/star-detective-precure-anime-film-new-trailers-visual",
-      "description": "The 35th Precure film hits Japanese theaters September 18",
-      "pubDate": "2026-09-13T02:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/82bdbe1386/detective-precure-film.png"
-    },
-    {
-      "id": "ann-Ly4yNDE3MDg",
-      "title": "In the Clear Moonlit Dusk Manga to End in 12th Volume Next Spring",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/in-the-clear-moonlit-dusk-manga-to-end-in-12th-volume-next-spring/.241708",
-      "description": "Series reaches 8.2 million copies globally",
-      "pubDate": "2026-09-13T02:03:22.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.9/241708/moonlit-dusk.png.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQxNzE4",
-      "title": "Star Detective Precure! Film Assembles You and Idol Precure, Wonderful Precure! in 2 Trailers",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/star-detective-precure-film-assembles-you-and-idol-precure-wonderful-precure-in-2-trailers/.241718",
-      "description": "Precure girls from 3 series unite in film opening next Friday",
-      "pubDate": "2026-09-13T01:42:25.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241718/fix-c-scaled.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3MDY",
-      "title": "Orb, 100 Meters Manga Creator Uoto to Launch 2 New Manga Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/orb-100-meters-manga-creator-uoto-to-launch-2-new-manga-series/.241706",
-      "description": "Uoto to launch Hallucination Meat, also partners with Kyō Yoneshiro for Test Taker/Cheaters",
-      "pubDate": "2026-09-13T01:00:20.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.9/241706/hr3axhabmaasryy.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY5NA",
-      "title": "Tokyopop Releases Can't Buy My Love, Romantically Challenged, 3 More Manga in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/tokyopop-releases-cant-buy-my-love-romantically-challenged-3-more-manga-in-2027/.241694",
-      "description": "Company also licenses A Fangirl's Guide to Learning How to Date 3D Men, LOVE IS PAIN, How to Fall In Love with You Again",
-      "pubDate": "2026-09-12T20:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM3/cms/news.9/241694/can-t-buy-my-love.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2NTg",
-      "title": "Japan's Video Game Rankings, August 31-September 6",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/japan-video-game-rankings-august-31-september-6/.241658",
-      "description": "Onimusha: Way of the Sword PS5 version debuts at #1, Switch 2 version at #3",
-      "pubDate": "2026-09-12T18:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/cms/news.9/241658/onimusha.jpg"
-    },
-    {
-      "id": "cr-cGVyZm9ybWVy",
-      "title": "Detective Conan Anime Special Reveals Teaser Trailer, Key Art, Theme Song Performer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/detective-conan-anime-30th-anniversary-special-reveals-teaser-trailer-key-art-theme-song-performer",
-      "description": "The special celebrating the TV anime's 30th anniversary broadcasts on September 25",
-      "pubDate": "2026-09-12T18:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/6ec2adbe42/detective_conan_header.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Grotesqqque' Reveals Supporting Cast, Trailer for \"Yoroshiku★Shoujo\" Segment",
-      "link": "https://myanimelist.net/news/74709373?_location=rss",
-      "description": "The Aniplex One Focus 2026 event revealed supporting cast for the Grotesqqque original anime movie and a trailer for its Yoroshiku★Shoujo segment on Saturday. The three-story omnibus movie will premiere in Japanese theaters on November 6. Cast Mitoge: Youko Hikasa (Kaoru Hana wa Rin to Saku) Mimosa: Riho Sugiyama (Amagami-san Chi no Enmusubi) Kava: Ayaka Ohashi (Akame ga Kill!) Shouta Horie (Shiunji-ke no Kodomotachi), Yuyoyuppe (Mob Psycho 100), Ayato Shinozaki (Kage no Jitsuryokusha ni Naritak...",
-      "pubDate": "2026-09-12T17:55:08.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789235488-103e5404e86b5454912844ba6bb973a2.jpeg"
-    },
-    {
-      "id": "cr-LWRlbGF5ZWQ",
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Episodes 49 and 50 Delayed",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/bleach-thousand-year-blood-war-the-calamity-anime-episodes-49-and-50-delayed",
-      "description": "Episodes will now air on October 19 and 26, respectively",
-      "pubDate": "2026-09-12T17:39:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f3cf4a7d69/bleach-tybw-delay.jpeg"
-    },
-    {
-      "id": "ann-Ni8uMjQxNjU5",
-      "title": "Japanese Animation TV Ranking, August 31-September 6",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/japanese-animation-tv-ranking-august-31-september-6/.241659",
-      "description": "From Old Country Bumpkin to Master Swordsman season 2 earns 2.4% rating",
-      "pubDate": "2026-09-12T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOD/encyc/A36693-2730177393.1777629947.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDExOTQ",
-      "title": "MARRIAGETOXIN Volume 12-14 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/marriagetoxin-volume-12-14/manga/.241194",
-      "description": "You’ll be happy to know that the story is kicking things up a notch in the best way possible.",
-      "pubDate": "2026-09-12T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYN/cms/review.2/241194/marriage-toxin-vol-12-pre-order-8533905.webp"
-    },
-    {
-      "id": "cr-aW50ZXJ2aWV3",
-      "title": "Silica Gel: Anime and Rock Treat Catharsis As the Point, Not a Side Effect",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/12/silica-gel-band-interview",
-      "description": "Anime absolutely feeds the music",
-      "pubDate": "2026-09-12T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/e91a209c40/silica-gel-band.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY1MA",
-      "title": "Netflix Announces Cast for Webtoon-Based Live-Action Series Outback",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/netflix-announces-cast-for-webtoon-based-live-action-series-outback/.241650",
-      "description": "Series based on G'day webtoon follows man who travels to Australia after his older sister's sudden death",
-      "pubDate": "2026-09-12T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Puella Magi Madoka Magica -Walpurgisnacht Rising- Anime Film Cracks the Soul Gem in New Spoiler-Filled Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-now-showing-trailer",
-      "description": "Spoilers also fill the brand new visual for the film",
-      "pubDate": "2026-09-12T12:47:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/b756bb71df/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-now-showing-trailer.png"
-    },
-    {
-      "id": "cr-LXRlYXNlcg",
-      "title": "Expelled from Paradise: Resonance of the Heart Anime Film Confirms Rie Kugimiya Cast in New Teaser",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/expelled-from-paradise-resonance-of-the-heart-anime-film-rie-kugimiya-cast-teaser",
-      "description": "Additional character art published for upcoming sequel movie",
-      "pubDate": "2026-09-12T12:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/3f9638ef0c/expelled_from_paradise_resonance_of_the_heart_header3.jpg"
-    },
-    {
-      "id": "cr-LXRvLWNhc3Q",
-      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke Cour 2 Anime Adds Kaede Hondo to Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/ascendance-of-a-bookworm-adopted-daughter-of-an-archduke-cour-2-anime-adds-kaede-hondo-to-cast",
-      "description": "New trailer shared ahead of final episodes",
-      "pubDate": "2026-09-12T12:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/47ea27a33c/charlotte-bookworm.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTcwNA",
-      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams Trailer Highlighting \"Yoroshiku★Girl\" Segment (Updated)",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/cloverworks-omnibus-anime-film-grotesqqque-streams-trailer-highlighting-yoroshiku-girl-segment/.241704",
-      "description": "Film opens on November 6 in Japan",
-      "pubDate": "2026-09-12T12:32:19.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3MDU",
-      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Reveals New Promo Video, Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/madoka-magica-walpurgisnacht-rising-anime-film-reveals-new-promo-video-visual/.241705",
-      "description": "Film opened in Japan on August 28",
-      "pubDate": "2026-09-12T12:20:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTcwMA",
-      "title": "Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film Reveals New Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-reveals-new-video/.241700",
-      "description": "Rie Kugimiya reprises role as Angela Balzac",
-      "pubDate": "2026-09-12T12:06:02.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Magical Explorer Anime Releases Kosuke Takioto Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/12/magical-explorer-anime-kosuke-takioto-character-trailer",
-      "description": "White Fox-animated new fantasy series will premiere on October 3",
-      "pubDate": "2026-09-12T11:49:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/254daa71e9/magical-explorer-kosuke-takioto.png"
-    },
-    {
-      "id": "ann-bC8uMjQxNzAy",
-      "title": "New Detective Conan 2-Hour Anime Special Reveals Promo Video, Theme Song Artist, Main Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-12/new-detective-conan-2-hour-anime-special-reveals-promo-video-theme-song-artist-main-visual/.241702",
-      "description": "Mai Kuraki will perform opening theme song \"Hallelujah\" in September 25 anime special",
-      "pubDate": "2026-09-12T11:47:59.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
