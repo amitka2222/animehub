@@ -1,7 +1,117 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-14T17:06:11.116Z",
+  "lastUpdated": "2026-09-14T21:06:02.520Z",
   "items": [
+    {
+      "id": "ann-LjI0MTc0MQ",
+      "title": "You and I Are Polar Opposites Season 2 ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-11/.241741",
+      "description": "Under different circumstances, I'd be more than happy to just watch these kids be kids, but now that we're running down to the wire, I'm more than a little concerned as to what all this stalling will actually lead to.",
+      "pubDate": "2026-09-14T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/episode-review.5/241741/polar.png.jpg"
+    },
+    {
+      "id": "cr-aWxlLWdhbWU",
+      "title": "Game Freak Reveals Ame no Chi Hare Onna, a New Mobile Game with Weather Connectivity",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/game-freak-ame-no-chi-hare-onna-mobile-game",
+      "description": "Free-to-play game launches in Japan this winter",
+      "pubDate": "2026-09-14T20:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1023x723/3c881814b9/ame-no-chi-hare-onna.webp"
+    },
+    {
+      "id": "ann-cy8uMjQxNzM0",
+      "title": "Lycoris Recoil Manga Ends in 2 Chapters",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/lycoris-recoil-manga-ends-in-2-chapters/.241734",
+      "description": "Manga adaptation debuted in September 2022",
+      "pubDate": "2026-09-14T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/cms/news.7/210259/lycoris-recoil.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NDA",
+      "title": "Draw This, Then Die! ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/draw-this-then-die/episode-10/.241740",
+      "description": "Similar to how Hebichika is not the greatest boss,  she's arguably not that great of a mother either, instilling Hikaru with this mentality that to be successful, she needs to see herself as above everybody else.",
+      "pubDate": "2026-09-14T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF1/cms/episode-review.5/241740/vlcsnap-2026-09-13-21h42m02s097.png.jpg"
+    },
+    {
+      "id": "cr-Yy12aWRlb3M",
+      "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke, Young Ladies Don't Play Fighting Games and More Anime Music Videos Now Available on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/14/ascendance-of-a-bookworm-young-ladies-dont-play-fighting-games-anime-music-videos",
+      "description": "New releases from jo0ji, KANA-BOON and more are available now!",
+      "pubDate": "2026-09-14T19:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ea9d2ed952/hanabie-life-is-short-o-brave-girl-music-video-thumbnail.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NzU",
+      "title": "Fire Emblem: Fortune's Weave Game's Overview Trailer Previews Story, Gameplay",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/fire-emblem-fortune-weave-game-overview-trailer-previews-story-gameplay/.241775",
+      "description": "Game launches for Switch 2 on Thursday",
+      "pubDate": "2026-09-14T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/youtube/Cf-M7QlVolk.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQxNzM3",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 35",
+      "link": "https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-35/.241737",
+      "description": "It reinforces how lethally cute Shizuka is, and propels Nano to go for it…as much as she needs to actively \"go for it\" with a girl she's already in a polycule with. Is that inefficient? I'm sure Nano has crunched the numbers.",
+      "pubDate": "2026-09-14T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/episode-review.5/241737/100gf3500.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc3Ng",
+      "title": "Live-Action Look Back Film Wins Student Jury's UNIMED Award at Venice Int'l Film Fest",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/live-action-look-back-film-wins-student-jury-unimed-award-at-venice-intl-film-fest/.241776",
+      "description": "Film opened in Japan on September 11",
+      "pubDate": "2026-09-14T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/encyc/A38104-2296435887.1780964848.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3MTQ",
+      "title": "The Elusive Samurai Season 2 ‒ Episode 9",
+      "link": "https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-9/.241714",
+      "description": "It's neat to see a grown-up mirror of Tokiyuki, and their crazed head-bobbing duel is the single funniest moment of the whole episode.",
+      "pubDate": "2026-09-14T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/episode-review.5/241714/elusive-samurai-s2-ep-9-review.png.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Fire Emblem: Fortune’s Weave Overview Trailer Digs into the Details",
+      "link": "https://crunchyroll.com/news/latest/2026/9/14/fire-emblem-fortunes-weave-overview-trailer",
+      "description": "Latest entry in the SRPG series hits Switch 2 on September 17",
+      "pubDate": "2026-09-14T17:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4e22077184/fire-emblem-fortunes-weave-overview.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc3OA",
+      "title": "Netflix, Sega to Produce Live-Action Films for Crazy Taxi, Stranger Than Heaven Games; New Animated Children's Series for Sonic the Hedgehog",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/netflix-sega-to-produce-live-action-films-for-crazy-taxi-stranger-than-heaven-games-new-animated-/.241778",
+      "description": "Dan Gregor, Doug Mand to write script for Crazy Taxi film",
+      "pubDate": "2026-09-14T16:53:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLG/cms/news.9/241778/crazy-taxi-world-tour.jpeg"
+    },
     {
       "id": "ann-Ly4yNDE3MTc",
       "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 21",
@@ -380,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/youtube/hGRtocAh3iw.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -400,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T08:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/cms/news.9/241754/fatecaster.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTcyOQ",
@@ -410,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T07:11:04.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA2/cms/news.9/241729/replica.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3NDc",
@@ -420,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T06:51:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241747/polar.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQxNzQ0",
@@ -430,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T06:13:31.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNI/cms/news.9/239870/xarx-zero-teaser-visual.png.jpg"
+      "image": null
     },
     {
       "id": "cr-c2NyZWVuaW5n",
@@ -450,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHO/cms/interest.3/241732/ranma-tableware-2026-02.jpeg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQxNzM2",
@@ -460,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T03:57:35.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.8/221790/the-world-strongest-witch-vol-1-light-novel-cnf.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTczMQ",
@@ -470,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T03:51:58.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/wA0TcAvctwI.jpg"
+      "image": null
     },
     {
       "id": "cr-YXNlLWRhdGU",
@@ -491,116 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": null
-    },
-    {
-      "id": "cr-cmF0aW9ucw",
-      "title": "Cyberpunk: Edgerunners Breaks It Down with Overwatch Collaboration",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/cyberpunk-edgerunners-2-anime-overwatch-fortnite-collaborations",
-      "description": "A Fortnite collaboration is also on the way",
-      "pubDate": "2026-09-14T02:50:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/12e80ae92f/cyberpunk-edgerunners-overwatch.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3Mzk",
-      "title": "Kazuki Takahashi's Art Exhibit Gets Special Animated Yu-Gi-Oh! Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/kazuki-takahashi-art-exhibit-gets-special-animated-yu-gi-oh-video/.241739",
-      "description": "Exhibit takes place in Tokyo from December to February",
-      "pubDate": "2026-09-14T02:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aW1lLWNsaXA",
-      "title": "Yu-Gi-Oh! Manga Original Artwork Exhibition Unveils Special Anime Clip",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/yu-gi-oh-manga-original-artwork-exhibition-special-anime-clip",
-      "description": "30th anniversary exhibition is set to open on December 12",
-      "pubDate": "2026-09-14T01:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0c1bd1de0a/yu-gi-oh-manga-exhibition-anime-clip.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Chi. Chikyuu no Undou ni Tsuite' Creator Announces Two New Manga",
-      "link": "https://myanimelist.net/news/74717598?_location=rss",
-      "description": "Uoto, the creator of Chi. Chikyuu no Undou ni Tsuite (Orb: On the Movements of the Earth), announced two new manga on their X (formerly Twitter) account on Friday and Saturday. The first title, Hallucination Meat, is expected to begin in Shogakukan's Weekly Big Comic Spirits within this year. Test Taker/Cheaters, the second title, will be written by Uoto with artwork by Kyou Yoneshiro. The manga is expected to launch in Kodansha's monthly Afternoon magazine at the beginning of 2027. U...",
-      "pubDate": "2026-09-14T01:28:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789349252-d00beffa9975766c5ff616185a5ab3f1.png"
-    },
-    {
-      "id": "cr-Yy12aWRlbw",
-      "title": "Let's go KAIKIGUMI Opening Song Anime Music Video Streamed",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/lets-go-kaikigumi-opening-song-anime-music-video",
-      "description": "The comedy-horror series is now available on Crunchyroll",
-      "pubDate": "2026-09-14T01:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/823a100256/lets-go-kaikigumi-opening-anime-mv.png"
-    },
-    {
-      "id": "cr-Yy12aWRlb3M",
-      "title": "Cyborg 009 Nemesis Anime Streams Opening and Ending Song Music Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/cyborg-009-nemesis-anime-opening-and-ending-song-music-videos",
-      "description": "Three-episode series premiered on July 19",
-      "pubDate": "2026-09-14T00:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/77a2018c26/cyborg-009-nemesis.jpg"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "THE iDOLM@STER SideM F@NTASTIC BATTLE FES ~Who goes first~ Anime Concert Film Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/13/the-idolmaster-sidem-fantastic-battle-fes-who-goes-first-anime-film-announced",
-      "description": "The F@NTASTIC BATTLE FES concerts hit the big screen on November 20",
-      "pubDate": "2026-09-13T16:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/8439e75a5f/the-idolmaster-side-m-fantastic-battle-fes-who-goes-first-hero.png"
-    },
-    {
-      "id": "cr-ZS1wcm9qZWN0",
-      "title": "THE iDOLM@STER SideM Announces First Console Game Project for Nintendo Switch and Switch 2",
-      "link": "https://crunchyroll.com/news/latest/2026/9/13/the-idolmaster-sidem-first-console-game-project",
-      "description": "The game will feature 49 idols and an original story",
-      "pubDate": "2026-09-13T16:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/e54725bc4b/the-idolmaster-side-m-game-hero.png"
-    },
-    {
-      "id": "ann-LjI0MTMwOA",
-      "title": "From Far Away Volumes 1-7 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/from-far-away/volumes-1-7/.241308",
-      "description": "Once upon a time, in the distant days of 1991, girls sent to another world didn't land there with cheat abilities.",
-      "pubDate": "2026-09-13T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQxNzMz",
-      "title": "The Idolm@ster SideM Franchise Gets Film, 1st Console Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-13/the-idolm@ster-sidem-franchise-gets-film-1st-console-game/.241733",
-      "description": "Film to open on November 20, D3 Publisher & Bandai Namco plan game for Switch/Switch 2",
-      "pubDate": "2026-09-13T15:08:52.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'#Zombie Sagashitemasu' Unveils Additional Cast, Staff, Theme Songs, First Promo",
-      "link": "https://myanimelist.net/news/74713683?_location=rss",
-      "description": "The special livestream presentation for the television anime adaptation of Katsuwo's #Zombie Sagashitemasu (#I'm Looking for Zombie) manga unveiled additional cast, staff, a key visual (pictured right), the theme songs, and first promotional video on Sunday. The anime series is scheduled to premiere on October 3 at 11:30 p.m. on TV Asahi's IMAnimation programming block, followed by BS Asahi and AT-X. Cast: Mikazuki: Youko Hikasa (High School DxD) Touka: Makoto Koichi (Tensei shit...",
-      "pubDate": "2026-09-13T11:43:56.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789299776-8d430c6df60882aa765ad0c2d8bc99fb.jpeg"
     }
   ]
 };
