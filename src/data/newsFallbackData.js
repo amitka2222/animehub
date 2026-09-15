@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-15T02:02:06.132Z",
+  "lastUpdated": "2026-09-15T10:32:49.662Z",
   "items": [
+    {
+      "id": "cr-c3VhbC1jYXN0",
+      "title": "Nia Liston: The Merciless Maiden Anime Unveils New Visual, Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/nia-liston-the-merciless-maiden-anime-situation-visual-cast",
+      "description": "The fantasy series premieres on October 6",
+      "pubDate": "2026-09-15T09:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8e2e6c29e5/nia-liston-the-merciless-maiden.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3OTY",
+      "title": "Jujutsu Kaisen Rumble: Survivaton Game Delayed to 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-rumble-survivaton-game-delayed-to-2027/.241796",
+      "description": "Game initially slated for this year",
+      "pubDate": "2026-09-15T09:00:09.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/youtube/N3mi8DprGpI.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Ace of the Diamond act II -Second Season- Cour 2 Anime Opening Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/ace-of-the-diamond-act-ii-second-season-cour-2-anime-opening-theme-song-previewed-in-new-trailer",
+      "description": "Crunchyroll streams the baseball series to date",
+      "pubDate": "2026-09-15T08:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/dec5e41d03/ace-of-the-diamond-act-ii-second-season-cour-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc5NA",
+      "title": "Yuka Ōshima's 'Haru to Gen ~70-sai, Hajimete Kosodate~' Manga Gets Short TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/yuka-oshima-haru-to-gen-~70-sai-hajimete-kosodate~-manga-gets-short-tv-anime/.241794",
+      "description": "Kōdai Satō directs anime about 70-year-old man raising his young granddaughter at Imagica Infos/Imageworks Studio",
+      "pubDate": "2026-09-15T07:57:26.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJN/cms/news.9/241794/harugen.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQxNzky",
+      "title": "Funbarus Posture Support Plush Toys Get Short TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/funbarus-posture-support-plush-toys-get-short-tv-anime/.241792",
+      "description": "Anime debuts on October 3; uses \"2D x AI hybrid\" animation production process",
+      "pubDate": "2026-09-15T07:01:06.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.9/241792/funbarus.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Spin-off Manga 'Puchimas!: Petit iDOLM@STER' Concludes 18-Year Serialization",
+      "link": "https://myanimelist.net/news/74721441?_location=rss",
+      "description": "The official X (formerly Twitter) account of the Dengeki Maoh magazine announced on Monday that the Puchimas!: Petit iDOLM@STER spin-off manga will end with its 200th and final chapter in the issue releasing on December 25. Akane began serializing the four-panel comedy manga, based on Bandai-Namco's The iDOLM@STER franchise, in Dengeki Maoh in July 2008. Kadokawa published the 15th volume in December 2024, with the 16th and final volume scheduled for a February 2027 release. A 64-episode ne...",
+      "pubDate": "2026-09-15T04:07:50.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789445209-d23a2ab939e0bd1425f7e786ce038611.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTc2NA",
+      "title": "Get Your Very Own Pokémon Spam in South Korea",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-14/get-your-very-own-pokemon-spam-in-south-korea/.241764",
+      "description": "Not made from real Pokémon",
+      "pubDate": "2026-09-15T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/cms/interest.3/241764/pokemon-spam.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "We Are Aliens Anime Film Features Heroine Konatsu in New Trailer, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/we-are-aliens-anime-film-heroine-konatsu-new-trailer-visual",
+      "description": "The film is set for release in Japan on September 25",
+      "pubDate": "2026-09-15T02:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f841ecff44/we-are-aliens-konatsu-trailer.jpg"
+    },
+    {
+      "id": "ann-dS8uMjQxNzg4",
+      "title": "We Are Aliens Film's New Trailer Highlights Heroine Konatsu",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-14/we-are-aliens-film-new-trailer-highlights-heroine-konatsu/.241788",
+      "description": "Film opens in Japan on September 25",
+      "pubDate": "2026-09-15T02:11:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNH/youtube/P5bpfinInwQ.jpg"
+    },
     {
       "id": "cr-dy10cmFpbGVy",
       "title": "Tanuki to Kitsune Anime Previews SILENT SIREN Theme Song in New Trailer",
@@ -370,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/241738/ippitsuayaru.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -410,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g89/cms/episode-review.5/241685/tomraid10.png.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXJz",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/233451/sk001-en.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yMzg4MjM",
@@ -450,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "VTubers",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/interview/238823/hakos-thumb.jpg"
+      "image": null
     },
     {
       "id": "cr-bGF1bmNoZXM",
@@ -470,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/episode-review.5/241684/clevatess-ii-10.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc1NQ",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789385108-06ae8bae8337d7851ade71f683d0c1ba.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Web Manga 'Funsou deshitara Hatta made' Gets TV Anime",
-      "link": "https://myanimelist.net/news/74719080?_location=rss",
-      "description": "Publishing company Kodansha announced a television anime adaptation of Motohiro Den's Funsou deshitara Hatta made (If It's a Conflict, Leave it to Hatta) web manga on Monday, revealing an announcement visual (pictured). Den began serializing the mystery seinen manga in the Morning magazine in November 2019 before transferring it on the D Morning web service in September 2021. Kodansha published the 19th volume on February 20, with the 20th volume scheduled for a September 18 release. F...",
-      "pubDate": "2026-09-14T11:20:59.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789384722-b0278bfbc27ca6a6587e47aba289cf84.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE3NjA",
-      "title": "To You in the Beyond Anime Film Reveals Character Videos",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/to-you-in-the-beyond-anime-film-reveals-character-videos/.241760",
-      "description": "7 character videos stream for film opening on October 9",
-      "pubDate": "2026-09-14T11:18:26.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc2Mg",
-      "title": "The Ramparts of Ice Season 2 Anime Previews Opening Theme in 2nd Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/the-ramparts-of-ice-season-2-anime-previews-opening-theme-in-2nd-promo-video/.241762",
-      "description": "New season debuts on October 1",
-      "pubDate": "2026-09-14T10:56:55.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQxNzYx",
-      "title": "Motohiro Den's Funsō Deshitara Hatta made Geopolitical Manga Gets TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/motohiro-den-funso-deshitara-hatta-made-geopolitical-manga-gets-tv-anime/.241761",
-      "description": "Manga about geopolitical risk consultant who solves cases in different countries launched in 2019",
-      "pubDate": "2026-09-14T10:40:07.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQxNzU5",
-      "title": "New Sgt. Frog TV Anime's 2nd Main Trailer Reveals Theme Songs, 5 New Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/new-sgt-frog-tv-anime-2nd-main-trailer-reveals-theme-songs-5-new-cast/.241759",
-      "description": "Yuki Sakakihara, Minori Fujidera, Sumire Morohoshi, Hiiro Ishibashi, Koko Fukushima join cast of October 3 anime",
-      "pubDate": "2026-09-14T10:19:46.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZS1zb25ncw",
-      "title": "Sgt. Frog New TV Anime Trailer Reveals More Cast, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/sgt-frog-new-tv-anime-trailer-additional-cast-theme-songs",
-      "description": "The series touches down on October 3",
-      "pubDate": "2026-09-14T09:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e1603d4d60/sgt-frog-new-tv-anime.jpg"
-    },
-    {
-      "id": "cr-ZW1lLXNvbmdz",
-      "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/hi-im-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-october-5-release-date-trailer-visual-theme-songs",
-      "description": "A main visual and additional cast details were also revealed",
-      "pubDate": "2026-09-14T09:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b6b7b59923/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQxNzUy",
-      "title": "'Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!' Anime's Video Reveals More Cast, Staff, Theme Songs, October 5 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-video-reveals-more-cast-staff-/.241752",
-      "description": "Hiro Shimono, Akira Sekine join cast; Centimillimental performs opening song, Rainy. performs ending song",
-      "pubDate": "2026-09-14T09:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "The Ramparts of Ice Season 2 Anime Opening Theme Song Previewed in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/the-ramparts-of-ice-season-2-anime-opening-theme-song-trailer",
-      "description": "The romance series returns on October 1",
-      "pubDate": "2026-09-14T08:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/ee83101eed/the-ramparts-of-ice-season-2.jpg"
     }
   ]
 };
