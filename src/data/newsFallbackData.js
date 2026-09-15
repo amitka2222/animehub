@@ -1,7 +1,197 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-15T10:32:49.662Z",
+  "lastUpdated": "2026-09-15T15:46:12.261Z",
   "items": [
+    {
+      "id": "ann-MC8uMjQxNzc5",
+      "title": "Though I Am an Inept Villainess ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-10/.241779",
+      "description": "The Inner Palace is essentially a human kodoku – or at least, I’d bet that’s how Shu Gabi sees it.",
+      "pubDate": "2026-09-15T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIY/cms/episode-review.5/241779/inept-villainess-10.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MDk",
+      "title": "Beyblade X Anime's Visual Reveals New 'Bey Kingdom Arc' for October 9",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/beyblade-x-anime-visual-reveals-new-bey-kingdom-arc-for-october-9/.241809",
+      "description": "Anime premiered in October 2023",
+      "pubDate": "2026-09-15T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB9/cms/news.9/241809/beyblade-x-bey-kingdom-arc.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgwOA",
+      "title": "One Piece: Grand Gourmet Cooking Management Simulation Game's Trailer Previews Cooking, Interior Design, Characters",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/one-piece-grand-gourmet-cooking-management-simulation-game-trailer-previews-cooking-interior-design-/.241808",
+      "description": "Game launches for Switch 2, Switch, PC, iOS, Android on October 23",
+      "pubDate": "2026-09-15T14:57:57.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/youtube/_qVyZweV3MY.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgwNg",
+      "title": "Reborn as a Space Mercenary TV Anime Unveils Promo Video, More Cast, Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/reborn-as-a-space-mercenary-tv-anime-unveils-promo-video-more-cast-visual/.241806",
+      "description": "Trailer previews FLOW's opening theme song for October 4 anime",
+      "pubDate": "2026-09-15T14:38:13.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/youtube/Z9ofT53sz2U.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NzQ",
+      "title": "Goodbye, Lara ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/goodbye-lara/episode-11/.241774",
+      "description": "What is a witch but a woman with more power and knowledge than the world is comfortable with?",
+      "pubDate": "2026-09-15T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/241774/lara-11.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc1OA",
+      "title": "This Week in Anime - Journey to the Past",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-15/.241758",
+      "description": "You know what they say about people who fail to learn from history.",
+      "pubDate": "2026-09-15T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g58/cms/this-week-in-anime/241758/sylvia10.jpg"
+    },
+    {
+      "id": "cr-aG93Y2FzZWQ",
+      "title": "JUJUTSU KAISEN RUMBLE: SURVIVATON Game Delayed, New Trailer Showcased",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/jujutsu-kaisen-rumble-survivaton-game-delayed-new-trailer-showcased",
+      "description": "2026 release window pushed back to 2027",
+      "pubDate": "2026-09-15T13:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/392badc2f3/jujutsu-kaisen-rumble.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3Njg",
+      "title": "Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 22",
+      "link": "https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-22/.241768",
+      "description": "Team Devimuse changed their look, their song style, and their performance before switching back to their classic. Gyari’s basically just loud.",
+      "pubDate": "2026-09-15T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEM/cms/episode-review.5/241768/iruma-s4-22.png.jpg"
+    },
+    {
+      "id": "cr-aC1wcm9qZWN0",
+      "title": "BEYBLADE X Anime Announces New Bey Kingdom Arc, Start Dash Project",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/beyblade-x-anime-announces-new-bey-kingdom-arc-start-dash-project",
+      "description": "The new arc begins October 9",
+      "pubDate": "2026-09-15T13:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/d1b545bb8d/beyblade-x-tourney.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NDU",
+      "title": "Daemons of the Shadow Realm ‒ Episode 23",
+      "link": "https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-23/.241745",
+      "description": "We are so disconnected from the time and the politics of the Sengoku era that restarting that war seems laughably insane.",
+      "pubDate": "2026-09-15T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/episode-review.5/241745/daemons-23.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MDE",
+      "title": "A Returner's Magic Should Be Special Season 2's New Video Reveals October 7 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/a-returner-magic-should-be-special-season-2-new-video-reveals-october-7-debut/.241801",
+      "description": "Trailer also previews opening song \"Sorrow\" by rock band FLOW",
+      "pubDate": "2026-09-15T12:02:03.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.9/241801/return.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
+      "link": "https://myanimelist.net/news/74722593?_location=rss",
+      "description": "The official website for the television anime adaptation of Ryuto's Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai (Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!) light novel unveiled a pair of additional cast, staff, key visual (pictured), the theme songs, and first promotional video on Tuesday. The anime series is scheduled to premiere on October 4 at 9:30 p.m. on Tokyo MX, followed by AT-X, BS11, and other...",
+      "pubDate": "2026-09-15T11:59:05.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789473514-33d4bb5cf939784ddc3f878ad6ff30f0.jpeg"
+    },
+    {
+      "id": "cr-dWFyeS0yMDI3",
+      "title": "Haru to Gen Manga Gets TV Anime in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/haru-to-gen-manga-gets-tv-anime-in-january-2027",
+      "description": "Teaser image revealed for story of 70-year-old man raising his 3-year-old granddaughter",
+      "pubDate": "2026-09-15T11:59:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/6b262d80d7/haru_to_gen_banner_art.jpg"
+    },
+    {
+      "id": "cr-YWwtY2FzdA",
+      "title": "Reborn as a Space Mercenary Anime Unveils New Trailer, Visual and Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/reborn-as-a-space-mercenary-anime-main-trailer-visual-additional-cast",
+      "description": "Crunchyroll will simulcast the sci-fi isekai series",
+      "pubDate": "2026-09-15T11:47:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8a85b5ef48/reborn-as-a-space-mercenary.jpg"
+    },
+    {
+      "id": "cr-Y3RvYmVyLTc",
+      "title": "A Returner's Magic Should Be Special Season 2 Anime Premieres on October 7",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/a-returners-magic-should-be-special-season-2-anime-premieres-on-october-7",
+      "description": "New trailer and key visual revealed for ongoing adaptation based on web novel series",
+      "pubDate": "2026-09-15T11:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/b122039dd5/a_returners_magic_should_be_special_season2_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3NDI",
+      "title": "Sparks of Tomorrow ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-11/.241742",
+      "description": "It’s more than clear to me at this point that Sparks of Tomorrow is limping to its predictable conclusion, and I very much look forward to not watching what’s likely to go down as Kyoto Animation’s worst work.",
+      "pubDate": "2026-09-15T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/episode-review.5/241742/sparks-of-tomorrow-ep-11-review.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kyouran Reijou Nia Liston' Announces Additional Cast Pair",
+      "link": "https://myanimelist.net/news/74722530?_location=rss",
+      "description": "The official website for the television anime adaptation of Umikaze Minamino's Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel unveiled additional cast pair and situational visual (pictured above) on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9.25 p.m. on Tokyo MX, followed by BS Nippon TV, and MBS. The series will hold a special stage event and advan...",
+      "pubDate": "2026-09-15T11:08:22.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789470251-47f805e7d0d95b9b290f8003503fe97a.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE3OTk",
+      "title": "Nia Liston: The Merciless Maiden Anime Adds 2 More Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/nia-liston-the-merciless-maiden-anime-adds-2-more-cast-members/.241799",
+      "description": "Tomoyo Takayanagi, Yūki Urushiyama join cast of October 6 anime",
+      "pubDate": "2026-09-15T10:27:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.9/241799/nia.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE3OTg",
+      "title": "Ace of Diamond Act II Second Season's 2nd Part Unveils Theme Songs in New Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/ace-of-diamond-act-ii-second-season-2nd-part-unveils-theme-songs-in-new-video/.241798",
+      "description": "GLAY performs \"NEVER SAY NEVER AGAIN\" opening, OxT performs ending song \"ROAD TO BE BLUE\"",
+      "pubDate": "2026-09-15T10:09:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/kLbI4teuPTc.jpg"
+    },
     {
       "id": "cr-c3VhbC1jYXN0",
       "title": "Nia Liston: The Merciless Maiden Anime Unveils New Visual, Cast",
@@ -11,16 +201,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/8e2e6c29e5/nia-liston-the-merciless-maiden.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3OTY",
-      "title": "Jujutsu Kaisen Rumble: Survivaton Game Delayed to 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-rumble-survivaton-game-delayed-to-2027/.241796",
-      "description": "Game initially slated for this year",
-      "pubDate": "2026-09-15T09:00:09.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/youtube/N3mi8DprGpI.jpg"
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -280,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/episode-review.5/241714/elusive-samurai-s2-ep-9-review.png.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -300,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T16:53:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLG/cms/news.9/241778/crazy-taxi-world-tour.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3MTc",
@@ -310,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/episode-review.5/241717/aobw4211.jpg"
+      "image": null
     },
     {
       "id": "cr-bi1maWxtcw",
@@ -340,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB7/cms/review.2/241385/81td4ixhd8l.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQxNzcw",
@@ -350,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.9/241770/jeremy-thomas.jpg"
+      "image": null
     },
     {
       "id": "cr-dWFyeS0yMDI3",
@@ -370,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T15:30:05.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/youtube/UORmIXTGSyo.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3MTM",
@@ -380,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/episode-review.5/241713/chainsmoker-cat-10.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc3Mg",
@@ -390,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T15:22:50.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC9/encyc/A38279-3445315065.1785458309.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3NzE",
@@ -400,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T15:15:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/VoZ43A3XE-Q.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3NTY",
@@ -410,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T15:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/news.9/241756/ushijima.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXMtdm9sLTcy",
@@ -421,186 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Quizzes",
       "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-ZS8uMjQxNzY3",
-      "title": "Latest Crayon Shin-chan Film Becomes Highest-Grossing in Franchise",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/latest-crayon-shin-chan-film-becomes-highest-grossing-in-franchise/.241767",
-      "description": "Franchise's 2026 film has earned over 2.7 billion yen",
-      "pubDate": "2026-09-14T14:45:35.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/news.9/241767/crayon-shin-chan-film-commemorative.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3MTE",
-      "title": "KAIJU GIRL CARAMELISE ‒ Episodes 9-11",
-      "link": "https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episodes-9-11/.241711",
-      "description": "The big fight scene picks up once the comedy comes into focus, with the audibly frightened and visibly crying Kuroe whipping Akae around by the tail like Bowser in Super Mario 64.",
-      "pubDate": "2026-09-14T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKG/cms/episode-review.5/241711/ss-2026-09-12-12-49-56-708.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXJz",
-      "title": "Fate/EXTRA Record Game Welcomes Archer and Caster in Two New Character Trailers",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/fate-extra-record-archer-caster-character-trailers",
-      "description": "The game is scheduled for release on January 28, 2027",
-      "pubDate": "2026-09-14T14:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/0b6b9efda8/fate-extra-record-archer.png"
-    },
-    {
-      "id": "ann-LjI0MTczOA",
-      "title": "Hidari Yokoyama Launches Ayaru's Brush with Romance Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/hidari-yokoyama-launches-ayaru-brush-with-romance-manga/.241738",
-      "description": "Manga available in English on Manga Plus",
-      "pubDate": "2026-09-14T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Releases Main Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/bang-dream-ave-mujica-prima-aurora-anime-film-main-trailer",
-      "description": "The film premieres in Japan on October 16",
-      "pubDate": "2026-09-14T14:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/1d735e3b93/bang-dream-ave-mujica-prima-aurora-hero.png"
-    },
-    {
-      "id": "cr-bWUtc29uZ3M",
-      "title": "Ranma 1/2 Season 3 Anime Previews Opening, Ending Theme Songs in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/ranma-season-3-anime-third-trailer-opening-ending-theme-songs",
-      "description": "The third season begins on October 3",
-      "pubDate": "2026-09-14T13:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a79c2a2ae9/2-season-3-anime-third-trailer.png"
-    },
-    {
-      "id": "cr-YXJ0d29yaw",
-      "title": "Crayon Shin-chan 33rd Anime Film Celebrates Box Office Record with New Artwork",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/crayon-shin-chan-33rd-anime-film-celebrates-box-office-record-with-new-artwork",
-      "description": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Yokai Vacation is now the highest-grossing film in the series",
-      "pubDate": "2026-09-14T13:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/99405cf4c3/shin-chan-33rd-film-bo.jpg"
-    },
-    {
-      "id": "ann-MC8uMjQxNjg1",
-      "title": "Tomb Raider King ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/tomb-raider-king/episode-10/.241685",
-      "description": "George pointing a gun in Jooheon’s face because he ripped him off and then telling him to stop talking like he knows everything is one of the most cathartic moments I’ve experienced all season.",
-      "pubDate": "2026-09-14T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXJz",
-      "title": "To You in the Beyond Anime Film Shares Seven Character Trailers",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/to-you-in-the-beyond-anime-film-seven-character-trailers",
-      "description": "The movie premieres in Japan on October 9",
-      "pubDate": "2026-09-14T13:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x537/ce46607c3f/to-you-in-the-beyond-charpvs.jpg"
-    },
-    {
-      "id": "cr-ZGFwdGF0aW9u",
-      "title": "Funso deshitara Hatta made Manga Announces TV Anime Adaptation",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/funso-deshitara-hatta-made-manga-announces-tv-anime-adaptation",
-      "description": "Geopolitical adventure manga by Den Motohiro has sold more than 1.2 million copies",
-      "pubDate": "2026-09-14T13:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1125x633/317ae496e8/funso_deshitara_hatta_made_manga_banner.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQxNzMw",
-      "title": "NYCC Hosts Voice Actor Hikaru Midorikawa, Shonen Jump+ EIC Yuta Momiyama, More Guests, Events, Anime Premieres",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/nycc-hosts-voice-actor-hikaru-midorikawa-shonen-jump-eic-yuta-momiyama-more-guests-events-anime-/.241730",
-      "description": "New York Comic Con 2026 is taking place at the Javits Center on October 8-11",
-      "pubDate": "2026-09-14T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yMzg4MjM",
-      "title": "Hakos Baelz Talks About Tanya the Evil, the Yakuza Games, and Being a Bit Chūuni",
-      "link": "https://www.animenewsnetwork.com/interview/2026-09-14/hakos-baelz-talks-about-tanya-the-evil-the-yakuza-games-and-being-a-bit-chuuni/.238823",
-      "description": "\"For me, I think every year I try to put more of myself in my performances. Whether through practicing the vocals or practicing the dance, everyone's working really hard to make sure that it's a bigger and better performance for all our fans.\"",
-      "pubDate": "2026-09-14T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "VTubers",
-      "image": null
-    },
-    {
-      "id": "cr-bGF1bmNoZXM",
-      "title": "Shakugan No Shana: Blaze Edge Idle RPG Launches",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/shakugan-no-shana-blaze-edge-idle-rpg-launches",
-      "description": "Browser game celebrates anime adaptation’s 20th anniversary",
-      "pubDate": "2026-09-14T12:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x502/1ce46287bd/shakugan-no-shana-game.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE2ODQ",
-      "title": "Clevatess Season 2 ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/clevatess-season-2/episode-10/.241684",
-      "description": "Am I being serious when I say a couple of pandering and blatantly manipulative scenes of Clevatess and Luna reuniting are all I needed to forgive this season's shortcomings? Yes, obviously. Please try to keep up.",
-      "pubDate": "2026-09-14T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc1NQ",
-      "title": "Pokémon Developer Game Freak Announces Ame nochi Hare Onna Mobile Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/pokemon-developer-game-freak-announces-ame-nochi-hare-onna-mobile-game/.241755",
-      "description": "Game integrated with real-time weather forecasts slated for release this winter",
-      "pubDate": "2026-09-14T11:50:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc2Mw",
-      "title": "New Ranma 1/2 Anime's Season 3 Reveals 3rd Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/new-ranma-1-2-anime-season-3-reveals-3rd-promo-video/.241763",
-      "description": "Fumino performs opening theme song \"Sunao Miman,\" Yuika performs ending theme song \"Kawaikunai\" for anime season debuting on October 3",
-      "pubDate": "2026-09-14T11:34:16.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTY3OA",
-      "title": "I Want to Love You Till Your Dying Day ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-10/.241678",
-      "description": "Mimi really does not understand Sheena at all.",
-      "pubDate": "2026-09-14T11:33:18.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.' Reveals Additional Cast, Staff, Theme Songs, Main Promo",
-      "link": "https://myanimelist.net/news/74719088?_location=rss",
-      "description": "The official website of the Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. (Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion) television anime revealed additional cast, staff, theme songs, the main visual (pictured), and promotional video on Monday. The anime series adapting Eiko Mutsuhana's fantasy romance light novel will air on October 5 at 9.30 p.m. on AT-X, followed by Tokyo MX, BS Nippon TV, and MBS. Voice actors Hiro Shimono (Kimi to Koete Koi ni Naru) a...",
-      "pubDate": "2026-09-14T11:25:55.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789385108-06ae8bae8337d7851ade71f683d0c1ba.jpeg"
     }
   ]
 };
