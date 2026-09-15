@@ -1,7 +1,117 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-15T15:46:12.261Z",
+  "lastUpdated": "2026-09-15T20:30:55.150Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE4MDI",
+      "title": "Jujutsu Kaisen, Kagurabachi, More Manga Rank on NYT September Bestseller List",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-15/jujutsu-kaisen-kagurabachi-more-manga-rank-on-nyt-september-bestseller-list/.241802",
+      "description": "The first volume of Gege Akutami's Jujutsu Kaisen manga ranked at #7 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
+      "pubDate": "2026-09-15T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.9/233176/81tmhlrlejl._sl1500_.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgwMA",
+      "title": "Jujutsu Kaisen Ranks #2 on Bookscan's August Adult Graphic Novel List in U.S.",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-ranks-no.2-on-bookscan-august-adult-graphic-novel-list-in-u.s/.241800",
+      "description": "16 manga volumes including Kagurabachi, The Summer Hikaru Died, Gachiakuta, Dandadan make list",
+      "pubDate": "2026-09-15T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.9/233176/81tmhlrlejl._sl1500_.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MTc",
+      "title": "Goodbye, Lara Anime Gets Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/goodbye-lara-anime-gets-manga/.241817",
+      "description": "Citrus creator Saburouta debuts manga in October",
+      "pubDate": "2026-09-15T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g43/cms/news.9/241817/hspk92bayaaab2o.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MTA",
+      "title": "Higurashi: When They Cry Mahjong Game Gets Remaster for Switch, PS5, PC",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/higurashi-when-they-cry-mahjong-game-gets-remaster-for-switch-ps5-pc/.241810",
+      "description": "Higurashi no Naku Koro ni Jong Remaster launches in Japan in 2027",
+      "pubDate": "2026-09-15T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWI/youtube/Z2uC4Nz0Zfk.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MTE",
+      "title": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811",
+      "description": "Magic Knight Rayearth, Overgeared, Black Clover Season 2, The Apothecary Diaries Season 3, PSYREN, more",
+      "pubDate": "2026-09-15T17:52:07.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/youtube/HmK-W6VEAdg.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MTU",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 8",
+      "link": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-8/.241815",
+      "description": "After going through all the trouble of bringing Aizen back, this is all we got?",
+      "pubDate": "2026-09-15T17:35:21.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/cms/episode-review.5/241815/bleach3-2.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Fall 2026 Preview",
+      "link": "https://myanimelist.net/news/74723259?_location=rss",
+      "description": "In this thread, you'll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already have a video embedded will instead have their newly released videos added to the video tab in their respective entries. For convenience, the video tab can be accessed via the additional videos link next to the embedde...",
+      "pubDate": "2026-09-15T17:24:18.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789493085-ebec4062f7329352671b225285acd1f1.jpeg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "ONE PIECE: Grand Gourmet Game Trailer Shows a Day in the Life Working at Baratie",
+      "link": "https://crunchyroll.com/news/latest/2026/9/15/one-piece-grand-gourmet-game-trailer",
+      "description": "Kairosoft-developed restaurant management sim launches next month",
+      "pubDate": "2026-09-15T17:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/1345003b23/one-piece-grand-gourmet.jpg"
+    },
+    {
+      "id": "cr-Y2h5cm9sbA",
+      "title": "Crunchyroll Fall 2026 Anime Dubs Include The Apothecary Diaries Season 3, Magic Knight Rayearth and More",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/15/fall-2026-dubs-crunchyroll",
+      "description": "Read the upcoming English dubs you can catch this fall!",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/46db939772/the-apothecary-diaries-season-3.png"
+    },
+    {
+      "id": "cr-Y2h5cm9sbA",
+      "title": "Crunchyroll Fall 2026 Anime Season Lineup Announced!",
+      "link": "https://crunchyroll.com/news/seasonal-lineup/2026/9/15/fall-anime-2026-crunchyroll",
+      "description": "Black Clover Season 2, The Apothecary Diaries Season 3 and more join Crunchyroll's new anime season",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Seasonal Lineup",
+      "image": "https://a.storyblok.com/f/178900/1600x900/0e285108a3/crunchyroll-fall-2026-lineup.png"
+    },
+    {
+      "id": "ann-Ly4yNDEzODc",
+      "title": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run Volumes 6-8 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/jojo-bizarre-adventure/part-7-steel-ball-run/volumes-6-8/.241387",
+      "description": "Steel Ball Run is Hirohiko Araki at his most untethered to reality, and you should be equal parts excited and horrified.",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/review.2/241387/jojos-bizarre-adventure-part-7-steel-ball-run-vol-6-9781974762255-hr.jpg"
+    },
     {
       "id": "ann-MC8uMjQxNzc5",
       "title": "Though I Am an Inept Villainess ‒ Episode 10",
@@ -370,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTC/cms/news.8/225500/suikoden-star-leap.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc0MQ",
@@ -380,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/episode-review.5/241741/polar.png.jpg"
+      "image": null
     },
     {
       "id": "cr-aWxlLWdhbWU",
@@ -400,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/cms/news.7/210259/lycoris-recoil.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3NDA",
@@ -410,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF1/cms/episode-review.5/241740/vlcsnap-2026-09-13-21h42m02s097.png.jpg"
+      "image": null
     },
     {
       "id": "cr-Yy12aWRlb3M",
@@ -430,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/youtube/Cf-M7QlVolk.jpg"
+      "image": null
     },
     {
       "id": "ann-NS8uMjQxNzM3",
@@ -440,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/episode-review.5/241737/100gf3500.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc3Ng",
@@ -450,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-14T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/encyc/A38104-2296435887.1780964848.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3MTQ",
@@ -491,116 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-bi1maWxtcw",
-      "title": "New Sonic Animated Series Announced Alongside Crazy Taxi and Stranger Than Heaven Films",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/new-sonic-animated-series-crazy-taxi-stranger-than-heaven-films",
-      "description": "Crazy Taxi film is a comedy with The Naked Gun writers behind it",
-      "pubDate": "2026-09-14T16:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x480/c534eee522/sonic-gg.jpg"
-    },
-    {
-      "id": "cr-ZGVyLWtpbmc",
-      "title": "Which Relic Would You Wield in Tomb Raider King?",
-      "link": "https://crunchyroll.com/news/quizzes/2026/9/14/relic-quiz-tomb-raider-king",
-      "description": "Would you rather have a legendary sword or the armor of an almost invulnerable warrior? Let's find out!",
-      "pubDate": "2026-09-14T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/0bad5f962e/tomb-raider-king-quiz-banner.jpg"
-    },
-    {
-      "id": "ann-LjI0MTM4NQ",
-      "title": "The World's Strongest Witch Volumes 1-2 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/volumes-1-2/.241385",
-      "description": "In a world where only she can see the strategy guide, no one will be able to stand up to this witch’s skills, her weapons, her charisma, or her luck!",
-      "pubDate": "2026-09-14T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQxNzcw",
-      "title": "Producer Jeremy Thomas Dies at 77",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/producer-jeremy-thomas-dies-at-77/.241770",
-      "description": "Thomas produced The Last Emperor, Blade of the Immortal live-action films",
-      "pubDate": "2026-09-14T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "cr-dWFyeS0yMDI3",
-      "title": "The Fable Season 2 Anime Premieres in January 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/the-fable-season-2-anime-premieres-in-january-2027",
-      "description": "Main cast and staff return, new teaser trailer showcased",
-      "pubDate": "2026-09-14T15:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/18c1b947c6/the-fable-s2.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTc3Mw",
-      "title": "Ace Combat 8: Wings of Theve Game's Live-Action Prequel Series Previews Story in Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/ace-combat-8-wings-of-theve-game-live-action-prequel-series-previews-story-in-trailer/.241773",
-      "description": "4-episode series premieres on Tuesday with future episodes on September 17, 23, 29",
-      "pubDate": "2026-09-14T15:30:05.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3MTM",
-      "title": "Chainsmoker Cat ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-10/.241713",
-      "description": "This week we must face the most dehumanizing torture of all: Being trapped in a car with an insufferable wannabe influencer who can't shut her godforsaken phone off for a single second and act like a normal person.",
-      "pubDate": "2026-09-14T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc3Mg",
-      "title": "BanG Dream! Ave Mujica Film's Trailer Previews New Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772",
-      "description": "Video previews \"A Song of Resonance\" for film opening in Japan on October 16",
-      "pubDate": "2026-09-14T15:22:50.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3NzE",
-      "title": "The Fable Season 2 TV Anime's Trailer Reveals January 2027 Premiere",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/the-fable-season-2-tv-anime-trailer-reveals-january-2027-premiere/.241771",
-      "description": "Season features returning cast/staff",
-      "pubDate": "2026-09-14T15:15:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3NTY",
-      "title": "Ushijima the Loan Shark Gets New 1-Shot Set 10 Years After Manga's End",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/ushijima-the-loan-shark-gets-new-1-shot-set-10-years-after-manga-end/.241756",
-      "description": "1-shot will be on display at manga's exhibition in Tokyo from September 19 - October 4",
-      "pubDate": "2026-09-14T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-ZXMtdm9sLTcy",
-      "title": "Crunchyroll News Puzzles Vol. 72: Quick Learner and Kyoto City Tour",
-      "link": "https://crunchyroll.com/news/quizzes/2026/9/14/crunchyroll-news-puzzles-vol-72",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-09-14T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
     }
   ]
 };
