@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-16T01:52:47.883Z",
+  "lastUpdated": "2026-09-16T10:21:38.680Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE4NDc",
+      "title": "France's Ankama Presents Fantasy TV Anime Aoki Denshō Welsh & Shedar",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847",
+      "description": "Rikuya Yasuda, Yūki Kaji star in Studio Massket series debuting in Japan on October 2",
+      "pubDate": "2026-09-16T09:45:38.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Shangri-La Frontier Season 3 Anime Premieres on January 10, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/shangri-la-frontier-season-3-anime-january-10-2027-release-date-key-visual",
+      "description": "A new key visual was also unveiled",
+      "pubDate": "2026-09-16T09:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/680d63d9ca/shangri-la-frontier-season-3.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Demons' Crest' Announces Additional Cast",
+      "link": "https://myanimelist.net/news/74725906?_location=rss",
+      "description": "The official website for the original net anime adaptation of Reki Kawahara's Demons' Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Cast Teruki Sugamo: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Aria Misono: Maaya Uchida (Kaya-chan wa Kowakunai) Kai Kisanuki: Rie Murakawa (Komi-san wa, Comyushou desu.) Sumika Watamaki: Sora Amamiya (Kono Subarashii Sekai ni Shukufuku wo!) Kenichirou Komay...",
+      "pubDate": "2026-09-16T09:33:37.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789551153-130f6d07ddc703b9d5c0241aef21d099.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTg0Mg",
+      "title": "Entergram Announces Vtuber Azusa Honami's Azure Memoria Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/entergram-announces-vtuber-azusa-honami-azure-memoria-game/.241842",
+      "description": "Azusa supervises console game",
+      "pubDate": "2026-09-16T08:45:14.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.9/241842/azure.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg0MA",
+      "title": "Hi Score Girl's Rensuke Oshikiri, Etrange Overlord's Roman Kitayama Present Noroi Ayashi Horror RPG",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/hi-score-girl-rensuke-oshikiri-etrange-overlord-roman-kitayama-present-noroi-ayashi-horror-rpg/.241840",
+      "description": "Clover Lab's game slated for Switch, Switch 2, PC via Steam in Q2 2027",
+      "pubDate": "2026-09-16T07:48:58.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.9/241840/noroi.webp"
+    },
+    {
+      "id": "ann-dS8uMjQxODM0",
+      "title": "Crunchyroll Acquires 7.03% of Japanese Media Company Link-U",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/crunchyroll-acquires-7.03-percent-of-japanese-media-company-link-u/.241834",
+      "description": "Crunchyroll invests 917 million yen in firm working on Crunchyroll Manga service",
+      "pubDate": "2026-09-16T07:31:05.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgzOQ",
+      "title": "Asaka Performs 'Tetsuryō! meet with Tetsudō Musume' Anime's Opening Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/asaka-performs-tetsuryo-meet-with-tetsudo-musume-anime-opening-song/.241839",
+      "description": "Asaka performs \"GO! GO! RAILWAY!!\" opening for October 8 series",
+      "pubDate": "2026-09-16T06:43:29.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/news.9/239562/tetsuryo-2nd-kv.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODMw",
+      "title": "Shogakukan Launches 'Rumiko Takahashi Fantasy Manga Awards'",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/shogakukan-launches-rumiko-takahashi-fantasy-manga-awards/.241830",
+      "description": "Takahashi to head judging panel with 1st entries accepted until January 11",
+      "pubDate": "2026-09-16T06:32:42.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKO/cms/news.9/241830/rumiko.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MzM",
+      "title": "Mazenchu Food Characters Get TV Anime on October 7",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mazenchu-food-characters-get-tv-anime-on-october-7/.241833",
+      "description": "Anime daily life in school for food ingredients",
+      "pubDate": "2026-09-16T06:04:38.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/news.9/241833/mazenchu-anime.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbHM",
+      "title": "Witch and Mercenary Anime Unveils April 2027 Premiere, Trailer and Visuals",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/witch-and-mercenary-anime-april-2027-premiere-trailer-visuals",
+      "description": "Yuri Noguchi, Hiromu Mineta, and Haruka Shiraishi newly join the cast",
+      "pubDate": "2026-09-16T04:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/572f6f16f8/witch-and-mercenary-header.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "The Road to Redemption: Unmasking The Vermilion Mask",
+      "link": "https://myanimelist.net/news/74725112?_location=rss",
+      "description": "Combining dark fantasy, action, and an unconventional approach to the shounen genre, Shuiro no Kamen (The Vermilion Mask) is set to bring its striking world and mysterious masks to television this October. From its first chapters, the manga stands out for its willingness to place its protagonist in situations rarely seen in shounen stories, forcing him to confront guilt, loss, and the consequences of his actions rather than simply growing stronger. At Anime Expo 2026, we had the opportunity to...",
+      "pubDate": "2026-09-16T04:27:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789532451-edb9ca519f5766277dcfee1b70635b2d.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MDM",
+      "title": "Pragmata's Diana & Mega Man Join Forces on Social Media",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-15/pragmata-diana-and-mega-man-join-forces-on-social-media/.241803",
+      "description": "Is this the start of a new Rock & Roll duo?",
+      "pubDate": "2026-09-16T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/herald/201321/mega-man-pragmata.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MzE",
+      "title": "Witch and Mercenary Anime's New Video Unveils More Cast & Staff, April 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/witch-and-mercenary-anime-new-video-unveils-more-cast-and-staff-april-2027-debut/.241831",
+      "description": "Yuri Noguchi, Hiromu Mineta, Haruka Shiraishi join cast",
+      "pubDate": "2026-09-16T03:38:43.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g69/cms/news.9/241831/majoyohei-teaserkv02.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Majo to Youhei' Reveals Additional Cast, Staff, First Promo for Spring 2027",
+      "link": "https://myanimelist.net/news/74725001?_location=rss",
+      "description": "The official website for the television anime adaptation of Kaeru Chouhoukiteki's Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (pictured), and the first promotional video on Wednesday. The anime series will premiere on 30 NTV stations and BS NTV in April 2027. Cast Isana Gayhone: Yuri Noguchi (Ryza no Atelier) Alan Clows: Hiromu Mineta (Katainaka no Ossan, Kensei ni Naru) Elsia Armet: Haruka Shiraishi (Clevatess) Staff Assistant S...",
+      "pubDate": "2026-09-16T03:29:44.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789529273-bebf74e18ddcf3e335d2fd26ab2675b5.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTgyNQ",
+      "title": "Bayonetta Joins Godzilla, Evangelion in Sonic Racing CrossWorlds Game's Year 2",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-15/bayonetta-joins-godzilla-evangelion-in-sonic-racing-crossworlds-game-year-2/.241825",
+      "description": "World Championship Finals livestream to offer more details on October 9",
+      "pubDate": "2026-09-16T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/youtube/w0-H5lgpDO0.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgyNA",
+      "title": "Val x Love's Ryōsuke Asakura Launches New Manga Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/val-x-love-ryosuke-asakura-launches-new-manga-series/.241824",
+      "description": "Evangeline Puts on Shoes about popular actress, aspiring shoemaker in high school debuted on Wednesday",
+      "pubDate": "2026-09-16T02:33:53.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/cms/news.9/241824/hsq-lhybiaazo0q.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MjI",
+      "title": "Puchimas! -Petit Idolm@ster- Manga to End on December 25",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/puchimas-petit-idolm@ster-manga-to-end-on-december-25/.241822",
+      "description": "Akane launched series in 2008",
+      "pubDate": "2026-09-16T01:49:29.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9D/cms/news.9/241822/71nh05b548l.sl1420.jpg"
+    },
     {
       "id": "cr-ZGluZy1zb25n",
       "title": "The Insipid Prince's Furtive Grab for the Throne Streams Anime Collab Music Video for Ending Song",
@@ -270,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEM/cms/episode-review.5/241768/iruma-s4-22.png.jpg"
+      "image": null
     },
     {
       "id": "cr-aC1wcm9qZWN0",
@@ -290,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/episode-review.5/241745/daemons-23.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MDE",
@@ -300,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T12:02:03.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.9/241801/return.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -350,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/episode-review.5/241742/sparks-of-tomorrow-ep-11-review.png.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -370,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T10:27:25.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.9/241799/nia.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3OTg",
@@ -380,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T10:09:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/kLbI4teuPTc.jpg"
+      "image": null
     },
     {
       "id": "cr-c3VhbC1jYXN0",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T07:57:26.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJN/cms/news.9/241794/harugen.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQxNzky",
@@ -420,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T07:01:06.000Z",
       "source": "Anime News Network",
       "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.9/241792/funbarus.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -431,176 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789445209-d23a2ab939e0bd1425f7e786ce038611.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTc2NA",
-      "title": "Get Your Very Own Pokémon Spam in South Korea",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-14/get-your-very-own-pokemon-spam-in-south-korea/.241764",
-      "description": "Not made from real Pokémon",
-      "pubDate": "2026-09-15T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/cms/interest.3/241764/pokemon-spam.jpg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "We Are Aliens Anime Film Features Heroine Konatsu in New Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/we-are-aliens-anime-film-heroine-konatsu-new-trailer-visual",
-      "description": "The film is set for release in Japan on September 25",
-      "pubDate": "2026-09-15T02:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f841ecff44/we-are-aliens-konatsu-trailer.jpg"
-    },
-    {
-      "id": "ann-dS8uMjQxNzg4",
-      "title": "We Are Aliens Film's New Trailer Highlights Heroine Konatsu",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/we-are-aliens-film-new-trailer-highlights-heroine-konatsu/.241788",
-      "description": "Film opens in Japan on September 25",
-      "pubDate": "2026-09-15T02:11:32.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNH/youtube/P5bpfinInwQ.jpg"
-    },
-    {
-      "id": "cr-dy10cmFpbGVy",
-      "title": "Tanuki to Kitsune Anime Previews SILENT SIREN Theme Song in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/tanuki-to-kitsune-anime-silent-siren-theme-song-new-trailer",
-      "description": "The anime is scheduled to start broadcasting on October 4",
-      "pubDate": "2026-09-15T01:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/7fa1b12f4b/tanuki-to-kitsune-theme-song-trailer.png"
-    },
-    {
-      "id": "cr-b3gtb2ZmaWNl",
-      "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Holds No. 1 Spot for 8th Weekend",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/chiikawa-the-movie-the-secret-of-the-mermaid-island-number-1-8th-weekend-japan-box-office",
-      "description": "The Look Back live-action movie opens in fifth place",
-      "pubDate": "2026-09-15T01:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x519/93b2cd74cf/chiikawa-the-movie.jpg"
-    },
-    {
-      "id": "ann-LjI0MTc2Ng",
-      "title": "Cyberpunk: Edgerunners Joins Overwatch, Fortnite Battle Royale Games",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-14/cyberpunk-edgerunners-joins-overwatch-fortnite-battle-royale-games/.241766",
-      "description": "Just don't go cyberpsycho with all that chrome",
-      "pubDate": "2026-09-15T01:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/encyc/A25775-1606880264.1654746135.jpg"
-    },
-    {
-      "id": "ann-ci8uMjQxNzg1",
-      "title": "Silent Hill f Game Gets Manga Based on Fox Mask Character",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/silent-hill-f-game-gets-manga-based-on-fox-mask-character/.241785",
-      "description": "Manga tells character's origin story",
-      "pubDate": "2026-09-15T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Doraemon: Nobita's Steam-Powered Time Machine Anime Film Unveils March 5, 2027 Release Date, Teaser Trailer and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/doraemon-nobitas-steam-powered-time-machine-anime-film-march-5-2027-release-date-teaser-trailer-visual",
-      "description": "The 46th film is set in 19th-century London",
-      "pubDate": "2026-09-14T23:57:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a171d6cf32/doraemon-nobitas-steam-powered-time-machine.png"
-    },
-    {
-      "id": "ann-LjI0MTc4Mg",
-      "title": "Arata Aki Launches New Enma Note Demon Idol Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/arata-aki-launches-new-enma-note-demon-idol-manga/.241782",
-      "description": "Enma Note: Jigoku Idol Project debuts on September 15",
-      "pubDate": "2026-09-14T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc0OQ",
-      "title": "2027 Doraemon Film's Teaser Unveils March 5 Opening in Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/2027-doraemon-film-teaser-unveils-march-5-opening-in-japan/.241749",
-      "description": "Eiga Doraemon: Nobita no Jōki Jikansha film set in 19th century Victorian London",
-      "pubDate": "2026-09-14T22:51:01.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc4MQ",
-      "title": "Atsushi Kaneko Launches New MISH/MASH Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/atsushi-kaneko-launches-new-mish-mash-manga/.241781",
-      "description": "MISH/MASH debuts on September 28",
-      "pubDate": "2026-09-14T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Mi8uMjQxNzQz",
-      "title": "Mushoku Tensei: Jobless Reincarnation III ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-12/.241743",
-      "description": "More than just a simple call to adventure, this episode of Mushoku Tensei feels like the defining moment for the entire rest of the story.",
-      "pubDate": "2026-09-14T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3MzU",
-      "title": "Suikoden Star Leap Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/suikoden-star-leap-manga-ends/.241735",
-      "description": "Manga launched in November 2025",
-      "pubDate": "2026-09-14T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc0MQ",
-      "title": "You and I Are Polar Opposites Season 2 ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-11/.241741",
-      "description": "Under different circumstances, I'd be more than happy to just watch these kids be kids, but now that we're running down to the wire, I'm more than a little concerned as to what all this stalling will actually lead to.",
-      "pubDate": "2026-09-14T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aWxlLWdhbWU",
-      "title": "Game Freak Reveals Ame no Chi Hare Onna, a New Mobile Game with Weather Connectivity",
-      "link": "https://crunchyroll.com/news/latest/2026/9/14/game-freak-ame-no-chi-hare-onna-mobile-game",
-      "description": "Free-to-play game launches in Japan this winter",
-      "pubDate": "2026-09-14T20:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1023x723/3c881814b9/ame-no-chi-hare-onna.webp"
-    },
-    {
-      "id": "ann-cy8uMjQxNzM0",
-      "title": "Lycoris Recoil Manga Ends in 2 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-14/lycoris-recoil-manga-ends-in-2-chapters/.241734",
-      "description": "Manga adaptation debuted in September 2022",
-      "pubDate": "2026-09-14T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3NDA",
-      "title": "Draw This, Then Die! ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/draw-this-then-die/episode-10/.241740",
-      "description": "Similar to how Hebichika is not the greatest boss,  she's arguably not that great of a mother either, instilling Hikaru with this mentality that to be successful, she needs to see herself as above everybody else.",
-      "pubDate": "2026-09-14T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
