@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-16T10:21:38.680Z",
+  "lastUpdated": "2026-09-16T15:37:53.424Z",
   "items": [
+    {
+      "id": "cr-Z2EtYXdhcmQ",
+      "title": "Someone Hertz, Home at the Horizon Lead 2026 Next Manga Award Winners",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/someone-hertz-home-at-the-horizon-2026-next-manga-award",
+      "description": "Check out the winners, runners-up and special awards",
+      "pubDate": "2026-09-16T15:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/afb651c0f0/manga-next-hero.png"
+    },
+    {
+      "id": "ann-LjI0MTg0MQ",
+      "title": "Manga Up! Global Adds I Need to Quit this Antique Store, Tsukimi Is All Dolled Up Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841",
+      "description": "Also: The Journey of the Half-Elf Dwarven Master Blacksmith manga",
+      "pubDate": "2026-09-16T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/news.9/241841/kottoya.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Japan-French Co-Production 'Aoki Denshou Welsh & Shedar' Announced for Fall 2026",
+      "link": "https://myanimelist.net/news/74727107?_location=rss",
+      "description": "An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on Wednesday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Voice actors Rikuya Yasuda (Mayonaka Heart Tune) and Yuuki Kaji (Shingeki no Kyojin) are starring as Welsh and Shedar, respectively. Staff Director: Naoki Horiuchi (Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemash...",
+      "pubDate": "2026-09-16T14:58:20.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789570641-cc8730977d4f9740d253dd243148dac2.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE4NTY",
+      "title": "Red River ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/red-river/episode-11/.241856",
+      "description": "This episode is a distillation of everything wrong with Red River’s attempt to live up to its manga.",
+      "pubDate": "2026-09-16T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/episode-review.5/241856/red-river-11.png.jpg"
+    },
+    {
+      "id": "cr-aWVyZS1kYXRl",
+      "title": "Mazenchu Food Mascot TV Anime Announced for October 7",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/mazenchu-food-mascot-anime-announcement-premiere-date",
+      "description": "Four cast members have been announced for the upcoming project",
+      "pubDate": "2026-09-16T14:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x974/942672350f/mazenchu-hero.png"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "Tetsuryo! meet with Tetsudou Musume Anime Opening Theme Song Performer Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/tetsuryo-meet-with-tetsudou-musume-anime-opening-theme-performer-announced",
+      "description": "Asaka will kick off episodes with “GO! GO! RAILWAY!!”",
+      "pubDate": "2026-09-16T13:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/68627353b0/tetsuryo-meet-with-tetsudou-musume-anime-pv.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgzNg",
+      "title": "I Want to Love You Till Your Dying Day ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-11/.241836",
+      "description": "It's episodes like this that really make me worry about how little the show ultimately has to say.",
+      "pubDate": "2026-09-16T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/241836/vlcsnap-2026-09-16-07h29m38s988.png.jpg"
+    },
+    {
+      "id": "cr-c3QtdmlzdWFs",
+      "title": "French / Japanese Co-production Aoki Densho Welsh & Shedar Debuts on October 2",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/aoki-densho-welsh-shedar-anime-premiere-date-staff-cast-visual",
+      "description": "New fantasy series from the makers of Wakfu will broadcast on Tokyo MX",
+      "pubDate": "2026-09-16T13:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/5e58bf9d8c/aoki_densho_welsh_and_shedar_banner.png"
+    },
+    {
+      "id": "ann-bi8uMjM5NjAx",
+      "title": "Blade & Bastard Voice Actors Share Their Characters' Connection",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/blade-and-bastard-voice-actors-share-their-characters-connection/.239601",
+      "description": "Many fantasy stories feature plucky heroes on quests to become stronger, but Blade & Bastard focuses on the arduous process of surviving dungeon exploration.",
+      "pubDate": "2026-09-16T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF1/cms/convention/239601/en-bb-teaser-pv-cap-12.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDA0ODk",
+      "title": "Read It First: Manga, Light Novel Sources for Fall 2026 Anime",
+      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.240489",
+      "description": "Get ready for the fall anime season by checking out the original manga, light novels, and webtoons!",
+      "pubDate": "2026-09-16T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/seasonal/240489/fall-2026-read-it-first-banner.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgzMg",
+      "title": "One Piece (2026-) ‒ Episode 1178",
+      "link": "https://www.animenewsnetwork.com/review/one-piece/episode-1178/.241832",
+      "description": "Nico Robin is as fearless and perfect as ever, diving into action and outsmarting one of the deadliest warriors in the world without hesitation.",
+      "pubDate": "2026-09-16T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/episode-review.5/241832/op1178.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgyNw",
+      "title": "Uta Macross Rhythm Game Meets Crowdfunding Goal for Offline Version",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/uta-macross-rhythm-game-meets-crowdfunding-goal-for-offline-version/.241827",
+      "description": "Campaign also meets all initial stretch goals for console release, more songs",
+      "pubDate": "2026-09-16T11:52:43.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIQ/cms/news.9/241464/image-8.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE4MjY",
+      "title": "Iron Wok Jan! ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/iron-wok-jan/episode-11/.241826",
+      "description": "Akiyama himself resembles an evil wizard over a sacrificial bowl on the culinary altar, his fanged visage reflected in the vitae of the slain.",
+      "pubDate": "2026-09-16T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGV/cms/episode-review.5/241826/ironwok11.png.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODUw",
+      "title": "Sword Art Online Author Reki Kawahara's Devils' Crest Anime Casts 4 Classmates",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/sword-art-online-author-reki-kawahara-devils-crest-anime-casts-4-classmates/.241850",
+      "description": "Yūsuke Kobayashi, Maaya Uchida, Rie Murakawa, Sora Amamiya join cast in November 6 anime",
+      "pubDate": "2026-09-16T11:06:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/239194/devil-s-crest-visual.jpg"
+    },
+    {
+      "id": "cr-LW1lbWJlcnM",
+      "title": "Devils' Crest Anime Reveals 4 More Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/devils-crest-anime-reveals-4-more-cast-members",
+      "description": "The sci-fi series debuts on November 6",
+      "pubDate": "2026-09-16T10:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/782f7c86b1/devils-crest.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQxODQ5",
+      "title": "Shangri-La Frontier Season 3 Announces January 10 Debut, Half-Year Run",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/shangri-la-frontier-season-3-announces-january-10-debut-half-year-run/.241849",
+      "description": "3rd season to run for 6 months without break",
+      "pubDate": "2026-09-16T10:10:12.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/cms/news.9/241849/shang.jpg"
+    },
     {
       "id": "ann-Ly4yNDE4NDc",
       "title": "France's Ankama Presents Fantasy TV Anime Aoki Denshō Welsh & Shedar",
@@ -290,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWI/youtube/Z2uC4Nz0Zfk.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MTE",
@@ -300,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T17:52:07.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/youtube/HmK-W6VEAdg.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MTU",
@@ -310,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T17:35:21.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/cms/episode-review.5/241815/bleach3-2.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -360,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/review.2/241387/jojos-bizarre-adventure-part-7-steel-ball-run-vol-6-9781974762255-hr.jpg"
+      "image": null
     },
     {
       "id": "ann-MC8uMjQxNzc5",
@@ -370,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIY/cms/episode-review.5/241779/inept-villainess-10.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MDk",
@@ -380,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB9/cms/news.9/241809/beyblade-x-bey-kingdom-arc.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgwOA",
@@ -390,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T14:57:57.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/youtube/_qVyZweV3MY.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgwNg",
@@ -400,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T14:38:13.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/youtube/Z9ofT53sz2U.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE3NzQ",
@@ -410,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/241774/lara-11.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc1OA",
@@ -420,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g58/cms/this-week-in-anime/241758/sylvia10.jpg"
+      "image": null
     },
     {
       "id": "cr-aG93Y2FzZWQ",
@@ -441,166 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-aC1wcm9qZWN0",
-      "title": "BEYBLADE X Anime Announces New Bey Kingdom Arc, Start Dash Project",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/beyblade-x-anime-announces-new-bey-kingdom-arc-start-dash-project",
-      "description": "The new arc begins October 9",
-      "pubDate": "2026-09-15T13:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/d1b545bb8d/beyblade-x-tourney.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3NDU",
-      "title": "Daemons of the Shadow Realm ‒ Episode 23",
-      "link": "https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-23/.241745",
-      "description": "We are so disconnected from the time and the politics of the Sengoku era that restarting that war seems laughably insane.",
-      "pubDate": "2026-09-15T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MDE",
-      "title": "A Returner's Magic Should Be Special Season 2's New Video Reveals October 7 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/a-returner-magic-should-be-special-season-2-new-video-reveals-october-7-debut/.241801",
-      "description": "Trailer also previews opening song \"Sorrow\" by rock band FLOW",
-      "pubDate": "2026-09-15T12:02:03.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
-      "link": "https://myanimelist.net/news/74722593?_location=rss",
-      "description": "The official website for the television anime adaptation of Ryuto's Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai (Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!) light novel unveiled a pair of additional cast, staff, key visual (pictured), the theme songs, and first promotional video on Tuesday. The anime series is scheduled to premiere on October 4 at 9:30 p.m. on Tokyo MX, followed by AT-X, BS11, and other...",
-      "pubDate": "2026-09-15T11:59:05.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789473514-33d4bb5cf939784ddc3f878ad6ff30f0.jpeg"
-    },
-    {
-      "id": "cr-dWFyeS0yMDI3",
-      "title": "Haru to Gen Manga Gets TV Anime in January 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/haru-to-gen-manga-gets-tv-anime-in-january-2027",
-      "description": "Teaser image revealed for story of 70-year-old man raising his 3-year-old granddaughter",
-      "pubDate": "2026-09-15T11:59:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/6b262d80d7/haru_to_gen_banner_art.jpg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "Reborn as a Space Mercenary Anime Unveils New Trailer, Visual and Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/reborn-as-a-space-mercenary-anime-main-trailer-visual-additional-cast",
-      "description": "Crunchyroll will simulcast the sci-fi isekai series",
-      "pubDate": "2026-09-15T11:47:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8a85b5ef48/reborn-as-a-space-mercenary.jpg"
-    },
-    {
-      "id": "cr-Y3RvYmVyLTc",
-      "title": "A Returner's Magic Should Be Special Season 2 Anime Premieres on October 7",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/a-returners-magic-should-be-special-season-2-anime-premieres-on-october-7",
-      "description": "New trailer and key visual revealed for ongoing adaptation based on web novel series",
-      "pubDate": "2026-09-15T11:39:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/b122039dd5/a_returners_magic_should_be_special_season2_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3NDI",
-      "title": "Sparks of Tomorrow ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-11/.241742",
-      "description": "It’s more than clear to me at this point that Sparks of Tomorrow is limping to its predictable conclusion, and I very much look forward to not watching what’s likely to go down as Kyoto Animation’s worst work.",
-      "pubDate": "2026-09-15T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kyouran Reijou Nia Liston' Announces Additional Cast Pair",
-      "link": "https://myanimelist.net/news/74722530?_location=rss",
-      "description": "The official website for the television anime adaptation of Umikaze Minamino's Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel unveiled additional cast pair and situational visual (pictured above) on Tuesday. The anime will air for two consecutive cours, beginning on October 6 at 9.25 p.m. on Tokyo MX, followed by BS Nippon TV, and MBS. The series will hold a special stage event and advan...",
-      "pubDate": "2026-09-15T11:08:22.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789470251-47f805e7d0d95b9b290f8003503fe97a.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE3OTk",
-      "title": "Nia Liston: The Merciless Maiden Anime Adds 2 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/nia-liston-the-merciless-maiden-anime-adds-2-more-cast-members/.241799",
-      "description": "Tomoyo Takayanagi, Yūki Urushiyama join cast of October 6 anime",
-      "pubDate": "2026-09-15T10:27:25.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3OTg",
-      "title": "Ace of Diamond Act II Second Season's 2nd Part Unveils Theme Songs in New Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/ace-of-diamond-act-ii-second-season-2nd-part-unveils-theme-songs-in-new-video/.241798",
-      "description": "GLAY performs \"NEVER SAY NEVER AGAIN\" opening, OxT performs ending song \"ROAD TO BE BLUE\"",
-      "pubDate": "2026-09-15T10:09:41.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c3VhbC1jYXN0",
-      "title": "Nia Liston: The Merciless Maiden Anime Unveils New Visual, Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/nia-liston-the-merciless-maiden-anime-situation-visual-cast",
-      "description": "The fantasy series premieres on October 6",
-      "pubDate": "2026-09-15T09:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8e2e6c29e5/nia-liston-the-merciless-maiden.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Ace of the Diamond act II -Second Season- Cour 2 Anime Opening Theme Song Previewed in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/ace-of-the-diamond-act-ii-second-season-cour-2-anime-opening-theme-song-previewed-in-new-trailer",
-      "description": "Crunchyroll streams the baseball series to date",
-      "pubDate": "2026-09-15T08:55:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/dec5e41d03/ace-of-the-diamond-act-ii-second-season-cour-2.jpg"
-    },
-    {
-      "id": "ann-LjI0MTc5NA",
-      "title": "Yuka Ōshima's 'Haru to Gen ~70-sai, Hajimete Kosodate~' Manga Gets Short TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/yuka-oshima-haru-to-gen-~70-sai-hajimete-kosodate~-manga-gets-short-tv-anime/.241794",
-      "description": "Kōdai Satō directs anime about 70-year-old man raising his young granddaughter at Imagica Infos/Imageworks Studio",
-      "pubDate": "2026-09-15T07:57:26.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQxNzky",
-      "title": "Funbarus Posture Support Plush Toys Get Short TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/funbarus-posture-support-plush-toys-get-short-tv-anime/.241792",
-      "description": "Anime debuts on October 3; uses \"2D x AI hybrid\" animation production process",
-      "pubDate": "2026-09-15T07:01:06.000Z",
-      "source": "Anime News Network",
-      "category": "AI",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Spin-off Manga 'Puchimas!: Petit iDOLM@STER' Concludes 18-Year Serialization",
-      "link": "https://myanimelist.net/news/74721441?_location=rss",
-      "description": "The official X (formerly Twitter) account of the Dengeki Maoh magazine announced on Monday that the Puchimas!: Petit iDOLM@STER spin-off manga will end with its 200th and final chapter in the issue releasing on December 25. Akane began serializing the four-panel comedy manga, based on Bandai-Namco's The iDOLM@STER franchise, in Dengeki Maoh in July 2008. Kadokawa published the 15th volume in December 2024, with the 16th and final volume scheduled for a February 2027 release. A 64-episode ne...",
-      "pubDate": "2026-09-15T04:07:50.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789445209-d23a2ab939e0bd1425f7e786ce038611.jpeg"
     }
   ]
 };
