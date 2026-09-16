@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-16T15:37:53.424Z",
+  "lastUpdated": "2026-09-16T20:30:20.656Z",
   "items": [
+    {
+      "id": "cr-LWdvZHppbGxh",
+      "title": "Sonic Racing: CrossWorlds Teases Bayonetta as First Free Year Two Character",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/sonic-racing-crossworlds-bayonetta-trailer-evangelion-godzilla",
+      "description": "You can also see more of the upcoming Godzilla and Evangelion tracks",
+      "pubDate": "2026-09-16T20:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e1165a9bd2/bayonetta-sonic.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDE4Mjg",
+      "title": "Mimu Oyamada Ends Lovestruck Prince! I'll Fight the Heroine for My Villainess Fiancée! Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-15/mimu-oyamada-ends-lovestruck-prince-ill-fight-the-heroine-for-my-villainess-fiancee-manga/.241828",
+      "description": "Manga launched in January 2021",
+      "pubDate": "2026-09-16T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/news.9/241828/betabore.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODcy",
+      "title": "Dragon Quest Game Series Sells 100 Million Units",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-game-series-sells-100-million-units/.241872",
+      "description": "First game debuted in Japan in 1986",
+      "pubDate": "2026-09-16T19:31:21.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/youtube/chkpo0t-hOU.jpg"
+    },
+    {
+      "id": "cr-bnNvbGVzLXBj",
+      "title": "Terranigma Action-RPG Revival Launch Date Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/terranigma-release-date-consoles-pc",
+      "description": "16-bit Quintet game heads to consoles and PC on January 14, 2027",
+      "pubDate": "2026-09-16T19:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/b51119774f/terranigma-steam.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4Njk",
+      "title": "Official Naruto Shippuden Battle Board Game Launches Crowdfunding Campaign",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/official-naruto-shippuden-battle-board-game-launches-crowdfunding-campaign/.241869",
+      "description": "Naruto Shippuden Battle project asks 2-4 players to assemble teams of 3 characters",
+      "pubDate": "2026-09-16T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/cms/news.9/241869/naruto-shippuden-battle.png.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Wo Long 2: Wings of Ember Launches on March 4, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/16/wo-long-2-wings-of-ember-release-date-trailer",
+      "description": "Alpha demo will be live from today until September 30",
+      "pubDate": "2026-09-16T17:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/b60f73bffc/wo-long-2-trailer.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODY3",
+      "title": "Snack World Reloaded Game's Trailer Previews Combat, Stages, Bosses",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/snack-world-reloaded-game-trailer-previews-combat-stages-bosses/.241867",
+      "description": "Game launches in 2027 for Switch 2, PS5, PC",
+      "pubDate": "2026-09-16T17:30:03.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/NXBFkqAoNvw.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg2NQ",
+      "title": "Decapolice Game's Trailers Preview Story, Mysteries, Combat",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/decapolice-game-trailers-preview-story-mysteries-combat/.241865",
+      "description": "Game launches for Switch 2, PS5, PC in 2027 following delays",
+      "pubDate": "2026-09-16T17:03:41.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY3/youtube/ESgvDLf_ANI.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxODU4",
+      "title": "Stranger Than Heaven Game's Video Previews Opening, Showbiz, Combat",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/stranger-than-heaven-game-video-previews-opening-showbiz-combat/.241858",
+      "description": "Game's theme song by Snoop Dogg, Satoshi Fujihara, Ado, Tori Kelly gets release this year",
+      "pubDate": "2026-09-16T16:52:29.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK0/youtube/uhxkJ99B47I.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg1Nw",
+      "title": "Terranigma RPG's Trailer Reveals January 14 Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/terranigma-rpg-trailer-reveals-january-14-release/.241857",
+      "description": "Video previews new easy-view status window, aspect ratio selection, adjusted difficulty",
+      "pubDate": "2026-09-16T16:26:18.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/youtube/TyG0oysLGf4.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQxODYz",
+      "title": "Mega Man: Dual Override Game's Video Previews Dual Protagonists, Custom Chips, Special Weapons, Override, Pragmata DLC",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mega-man-dual-override-game-video-previews-dual-protagonists-custom-chips-special-weapons-override-/.241863",
+      "description": "DLC adding Mega Man/Roll suits for Pragmata game launches on Thursday",
+      "pubDate": "2026-09-16T16:06:09.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/herald/201349/mega-man-dual-override.jpg"
+    },
+    {
+      "id": "cr-MjMtcmVjYXA",
+      "title": "Daemons of the Shadow Realm Episode 23 Recap, \"Emotion and Reason\"",
+      "link": "https://crunchyroll.com/news/features/2026/9/16/daemons-of-the-shadow-realm-episode-23-recap",
+      "description": "The gang's all here",
+      "pubDate": "2026-09-16T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/6edfcda983/daemons-of-the-shadow-realm-episode-23.jpg"
+    },
+    {
+      "id": "ann-LjI0MTI4Mw",
+      "title": "Young Ladies Don't Play Fighting Games Volumes 1-9 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games-volumes-1-9-manga/.241283",
+      "description": "The thrill of combat, the agony of defeat, that’s all that matters for the dedicated gamers of Kuromi Girls’ Academy’s illicit Fighting Game Club…even if it means they give up everything else.",
+      "pubDate": "2026-09-16T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQA/cms/review.2/241283/young-ladies-don-t-play-fighting-games-vol.1-cover-art.jpg"
+    },
     {
       "id": "cr-Z2EtYXdhcmQ",
       "title": "Someone Hertz, Home at the Horizon Lead 2026 Next Manga Award Winners",
@@ -11,6 +141,26 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1200x630/afb651c0f0/manga-next-hero.png"
+    },
+    {
+      "id": "ann-LjI0MTg1OQ",
+      "title": "Dragon's Dogma 2 Game's Trailer Previews 'Dark Arisen' Expansion",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-dogma-2-game-trailer-previews-dark-arisen-expansion/.241859",
+      "description": "Dragon's Dogma 2: Dark Arisen launches on October 9 for Switch 2, PS5, Xbox X|S, PC",
+      "pubDate": "2026-09-16T15:22:38.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR8/youtube/XmKyRay8hGc.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODYw",
+      "title": "Monster Hunter Wilds: Ascendance Game Expansion's Trailer Reveals Teostra, Previews Boost Drivers",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/monster-hunter-wilds-ascendance-game-expansion-trailer-reveals-teostra-previews-boost-drivers/.241860",
+      "description": "Video also confirms crossplay for upcoming Switch 2 release, previews new features",
+      "pubDate": "2026-09-16T15:14:05.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/iNru7mV044Y.jpg"
     },
     {
       "id": "ann-LjI0MTg0MQ",
@@ -310,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/youtube/w0-H5lgpDO0.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgyNA",
@@ -320,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T02:33:53.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/cms/news.9/241824/hsq-lhybiaazo0q.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MjI",
@@ -330,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T01:49:29.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9D/cms/news.9/241822/71nh05b548l.sl1420.jpg"
+      "image": null
     },
     {
       "id": "cr-ZGluZy1zb25n",
@@ -360,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN8/cms/news.9/241786/hrr01kfawaaims7.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc4Nw",
@@ -370,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gX4/cms/news.9/241787/duelmasterspureplays.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTc4OQ",
@@ -380,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS0/cms/news.9/241789/kokyugohi.jpg"
+      "image": null
     },
     {
       "id": "ann-Mi8uMjQxODIw",
@@ -390,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGN/cms/episode-review.5/241820/aa64b6f48d1d.png.jpg"
+      "image": null
     },
     {
       "id": "cr-c3RhbXBlZGU",
@@ -410,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241818/unnamed-1.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MDI",
@@ -420,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.9/233176/81tmhlrlejl._sl1500_.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgwMA",
@@ -430,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.9/233176/81tmhlrlejl._sl1500_.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MTc",
@@ -440,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g43/cms/news.9/241817/hspk92bayaaab2o.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MTA",
@@ -450,156 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MTE",
-      "title": "Crunchyroll Announces Release Schedule for Fall 2026 Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/crunchyroll-announces-release-schedule-for-fall-2026-season/.241811",
-      "description": "Magic Knight Rayearth, Overgeared, Black Clover Season 2, The Apothecary Diaries Season 3, PSYREN, more",
-      "pubDate": "2026-09-15T17:52:07.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MTU",
-      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 8",
-      "link": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-8/.241815",
-      "description": "After going through all the trouble of bringing Aizen back, this is all we got?",
-      "pubDate": "2026-09-15T17:35:21.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Fall 2026 Preview",
-      "link": "https://myanimelist.net/news/74723259?_location=rss",
-      "description": "In this thread, you'll find a comprehensive list of Fall 2026 titles with an accompanying promotional video, commercial, teaser, or trailer. This post will be updated to include a video for titles that are missing one, leading up to the start of the season. Titles that already have a video embedded will instead have their newly released videos added to the video tab in their respective entries. For convenience, the video tab can be accessed via the additional videos link next to the embedde...",
-      "pubDate": "2026-09-15T17:24:18.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789493085-ebec4062f7329352671b225285acd1f1.jpeg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "ONE PIECE: Grand Gourmet Game Trailer Shows a Day in the Life Working at Baratie",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/one-piece-grand-gourmet-game-trailer",
-      "description": "Kairosoft-developed restaurant management sim launches next month",
-      "pubDate": "2026-09-15T17:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/1345003b23/one-piece-grand-gourmet.jpg"
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "Crunchyroll Fall 2026 Anime Dubs Include The Apothecary Diaries Season 3, Magic Knight Rayearth and More",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/15/fall-2026-dubs-crunchyroll",
-      "description": "Read the upcoming English dubs you can catch this fall!",
-      "pubDate": "2026-09-15T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/46db939772/the-apothecary-diaries-season-3.png"
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "Crunchyroll Fall 2026 Anime Season Lineup Announced!",
-      "link": "https://crunchyroll.com/news/seasonal-lineup/2026/9/15/fall-anime-2026-crunchyroll",
-      "description": "Black Clover Season 2, The Apothecary Diaries Season 3 and more join Crunchyroll's new anime season",
-      "pubDate": "2026-09-15T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Seasonal Lineup",
-      "image": "https://a.storyblok.com/f/178900/1600x900/0e285108a3/crunchyroll-fall-2026-lineup.png"
-    },
-    {
-      "id": "ann-Ly4yNDEzODc",
-      "title": "JoJo's Bizarre Adventure: Part 7--Steel Ball Run Volumes 6-8 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/jojo-bizarre-adventure/part-7-steel-ball-run/volumes-6-8/.241387",
-      "description": "Steel Ball Run is Hirohiko Araki at his most untethered to reality, and you should be equal parts excited and horrified.",
-      "pubDate": "2026-09-15T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-MC8uMjQxNzc5",
-      "title": "Though I Am an Inept Villainess ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-10/.241779",
-      "description": "The Inner Palace is essentially a human kodoku – or at least, I’d bet that’s how Shu Gabi sees it.",
-      "pubDate": "2026-09-15T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MDk",
-      "title": "Beyblade X Anime's Visual Reveals New 'Bey Kingdom Arc' for October 9",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/beyblade-x-anime-visual-reveals-new-bey-kingdom-arc-for-october-9/.241809",
-      "description": "Anime premiered in October 2023",
-      "pubDate": "2026-09-15T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgwOA",
-      "title": "One Piece: Grand Gourmet Cooking Management Simulation Game's Trailer Previews Cooking, Interior Design, Characters",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/one-piece-grand-gourmet-cooking-management-simulation-game-trailer-previews-cooking-interior-design-/.241808",
-      "description": "Game launches for Switch 2, Switch, PC, iOS, Android on October 23",
-      "pubDate": "2026-09-15T14:57:57.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgwNg",
-      "title": "Reborn as a Space Mercenary TV Anime Unveils Promo Video, More Cast, Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/reborn-as-a-space-mercenary-tv-anime-unveils-promo-video-more-cast-visual/.241806",
-      "description": "Trailer previews FLOW's opening theme song for October 4 anime",
-      "pubDate": "2026-09-15T14:38:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE3NzQ",
-      "title": "Goodbye, Lara ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/goodbye-lara/episode-11/.241774",
-      "description": "What is a witch but a woman with more power and knowledge than the world is comfortable with?",
-      "pubDate": "2026-09-15T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc1OA",
-      "title": "This Week in Anime - Journey to the Past",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-15/.241758",
-      "description": "You know what they say about people who fail to learn from history.",
-      "pubDate": "2026-09-15T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aG93Y2FzZWQ",
-      "title": "JUJUTSU KAISEN RUMBLE: SURVIVATON Game Delayed, New Trailer Showcased",
-      "link": "https://crunchyroll.com/news/latest/2026/9/15/jujutsu-kaisen-rumble-survivaton-game-delayed-new-trailer-showcased",
-      "description": "2026 release window pushed back to 2027",
-      "pubDate": "2026-09-15T13:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/392badc2f3/jujutsu-kaisen-rumble.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE3Njg",
-      "title": "Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 22",
-      "link": "https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-22/.241768",
-      "description": "Team Devimuse changed their look, their song style, and their performance before switching back to their classic. Gyari’s basically just loud.",
-      "pubDate": "2026-09-15T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
