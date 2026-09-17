@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-09-17T15:43:53.878Z",
+  "lastUpdated": "2026-09-17T20:37:32.468Z",
   "items": [
+    {
+      "id": "ann-LjI0MTg3OA",
+      "title": "Gorō Kanbe's Golian no Junjō na Junai Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/goro-kanbe-golian-no-junjo-na-junai-manga-ends/.241878",
+      "description": "Manga launched on April 21",
+      "pubDate": "2026-09-17T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g99/cms/news.9/236383/20260319191009.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Final Fantasy Resonance Trailer Shows More HD-2D Footage",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/final-fantasy-resonance-tokyo-game-show-2026-trailer",
+      "description": "See more of the story and gameplay ahead of next month’s launch",
+      "pubDate": "2026-09-17T17:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x544/70ef1fc64b/final-fantasy-resonance-pv.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxODg2",
+      "title": "Live-Action Can You Kiss Me First? Series' Teaser Reveals October 19 TV Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/live-action-can-you-kiss-me-first-series-teaser-reveals-october-19-tv-debut/.241886",
+      "description": "Series stars Jin Suzuki, Gaku Oshida",
+      "pubDate": "2026-09-17T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/Q5lL6Rhrwcs.jpg"
+    },
+    {
+      "id": "cr-LWNhcmVlcg",
+      "title": "Anime Shaped Kenny Omega’s Wrestling Career, Now It’s Shaping What Comes Next",
+      "link": "https://crunchyroll.com/news/interviews/2026/9/17/kenny-omega-anime-wrestling-aew-career",
+      "description": "Kenny Omega explains how anime shaped his wrestling career and inspired his passing-the-torch moment with Will Ospreay",
+      "pubDate": "2026-09-17T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/e42bf7463d/yagi-toshinori-all-might.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQxOTEy",
+      "title": "The Failure at God School Manga Gets TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/the-failure-at-god-school-manga-gets-tv-anime/.241912",
+      "description": "The Apothecary Diaries' Hyuganatsu, Modomu Akagawara debuted manga in August 2021",
+      "pubDate": "2026-09-17T15:44:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/news.9/241912/failure-at-god-school.jpg"
+    },
     {
       "id": "cr-bm5vdW5jZWQ",
       "title": "The Failure at God School TV Anime Adaptation Announced",
@@ -13,7 +63,7 @@
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Gakkou no Ochikobore' Gets TV Anime",
+      "title": "Manga 'Kamisama Gakkou no Ochikobore' Gets TV Anime",
       "link": "https://myanimelist.net/news/74730180?_location=rss",
       "description": "Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga's Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...",
       "pubDate": "2026-09-17T15:10:16.000Z",
@@ -409,7 +459,7 @@
       "pubDate": "2026-09-16T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT6/cms/news.9/235426/uratokyo.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxODU1",
@@ -419,7 +469,7 @@
       "pubDate": "2026-09-16T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.9/241855/sumire.jpg"
+      "image": null
     },
     {
       "id": "ann-NS8uMjQxODA0",
@@ -429,7 +479,7 @@
       "pubDate": "2026-09-16T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.9/238294/lb26-postera-web.jpg"
+      "image": null
     },
     {
       "id": "cr-LWdvZHppbGxh",
@@ -550,56 +600,6 @@
       "source": "Crunchyroll News",
       "category": "Features",
       "image": "https://a.storyblok.com/f/178900/960x540/6edfcda983/daemons-of-the-shadow-realm-episode-23.jpg"
-    },
-    {
-      "id": "ann-LjI0MTI4Mw",
-      "title": "Young Ladies Don't Play Fighting Games Volumes 1-9 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games-volumes-1-9-manga/.241283",
-      "description": "The thrill of combat, the agony of defeat, that’s all that matters for the dedicated gamers of Kuromi Girls’ Academy’s illicit Fighting Game Club…even if it means they give up everything else.",
-      "pubDate": "2026-09-16T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-Z2EtYXdhcmQ",
-      "title": "Someone Hertz, Home at the Horizon Lead 2026 Next Manga Award Winners",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/someone-hertz-home-at-the-horizon-2026-next-manga-award",
-      "description": "Check out the winners, runners-up and special awards",
-      "pubDate": "2026-09-16T15:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/afb651c0f0/manga-next-hero.png"
-    },
-    {
-      "id": "ann-LjI0MTg1OQ",
-      "title": "Dragon's Dogma 2 Game's Trailer Previews 'Dark Arisen' Expansion",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-dogma-2-game-trailer-previews-dark-arisen-expansion/.241859",
-      "description": "Dragon's Dogma 2: Dark Arisen launches on October 9 for Switch 2, PS5, Xbox X|S, PC",
-      "pubDate": "2026-09-16T15:22:38.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxODYw",
-      "title": "Monster Hunter Wilds: Ascendance Game Expansion's Trailer Reveals Teostra, Previews Boost Drivers",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/monster-hunter-wilds-ascendance-game-expansion-trailer-reveals-teostra-previews-boost-drivers/.241860",
-      "description": "Video also confirms crossplay for upcoming Switch 2 release, previews new features",
-      "pubDate": "2026-09-16T15:14:05.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg0MQ",
-      "title": "Manga Up! Global Adds I Need to Quit this Antique Store, Tsukimi Is All Dolled Up Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841",
-      "description": "Also: The Journey of the Half-Elf Dwarven Master Blacksmith manga",
-      "pubDate": "2026-09-16T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 }
