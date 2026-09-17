@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-16T20:30:20.656Z",
+  "lastUpdated": "2026-09-17T01:56:56.158Z",
   "items": [
+    {
+      "id": "cr-aWMtdmlkZW8",
+      "title": "BanG Dream! YUME∞MITA Anime Releases Mugendai Mewtype \"Tuning\" Special Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/bang-dream-yume-mita-anime-mugendai-mewtype-tuning-special-music-video",
+      "description": "BanG Dream! YUME∞MITA is now available to watch on Crunchyroll",
+      "pubDate": "2026-09-17T01:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/14bf7af704/mugendai-mewtype-tuning-mv.png"
+    },
+    {
+      "id": "ann-Ly4yNDE4Nzc",
+      "title": "Pan Dorobō Anime's 2nd Video Reveals More Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/pan-dorobo-anime-2nd-video-reveals-more-cast/.241877",
+      "description": "Atsumi Tanezaki, Kana Hanazawa join cast of October 2 anime",
+      "pubDate": "2026-09-17T00:51:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/cms/news.9/241877/pandorobo-kv2.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg3Ng",
+      "title": "Tamala 2030 Sequel Anime Film's Trailer Unveils January 22 Debut in U.S. & Japan",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/tamala-2030-sequel-anime-film-trailer-unveils-january-22-debut-in-u.s-and-japan/.241876",
+      "description": "Film opens simultaneously in Japan, America",
+      "pubDate": "2026-09-17T00:39:49.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/news.9/241876/hsu83k-bmaa8nhh.jpg"
+    },
+    {
+      "id": "cr-aW5nLXNvbmc",
+      "title": "Pan Dorobo TV Anime Unveils New Visual, Trailer Featuring Kyary Pamyu Pamyu Ending Song",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/pan-dorobo-tv-anime-new-trailer-kyary-pamyu-pamyu-ending-song",
+      "description": "Atsumi Tanezaki voices a mysterious French Bread",
+      "pubDate": "2026-09-17T00:37:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/855aa7b0ca/pan-dorobo-trailer-2.png"
+    },
+    {
+      "id": "ann-Ly4yNDE4MjM",
+      "title": "Ura-Tokyo: Exorcist City Manga Ends in Next Chapter",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/ura-tokyo-exorcist-city-manga-ends-in-next-chapter/.241823",
+      "description": "Series debuted on March 17",
+      "pubDate": "2026-09-16T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT6/cms/news.9/235426/uratokyo.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQxODU1",
+      "title": "Voice Actress Sumire Uesaka Cancels KyoMAF Appearances After Receiving Email Threats",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/voice-actress-sumire-uesaka-cancels-kyomaf-appearances-after-receiving-email-threats/.241855",
+      "description": "Uesaka was slated for 4 appearances at event this weekend",
+      "pubDate": "2026-09-16T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.9/241855/sumire.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQxODA0",
+      "title": "Chiikawa Anime Film Stays at #1, Live-Action Look Back Opens at #5",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/chiikawa-anime-film-stays-at-no.1-live-action-look-back-opens-at-no.5/.241804",
+      "description": "Sound! Euphonium, The Final Movie Part 2 opened at #7",
+      "pubDate": "2026-09-16T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.9/238294/lb26-postera-web.jpg"
+    },
     {
       "id": "cr-LWdvZHppbGxh",
       "title": "Sonic Racing: CrossWorlds Teases Bayonetta as First Free Year Two Character",
@@ -15,7 +85,7 @@ export const INITIAL_NEWS_DATA = {
     {
       "id": "ann-Ly4yNDE4Mjg",
       "title": "Mimu Oyamada Ends Lovestruck Prince! I'll Fight the Heroine for My Villainess Fiancée! Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/mimu-oyamada-ends-lovestruck-prince-ill-fight-the-heroine-for-my-villainess-fiancee-manga/.241828",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mimu-oyamada-ends-lovestruck-prince-ill-fight-the-heroine-for-my-villainess-fiancee-manga/.241828",
       "description": "Manga launched in January 2021",
       "pubDate": "2026-09-16T20:00:00.000Z",
       "source": "Anime News Network",
@@ -380,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T06:43:29.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/news.9/239562/tetsuryo-2nd-kv.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxODMw",
@@ -390,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T06:32:42.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKO/cms/news.9/241830/rumiko.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MzM",
@@ -400,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T06:04:38.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/news.9/241833/mazenchu-anime.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbHM",
@@ -430,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/herald/201321/mega-man-pragmata.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MzE",
@@ -440,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T03:38:43.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g69/cms/news.9/241831/majoyohei-teaserkv02.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -530,76 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-15T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Mi8uMjQxODIw",
-      "title": "Jaadugar: A Witch in Mongolia ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/jaadugar-a-witch-in-mongolia/episode-12/.241820",
-      "description": "What a beautiful preamble that was.",
-      "pubDate": "2026-09-15T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c3RhbXBlZGU",
-      "title": "Campfire Cooking in Another World with My Absurd Skill Season 2 Anime and More Join Crunchyroll's December 2026 Home Video Lineup",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/15/december-2026-home-video-crunchyroll-campfire-cooking-trigun-stampede",
-      "description": "TRIGUN STAMPEDE also gets a SteelBook release this December",
-      "pubDate": "2026-09-15T21:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/08a9352b95/campfire-cooking-in-another-world.png"
-    },
-    {
-      "id": "ann-Ly4yNDE4MTg",
-      "title": "BookWalker Expands Catalog with Mahjong Pros Publishing Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/bookwalker-expands-catalog-with-mahjong-pros-publishing-titles/.241818",
-      "description": "136 Ready-to-Use Mahjong Strategies and Tactics, Reform with No Wasted Draws - The Legend of Koizumi, more",
-      "pubDate": "2026-09-15T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MDI",
-      "title": "Jujutsu Kaisen, Kagurabachi, More Manga Rank on NYT September Bestseller List",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-15/jujutsu-kaisen-kagurabachi-more-manga-rank-on-nyt-september-bestseller-list/.241802",
-      "description": "The first volume of Gege Akutami's Jujutsu Kaisen manga ranked at #7 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
-      "pubDate": "2026-09-15T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgwMA",
-      "title": "Jujutsu Kaisen Ranks #2 on Bookscan's August Adult Graphic Novel List in U.S.",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/jujutsu-kaisen-ranks-no.2-on-bookscan-august-adult-graphic-novel-list-in-u.s/.241800",
-      "description": "16 manga volumes including Kagurabachi, The Summer Hikaru Died, Gachiakuta, Dandadan make list",
-      "pubDate": "2026-09-15T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MTc",
-      "title": "Goodbye, Lara Anime Gets Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/goodbye-lara-anime-gets-manga/.241817",
-      "description": "Citrus creator Saburouta debuts manga in October",
-      "pubDate": "2026-09-15T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MTA",
-      "title": "Higurashi: When They Cry Mahjong Game Gets Remaster for Switch, PS5, PC",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/higurashi-when-they-cry-mahjong-game-gets-remaster-for-switch-ps5-pc/.241810",
-      "description": "Higurashi no Naku Koro ni Jong Remaster launches in Japan in 2027",
-      "pubDate": "2026-09-15T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
