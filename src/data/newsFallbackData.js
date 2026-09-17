@@ -1,7 +1,227 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-17T10:31:09.468Z",
+  "lastUpdated": "2026-09-17T15:43:53.878Z",
   "items": [
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "The Failure at God School TV Anime Adaptation Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/the-failure-at-god-school-tv-anime-adaptation-announced",
+      "description": "Based on the manga by Modomu Akagawara and The Apothecary Diaries’ Natsu Hyuuga",
+      "pubDate": "2026-09-17T15:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/672cd821f5/failure-at-god-school-hero.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Gakkou no Ochikobore' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74730180?_location=rss",
+      "description": "Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga's Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...",
+      "pubDate": "2026-09-17T15:10:16.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789657771-2d5d86caabe6b5644448f0dc9197591f.jpeg"
+    },
+    {
+      "id": "cr-c2lsaWVuY3k",
+      "title": "Magical Girl Lyrical Nanoha and the Resiliency of the Magical Girl",
+      "link": "https://crunchyroll.com/news/features/2026/9/17/magical-girl-lyrical-nanoha-resiliency",
+      "description": "Magical Girl Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance is another good example of the magical girl genre's impact",
+      "pubDate": "2026-09-17T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/3ffb3c4fee/magical-girl-lyrical-nanoha-exceeds.png"
+    },
+    {
+      "id": "ann-LS8uMjQxODc0",
+      "title": "Discotek to Release Digimon Tamers, Digimon Frontier, Lupin the IIIrd: Zenigata and the Two Lupins, More Titles on Blu-ray Disc",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/discotek-to-release-digimon-tamers-digimon-frontier-lupin-the-iiird-zenigata-and-the-two-lupins-/.241874",
+      "description": "Discotek announces final Deep Dives titles",
+      "pubDate": "2026-09-17T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJP/cms/news.9/241874/bafkreig32ijtibtohzfapmgscegipwwndsagnkqmcvsily4avtfbt2onpm.webp"
+    },
+    {
+      "id": "ann-Ly4yNDE4OTM",
+      "title": "Takeshobo to Release 3 BL Manga Titles Digitally in English",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/takeshobo-to-release-3-bl-manga-titles-digitally-in-english/.241893",
+      "description": "Publisher releases Emi Mitsuki's A Man Who Never Says No manga, its spinoff A Golden Someday, complete 2 volumes of Unohana's Enveloped by the Fever of Guilt",
+      "pubDate": "2026-09-17T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g73/cms/news.9/241893/takeno.jpg"
+    },
+    {
+      "id": "cr-b24tY29waWVz",
+      "title": "Dragon Quest Has Cumulatively Moved Over 100 Million Copies",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/dragon-quest-series-100-million-copies",
+      "description": "Number includes shipments and digital downloads since 1986",
+      "pubDate": "2026-09-17T14:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e18692b6c3/dragon-quest-king-slime.jpg"
+    },
+    {
+      "id": "cr-bC10cmFpbGVy",
+      "title": "Dara-san of the Reiwa Era Anime Reveals Climactic Story Visual and Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/dara-san-of-the-reiwa-era-anime-climactic-story-visual-trailer",
+      "description": "Crunchyroll streams adaptation based on manga by Haruomi Tomotsuka",
+      "pubDate": "2026-09-17T14:36:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/83973e6c2f/darasan_of_the_reiwa_era_header.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcnM",
+      "title": "Solo Leveling: KARMA Game Offers a Closer Look in Two New Trailers",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/solo-leveling-karma-game-cinematic-overview-trailers",
+      "description": "Cinematic and Overview trailers dive deeper into upcoming action-RPG",
+      "pubDate": "2026-09-17T14:20:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x533/6e3e95674f/solo-leveling-karma-cinematic.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg0OA",
+      "title": "This Week in Anime - Made in Japan",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-17/.241848",
+      "description": "Just because it was animated in Japan, does that automatically make it anime?",
+      "pubDate": "2026-09-17T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Animation",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA8/cms/this-week-in-anime/241848/chris31.jpg"
+    },
+    {
+      "id": "cr-aC1wbGFucw",
+      "title": "Gachiakuta Action-RPG Reveals Official Title, 2027 Launch Plans",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/gachiakuta-game-title-2027-launch-plans",
+      "description": "GACHIAKUTA: BREAKOUT is coming to PS5, Xbox Series and PC",
+      "pubDate": "2026-09-17T13:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/5d79d68255/gachiakuta-breakout.jpg"
+    },
+    {
+      "id": "cr-bmNlbWVudHM",
+      "title": "BEYBLADE X Anime Prepares for Bey Kingdom Arc with Character and Theme Song Announcements",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/beyblade-x-anime-bey-kingdom-arc-character-theme-song-announcements",
+      "description": "The new arc begins October 9",
+      "pubDate": "2026-09-17T13:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/676a3639ec/beyblade-x-hero.png"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Bless Anime Introduces New Cast Member in Ginga Yoyogi Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/bless-anime-ginga-yoyogi-character-trailer",
+      "description": "Adaptation based on Yukino Sonoyama's manga broadcasts in January",
+      "pubDate": "2026-09-17T13:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/299d14d4e9/bless_ginga_yoyogi_header.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQxODg3",
+      "title": "A Mark Against Thee Webtoon Gets Stage Musical Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/a-mark-against-thee-webtoon-gets-stage-musical-adaptation/.241887",
+      "description": "Full-length reading showcase scheduled for October 5 at Seoul's Sowol Art Hall",
+      "pubDate": "2026-09-17T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241887/news-1789432491771-1690423-m-1.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxOTA4",
+      "title": "Nobuhiko Okamoto Joins Bless Anime's Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/nobuhiko-okamoto-joins-bless-anime-cast/.241908",
+      "description": "Okamoto voices Ginga Yoyogi in anime debuting in January 2027",
+      "pubDate": "2026-09-17T12:52:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/youtube/A3kfRm3si5g.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5MDc",
+      "title": "Netmarble Reveals Bloomwalker Game is Part of Ni no Kuni Universe in New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/netmarble-reveals-bloomwalker-game-is-part-of-ni-no-kuni-universe-in-new-trailer/.241907",
+      "description": "\"Cozy crafting adventure\" game to launch for Xbox Series X|S, PS5, Switch, Switch 2, PC via Steam",
+      "pubDate": "2026-09-17T12:42:49.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC6/youtube/dbT0aEUsPlc.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5MDU",
+      "title": "Atelier Karia Game Streams Character Video for Rutger, Lenja",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/atelier-karia-game-streams-character-video-for-rutger-lenja/.241905",
+      "description": "Atelier Yumia characters return for game launching on February 25",
+      "pubDate": "2026-09-17T12:01:52.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/youtube/EvfLkEvOUJc.jpg"
+    },
+    {
+      "id": "ann-LjI0MTkwNA",
+      "title": "Bloodstained: The Scarlet Engagement Game's New Gameplay Trailer Streamed",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/bloodstained-the-scarlet-engagement-game-new-gameplay-trailer-streamed/.241904",
+      "description": "Game to launch in 2027 for PC, PS5, Xbox Series X|S after delay",
+      "pubDate": "2026-09-17T11:47:52.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMF/youtube/2qeLog98Qds.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQxOTAz",
+      "title": "Gachiakuta Game Streams Gameplay Trailer, Reveals Official Title",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/gachiakuta-game-streams-gameplay-trailer-reveals-official-title/.241903",
+      "description": "GACHIAKUTA: BREAKOUT slated for 2027 release for PS5, Xbox Series X|S, Steam",
+      "pubDate": "2026-09-17T11:40:49.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSE/youtube/UYu__vsFa7k.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4ODA",
+      "title": "Thunder 3 ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/thunder-3/episode-11/.241880",
+      "description": "I imagine exploding alien heads with their fists and having to scrape brains from their clothing would probably traumatize them.",
+      "pubDate": "2026-09-17T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF2/cms/episode-review.5/241880/thunder-3-11.4.png.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQxOTAx",
+      "title": "Persona 4 Revival Game Streams Naoto Shirogane Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/persona-4-revival-game-streams-naoto-shirogane-trailer/.241901",
+      "description": "Video reveals character's English voice cast Amber Lee Connors",
+      "pubDate": "2026-09-17T11:05:51.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/youtube/jAnVDKXBXwY.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5MDI",
+      "title": "Kojima Productions' Physint Game Casts Bill Skarsgård in Lead Role",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/kojima-productions-physint-game-casts-bill-skarsgard-in-lead-role/.241902",
+      "description": "Hideo Kojima gives production updates on both OD KNOCK horror game, PHYSINT action espionage game",
+      "pubDate": "2026-09-17T10:59:48.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/youtube/NzzdyORdg80.jpg"
+    },
+    {
+      "id": "ann-by8uMjQxOTAw",
+      "title": "Crazy Taxi: World Tour Game Introduces Japan Map in New Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/crazy-taxi-world-tour-game-introduces-japan-map-in-new-video/.241900",
+      "description": "Game launches for Xbox Series X|S, PS5, Switch 2, Steam, Microsoft Store in 2027",
+      "pubDate": "2026-09-17T10:41:58.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/youtube/_Z7RVt4bJN0.jpg"
+    },
     {
       "id": "ann-Ly4yNDE4OTc",
       "title": "Solo Leveling: Karma Game Unveils Gameplay Overview, Cinematic Story Trailer",
@@ -230,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/news.9/241828/betabore.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxODcy",
@@ -240,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T19:31:21.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/youtube/chkpo0t-hOU.jpg"
+      "image": null
     },
     {
       "id": "cr-bnNvbGVzLXBj",
@@ -260,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/cms/news.9/241869/naruto-shippuden-battle.png.jpg"
+      "image": null
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -280,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T17:30:03.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/NXBFkqAoNvw.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg2NQ",
@@ -290,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T17:03:41.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY3/youtube/ESgvDLf_ANI.jpg"
+      "image": null
     },
     {
       "id": "ann-dC8uMjQxODU4",
@@ -300,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T16:52:29.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK0/youtube/uhxkJ99B47I.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg1Nw",
@@ -310,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T16:26:18.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/youtube/TyG0oysLGf4.jpg"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQxODYz",
@@ -320,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T16:06:09.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/herald/201349/mega-man-dual-override.jpg"
+      "image": null
     },
     {
       "id": "cr-MjMtcmVjYXA",
@@ -340,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQA/cms/review.2/241283/young-ladies-don-t-play-fighting-games-vol.1-cover-art.jpg"
+      "image": null
     },
     {
       "id": "cr-Z2EtYXdhcmQ",
@@ -360,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T15:22:38.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR8/youtube/XmKyRay8hGc.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxODYw",
@@ -370,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T15:14:05.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/iNru7mV044Y.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg0MQ",
@@ -378,226 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-16/manga-up-global-adds-i-need-to-quit-this-antique-store-tsukimi-is-all-dolled-up-manga/.241841",
       "description": "Also: The Journey of the Half-Elf Dwarven Master Blacksmith manga",
       "pubDate": "2026-09-16T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/news.9/241841/kottoya.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Japan-French Co-Production 'Aoki Denshou Welsh & Shedar' Announced for Fall 2026",
-      "link": "https://myanimelist.net/news/74727107?_location=rss",
-      "description": "An official website opened for an original television anime co-produced by Japan and France titled Aoki Denshou Welsh &amp; Shedar, and it revealed the main cast, staff, and a key visual (pictured) on Wednesday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Voice actors Rikuya Yasuda (Mayonaka Heart Tune) and Yuuki Kaji (Shingeki no Kyojin) are starring as Welsh and Shedar, respectively. Staff Director: Naoki Horiuchi (Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemash...",
-      "pubDate": "2026-09-16T14:58:20.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789570641-cc8730977d4f9740d253dd243148dac2.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE4NTY",
-      "title": "Red River ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/red-river/episode-11/.241856",
-      "description": "This episode is a distillation of everything wrong with Red River’s attempt to live up to its manga.",
-      "pubDate": "2026-09-16T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/episode-review.5/241856/red-river-11.png.jpg"
-    },
-    {
-      "id": "cr-aWVyZS1kYXRl",
-      "title": "Mazenchu Food Mascot TV Anime Announced for October 7",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/mazenchu-food-mascot-anime-announcement-premiere-date",
-      "description": "Four cast members have been announced for the upcoming project",
-      "pubDate": "2026-09-16T14:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x974/942672350f/mazenchu-hero.png"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "Tetsuryo! meet with Tetsudou Musume Anime Opening Theme Song Performer Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/tetsuryo-meet-with-tetsudou-musume-anime-opening-theme-performer-announced",
-      "description": "Asaka will kick off episodes with “GO! GO! RAILWAY!!”",
-      "pubDate": "2026-09-16T13:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/68627353b0/tetsuryo-meet-with-tetsudou-musume-anime-pv.jpg"
-    },
-    {
-      "id": "ann-LjI0MTgzNg",
-      "title": "I Want to Love You Till Your Dying Day ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-11/.241836",
-      "description": "It's episodes like this that really make me worry about how little the show ultimately has to say.",
-      "pubDate": "2026-09-16T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c3QtdmlzdWFs",
-      "title": "French / Japanese Co-production Aoki Densho Welsh & Shedar Debuts on October 2",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/aoki-densho-welsh-shedar-anime-premiere-date-staff-cast-visual",
-      "description": "New fantasy series from the makers of Wakfu will broadcast on Tokyo MX",
-      "pubDate": "2026-09-16T13:09:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/5e58bf9d8c/aoki_densho_welsh_and_shedar_banner.png"
-    },
-    {
-      "id": "ann-bi8uMjM5NjAx",
-      "title": "Blade & Bastard Voice Actors Share Their Characters' Connection",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/blade-and-bastard-voice-actors-share-their-characters-connection/.239601",
-      "description": "Many fantasy stories feature plucky heroes on quests to become stronger, but Blade & Bastard focuses on the arduous process of surviving dungeon exploration.",
-      "pubDate": "2026-09-16T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDA0ODk",
-      "title": "Read It First: Manga, Light Novel Sources for Fall 2026 Anime",
-      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.240489",
-      "description": "Get ready for the fall anime season by checking out the original manga, light novels, and webtoons!",
-      "pubDate": "2026-09-16T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgzMg",
-      "title": "One Piece (2026-) ‒ Episode 1178",
-      "link": "https://www.animenewsnetwork.com/review/one-piece/episode-1178/.241832",
-      "description": "Nico Robin is as fearless and perfect as ever, diving into action and outsmarting one of the deadliest warriors in the world without hesitation.",
-      "pubDate": "2026-09-16T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgyNw",
-      "title": "Uta Macross Rhythm Game Meets Crowdfunding Goal for Offline Version",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/uta-macross-rhythm-game-meets-crowdfunding-goal-for-offline-version/.241827",
-      "description": "Campaign also meets all initial stretch goals for console release, more songs",
-      "pubDate": "2026-09-16T11:52:43.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MjY",
-      "title": "Iron Wok Jan! ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/iron-wok-jan/episode-11/.241826",
-      "description": "Akiyama himself resembles an evil wizard over a sacrificial bowl on the culinary altar, his fanged visage reflected in the vitae of the slain.",
-      "pubDate": "2026-09-16T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxODUw",
-      "title": "Sword Art Online Author Reki Kawahara's Devils' Crest Anime Casts 4 Classmates",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/sword-art-online-author-reki-kawahara-devils-crest-anime-casts-4-classmates/.241850",
-      "description": "Yūsuke Kobayashi, Maaya Uchida, Rie Murakawa, Sora Amamiya join cast in November 6 anime",
-      "pubDate": "2026-09-16T11:06:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "Devils' Crest Anime Reveals 4 More Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/devils-crest-anime-reveals-4-more-cast-members",
-      "description": "The sci-fi series debuts on November 6",
-      "pubDate": "2026-09-16T10:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/782f7c86b1/devils-crest.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQxODQ5",
-      "title": "Shangri-La Frontier Season 3 Announces January 10 Debut, Half-Year Run",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/shangri-la-frontier-season-3-announces-january-10-debut-half-year-run/.241849",
-      "description": "3rd season to run for 6 months without break",
-      "pubDate": "2026-09-16T10:10:12.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4NDc",
-      "title": "France's Ankama Presents Fantasy TV Anime Aoki Denshō Welsh & Shedar",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/france-ankama-presents-fantasy-tv-anime-aoki-densho-welsh-and-shedar/.241847",
-      "description": "Rikuya Yasuda, Yūki Kaji star in Studio Massket series debuting in Japan on October 2",
-      "pubDate": "2026-09-16T09:45:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZXktdmlzdWFs",
-      "title": "Shangri-La Frontier Season 3 Anime Premieres on January 10, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/shangri-la-frontier-season-3-anime-january-10-2027-release-date-key-visual",
-      "description": "A new key visual was also unveiled",
-      "pubDate": "2026-09-16T09:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/680d63d9ca/shangri-la-frontier-season-3.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Demons' Crest' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74725906?_location=rss",
-      "description": "The official website for the original net anime adaptation of Reki Kawahara's Demons' Crest light novel announced additional cast on Wednesday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Cast Teruki Sugamo: Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) Aria Misono: Maaya Uchida (Kaya-chan wa Kowakunai) Kai Kisanuki: Rie Murakawa (Komi-san wa, Comyushou desu.) Sumika Watamaki: Sora Amamiya (Kono Subarashii Sekai ni Shukufuku wo!) Kenichirou Komay...",
-      "pubDate": "2026-09-16T09:33:37.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789551153-130f6d07ddc703b9d5c0241aef21d099.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTg0Mg",
-      "title": "Entergram Announces Vtuber Azusa Honami's Azure Memoria Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/entergram-announces-vtuber-azusa-honami-azure-memoria-game/.241842",
-      "description": "Azusa supervises console game",
-      "pubDate": "2026-09-16T08:45:14.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg0MA",
-      "title": "Hi Score Girl's Rensuke Oshikiri, Etrange Overlord's Roman Kitayama Present Noroi Ayashi Horror RPG",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/hi-score-girl-rensuke-oshikiri-etrange-overlord-roman-kitayama-present-noroi-ayashi-horror-rpg/.241840",
-      "description": "Clover Lab's game slated for Switch, Switch 2, PC via Steam in Q2 2027",
-      "pubDate": "2026-09-16T07:48:58.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-dS8uMjQxODM0",
-      "title": "Crunchyroll Acquires 7.03% of Japanese Media Company Link-U",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/crunchyroll-acquires-7.03-percent-of-japanese-media-company-link-u/.241834",
-      "description": "Crunchyroll invests 917 million yen in firm working on Crunchyroll Manga service",
-      "pubDate": "2026-09-16T07:31:05.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgzOQ",
-      "title": "Asaka Performs 'Tetsuryō! meet with Tetsudō Musume' Anime's Opening Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/asaka-performs-tetsuryo-meet-with-tetsudo-musume-anime-opening-song/.241839",
-      "description": "Asaka performs \"GO! GO! RAILWAY!!\" opening for October 8 series",
-      "pubDate": "2026-09-16T06:43:29.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxODMw",
-      "title": "Shogakukan Launches 'Rumiko Takahashi Fantasy Manga Awards'",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/shogakukan-launches-rumiko-takahashi-fantasy-manga-awards/.241830",
-      "description": "Takahashi to head judging panel with 1st entries accepted until January 11",
-      "pubDate": "2026-09-16T06:32:42.000Z",
       "source": "Anime News Network",
       "category": "Manga",
       "image": null
