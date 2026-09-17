@@ -1,7 +1,147 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-17T01:56:56.158Z",
+  "lastUpdated": "2026-09-17T10:31:09.468Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE4OTc",
+      "title": "Solo Leveling: Karma Game Unveils Gameplay Overview, Cinematic Story Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/solo-leveling-karma-game-unveils-gameplay-overview-cinematic-story-trailer/.241897",
+      "description": "Game launches this year",
+      "pubDate": "2026-09-17T08:47:17.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/youtube/2SBCTQpPfOU.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQxODk0",
+      "title": "New Lollipop Chainsaw Game Announced for 2027 Release on PS5",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/new-lollipop-chainsaw-game-announced-for-2027-release-on-ps5/.241894",
+      "description": "Final Fantasy XV's Hajime Tabata directs new Lollipop Chainsaw 2 Back2Back game",
+      "pubDate": "2026-09-17T08:37:23.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/241894/lollipopchainsaw.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg4OA",
+      "title": "Live-Action Series The Remarried Empress Releases Main Trailer, Key Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/live-action-series-the-remarried-empress-releases-main-trailer-key-visual/.241888",
+      "description": "Trailer introduces show's 4 main characters through their dialogue, highlighting their personalities, relationships",
+      "pubDate": "2026-09-17T07:58:45.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDI/youtube/bJCiuJe--jw.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4ODk",
+      "title": "Entergram Announces Koyo -RE-Nium Visual Novel Starring Hololive VTuber Hakui Koyori",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/entergram-announces-koyo-re-nium-visual-novel-starring-hololive-vtuber-hakui-koyori/.241889",
+      "description": "Hakui also supervises game",
+      "pubDate": "2026-09-17T07:40:17.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/news.9/241889/koyo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4ODQ",
+      "title": "Dragon Quest Monsters: The Withered World Game Posts Gameplay Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-monsters-the-withered-world-game-posts-gameplay-trailer/.241884",
+      "description": "Game launches on December 3",
+      "pubDate": "2026-09-17T03:59:09.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/FkzopPrUWVM.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgzNQ",
+      "title": "McDonald's Japan Streams Opening for Tsukimi Burger Anime You Never Knew Existed",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-16/mcdonald-japan-streams-opening-for-tsukimi-burger-anime-you-never-knew-existed/.241835",
+      "description": "McDonald's Japan: “Since Tabemi and Mochiko were satisfied with the opening being made, the series will not go into production!”",
+      "pubDate": "2026-09-17T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/interest.3/241835/images-3.jpeg"
+    },
+    {
+      "id": "ann-LjI0MTg4Mw",
+      "title": "FuRyu Streams Crymelight Game's Opening Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/furyu-streams-crymelight-game-opening-video/.241883",
+      "description": "Video reveals November 5 game's theme song \"Love and Guilt by Hitomi Sekine",
+      "pubDate": "2026-09-17T03:56:34.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGJ/youtube/U9Ue5ljnGE4.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg4Mg",
+      "title": "Un:Me Game's Trailer Reveals 2027 Delay, Yumiri Hanamori Casting",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/un-me-game-trailer-reveals-2027-delay-yumiri-hanamori-casting/.241882",
+      "description": "Game previously slated for this year on Switch 2, PS5, PC",
+      "pubDate": "2026-09-17T03:52:33.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJL/youtube/lTTjM8vnvjU.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg3NQ",
+      "title": "Wo Long 2: Wings of Ember Game Launches on March 4",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/wo-long-2-wings-of-ember-game-launches-on-march-4/.241875",
+      "description": "Playable demo available now",
+      "pubDate": "2026-09-17T03:48:06.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/y9RowhPNpzQ.jpg"
+    },
+    {
+      "id": "ann-Ni8uMjQxODQ2",
+      "title": "Uma Musume Revs Motorcycles with Moto GP Grand Prix of Japan 2026",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-16/uma-musume-revs-motorcycles-with-moto-gp-grand-prix-of-japan-2026/.241846",
+      "description": "Horse-girl racing meets motorcycle racing",
+      "pubDate": "2026-09-17T03:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/interest.3/241846/uma-musume-motogp.jpeg"
+    },
+    {
+      "id": "cr-c2VpLWNhc3Q",
+      "title": "Tank Chair Anime Unveils New Trailer, Sensei Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/tank-chair-anime-new-trailer-sensei-cast",
+      "description": "The violent sci-fi series premieres on October 4",
+      "pubDate": "2026-09-17T03:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1320x743/7cfae76737/tank-chair.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQxODgx",
+      "title": "Final Fantasy Resonance Game's TGS Trailer Previews Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/final-fantasy-resonance-game-tgs-trailer-previews-theme-song/.241881",
+      "description": "WurtS performs theme song \"Inside\" for October 22 game",
+      "pubDate": "2026-09-17T03:18:02.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gXL/youtube/g7zA4XFqzno.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4NzA",
+      "title": "Tank Chair Anime Reveals 2nd Main Promo Video, Megumi Ogata as Sensei",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-16/tank-chair-anime-reveals-2nd-main-promo-video-megumi-ogata-as-sensei/.241870",
+      "description": "Anime premieres on October 4",
+      "pubDate": "2026-09-17T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.9/240474/tankchair-characterkv-sensei.png.jpg"
+    },
+    {
+      "id": "cr-cmljLXZpZGVv",
+      "title": "Re:ZERO -Starting Life in Another World- Anime Releases Season 4 Opening Song \"Recollect\" New Lyric Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/17/re-zero-starting-life-in-another-world-anime-season-4-opening-song-recollect-new-lyric-video",
+      "description": "Crunchyroll currently streams the anime's latest season",
+      "pubDate": "2026-09-17T02:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e9f6cf1f00/konomi-suzuki-recollect-lyric-video.jpg"
+    },
     {
       "id": "cr-aWMtdmlkZW8",
       "title": "BanG Dream! YUME∞MITA Anime Releases Mugendai Mewtype \"Tuning\" Special Music Video",
@@ -290,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/241836/vlcsnap-2026-09-16-07h29m38s988.png.jpg"
+      "image": null
     },
     {
       "id": "cr-c3QtdmlzdWFs",
@@ -310,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF1/cms/convention/239601/en-bb-teaser-pv-cap-12.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDA0ODk",
@@ -320,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/seasonal/240489/fall-2026-read-it-first-banner.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgzMg",
@@ -330,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/episode-review.5/241832/op1178.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgyNw",
@@ -340,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T11:52:43.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIQ/cms/news.9/241464/image-8.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4MjY",
@@ -350,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGV/cms/episode-review.5/241826/ironwok11.png.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQxODUw",
@@ -360,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T11:06:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/239194/devil-s-crest-visual.jpg"
+      "image": null
     },
     {
       "id": "cr-LW1lbWJlcnM",
@@ -380,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T10:10:12.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/cms/news.9/241849/shang.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4NDc",
@@ -390,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T09:45:38.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXktdmlzdWFs",
@@ -420,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T08:45:14.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.9/241842/azure.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg0MA",
@@ -430,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T07:48:58.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.9/241840/noroi.webp"
+      "image": null
     },
     {
       "id": "ann-dS8uMjQxODM0",
@@ -440,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-16T07:31:05.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgzOQ",
@@ -458,146 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-16/shogakukan-launches-rumiko-takahashi-fantasy-manga-awards/.241830",
       "description": "Takahashi to head judging panel with 1st entries accepted until January 11",
       "pubDate": "2026-09-16T06:32:42.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MzM",
-      "title": "Mazenchu Food Characters Get TV Anime on October 7",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mazenchu-food-characters-get-tv-anime-on-october-7/.241833",
-      "description": "Anime daily life in school for food ingredients",
-      "pubDate": "2026-09-16T06:04:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpc3VhbHM",
-      "title": "Witch and Mercenary Anime Unveils April 2027 Premiere, Trailer and Visuals",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/witch-and-mercenary-anime-april-2027-premiere-trailer-visuals",
-      "description": "Yuri Noguchi, Hiromu Mineta, and Haruka Shiraishi newly join the cast",
-      "pubDate": "2026-09-16T04:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/572f6f16f8/witch-and-mercenary-header.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "The Road to Redemption: Unmasking The Vermilion Mask",
-      "link": "https://myanimelist.net/news/74725112?_location=rss",
-      "description": "Combining dark fantasy, action, and an unconventional approach to the shounen genre, Shuiro no Kamen (The Vermilion Mask) is set to bring its striking world and mysterious masks to television this October. From its first chapters, the manga stands out for its willingness to place its protagonist in situations rarely seen in shounen stories, forcing him to confront guilt, loss, and the consequences of his actions rather than simply growing stronger. At Anime Expo 2026, we had the opportunity to...",
-      "pubDate": "2026-09-16T04:27:35.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789532451-edb9ca519f5766277dcfee1b70635b2d.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE4MDM",
-      "title": "Pragmata's Diana & Mega Man Join Forces on Social Media",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-15/pragmata-diana-and-mega-man-join-forces-on-social-media/.241803",
-      "description": "Is this the start of a new Rock & Roll duo?",
-      "pubDate": "2026-09-16T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MzE",
-      "title": "Witch and Mercenary Anime's New Video Unveils More Cast & Staff, April 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/witch-and-mercenary-anime-new-video-unveils-more-cast-and-staff-april-2027-debut/.241831",
-      "description": "Yuri Noguchi, Hiromu Mineta, Haruka Shiraishi join cast",
-      "pubDate": "2026-09-16T03:38:43.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Majo to Youhei' Reveals Additional Cast, Staff, First Promo for Spring 2027",
-      "link": "https://myanimelist.net/news/74725001?_location=rss",
-      "description": "The official website for the television anime adaptation of Kaeru Chouhoukiteki's Majo to Youhei (Witch and Mercenary) light novel revealed additional cast, start, a second teaser visual (pictured), and the first promotional video on Wednesday. The anime series will premiere on 30 NTV stations and BS NTV in April 2027. Cast Isana Gayhone: Yuri Noguchi (Ryza no Atelier) Alan Clows: Hiromu Mineta (Katainaka no Ossan, Kensei ni Naru) Elsia Armet: Haruka Shiraishi (Clevatess) Staff Assistant S...",
-      "pubDate": "2026-09-16T03:29:44.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789529273-bebf74e18ddcf3e335d2fd26ab2675b5.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTgyNQ",
-      "title": "Bayonetta Joins Godzilla, Evangelion in Sonic Racing CrossWorlds Game's Year 2",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-15/bayonetta-joins-godzilla-evangelion-in-sonic-racing-crossworlds-game-year-2/.241825",
-      "description": "World Championship Finals livestream to offer more details on October 9",
-      "pubDate": "2026-09-16T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgyNA",
-      "title": "Val x Love's Ryōsuke Asakura Launches New Manga Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/val-x-love-ryosuke-asakura-launches-new-manga-series/.241824",
-      "description": "Evangeline Puts on Shoes about popular actress, aspiring shoemaker in high school debuted on Wednesday",
-      "pubDate": "2026-09-16T02:33:53.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4MjI",
-      "title": "Puchimas! -Petit Idolm@ster- Manga to End on December 25",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/puchimas-petit-idolm@ster-manga-to-end-on-december-25/.241822",
-      "description": "Akane launched series in 2008",
-      "pubDate": "2026-09-16T01:49:29.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-ZGluZy1zb25n",
-      "title": "The Insipid Prince's Furtive Grab for the Throne Streams Anime Collab Music Video for Ending Song",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/the-insipid-princes-furtive-grab-for-the-throne-anime-music-video-ending-song",
-      "description": "The fantasy anime series is now available on Crunchyroll",
-      "pubDate": "2026-09-16T01:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f9d7878168/sutekina-kanchigai-anime-mv.png"
-    },
-    {
-      "id": "cr-LXBob3Rvcw",
-      "title": "Colorful Runway! Precure Stage Play Reveals Key Visual, Cast Photos",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/colorful-runway-precure-stage-play-key-visual-cast-photos",
-      "description": "The new show is set to open in Tokyo on December 5",
-      "pubDate": "2026-09-16T00:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/1379ab4346/colorful-runway-precure-header.bmp"
-    },
-    {
-      "id": "ann-bi8uMjQxNzg2",
-      "title": "Sekina Aoi's Asobi no Kankei Novels Get Manga Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/sekina-aoi-asobi-no-kankei-novels-get-manga-adaptation/.241786",
-      "description": "Manga launches on September 25",
-      "pubDate": "2026-09-16T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc4Nw",
-      "title": "Duel Masters Play's Smartphone Game Gets Duel Masters Pure Play's Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/duel-masters-play-smartphone-game-gets-duel-masters-pure-play-manga/.241787",
-      "description": "Manga centers on Zentihs Kanon, Wedding",
-      "pubDate": "2026-09-15T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTc4OQ",
-      "title": "Yuna Anisaki Launches Kōkyū Gohi no Kuroshiro na Oshigoto Manga on September 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-15/yuna-anisaki-launches-kokyu-gohi-no-kuroshiro-na-oshigoto-manga-on-september-18/.241789",
-      "description": "Manga adapts Kazuki Karasawa's fantasy novel",
-      "pubDate": "2026-09-15T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
       "image": null
