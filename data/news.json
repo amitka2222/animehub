@@ -1,6 +1,156 @@
 {
-  "lastUpdated": "2026-09-18T10:07:37.013Z",
+  "lastUpdated": "2026-09-18T15:16:47.097Z",
   "items": [
+    {
+      "id": "ann-aC8uMjQxNDQ5",
+      "title": "Five Anime Based on Adult Games You Should Watch",
+      "link": "https://www.animenewsnetwork.com/feature/2026-09-18/five-anime-based-on-adult-games-you-should-watch/.241449",
+      "description": "Did you know some of your favorite anime got their start as adult games?",
+      "pubDate": "2026-09-18T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/feature/241449/fsn-heaven-feel.jpg"
+    },
+    {
+      "id": "ann-LjI0MTgyOQ",
+      "title": "This Week in Games - Level-5 CEO's Stands by Generative AI, and a Preview of Harvest Moon: Echoes of Teradea",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-09-18/level-5-ceo-stands-by-generative-ai-and-a-preview-of-harvest-moon-echoes-of-teradea/.241829",
+      "description": "It's time to go back to the farm with the new Harvest Moon game, which is mercifully free of the AI controversy over at Level-5.",
+      "pubDate": "2026-09-18T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/this-week-in-games/241829/hmeot-screens-5.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4OTI",
+      "title": "Bandai Namco Cross Store and THE GUNDAM BASE Opening at Mall of America",
+      "link": "https://www.animenewsnetwork.com/press-release/2026-09-18/bandai-namco-cross-store-and-the-gundam-base-opening-at-mall-of-america/.241892",
+      "description": "Second U.S. locations of both retail concepts to open September 30, bringing GUNPLA, collectibles, toys, games, and more to fans across the Midwest.",
+      "pubDate": "2026-09-18T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Promoted",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g95/cms/press-release.2/241892/bandai-namco-cross-store-1.jpeg"
+    },
+    {
+      "id": "ann-ZS8uMjQxOTMx",
+      "title": "Dragon Ball Xenoverse 3 Feels Like a Game a Decade Out of Time",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/dragon-ball-xenoverse-3-feels-like-a-game-a-decade-out-of-time/.241931",
+      "description": "Everything in Xenoverse 3's Tokyo Game Show demo felt horribly dated.",
+      "pubDate": "2026-09-18T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/convention/241931/xenoverse-3.jpg"
+    },
+    {
+      "id": "ann-LjI0MTEyMw",
+      "title": "The Misfit Class Takes to the Stage: An Interview with Makoto Moriwaki and Setsuo Ito",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/the-misfit-class-takes-to-the-stage-an-interview-with-makoto-moriwaki-and-setsuo-ito/.241123",
+      "description": "The series has four seasons for a reason. Jairus Taylor talks to the anime's chief director, Makoto Moriwaki, and voice actor Setsuo Itō.",
+      "pubDate": "2026-09-18T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP8/cms/convention/241123/iruma-1.png.jpg"
+    },
+    {
+      "id": "cr-a2V5LWFydA",
+      "title": "A Wild Last Boss Appeared! Season 2 Anime Reveals New Key Art",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/a-wild-last-boss-appeared-season-2-anime-key-art",
+      "description": "Ongoing fantasy light novel adaptation returns on October 3",
+      "pubDate": "2026-09-18T12:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/53df539280/a_wild_last_boss_appeared_season2_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg5NQ",
+      "title": "I'm in Love With Ace Combat 8's Focus on Characters",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/im-in-love-with-ace-combat-8-focus-on-characters/.241895",
+      "description": "Ace Combat 8 works hard to make your fellow pilots more than faceless voices on the comms channel.",
+      "pubDate": "2026-09-18T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/convention/241895/ace-combat-8b.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NDI",
+      "title": "Earth Defense Force 6.2 Invaders From Another World Game Launches on March 18",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/earth-defense-force-6.2-invaders-from-another-world-game-launches-on-march-18/.241942",
+      "description": "Updated game to launch for PS5, to include newly added enhancements for console",
+      "pubDate": "2026-09-18T12:17:05.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSO/youtube/D3pJI7XT0gw.jpg"
+    },
+    {
+      "id": "cr-b2N0b2Jlci02",
+      "title": "The Salty Koharu Has a Soft Spot for Me Anime Premieres on October 6",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-salty-koharu-has-a-soft-spot-for-me-anime-premieres-on-october-6",
+      "description": "New trailer, key art and theme song info revealed for upcoming light novel adaptation",
+      "pubDate": "2026-09-18T12:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/00a8028c10/the_salty_koharu_has_a_soft_spot_for_me_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NDU",
+      "title": "Even the Student Council Has its Holes! TV Anime Reveals Ending Theme in 2nd Main Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/even-the-student-council-has-its-holes-tv-anime-reveals-ending-theme-in-2nd-main-promo-video/.241945",
+      "description": "Akari Nanawo performs ending theme for series debuting on October 3",
+      "pubDate": "2026-09-18T12:01:55.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRI/youtube/nHiaLaCVxmg.jpg"
+    },
+    {
+      "id": "ann-LjI0MTYwMg",
+      "title": "Fate/Extra Record Feels Like Persona Meets Slay the Spire",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602",
+      "description": "If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.",
+      "pubDate": "2026-09-18T12:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/cms/convention/241602/vlcsnap-2026-09-16-15h17m24s529.png.jpg"
+    },
+    {
+      "id": "ann-by8uMjQxOTQ0",
+      "title": "The Salty Koharu Has a Soft Spot for Me TV Anime Reveals October 6 Debut in Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/the-salty-koharu-has-a-soft-spot-for-me-tv-anime-reveals-october-6-debut-in-video/.241944",
+      "description": "Masayoshi Ōishi, HoneyWorks feat. Hoshikawa Sara perform theme songs",
+      "pubDate": "2026-09-18T11:56:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ9/youtube/8XgKVzuLmJw.jpg"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Are You a Landmine, Chihara-san? Anime Reveals Teaser Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/are-you-a-landmine-chihara-san-anime-reveals-teaser-trailer",
+      "description": "Adaptation based on romcom manga by Ryon broadcasts in January",
+      "pubDate": "2026-09-18T11:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/e30eadb68b/are_you_a_landmine_chiharasan_header.jpg"
+    },
+    {
+      "id": "ann-ZC8uMjQxOTQz",
+      "title": "'Are You a Landmine, Chihara-san?' TV Anime's Teaser Trailer Streamed",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/are-you-a-landmine-chihara-san-tv-anime-teaser-trailer-streamed/.241943",
+      "description": "Anime debuts in January 2027 following delayu",
+      "pubDate": "2026-09-18T11:05:29.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/youtube/9MXzPz2cOYk.jpg"
+    },
+    {
+      "id": "ann-cC8uMjQxOTQw",
+      "title": "Relive Your FF7 Trauma in Tokyo Game Show Photo Op",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-18/relive-your-ff7-trauma-in-tokyo-game-show-photo-op/.241940",
+      "description": "Or try to change the fate of Gaia and protect Aerith from Sephiroth",
+      "pubDate": "2026-09-18T11:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/interest.3/241940/tgs-2026-se-booth.jpg"
+    },
     {
       "id": "ann-LjI0MTkyNw",
       "title": "Psikyo Arcade Shooters Get Psikyo Memories Collection Release",
@@ -92,16 +242,6 @@
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/youtube/m4T9VcBD0vo.jpg"
     },
     {
-      "id": "ann-Ly4yNDE5MTg",
-      "title": "Dark Machine the Animation Series Reveals 3rd Promo Video, Ending Theme Song, Manga Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/dark-machine-the-animation-series-reveals-3rd-promo-video-ending-theme-song-manga-adaptation/.241918",
-      "description": "Sandaime J Soul Brothers perform ending theme song \"Galaxy Mode\" for October 13 anime",
-      "pubDate": "2026-09-18T03:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/231314/darkmachine.jpg"
-    },
-    {
       "id": "ann-Ly4yNDE5Mjk",
       "title": "Patlabor: The Case Files is Clunky as All Hell—And That's The Point",
       "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/patlabor-the-case-files-is-clunky-as-all-hell-and-that-the-point/.241929",
@@ -110,6 +250,16 @@
       "source": "Anime News Network",
       "category": "Games",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/convention/241929/patlabor-game-2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5MTg",
+      "title": "Dark Machine the Animation Series Reveals 3rd Promo Video, Ending Theme Song, Manga Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/dark-machine-the-animation-series-reveals-3rd-promo-video-ending-theme-song-manga-adaptation/.241918",
+      "description": "Sandaime J Soul Brothers perform ending theme song \"Galaxy Mode\" for October 13 anime",
+      "pubDate": "2026-09-18T03:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/231314/darkmachine.jpg"
     },
     {
       "id": "ann-LjI0MTkyNg",
@@ -409,7 +559,7 @@
       "pubDate": "2026-09-17T12:52:50.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/youtube/A3kfRm3si5g.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE5MDc",
@@ -419,7 +569,7 @@
       "pubDate": "2026-09-17T12:42:49.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC6/youtube/dbT0aEUsPlc.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE5MDU",
@@ -429,7 +579,7 @@
       "pubDate": "2026-09-17T12:01:52.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/youtube/EvfLkEvOUJc.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTkwNA",
@@ -439,7 +589,7 @@
       "pubDate": "2026-09-17T11:47:52.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMF/youtube/2qeLog98Qds.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQxOTAz",
@@ -449,157 +599,7 @@
       "pubDate": "2026-09-17T11:40:49.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSE/youtube/UYu__vsFa7k.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4ODA",
-      "title": "Thunder 3 ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/thunder-3/episode-11/.241880",
-      "description": "I imagine exploding alien heads with their fists and having to scrape brains from their clothing would probably traumatize them.",
-      "pubDate": "2026-09-17T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF2/cms/episode-review.5/241880/thunder-3-11.4.png.jpg"
-    },
-    {
-      "id": "ann-ci8uMjQxOTAx",
-      "title": "Persona 4 Revival Game Streams Naoto Shirogane Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/persona-4-revival-game-streams-naoto-shirogane-trailer/.241901",
-      "description": "Video reveals character's English voice cast Amber Lee Connors",
-      "pubDate": "2026-09-17T11:05:51.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/youtube/jAnVDKXBXwY.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5MDI",
-      "title": "Kojima Productions' Physint Game Casts Bill Skarsgård in Lead Role",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/kojima-productions-physint-game-casts-bill-skarsgard-in-lead-role/.241902",
-      "description": "Hideo Kojima gives production updates on both OD KNOCK horror game, PHYSINT action espionage game",
-      "pubDate": "2026-09-17T10:59:48.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/youtube/NzzdyORdg80.jpg"
-    },
-    {
-      "id": "ann-by8uMjQxOTAw",
-      "title": "Crazy Taxi: World Tour Game Introduces Japan Map in New Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/crazy-taxi-world-tour-game-introduces-japan-map-in-new-video/.241900",
-      "description": "Game launches for Xbox Series X|S, PS5, Switch 2, Steam, Microsoft Store in 2027",
-      "pubDate": "2026-09-17T10:41:58.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/youtube/_Z7RVt4bJN0.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4OTc",
-      "title": "Solo Leveling: Karma Game Unveils Gameplay Overview, Cinematic Story Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/solo-leveling-karma-game-unveils-gameplay-overview-cinematic-story-trailer/.241897",
-      "description": "Game launches this year",
-      "pubDate": "2026-09-17T08:47:17.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/youtube/2SBCTQpPfOU.jpg"
-    },
-    {
-      "id": "ann-NS8uMjQxODk0",
-      "title": "New Lollipop Chainsaw Game Announced for 2027 Release on PS5",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/new-lollipop-chainsaw-game-announced-for-2027-release-on-ps5/.241894",
-      "description": "Final Fantasy XV's Hajime Tabata directs new Lollipop Chainsaw 2 Back2Back game",
-      "pubDate": "2026-09-17T08:37:23.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/241894/lollipopchainsaw.jpg"
-    },
-    {
-      "id": "ann-LjI0MTg4OA",
-      "title": "Live-Action Series The Remarried Empress Releases Main Trailer, Key Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/live-action-series-the-remarried-empress-releases-main-trailer-key-visual/.241888",
-      "description": "Trailer introduces show's 4 main characters through their dialogue, highlighting their personalities, relationships",
-      "pubDate": "2026-09-17T07:58:45.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDI/youtube/bJCiuJe--jw.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4ODk",
-      "title": "Entergram Announces Koyo -RE-Nium Visual Novel Starring Hololive VTuber Hakui Koyori",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/entergram-announces-koyo-re-nium-visual-novel-starring-hololive-vtuber-hakui-koyori/.241889",
-      "description": "Hakui also supervises game",
-      "pubDate": "2026-09-17T07:40:17.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4ODQ",
-      "title": "Dragon Quest Monsters: The Withered World Game Posts Gameplay Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-monsters-the-withered-world-game-posts-gameplay-trailer/.241884",
-      "description": "Game launches on December 3",
-      "pubDate": "2026-09-17T03:59:09.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTgzNQ",
-      "title": "McDonald's Japan Streams Opening for Tsukimi Burger Anime You Never Knew Existed",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-16/mcdonald-japan-streams-opening-for-tsukimi-burger-anime-you-never-knew-existed/.241835",
-      "description": "McDonald's Japan: “Since Tabemi and Mochiko were satisfied with the opening being made, the series will not go into production!”",
-      "pubDate": "2026-09-17T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg4Mw",
-      "title": "FuRyu Streams Crymelight Game's Opening Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/furyu-streams-crymelight-game-opening-video/.241883",
-      "description": "Video reveals November 5 game's theme song \"Love and Guilt by Hitomi Sekine",
-      "pubDate": "2026-09-17T03:56:34.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg4Mg",
-      "title": "Un:Me Game's Trailer Reveals 2027 Delay, Yumiri Hanamori Casting",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/un-me-game-trailer-reveals-2027-delay-yumiri-hanamori-casting/.241882",
-      "description": "Game previously slated for this year on Switch 2, PS5, PC",
-      "pubDate": "2026-09-17T03:52:33.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg3NQ",
-      "title": "Wo Long 2: Wings of Ember Game Launches on March 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/wo-long-2-wings-of-ember-game-launches-on-march-4/.241875",
-      "description": "Playable demo available now",
-      "pubDate": "2026-09-17T03:48:06.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ni8uMjQxODQ2",
-      "title": "Uma Musume Revs Motorcycles with Moto GP Grand Prix of Japan 2026",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-16/uma-musume-revs-motorcycles-with-moto-gp-grand-prix-of-japan-2026/.241846",
-      "description": "Horse-girl racing meets motorcycle racing",
-      "pubDate": "2026-09-17T03:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "cr-c2VpLWNhc3Q",
-      "title": "Tank Chair Anime Unveils New Trailer, Sensei Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/tank-chair-anime-new-trailer-sensei-cast",
-      "description": "The violent sci-fi series premieres on October 4",
-      "pubDate": "2026-09-17T03:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1320x743/7cfae76737/tank-chair.jpg"
     }
   ]
 }
