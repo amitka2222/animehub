@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-17T20:37:32.468Z",
+  "lastUpdated": "2026-09-18T01:44:09.297Z",
   "items": [
+    {
+      "id": "cr-Y3QtdmlkZW8",
+      "title": "Black Butler Launches 20th Anniversary Project with Commemorative Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/black-butler-20th-anniversary-project-video",
+      "description": "A 20th anniversary exhibition is set to be held",
+      "pubDate": "2026-09-18T01:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4400f68486/black-butler-20th-anniversary-header.png"
+    },
+    {
+      "id": "cr-dy10cmFpbGVy",
+      "title": "Firefly Wedding Anime Opening Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/firefly-wedding-anime-opening-theme-song-previewed-in-new-trailer",
+      "description": "Crunchyroll will stream the anime worldwide as it airs",
+      "pubDate": "2026-09-18T01:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/ab108a49fa/firefly-wedding.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hotaru no Yomeiri' Reveals Additional Staff, Opening Theme, First Promo",
+      "link": "https://myanimelist.net/news/74731610?_location=rss",
+      "description": "The official website for the television anime adaptation of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional video on Friday. The anime series is scheduled to premiere on October 9 at 11.30 p.m. on Fuji TV noitaminA. Staff Concept Art: Yasufumi Soejima (JoJo no Kimyou na Bouken (TV) art design) Sub-Character Design: Mikio (Mayonaka Heart Tune) Prop Design: Ryou Hirata (Marriagetoxin), Tsuyama Kyohiko, Yutaka...",
+      "pubDate": "2026-09-18T00:49:53.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789692549-47ba36342e571a42237b11f56b2effa4.jpeg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Star Blazers: Space Battleship Yamato 3199 Anime Chapter 7 Reveals Main Trailer, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/star-blazers-space-battleship-yamato-3199-anime-chapter-7-main-trailer-visual",
+      "description": "The final chapter hits Japanese theaters October 30",
+      "pubDate": "2026-09-18T00:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/624152ae64/yamato-3199-main-trailer.png"
+    },
+    {
+      "id": "cr-LW1vdmllcw",
+      "title": "Tokyo International Film Festival Reveals Animation Section Line-Up with 7 Anime Films",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/tokyo-international-film-festival-2026-anime-movies",
+      "description": "Detective Conan, Ghost - End of Night will be featured at the 2026 festival",
+      "pubDate": "2026-09-18T00:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/04de4b1729/grotesqqque-anthology-anime-film-yoroshiku-shoujo-screen.png"
+    },
+    {
+      "id": "ann-LjI0MTkxNQ",
+      "title": "Firefly Wedding TV Anime's Promo Video Reveals Iri's Opening Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/firefly-wedding-tv-anime-promo-video-reveals-iri-opening-theme-song/.241915",
+      "description": "Iri performs \"Period\" for anime debuting on October 9",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHQ/youtube/Ex9LrBK-7hk.jpg"
+    },
+    {
+      "id": "ann-LjI0MTg5MA",
+      "title": "7th Be Forever Yamato: Rebel 3199 Film Unveils Main Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/7th-be-forever-yamato-rebel-3199-film-unveils-main-trailer/.241890",
+      "description": "7th, final film opens in Japan on October 30",
+      "pubDate": "2026-09-17T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/youtube/arYxrKukR5c.jpg"
+    },
     {
       "id": "ann-LjI0MTg3OA",
       "title": "Gorō Kanbe's Golian no Junjō na Junai Manga Ends",
@@ -430,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T00:51:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/cms/news.9/241877/pandorobo-kv2.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg3Ng",
@@ -440,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T00:39:49.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/news.9/241876/hsu83k-bmaa8nhh.jpg"
+      "image": null
     },
     {
       "id": "cr-aW5nLXNvbmc",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": null
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Wo Long 2: Wings of Ember Launches on March 4, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/wo-long-2-wings-of-ember-release-date-trailer",
-      "description": "Alpha demo will be live from today until September 30",
-      "pubDate": "2026-09-16T17:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/b60f73bffc/wo-long-2-trailer.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQxODY3",
-      "title": "Snack World Reloaded Game's Trailer Previews Combat, Stages, Bosses",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/snack-world-reloaded-game-trailer-previews-combat-stages-bosses/.241867",
-      "description": "Game launches in 2027 for Switch 2, PS5, PC",
-      "pubDate": "2026-09-16T17:30:03.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg2NQ",
-      "title": "Decapolice Game's Trailers Preview Story, Mysteries, Combat",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/decapolice-game-trailers-preview-story-mysteries-combat/.241865",
-      "description": "Game launches for Switch 2, PS5, PC in 2027 following delays",
-      "pubDate": "2026-09-16T17:03:41.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQxODU4",
-      "title": "Stranger Than Heaven Game's Video Previews Opening, Showbiz, Combat",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/stranger-than-heaven-game-video-previews-opening-showbiz-combat/.241858",
-      "description": "Game's theme song by Snoop Dogg, Satoshi Fujihara, Ado, Tori Kelly gets release this year",
-      "pubDate": "2026-09-16T16:52:29.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg1Nw",
-      "title": "Terranigma RPG's Trailer Reveals January 14 Release",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/terranigma-rpg-trailer-reveals-january-14-release/.241857",
-      "description": "Video previews new easy-view status window, aspect ratio selection, adjusted difficulty",
-      "pubDate": "2026-09-16T16:26:18.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LS8uMjQxODYz",
-      "title": "Mega Man: Dual Override Game's Video Previews Dual Protagonists, Custom Chips, Special Weapons, Override, Pragmata DLC",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mega-man-dual-override-game-video-previews-dual-protagonists-custom-chips-special-weapons-override-/.241863",
-      "description": "DLC adding Mega Man/Roll suits for Pragmata game launches on Thursday",
-      "pubDate": "2026-09-16T16:06:09.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-MjMtcmVjYXA",
-      "title": "Daemons of the Shadow Realm Episode 23 Recap, \"Emotion and Reason\"",
-      "link": "https://crunchyroll.com/news/features/2026/9/16/daemons-of-the-shadow-realm-episode-23-recap",
-      "description": "The gang's all here",
-      "pubDate": "2026-09-16T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/6edfcda983/daemons-of-the-shadow-realm-episode-23.jpg"
     }
   ]
 };
