@@ -1,7 +1,147 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-18T15:16:47.097Z",
+  "lastUpdated": "2026-09-18T20:03:12.242Z",
   "items": [
+    {
+      "id": "ann-LjI0MTk1MQ",
+      "title": "OceanVeil Streams Kamui: He's Behind You Anime's English Dub",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/oceanveil-streams-kamui-he-behind-you-anime-english-dub/.241951",
+      "description": "Diana Garnet, Jesse Inocalla, more star in dub",
+      "pubDate": "2026-09-18T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g22/encyc/A38466-2266828036.1777356654.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQxOTUw",
+      "title": "Viz Media, Japan Society Screen World Premiere of Hirayasumi Anime on October 7",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/viz-media-japan-society-screen-world-premiere-of-hirayasumi-anime-on-october-7/.241950",
+      "description": "Anime's 1st episode screens in NYC ahead of January 2027 premiere",
+      "pubDate": "2026-09-18T18:45:58.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.9/235378/embargo-3-16-4pm-hirayasumi-kv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NDk",
+      "title": "Announcing ANN in Japan 2027 Tour",
+      "link": "https://www.animenewsnetwork.com/site-news/2026-09-18/announcing-ann-in-japan-2027-tour/.241949",
+      "description": "Anime News Network is going to Japan again, and we want to bring you with us. Join us as we weave through the greater Tokyo/Kanto area, visiting many of the same spots anime producers and manga editors have visited to create the setting for their projects. Not enough? We'll be going to Kyoto, Kobe, Osaka and more!",
+      "pubDate": "2026-09-18T17:56:04.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/herald/201421/yotsuba.webp"
+    },
+    {
+      "id": "cr-ZC10by0yMDI3",
+      "title": "UN:Me Psychological Horror Game Delayed to 2027 to Refine Motion Capture Performances",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/un-me-psychological-horror-game-delayed-to-2027",
+      "description": "Publisher Shueisha Games has the adventure on display at Tokyo Game Show",
+      "pubDate": "2026-09-18T17:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/1a60c288da/un-me.png"
+    },
+    {
+      "id": "cr-cmFpbGVycw",
+      "title": "The Eccentric Doctor of the Moon Flower Kingdom Anime Shares Koyou and Keiun Character Trailers",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-eccentric-doctor-of-the-moon-flower-kingdom-anime-koyou-keiun-character-trailers",
+      "description": "Koichiro Kuroda directs the drama series at Studio Elle",
+      "pubDate": "2026-09-18T16:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/4b082eab81/eccentric-doctor-pv1.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Magical Explorer Anime Introduces Ludie in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/magical-explorer-anime-introduces-ludie-in-new-character-trailer",
+      "description": "The series premieres October 3 on Crunchyroll",
+      "pubDate": "2026-09-18T16:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/6e347aa4ae/magical-explorer-ludie-hero.png"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Magical Sisters Lulutto Lilly Anime Spotlights CompatoLilly in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/magical-sisters-lulutto-lilly-anime-compatolilly-character-trailer",
+      "description": "The magical girl series returns on October 4",
+      "pubDate": "2026-09-18T16:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/661944b497/magical-sisters-lulutto-lilly-hero.png"
+    },
+    {
+      "id": "ann-LjI0MTk0OA",
+      "title": "Your Anime Rankings - Best of Summer 2026, Sep 9-15",
+      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241948",
+      "description": "Goodbye, Lara finally grabs the #1 spot this week after hovering near it all season. Meanwhile, Iruma-kun and Iron Wok Jan have come a long way since the beginning of the season.",
+      "pubDate": "2026-09-18T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPN/cms/weekly-ranking/241948/summer2026-montage-w11.jpeg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Pokémon Horizons Anime Introduces Loyal Three, Treasures of Ruin in New Trailer and Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/pokemon-horizons-anime-loyal-three-treasures-of-ruin-new-trailer-visual",
+      "description": "Ogerpon and the Loyal Three debuted in Scarlet and Violet DLC",
+      "pubDate": "2026-09-18T16:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/3517ce9b50/pokemon-horizons-hero2.png"
+    },
+    {
+      "id": "cr-LWFyZS15b3U",
+      "title": "Which Clevatess Character Are You?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/9/18/which-clevatess-character-are-you",
+      "description": "Are you the monster, the hero, the nanny or the mage?",
+      "pubDate": "2026-09-18T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/1600x900/8ff0aeb768/clevatess-s1-e9-clevatess-family.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW8",
+      "title": "VERTEX FORCE Anime Shares Creditless Opening Sequence Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/vertex-force-anime-creditless-opening-video",
+      "description": "Crunchyroll streams the original series beginning October 3",
+      "pubDate": "2026-09-18T15:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/db5f640182/vertex_force_header.jpg"
+    },
+    {
+      "id": "cr-ZS1zb25ncw",
+      "title": "Dreamland Animated Series Shares New Trailer, Opening and Ending Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/dreamland-animated-series-shares-trailer-2-japanese-opening-ending-theme-songs",
+      "description": "The series will stream on Crunchyroll starting October 16",
+      "pubDate": "2026-09-18T15:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/9313c4597f/dreamland-animation-hero.png"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "Even the Student Council Has Its Holes! Anime Shares New Trailer, Ending Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/even-the-student-council-has-its-holes-anime-main-trailer-2-ending-theme-song",
+      "description": "The series based on Muchimaro's manga premieres October 3",
+      "pubDate": "2026-09-18T15:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/1ee6926d8c/even-the-student-council-has-its-holes-hero.png"
+    },
+    {
+      "id": "ann-Ly4yNDE3Nzc",
+      "title": "My Anime 3.0 Public Beta Released",
+      "link": "https://www.animenewsnetwork.com/site-news/2026-09-18/my-anime-3.0-public-beta-released/.241777",
+      "description": "ANN is happy to announce the public release of My Anime 3.0 Beta. We would love your feedback on what we've built so far, as well as suggestions for new features we should add.",
+      "pubDate": "2026-09-18T14:51:17.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/herald/stock/site-news/ann-logo-900.png.jpg"
+    },
     {
       "id": "ann-aC8uMjQxNDQ5",
       "title": "Five Anime Based on Adult Games You Should Watch",
@@ -101,16 +241,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRI/youtube/nHiaLaCVxmg.jpg"
-    },
-    {
-      "id": "ann-LjI0MTYwMg",
-      "title": "Fate/Extra Record Feels Like Persona Meets Slay the Spire",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602",
-      "description": "If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.",
-      "pubDate": "2026-09-18T12:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/cms/convention/241602/vlcsnap-2026-09-16-15h17m24s529.png.jpg"
     },
     {
       "id": "ann-by8uMjQxOTQ0",
@@ -460,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJP/cms/news.9/241874/bafkreig32ijtibtohzfapmgscegipwwndsagnkqmcvsily4avtfbt2onpm.webp"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4OTM",
@@ -470,136 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g73/cms/news.9/241893/takeno.jpg"
-    },
-    {
-      "id": "cr-b24tY29waWVz",
-      "title": "Dragon Quest Has Cumulatively Moved Over 100 Million Copies",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/dragon-quest-series-100-million-copies",
-      "description": "Number includes shipments and digital downloads since 1986",
-      "pubDate": "2026-09-17T14:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e18692b6c3/dragon-quest-king-slime.jpg"
-    },
-    {
-      "id": "cr-bC10cmFpbGVy",
-      "title": "Dara-san of the Reiwa Era Anime Reveals Climactic Story Visual and Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/dara-san-of-the-reiwa-era-anime-climactic-story-visual-trailer",
-      "description": "Crunchyroll streams adaptation based on manga by Haruomi Tomotsuka",
-      "pubDate": "2026-09-17T14:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/83973e6c2f/darasan_of_the_reiwa_era_header.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcnM",
-      "title": "Solo Leveling: KARMA Game Offers a Closer Look in Two New Trailers",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/solo-leveling-karma-game-cinematic-overview-trailers",
-      "description": "Cinematic and Overview trailers dive deeper into upcoming action-RPG",
-      "pubDate": "2026-09-17T14:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x533/6e3e95674f/solo-leveling-karma-cinematic.jpg"
-    },
-    {
-      "id": "ann-LjI0MTg0OA",
-      "title": "This Week in Anime - Made in Japan",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-17/.241848",
-      "description": "Just because it was animated in Japan, does that automatically make it anime?",
-      "pubDate": "2026-09-17T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Animation",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA8/cms/this-week-in-anime/241848/chris31.jpg"
-    },
-    {
-      "id": "cr-aC1wbGFucw",
-      "title": "Gachiakuta Action-RPG Reveals Official Title, 2027 Launch Plans",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/gachiakuta-game-title-2027-launch-plans",
-      "description": "GACHIAKUTA: BREAKOUT is coming to PS5, Xbox Series and PC",
-      "pubDate": "2026-09-17T13:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/5d79d68255/gachiakuta-breakout.jpg"
-    },
-    {
-      "id": "cr-bmNlbWVudHM",
-      "title": "BEYBLADE X Anime Prepares for Bey Kingdom Arc with Character and Theme Song Announcements",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/beyblade-x-anime-bey-kingdom-arc-character-theme-song-announcements",
-      "description": "The new arc begins October 9",
-      "pubDate": "2026-09-17T13:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/676a3639ec/beyblade-x-hero.png"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Bless Anime Introduces New Cast Member in Ginga Yoyogi Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/bless-anime-ginga-yoyogi-character-trailer",
-      "description": "Adaptation based on Yukino Sonoyama's manga broadcasts in January",
-      "pubDate": "2026-09-17T13:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/299d14d4e9/bless_ginga_yoyogi_header.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQxODg3",
-      "title": "A Mark Against Thee Webtoon Gets Stage Musical Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/a-mark-against-thee-webtoon-gets-stage-musical-adaptation/.241887",
-      "description": "Full-length reading showcase scheduled for October 5 at Seoul's Sowol Art Hall",
-      "pubDate": "2026-09-17T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241887/news-1789432491771-1690423-m-1.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQxOTA4",
-      "title": "Nobuhiko Okamoto Joins Bless Anime's Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/nobuhiko-okamoto-joins-bless-anime-cast/.241908",
-      "description": "Okamoto voices Ginga Yoyogi in anime debuting in January 2027",
-      "pubDate": "2026-09-17T12:52:50.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5MDc",
-      "title": "Netmarble Reveals Bloomwalker Game is Part of Ni no Kuni Universe in New Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/netmarble-reveals-bloomwalker-game-is-part-of-ni-no-kuni-universe-in-new-trailer/.241907",
-      "description": "\"Cozy crafting adventure\" game to launch for Xbox Series X|S, PS5, Switch, Switch 2, PC via Steam",
-      "pubDate": "2026-09-17T12:42:49.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5MDU",
-      "title": "Atelier Karia Game Streams Character Video for Rutger, Lenja",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/atelier-karia-game-streams-character-video-for-rutger-lenja/.241905",
-      "description": "Atelier Yumia characters return for game launching on February 25",
-      "pubDate": "2026-09-17T12:01:52.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTkwNA",
-      "title": "Bloodstained: The Scarlet Engagement Game's New Gameplay Trailer Streamed",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/bloodstained-the-scarlet-engagement-game-new-gameplay-trailer-streamed/.241904",
-      "description": "Game to launch in 2027 for PC, PS5, Xbox Series X|S after delay",
-      "pubDate": "2026-09-17T11:47:52.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQxOTAz",
-      "title": "Gachiakuta Game Streams Gameplay Trailer, Reveals Official Title",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/gachiakuta-game-streams-gameplay-trailer-reveals-official-title/.241903",
-      "description": "GACHIAKUTA: BREAKOUT slated for 2027 release for PS5, Xbox Series X|S, Steam",
-      "pubDate": "2026-09-17T11:40:49.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
