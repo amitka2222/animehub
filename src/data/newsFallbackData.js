@@ -1,7 +1,157 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-18T01:44:09.297Z",
+  "lastUpdated": "2026-09-18T10:07:37.013Z",
   "items": [
+    {
+      "id": "ann-LjI0MTkyNw",
+      "title": "Psikyo Arcade Shooters Get Psikyo Memories Collection Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/psikyo-arcade-shooters-get-psikyo-memories-collection-release/.241927",
+      "description": "Edia to develop collection set to launch for PS5, Switch 2 in 2027",
+      "pubDate": "2026-09-18T08:58:11.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.9/241927/psikyomemories.jpg"
+    },
+    {
+      "id": "ann-LjI0MTkzOQ",
+      "title": "Horror Collector Anime's Video Reveals Cast, Staff, October 10 Debut, 12 Episode Run",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/horror-collector-anime-video-reveals-cast-staff-october-10-debut-12-episode-run/.241939",
+      "description": "Hiiro Ishibashi, Jun Fukuyama, Saori Hayami, Nobuhiko Okamoto join cast",
+      "pubDate": "2026-09-18T08:30:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWB/cms/news.9/241939/horrorcollector.jpg"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Magical Girl Raising Project Restart Anime Unveils New Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/magical-girl-raising-project-restart-anime-key-visual",
+      "description": "The series returns on October 5",
+      "pubDate": "2026-09-18T06:12:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/3e18637c50/magical-girl-raising-project-restart.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Silent Witch' Author and 'Mushoku Tensei' Artist Begin New Light Novel",
+      "link": "https://myanimelist.net/news/74732075?_location=rss",
+      "description": "Silent Witch: Chinmoku no Majo no Kakushigoto (Secrets of the Silent Witch) author Matsuri Isora and Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) illustrator Sirotaka will begin a new light novel titled Boukyaku no Curse Knight (The Curse Knight of Oblivion), the official X account of the series announced on Thursday. Earth Star Entertainment will publish the first volume under its Earth Star Novel imprint on November 13. Isora began penning the Silent Witch l...",
+      "pubDate": "2026-09-18T05:15:11.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789708234-92cf0fad5ca9ec3d6e85e85175765865.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kyoufu Collector' Reveals Main Cast, Staff, Teaser Promo",
+      "link": "https://myanimelist.net/news/74732013?_location=rss",
+      "description": "The official website for the television anime adaptation of Midori Satou's Kyoufu Collector (Horror Collector) novel revealed the main cast, staff, a key visual (pictured), and teaser promotional video on Friday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Fushigi Senno: Hiiro Ishibashi (Tenmaku no Jaadugar) Jimmy: Jun Fukuyama (Nippon Sangoku) Himitsu: Saori Hayami (Bad Girl) Blue Umbrella Man: Nobuhiko Okamoto (Dead Account) Staff Director, Series...",
+      "pubDate": "2026-09-18T04:48:10.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789706881-ac3cc382480c1a97500b65357639e31f.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Horror Collector Anime Teaser Trailer Reveals Premiere Date, Main Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/horror-collector-anime-october-10-release-date-main-cast-teaser-trailer-visual",
+      "description": "The upcoming anime adapts a popular children's horror novel series",
+      "pubDate": "2026-09-18T04:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/61d80af313/horror-collector.jpg"
+    },
+    {
+      "id": "ann-My8uMjQxOTMy",
+      "title": "Butt Detective TV Anime Gets New Episodes Starting on October 3",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/butt-detective-tv-anime-gets-new-episodes-starting-on-october-3/.241932",
+      "description": "Previous batch of new episodes debuted on April 4",
+      "pubDate": "2026-09-18T04:02:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/youtube/4zKAlKBxCzM.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "DARK MACHINE THE ANIMATION Ending Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/dark-machine-the-animation-ending-theme-song-trailer",
+      "description": "Crunchyroll will stream the original esports series as it airs",
+      "pubDate": "2026-09-18T03:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/44cadf73f9/dark-machine-the-animation.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxOTMw",
+      "title": "Suikoden Anime's New Video Reveals Ending Song, October 3 TV Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/suikoden-anime-new-video-reveals-ending-song-october-3-tv-debut/.241930",
+      "description": "Koji Nakamura performs ending song \"closed eye sun\" featuring Honoka Takahashi",
+      "pubDate": "2026-09-18T03:35:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/youtube/m4T9VcBD0vo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5MTg",
+      "title": "Dark Machine the Animation Series Reveals 3rd Promo Video, Ending Theme Song, Manga Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/dark-machine-the-animation-series-reveals-3rd-promo-video-ending-theme-song-manga-adaptation/.241918",
+      "description": "Sandaime J Soul Brothers perform ending theme song \"Galaxy Mode\" for October 13 anime",
+      "pubDate": "2026-09-18T03:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/231314/darkmachine.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5Mjk",
+      "title": "Patlabor: The Case Files is Clunky as All Hell—And That's The Point",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/patlabor-the-case-files-is-clunky-as-all-hell-and-that-the-point/.241929",
+      "description": "A fun, fluid combat system would make for a much more enjoyable game to play… but it wouldn’t feel like Patlabor either.",
+      "pubDate": "2026-09-18T03:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/convention/241929/patlabor-game-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MTkyNg",
+      "title": "Edia Re-Releases Falcom's Dragon Slayer: The Legend of Heroes I & II Games",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/edia-re-releases-falcom-dragon-slayer-the-legend-of-heroes-i-and-ii-games/.241926",
+      "description": "Edia will re-release PC-98 versions of games",
+      "pubDate": "2026-09-18T03:24:35.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241926/legendofheroes.jpg"
+    },
+    {
+      "id": "cr-aW4tY2FzdA",
+      "title": "The Diary of a Middle-Aged Sage's Carefree Life in Another World Anime Teaser Trailer Reveals January 2027 Broadcast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-diary-of-a-middle-aged-sages-carefree-life-in-another-world-anime-january-2027-release-date-teaser-trailer-main-cast",
+      "description": "Cast for protagonist Zelos Merlin was also announced",
+      "pubDate": "2026-09-18T03:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4154292c7f/the-diary-of-a-middle-aged-sages-carefree-life-in-another-world.jpg"
+    },
+    {
+      "id": "cr-bmctc29uZw",
+      "title": "Suikoden: The Anime 3rd Trailer Unveils October 3 Premiere Date, Ending Song",
+      "link": "https://crunchyroll.com/news/latest/2026/9/18/suikoden-the-anime-3rd-trailer-october-3-premiere-date-ending-song",
+      "description": "Koji Nakamura performs the ending theme alongside Honoka Takahashi",
+      "pubDate": "2026-09-18T03:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/3af2ccc9bf/suikoden-the-anime-trailer-3.png"
+    },
+    {
+      "id": "ann-MS8uMjQxODk4",
+      "title": "AnimeJapan Opens Entry Submissions for 'New Creator Awards 2027' on October 1",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-17/animejapan-opens-entry-submissions-for-new-creator-awards-2027-on-october-1/.241898",
+      "description": "Deadline of entries until February 6, 2027; winners to be announced at AnimeJapan 2027 event",
+      "pubDate": "2026-09-18T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241898/aj.jpg"
+    },
     {
       "id": "cr-Y3QtdmlkZW8",
       "title": "Black Butler Launches 20th Anniversary Project with Commemorative Video",
@@ -136,7 +286,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "Manga 'Kamisama Gakkou no Ochikobore' Gets TV Anime",
       "link": "https://myanimelist.net/news/74730180?_location=rss",
-      "description": "Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga's Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Modomu Akagawara began serializing the shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for September 18. The series has over 1.7 million copies of its volumes in cir...",
+      "description": "Production company Bandai Namco Filmworks opened an official website for a television anime adaptation of Natsu Hyuuga and Modomu Akagawara's Kamisama Gakkou no Ochikobore (The Failure at God School) manga on Friday, revealing a teaser visual (pictured). Hyuuga and Akagawara began serializing the fantasy shoujo manga in Hana to Yume magazine in August 2021. Hakusensha published the 14th volume on May 20, with the 15th volume scheduled for a September 18 release. The manga has a cumulative 1...",
       "pubDate": "2026-09-17T15:10:16.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -380,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T07:40:17.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/news.9/241889/koyo.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4ODQ",
@@ -390,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:59:09.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/FkzopPrUWVM.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgzNQ",
@@ -400,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/interest.3/241835/images-3.jpeg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg4Mw",
@@ -410,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:56:34.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGJ/youtube/U9Ue5ljnGE4.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg4Mg",
@@ -420,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:52:33.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJL/youtube/lTTjM8vnvjU.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTg3NQ",
@@ -430,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:48:06.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/y9RowhPNpzQ.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQxODQ2",
@@ -440,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-17T03:30:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/interest.3/241846/uma-musume-motogp.jpeg"
+      "image": null
     },
     {
       "id": "cr-c2VpLWNhc3Q",
@@ -451,156 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1320x743/7cfae76737/tank-chair.jpg"
-    },
-    {
-      "id": "ann-Zy8uMjQxODgx",
-      "title": "Final Fantasy Resonance Game's TGS Trailer Previews Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/final-fantasy-resonance-game-tgs-trailer-previews-theme-song/.241881",
-      "description": "WurtS performs theme song \"Inside\" for October 22 game",
-      "pubDate": "2026-09-17T03:18:02.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gXL/youtube/g7zA4XFqzno.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4NzA",
-      "title": "Tank Chair Anime Reveals 2nd Main Promo Video, Megumi Ogata as Sensei",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/tank-chair-anime-reveals-2nd-main-promo-video-megumi-ogata-as-sensei/.241870",
-      "description": "Anime premieres on October 4",
-      "pubDate": "2026-09-17T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.9/240474/tankchair-characterkv-sensei.png.jpg"
-    },
-    {
-      "id": "cr-cmljLXZpZGVv",
-      "title": "Re:ZERO -Starting Life in Another World- Anime Releases Season 4 Opening Song \"Recollect\" New Lyric Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/re-zero-starting-life-in-another-world-anime-season-4-opening-song-recollect-new-lyric-video",
-      "description": "Crunchyroll currently streams the anime's latest season",
-      "pubDate": "2026-09-17T02:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e9f6cf1f00/konomi-suzuki-recollect-lyric-video.jpg"
-    },
-    {
-      "id": "cr-aWMtdmlkZW8",
-      "title": "BanG Dream! YUME∞MITA Anime Releases Mugendai Mewtype \"Tuning\" Special Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/bang-dream-yume-mita-anime-mugendai-mewtype-tuning-special-music-video",
-      "description": "BanG Dream! YUME∞MITA is now available to watch on Crunchyroll",
-      "pubDate": "2026-09-17T01:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/14bf7af704/mugendai-mewtype-tuning-mv.png"
-    },
-    {
-      "id": "ann-Ly4yNDE4Nzc",
-      "title": "Pan Dorobō Anime's 2nd Video Reveals More Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/pan-dorobo-anime-2nd-video-reveals-more-cast/.241877",
-      "description": "Atsumi Tanezaki, Kana Hanazawa join cast of October 2 anime",
-      "pubDate": "2026-09-17T00:51:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTg3Ng",
-      "title": "Tamala 2030 Sequel Anime Film's Trailer Unveils January 22 Debut in U.S. & Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/tamala-2030-sequel-anime-film-trailer-unveils-january-22-debut-in-u.s-and-japan/.241876",
-      "description": "Film opens simultaneously in Japan, America",
-      "pubDate": "2026-09-17T00:39:49.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aW5nLXNvbmc",
-      "title": "Pan Dorobo TV Anime Unveils New Visual, Trailer Featuring Kyary Pamyu Pamyu Ending Song",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/pan-dorobo-tv-anime-new-trailer-kyary-pamyu-pamyu-ending-song",
-      "description": "Atsumi Tanezaki voices a mysterious French Bread",
-      "pubDate": "2026-09-17T00:37:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/855aa7b0ca/pan-dorobo-trailer-2.png"
-    },
-    {
-      "id": "ann-Ly4yNDE4MjM",
-      "title": "Ura-Tokyo: Exorcist City Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/ura-tokyo-exorcist-city-manga-ends-in-next-chapter/.241823",
-      "description": "Series debuted on March 17",
-      "pubDate": "2026-09-16T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxODU1",
-      "title": "Voice Actress Sumire Uesaka Cancels KyoMAF Appearances After Receiving Email Threats",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/voice-actress-sumire-uesaka-cancels-kyomaf-appearances-after-receiving-email-threats/.241855",
-      "description": "Uesaka was slated for 4 appearances at event this weekend",
-      "pubDate": "2026-09-16T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-NS8uMjQxODA0",
-      "title": "Chiikawa Anime Film Stays at #1, Live-Action Look Back Opens at #5",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/chiikawa-anime-film-stays-at-no.1-live-action-look-back-opens-at-no.5/.241804",
-      "description": "Sound! Euphonium, The Final Movie Part 2 opened at #7",
-      "pubDate": "2026-09-16T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LWdvZHppbGxh",
-      "title": "Sonic Racing: CrossWorlds Teases Bayonetta as First Free Year Two Character",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/sonic-racing-crossworlds-bayonetta-trailer-evangelion-godzilla",
-      "description": "You can also see more of the upcoming Godzilla and Evangelion tracks",
-      "pubDate": "2026-09-16T20:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e1165a9bd2/bayonetta-sonic.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDE4Mjg",
-      "title": "Mimu Oyamada Ends Lovestruck Prince! I'll Fight the Heroine for My Villainess Fiancée! Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/mimu-oyamada-ends-lovestruck-prince-ill-fight-the-heroine-for-my-villainess-fiancee-manga/.241828",
-      "description": "Manga launched in January 2021",
-      "pubDate": "2026-09-16T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQxODcy",
-      "title": "Dragon Quest Game Series Sells 100 Million Units",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/dragon-quest-game-series-sells-100-million-units/.241872",
-      "description": "First game debuted in Japan in 1986",
-      "pubDate": "2026-09-16T19:31:21.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-bnNvbGVzLXBj",
-      "title": "Terranigma Action-RPG Revival Launch Date Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/16/terranigma-release-date-consoles-pc",
-      "description": "16-bit Quintet game heads to consoles and PC on January 14, 2027",
-      "pubDate": "2026-09-16T19:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/b51119774f/terranigma-steam.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4Njk",
-      "title": "Official Naruto Shippuden Battle Board Game Launches Crowdfunding Campaign",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-16/official-naruto-shippuden-battle-board-game-launches-crowdfunding-campaign/.241869",
-      "description": "Naruto Shippuden Battle project asks 2-4 players to assemble teams of 3 characters",
-      "pubDate": "2026-09-16T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
     }
   ]
 };
