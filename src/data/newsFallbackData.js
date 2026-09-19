@@ -1,7 +1,187 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-19T01:48:45.795Z",
+  "lastUpdated": "2026-09-19T09:48:37.975Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE4OTk",
+      "title": "Poll: 86% of Game Developer Event's Attendees Say They Use Generative AI",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-19/poll-86-percent-of-game-developer-event-attendees-say-they-use-generative-ai/.241899",
+      "description": "40% of CEDEC respondents said they do not use generative AI in released products, services",
+      "pubDate": "2026-09-19T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/interest.3/241899/hn-ovsfbeaaykaa.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tougen Anki: Nikko Kegon no Taki-hen' Reveals Additional Cast, Theme Songs, First Promo, Split Cours",
+      "link": "https://myanimelist.net/news/74735385?_location=rss",
+      "description": "The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime revealed additional cast members, a key visual (pictured), the theme songs, and first promotional video on Saturday. The second season adapting Yura Urushibara's action fantasy manga will air in split cours, with the first part debuting on October 2 at 11:30 p.m. on Nippon Television's Friday Anime Night programming block, followed by BS Nippon Television on October 5...",
+      "pubDate": "2026-09-19T08:35:58.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789806830-c6f7bdc0127d91bd1fd42961ba03338b.jpeg"
+    },
+    {
+      "id": "cr-LXR5cGhvb24",
+      "title": "Tokyo Game Show 2026 Cancels Final Day Due to Oncoming Typhoon",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/tokyo-game-show-2026-cancels-monday-typhoon",
+      "description": "The last day will now be the Sunday of the event",
+      "pubDate": "2026-09-19T08:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/6710x3774/205637ef81/tokyo-game-show-2026.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQxOTc0",
+      "title": "Tokyo Game Show 2026 Cancels Final Day on Monday Due to Approaching Typhoon",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-game-show-2026-cancels-final-day-on-monday-due-to-approaching-typhoon/.241974",
+      "description": "Event was planned for 5 days for 1st time",
+      "pubDate": "2026-09-19T07:29:36.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/news.9/241974/0a6a3619.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Inherit the Winds Anime Reveals Theme Song Details, Theatrical Screening Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/inherit-the-winds-anime-reveals-theme-songs-theatrical-screening-trailer",
+      "description": "The original series will begin airing in January 2027",
+      "pubDate": "2026-09-19T07:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/7b06bd4f40/inherit-the-winds.jpg"
+    },
+    {
+      "id": "cr-bmNoeXJvbGw",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc Releases New Trailer and Visual, Will Stream on Crunchyroll",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/tougen-anki-nikko-kegon-falls-anime-new-trailer-visual-stream-crunchyroll",
+      "description": "TOUGEN ANKI: Nikko Kegon Falls Arc premieres on October 2",
+      "pubDate": "2026-09-19T07:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1076/87c6f8dfdc/tougen-anki-nikko-kegon-falls-arc-trailer-screen.png"
+    },
+    {
+      "id": "ann-LjI0MTk2Mw",
+      "title": "Tougen Anki: Nikko Kegon Falls Arc Anime Reveals More Cast, October 2 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/tougen-anki-nikko-kegon-falls-arc-anime-reveals-more-cast-october-2-debut/.241963",
+      "description": "New English trailer, theme song artists, streaming platforms also revealed",
+      "pubDate": "2026-09-19T07:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.9/241963/tougen-anki-kv-en-sm.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Shin Oishinbo' New TV Anime Announced",
+      "link": "https://myanimelist.net/news/74735216?_location=rss",
+      "description": "A new television anime adaptation of Tetsu Kariya's Oshinbo manga, titled Shin Oishinbo was announced at the Shin-Ei Animation 50th Anniversary special stage at ABEMA Anime Festival 2026 on Saturday, revealing the announcement promotional video. Kariya began writing Oishinbo in Shogakukan's Big Comic Spirits magazine in 1983, featuring art by Akira Hanazaki. Shogakukan published the 111th and latest volume in December 2014. The manga has been on hiatus since May 2014. VIZ Media licens...",
+      "pubDate": "2026-09-19T06:48:04.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789799958-e828371782d37de11bdde9c4c92eb5a7.jpeg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "New Oishinbo TV Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/new-oishinbo-tv-anime-announced",
+      "description": "The original series aired in 1988",
+      "pubDate": "2026-09-19T06:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/a60e4b07d2/oishinbo.jpg"
+    },
+    {
+      "id": "ann-LjI0MTk3MQ",
+      "title": "Oishinbo Gourmet Manga Gets New TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971",
+      "description": "Manga previously inspired TV anime from 1988-1992",
+      "pubDate": "2026-09-19T06:32:44.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.9/241971/screenshot-2026-09-19-at-15.24.09.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTk1Mw",
+      "title": "Inherit the Winds Anime Reveals Theatrical Screening Trailer, Theme Songs, Additional Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/inherit-the-winds-anime-reveals-theatrical-screening-trailer-theme-songs-additional-cast/.241953",
+      "description": "Quruli, Hitsujibungaku collaborate for theme songs",
+      "pubDate": "2026-09-19T06:20:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g05/cms/news.9/241953/inherit-the-winds-shinbei.jpg"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "With Vengeance, Sincerely, Your Broken Saintess Season 2 Anime Theme Song Previewed in New Teaser Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/with-vengeance-sincerely-your-broken-saintess-season-2-anime-teaser-trailer-theme-song",
+      "description": "Lua and Sven's romance resumes this October",
+      "pubDate": "2026-09-19T06:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/853ed64db6/with-vengeance-sincerely-your-broken-saintess.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Dengeki Daisy' Unveils Additional Cast, Staff, First Promo, 2 Consecutive Cours for Winter 2027",
+      "link": "https://myanimelist.net/news/74735069?_location=rss",
+      "description": "The stage event for the television anime adaptation of Kyousuke Motomi's Dengeki Daisy manga at the Kyoto International Manga Anime Fair 2026 revealed additional cast, staff, a key visual (pictured), and the first promotional video on Saturday. The anime series will air in two consecutive cours beginning January 2027. Cast Souichirou Kurebayashi: Tomokazu Sugita (Sakamoto Days) Riko Onizuka: Yuka Terasaki (Chihayafuru) Masuda: Setsuji Satou (Urusei Yatsura (2022)) Akira: Kouhei Amasaki (Tok...",
+      "pubDate": "2026-09-19T04:54:13.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789793607-73bd922fa1acdf25180d86ae81eb82fc.jpeg"
+    },
+    {
+      "id": "ann-OS8uMjQxOTY3",
+      "title": "Yaiba: Samurai Legend Anime's 2nd Season Debuts on January 9",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967",
+      "description": "New season covering \"Kaguya Arc\" reveals visual",
+      "pubDate": "2026-09-19T04:41:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gET/cms/news.9/241967/yaiba-s2-kv.jpg"
+    },
+    {
+      "id": "cr-bmFsLWNhc3Q",
+      "title": "Dengeki Daisy Anime Trailer Reveals January 2027 Broadcast, More Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/dengeki-daisy-anime-january-2027-release-date-key-visual-main-trailer-additional-cast",
+      "description": "A new key visual was also unveiled for the shojo series",
+      "pubDate": "2026-09-19T04:17:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/abce28f655/dengeki-daisy.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NjE",
+      "title": "Dengeki Daisy TV Anime Reveals January 2027 Debut, Half-Year Run in Main Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/dengeki-daisy-tv-anime-reveals-january-2027-debut-half-year-run-in-main-promo-video/.241961",
+      "description": "4 more cast members announced including Tomokazu Sugita, Yuka Terasaki",
+      "pubDate": "2026-09-19T03:59:37.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/youtube/9wIJGKQKqZY.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "YAIBA: Samurai Legend Season 2 Anime Premieres on January 9, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/yaiba-samurai-legend-season-2-anime-january-9-2027-release-date-main-visual",
+      "description": "A main visual was also unveiled",
+      "pubDate": "2026-09-19T03:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1600x900/e8ba2d5042/yaiba-samurai-legend.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NjA",
+      "title": "Live-Action Lollipop Chainsaw Film Announced",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960",
+      "description": "The Hurt Locker's Kirk Shaw, Concordia's Robert Franke produce project separate from anime plans",
+      "pubDate": "2026-09-19T01:33:05.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDI/cms/news.9/241960/910ven6vwcl.sl1500.jpg"
+    },
     {
       "id": "ann-LjI0MTYwMg",
       "title": "Fate/Extra Record Feels Like Persona Meets Slay the Spire",
@@ -340,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T08:30:33.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWB/cms/news.9/241939/horrorcollector.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXktdmlzdWFs",
@@ -390,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T04:02:56.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/youtube/4zKAlKBxCzM.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -410,17 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T03:35:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/youtube/m4T9VcBD0vo.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5Mjk",
-      "title": "Patlabor: The Case Files is Clunky as All Hell—And That's The Point",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/patlabor-the-case-files-is-clunky-as-all-hell-and-that-the-point/.241929",
-      "description": "A fun, fluid combat system would make for a much more enjoyable game to play… but it wouldn’t feel like Patlabor either.",
-      "pubDate": "2026-09-18T03:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/convention/241929/patlabor-game-2.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE5MTg",
@@ -430,177 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T03:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/231314/darkmachine.jpg"
-    },
-    {
-      "id": "ann-LjI0MTkyNg",
-      "title": "Edia Re-Releases Falcom's Dragon Slayer: The Legend of Heroes I & II Games",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/edia-re-releases-falcom-dragon-slayer-the-legend-of-heroes-i-and-ii-games/.241926",
-      "description": "Edia will re-release PC-98 versions of games",
-      "pubDate": "2026-09-18T03:24:35.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/241926/legendofheroes.jpg"
-    },
-    {
-      "id": "cr-aW4tY2FzdA",
-      "title": "The Diary of a Middle-Aged Sage's Carefree Life in Another World Anime Teaser Trailer Reveals January 2027 Broadcast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-diary-of-a-middle-aged-sages-carefree-life-in-another-world-anime-january-2027-release-date-teaser-trailer-main-cast",
-      "description": "Cast for protagonist Zelos Merlin was also announced",
-      "pubDate": "2026-09-18T03:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4154292c7f/the-diary-of-a-middle-aged-sages-carefree-life-in-another-world.jpg"
-    },
-    {
-      "id": "cr-bmctc29uZw",
-      "title": "Suikoden: The Anime 3rd Trailer Unveils October 3 Premiere Date, Ending Song",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/suikoden-the-anime-3rd-trailer-october-3-premiere-date-ending-song",
-      "description": "Koji Nakamura performs the ending theme alongside Honoka Takahashi",
-      "pubDate": "2026-09-18T03:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/3af2ccc9bf/suikoden-the-anime-trailer-3.png"
-    },
-    {
-      "id": "ann-MS8uMjQxODk4",
-      "title": "AnimeJapan Opens Entry Submissions for 'New Creator Awards 2027' on October 1",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/animejapan-opens-entry-submissions-for-new-creator-awards-2027-on-october-1/.241898",
-      "description": "Deadline of entries until February 6, 2027; winners to be announced at AnimeJapan 2027 event",
-      "pubDate": "2026-09-18T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241898/aj.jpg"
-    },
-    {
-      "id": "cr-Y3QtdmlkZW8",
-      "title": "Black Butler Launches 20th Anniversary Project with Commemorative Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/black-butler-20th-anniversary-project-video",
-      "description": "A 20th anniversary exhibition is set to be held",
-      "pubDate": "2026-09-18T01:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4400f68486/black-butler-20th-anniversary-header.png"
-    },
-    {
-      "id": "cr-dy10cmFpbGVy",
-      "title": "Firefly Wedding Anime Opening Theme Song Previewed in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/firefly-wedding-anime-opening-theme-song-previewed-in-new-trailer",
-      "description": "Crunchyroll will stream the anime worldwide as it airs",
-      "pubDate": "2026-09-18T01:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/ab108a49fa/firefly-wedding.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hotaru no Yomeiri' Reveals Additional Staff, Opening Theme, First Promo",
-      "link": "https://myanimelist.net/news/74731610?_location=rss",
-      "description": "The official website for the television anime adaptation of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) web manga revealed additional staff, the opening theme, and first promotional video on Friday. The anime series is scheduled to premiere on October 9 at 11.30 p.m. on Fuji TV noitaminA. Staff Concept Art: Yasufumi Soejima (JoJo no Kimyou na Bouken (TV) art design) Sub-Character Design: Mikio (Mayonaka Heart Tune) Prop Design: Ryou Hirata (Marriagetoxin), Tsuyama Kyohiko, Yutaka...",
-      "pubDate": "2026-09-18T00:49:53.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789692549-47ba36342e571a42237b11f56b2effa4.jpeg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Star Blazers: Space Battleship Yamato 3199 Anime Chapter 7 Reveals Main Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/star-blazers-space-battleship-yamato-3199-anime-chapter-7-main-trailer-visual",
-      "description": "The final chapter hits Japanese theaters October 30",
-      "pubDate": "2026-09-18T00:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/624152ae64/yamato-3199-main-trailer.png"
-    },
-    {
-      "id": "cr-LW1vdmllcw",
-      "title": "Tokyo International Film Festival Reveals Animation Section Line-Up with 7 Anime Films",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/tokyo-international-film-festival-2026-anime-movies",
-      "description": "Detective Conan, Ghost - End of Night will be featured at the 2026 festival",
-      "pubDate": "2026-09-18T00:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/04de4b1729/grotesqqque-anthology-anime-film-yoroshiku-shoujo-screen.png"
-    },
-    {
-      "id": "ann-LjI0MTkxNQ",
-      "title": "Firefly Wedding TV Anime's Promo Video Reveals Iri's Opening Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/firefly-wedding-tv-anime-promo-video-reveals-iri-opening-theme-song/.241915",
-      "description": "Iri performs \"Period\" for anime debuting on October 9",
-      "pubDate": "2026-09-18T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHQ/youtube/Ex9LrBK-7hk.jpg"
-    },
-    {
-      "id": "ann-LjI0MTg5MA",
-      "title": "7th Be Forever Yamato: Rebel 3199 Film Unveils Main Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/7th-be-forever-yamato-rebel-3199-film-unveils-main-trailer/.241890",
-      "description": "7th, final film opens in Japan on October 30",
-      "pubDate": "2026-09-17T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MTg3OA",
-      "title": "Gorō Kanbe's Golian no Junjō na Junai Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/goro-kanbe-golian-no-junjo-na-junai-manga-ends/.241878",
-      "description": "Manga launched on April 21",
-      "pubDate": "2026-09-17T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Final Fantasy Resonance Trailer Shows More HD-2D Footage",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/final-fantasy-resonance-tokyo-game-show-2026-trailer",
-      "description": "See more of the story and gameplay ahead of next month’s launch",
-      "pubDate": "2026-09-17T17:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x544/70ef1fc64b/final-fantasy-resonance-pv.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQxODg2",
-      "title": "Live-Action Can You Kiss Me First? Series' Teaser Reveals October 19 TV Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/live-action-can-you-kiss-me-first-series-teaser-reveals-october-19-tv-debut/.241886",
-      "description": "Series stars Jin Suzuki, Gaku Oshida",
-      "pubDate": "2026-09-17T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "cr-LWNhcmVlcg",
-      "title": "Anime Shaped Kenny Omega’s Wrestling Career, Now It’s Shaping What Comes Next",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/17/kenny-omega-anime-wrestling-aew-career",
-      "description": "Kenny Omega explains how anime shaped his wrestling career and inspired his passing-the-torch moment with Will Ospreay",
-      "pubDate": "2026-09-17T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/e42bf7463d/yagi-toshinori-all-might.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQxOTEy",
-      "title": "The Failure at God School Manga Gets TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-17/the-failure-at-god-school-manga-gets-tv-anime/.241912",
-      "description": "The Apothecary Diaries' Hyuganatsu, Modomu Akagawara debuted manga in August 2021",
-      "pubDate": "2026-09-17T15:44:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "The Failure at God School TV Anime Adaptation Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/17/the-failure-at-god-school-tv-anime-adaptation-announced",
-      "description": "Based on the manga by Modomu Akagawara and The Apothecary Diaries’ Natsu Hyuuga",
-      "pubDate": "2026-09-17T15:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/672cd821f5/failure-at-god-school-hero.jpg"
     }
   ]
 };

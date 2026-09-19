@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T01:48:47.972Z",
+  "lastUpdated": "2026-09-19T09:48:40.921Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵���ナン"
+        "ja_jp": "名探��コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
-      "score": "82.36%",
+      "score": "82.42%",
       "episodes": 24,
       "rank": 7,
       "season": "TV",
@@ -1016,7 +1016,7 @@
       "episodes": null,
       "rank": 5,
       "season": "TV",
-      "startDate": "2026-10-31",
+      "startDate": "2026-10-08",
       "year": "2026",
       "status": "upcoming",
       "hasSub": true,
@@ -1110,6 +1110,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "48651",
+      "id": "48651",
+      "title": "Sasaki to Pii-chan 2nd Season",
+      "titles": {
+        "en": "Sasaki and Peeps 2",
+        "en_jp": "Sasaki to Pii-chan 2nd Season",
+        "ja_jp": "佐々木とピーちゃん 第２期"
+      },
+      "url": "https://kitsu.io/anime/sasaki-to-pii-chan-2nd-season",
+      "poster": "https://media.kitsu.app/anime/48651/poster_image/large-486d7213052ac1c783a025f1f7de8cc6.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/48651/poster_image/large-486d7213052ac1c783a025f1f7de8cc6.jpeg",
+          "image_url": "https://media.kitsu.app/anime/48651/poster_image/small-e20702d25883d47d6ea93a734bd48a62.jpeg"
+        }
+      },
+      "synopsis": "The second season of Sasaki to Pii-chan.",
+      "score": "N/A",
+      "episodes": null,
+      "rank": 9,
+      "season": "TV",
+      "startDate": "2026-10-07",
+      "year": "2026",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "49752",
       "id": "49752",
       "title": "Ao no Hako 2nd Season",
@@ -1128,35 +1157,6 @@
         }
       },
       "synopsis": "The second season of Ao no Hako",
-      "score": "N/A",
-      "episodes": null,
-      "rank": 9,
-      "season": "TV",
-      "startDate": "2026-10-04",
-      "year": "2026",
-      "status": "upcoming",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "49883",
-      "id": "49883",
-      "title": "Aoashi 2nd Season",
-      "titles": {
-        "en": null,
-        "en_jp": "Aoashi 2nd Season",
-        "ja_jp": "アオアシ 第2期"
-      },
-      "url": "https://kitsu.io/anime/aoashi-2nd-season",
-      "poster": "https://media.kitsu.app/anime/49883/poster_image/large-d5bdc14bd1057e9ce15d4dc202c7c656.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/49883/poster_image/large-d5bdc14bd1057e9ce15d4dc202c7c656.jpeg",
-          "image_url": "https://media.kitsu.app/anime/49883/poster_image/small-f780f092a32ccaa476d6fb8db42b0065.jpeg"
-        }
-      },
-      "synopsis": "The second season of Aoashi.",
       "score": "N/A",
       "episodes": null,
       "rank": 10,
