@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-19T14:53:44.597Z",
+  "lastUpdated": "2026-09-19T19:39:14.830Z",
   "items": [
+    {
+      "id": "ann-MC8uMjQxOTk0",
+      "title": "The Elusive Samurai Season 2 ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-10/.241994",
+      "description": "I love how the show uses its signature dips into abstract phantasmagoria to demonstrate just how terrifying and dangerous Takauji truly is.",
+      "pubDate": "2026-09-19T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/episode-review.5/241994/elusive-samurai-s2-ep-10-review.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5OTI",
+      "title": "Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 23",
+      "link": "https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-23/.241992",
+      "description": "What changed in him to make him turn down Baal's offer? The easy answer is “Iruma.”",
+      "pubDate": "2026-09-19T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/episode-review.5/241992/iruma-s4-23.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5ODE",
+      "title": "Smoking Behind the Supermarket with You ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-11/.241981",
+      "description": "It’s rare for a piece of media to feel so hyperrelevant to my personal and professional life; I needed the little nudge this episode gave me to get my work-life balance back in order.",
+      "pubDate": "2026-09-19T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/episode-review.5/241981/supermarket-smoking-episode-11-review-image.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MTQ5OQ",
+      "title": "Marvel Tokon Fighting Souls Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/playstation-5-pc/steam/marvel-tokon-fighting-souls/.241499",
+      "description": "It's a tour de force that looks like nothing you've seen before, while also rooted in a profound appreciation for Marvel characters and broader fighting games as a culture.",
+      "pubDate": "2026-09-19T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRV/cms/game-review/241499/tokonsplash.jpg"
+    },
+    {
+      "id": "ann-LjI0MTk5MA",
+      "title": "Daemons of the Shadow Realm Anime Gets 2nd Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/daemons-of-the-shadow-realm-anime-gets-2nd-season/.241990",
+      "description": "First season's part 2 ended on Sunday",
+      "pubDate": "2026-09-19T15:43:09.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.9/241990/hskek4hbiaa2-uu.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQxOTY1",
+      "title": "The Resident Evil Remake Switch 2 Ports Look and Feel Great",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/the-resident-evil-remake-switch-2-ports-look-and-feel-great/.241965",
+      "description": "You might be worried about how these Resident Evil games run on the Switch 2. Don't be.",
+      "pubDate": "2026-09-19T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ0/cms/convention/241965/nsw2-bh-re2-ss-03.jpeg"
+    },
+    {
+      "id": "ann-MS8uMjQxOTgw",
+      "title": "Young Ladies Don't Play Fighting Games ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-11/.241980",
+      "description": "Arisa is exactly the type of player—an all too real type of player, unfortunately—with no respect for people she doesn’t perceive as taking the game seriously.",
+      "pubDate": "2026-09-19T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8M/cms/episode-review.5/241980/yl-3.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Yomi no Tsugai' Second Season in Production",
+      "link": "https://myanimelist.net/news/74736072?_location=rss",
+      "description": "The official website of the television anime adaptation of Hiromu Arakawa's Yomi no Tsugai (Daemons of the Shadow Realm) manga announced a second season on Sunday, revealing the announcement visual (pictured) and promotional video. Produced by Bones Film, the first season aired for 24 episodes beginning in Spring 2026. Crunchyroll streamed the anime with multiple subtitles and dubs. Arakawa began serializing the manga in Shounen Gangan in December 2021. Square Enix published the 13th volume...",
+      "pubDate": "2026-09-19T15:22:25.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789831265-8581a0e24443ce8c8e2e8022a8365869.jpeg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "Daemons of the Shadow Realm Season 2 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/19/daemons-of-the-shadow-realm-season-2-anime-announced",
+      "description": "Crunchyroll streams the full first season",
+      "pubDate": "2026-09-19T15:20:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/126d3499f2/daemons-of-the-shadow-realm.jpg"
+    },
+    {
+      "id": "cr-ZXctMjAyNg",
+      "title": "Anime Artwork Is Born From the Human Hand: A Conversation With Yoshitaka Amano",
+      "link": "https://crunchyroll.com/news/interviews/2026/9/19/yoshitaka-amano-anime-expo-interview-2026",
+      "description": "“It’s because I am an artist who draws,” says Yoshitaka Amano.",
+      "pubDate": "2026-09-19T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/ae0dcbe139/zan.png"
+    },
     {
       "id": "ann-Ly4yNDE5NjY",
       "title": "Chainsmoker Cat ‒ Episode 11",
@@ -370,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T17:56:04.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/herald/201421/yotsuba.webp"
+      "image": null
     },
     {
       "id": "cr-ZC10by0yMDI3",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T16:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPN/cms/weekly-ranking/241948/summer2026-montage-w11.jpeg"
+      "image": null
     },
     {
       "id": "cr-ZXItdmlzdWFs",
@@ -480,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T14:51:17.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/herald/stock/site-news/ann-logo-900.png.jpg"
+      "image": null
     },
     {
       "id": "ann-aC8uMjQxNDQ5",
@@ -490,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/feature/241449/fsn-heaven-feel.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTgyOQ",
@@ -500,107 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/this-week-in-games/241829/hmeot-screens-5.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE4OTI",
-      "title": "Bandai Namco Cross Store and THE GUNDAM BASE Opening at Mall of America",
-      "link": "https://www.animenewsnetwork.com/press-release/2026-09-18/bandai-namco-cross-store-and-the-gundam-base-opening-at-mall-of-america/.241892",
-      "description": "Second U.S. locations of both retail concepts to open September 30, bringing GUNPLA, collectibles, toys, games, and more to fans across the Midwest.",
-      "pubDate": "2026-09-18T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Promoted",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g95/cms/press-release.2/241892/bandai-namco-cross-store-1.jpeg"
-    },
-    {
-      "id": "ann-ZS8uMjQxOTMx",
-      "title": "Dragon Ball Xenoverse 3 Feels Like a Game a Decade Out of Time",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/dragon-ball-xenoverse-3-feels-like-a-game-a-decade-out-of-time/.241931",
-      "description": "Everything in Xenoverse 3's Tokyo Game Show demo felt horribly dated.",
-      "pubDate": "2026-09-18T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/convention/241931/xenoverse-3.jpg"
-    },
-    {
-      "id": "ann-LjI0MTEyMw",
-      "title": "The Misfit Class Takes to the Stage: An Interview with Makoto Moriwaki and Setsuo Ito",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/the-misfit-class-takes-to-the-stage-an-interview-with-makoto-moriwaki-and-setsuo-ito/.241123",
-      "description": "The series has four seasons for a reason. Jairus Taylor talks to the anime's chief director, Makoto Moriwaki, and voice actor Setsuo Itō.",
-      "pubDate": "2026-09-18T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-a2V5LWFydA",
-      "title": "A Wild Last Boss Appeared! Season 2 Anime Reveals New Key Art",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/a-wild-last-boss-appeared-season-2-anime-key-art",
-      "description": "Ongoing fantasy light novel adaptation returns on October 3",
-      "pubDate": "2026-09-18T12:50:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/53df539280/a_wild_last_boss_appeared_season2_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MTg5NQ",
-      "title": "I'm in Love With Ace Combat 8's Focus on Characters",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/im-in-love-with-ace-combat-8-focus-on-characters/.241895",
-      "description": "Ace Combat 8 works hard to make your fellow pilots more than faceless voices on the comms channel.",
-      "pubDate": "2026-09-18T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5NDI",
-      "title": "Earth Defense Force 6.2 Invaders From Another World Game Launches on March 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/earth-defense-force-6.2-invaders-from-another-world-game-launches-on-march-18/.241942",
-      "description": "Updated game to launch for PS5, to include newly added enhancements for console",
-      "pubDate": "2026-09-18T12:17:05.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-b2N0b2Jlci02",
-      "title": "The Salty Koharu Has a Soft Spot for Me Anime Premieres on October 6",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-salty-koharu-has-a-soft-spot-for-me-anime-premieres-on-october-6",
-      "description": "New trailer, key art and theme song info revealed for upcoming light novel adaptation",
-      "pubDate": "2026-09-18T12:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/00a8028c10/the_salty_koharu_has_a_soft_spot_for_me_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5NDU",
-      "title": "Even the Student Council Has its Holes! TV Anime Reveals Ending Theme in 2nd Main Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/even-the-student-council-has-its-holes-tv-anime-reveals-ending-theme-in-2nd-main-promo-video/.241945",
-      "description": "Akari Nanawo performs ending theme for series debuting on October 3",
-      "pubDate": "2026-09-18T12:01:55.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQxOTQ0",
-      "title": "The Salty Koharu Has a Soft Spot for Me TV Anime Reveals October 6 Debut in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/the-salty-koharu-has-a-soft-spot-for-me-tv-anime-reveals-october-6-debut-in-video/.241944",
-      "description": "Masayoshi Ōishi, HoneyWorks feat. Hoshikawa Sara perform theme songs",
-      "pubDate": "2026-09-18T11:56:41.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Are You a Landmine, Chihara-san? Anime Reveals Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/are-you-a-landmine-chihara-san-anime-reveals-teaser-trailer",
-      "description": "Adaptation based on romcom manga by Ryon broadcasts in January",
-      "pubDate": "2026-09-18T11:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/e30eadb68b/are_you_a_landmine_chiharasan_header.jpg"
     }
   ]
 };
