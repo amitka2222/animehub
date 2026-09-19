@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T20:03:17.414Z",
+  "lastUpdated": "2026-09-19T01:48:47.972Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探偵���ナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -176,35 +176,6 @@
       "hasDub": true
     },
     {
-      "mal_id": "50023",
-      "id": "50023",
-      "title": "Daemons of the Shadow Realm",
-      "titles": {
-        "en": "Daemons of the Shadow Realm",
-        "en_jp": "Yomi no Tsugai",
-        "ja_jp": "黄泉のツガイ"
-      },
-      "url": "https://kitsu.io/anime/daemons-of-the-shadow-realm",
-      "poster": "https://media.kitsu.app/anime/50023/poster_image/large-83bcc1806d52156538574d1eeb8ba4bd.jpeg",
-      "cover": "https://media.kitsu.app/anime/50023/cover_image/large-36271a9d8916e8746f173ac796b210ba.jpeg",
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50023/poster_image/large-83bcc1806d52156538574d1eeb8ba4bd.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50023/poster_image/small-7a13d5b24653e41d7e38bd63a41458dd.jpeg"
-        }
-      },
-      "synopsis": "Yuru, a young hunter who lives in a small village deep in the mountains, hunts wild game and leads a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them? Enter a breathtaking mystical fantasy as exciting Daemon battles intertwine the mysterious and supernatural.\n\n(Source: Crunchyroll)",
-      "score": "78.89%",
-      "episodes": 24,
-      "rank": 7,
-      "season": "TV",
-      "startDate": "2026-04-04",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
       "mal_id": "49235",
       "id": "49235",
       "title": "Tensei Shitara Slime Datta Ken 4th Season",
@@ -225,7 +196,7 @@
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
       "score": "82.36%",
       "episodes": 24,
-      "rank": 8,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-04-03",
       "year": "2026",
@@ -254,7 +225,7 @@
       "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
       "score": "74.99%",
       "episodes": 13,
-      "rank": 9,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-07-05",
       "year": "2026",
@@ -283,10 +254,39 @@
       "synopsis": "Comedy shorts featuring various VTuber characters from Hololive agency.(Source: AniList)",
       "score": "78.07%",
       "episodes": null,
-      "rank": 10,
+      "rank": 9,
       "season": "ONA",
       "startDate": "2019-05-05",
       "year": "2019",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "5443",
+      "id": "5443",
+      "title": "Doraemon (2005)",
+      "titles": {
+        "en": null,
+        "en_jp": "Doraemon (2005)",
+        "ja_jp": "ドラえもん (2005)"
+      },
+      "url": "https://kitsu.io/anime/doraemon-2005",
+      "poster": "https://media.kitsu.app/anime/poster_images/5443/large.jpg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/poster_images/5443/large.jpg",
+          "image_url": "https://media.kitsu.app/anime/poster_images/5443/small.jpg"
+        }
+      },
+      "synopsis": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n(Source: Wikipedia)",
+      "score": "77.12%",
+      "episodes": null,
+      "rank": 10,
+      "season": "TV",
+      "startDate": "2005-04-15",
+      "year": "2005",
       "status": "current",
       "hasSub": true,
       "hasDub": true
