@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-20T10:10:24.021Z",
+  "lastUpdated": "2026-09-20T14:57:46.468Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDE5OTk",
+      "title": "Bushiroad Streams Ghost Meets Gal Anime on YouTube",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/bushiroad-streams-ghost-meets-gal-anime-on-youtube/.241999",
+      "description": "3-episode series available with English subtites",
+      "pubDate": "2026-09-20T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFH/youtube/U-QEgRzGZEo.jpg"
+    },
+    {
+      "id": "cr-YWItZXZlbnQ",
+      "title": "Street Fighter 6 and Star Detective Precure! Launch Collab Event on December 17",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/street-fighter-6-star-detective-precure-collab-event",
+      "description": "The four-part storyline will be available in the Battle Hub",
+      "pubDate": "2026-09-20T13:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/843c4df5e4/street-fighter-precure-hero.png"
+    },
+    {
+      "id": "ann-LjI0MjAxMA",
+      "title": "2026 World Webtoon Awards Announces 20 Finalists, Opens Global Reader Vote",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/2026-world-webtoon-awards-announces-20-finalists-opens-global-reader-vote/.242010",
+      "description": "Now in their 3rd year, awards will accept online votes from readers worldwide from September 17 to October 19",
+      "pubDate": "2026-09-20T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKH/cms/news.9/242010/3.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAxOQ",
+      "title": "NieR's Yokō Tarō, Evangelion's Yoko Takahashi Collaborate on The Weeknd's Latest Tour",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-20/nier-yoko-taro-evangelion-yoko-takahashi-collaborate-on-the-weeknd-latest-tour/.242019",
+      "description": "Featuring visuals from legendary anime series Neon Genesis Evangelion",
+      "pubDate": "2026-09-20T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/herald/201478/weeknd2.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Overgeared Anime Spotlights Yura in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/overgeared-anime-yura-character-trailer",
+      "description": "Crunchyroll will stream the manhwa adaptation",
+      "pubDate": "2026-09-20T12:58:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/08b9c1b96d/overgeared-anime-yura-hero.png"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Ace Attorney Game Series Celebrates 25th Anniversary with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/ace-attorney-25th-anniversary-visual",
+      "description": "The legal visual novel series hits the big 2-5 on October 12",
+      "pubDate": "2026-09-20T12:51:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4e8c231244/ace-attorney-header.png"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Tetsuryo! meet with Tetsudou Musume Anime Reveals New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/tetsuryo-meet-with-tetsudou-musume-anime-reveals-new-trailer",
+      "description": "Original series broadcasts in Japan beginning October 8",
+      "pubDate": "2026-09-20T12:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/6fef9250e7/tetsuryo_meet_with_tetsudo_musume_header.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyMDE3",
+      "title": "Persona 4 Revival Game Recasts Ryōtarō Dōjima",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/persona-4-revival-game-recasts-ryotaro-dojima/.242017",
+      "description": "Ryōtarō Okiayu replaces Unshō Ishizuka, who died in 2018",
+      "pubDate": "2026-09-20T11:53:50.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.9/242017/persona.jpg"
+    },
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "So What's Wrong with Getting Reborn as a Goblin? Anime Adds 14 More Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/so-whats-wrong-with-getting-reborn-as-a-goblin-anime-adds-14-more-cast-members",
+      "description": "Crunchyroll will stream the isekai series as it airs",
+      "pubDate": "2026-09-20T10:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2660x1496/d4625ae2c6/so-whats-wrong-with-getting-reborn-as-a-goblin.png"
+    },
     {
       "id": "cr-LW1pbnV0ZXM",
       "title": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyo de Ikeru Densetsu to Naru Anime Broadcasts in January 2027",
@@ -31,16 +121,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789893778-df552eac435d55af9b9ccc973f23731e.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQxOTkz",
-      "title": "So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Character Visuals",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-character-visuals/.241993",
-      "description": "Junko Takeuchi, Mariya Ise, Rin Mizuki, Momoko Seto, more join cast of October 5 series",
-      "pubDate": "2026-09-20T08:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.9/241993/hanzou.jpg"
     },
     {
       "id": "ann-LjI0MjAxNA",
@@ -460,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T06:32:44.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.9/241971/screenshot-2026-09-19-at-15.24.09.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTk1Mw",
@@ -470,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T06:20:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g05/cms/news.9/241953/inherit-the-winds-shinbei.jpg"
+      "image": null
     },
     {
       "id": "cr-aGVtZS1zb25n",
@@ -500,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T04:41:14.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gET/cms/news.9/241967/yaiba-s2-kv.jpg"
+      "image": null
     },
     {
       "id": "cr-bmFsLWNhc3Q",
@@ -518,86 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-18/dengeki-daisy-tv-anime-reveals-january-2027-debut-half-year-run-in-main-promo-video/.241961",
       "description": "4 more cast members announced including Tomokazu Sugita, Yuka Terasaki",
       "pubDate": "2026-09-19T03:59:37.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/youtube/9wIJGKQKqZY.jpg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "YAIBA: Samurai Legend Season 2 Anime Premieres on January 9, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/yaiba-samurai-legend-season-2-anime-january-9-2027-release-date-main-visual",
-      "description": "A main visual was also unveiled",
-      "pubDate": "2026-09-19T03:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1600x900/e8ba2d5042/yaiba-samurai-legend.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5NjA",
-      "title": "Live-Action Lollipop Chainsaw Film Announced",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960",
-      "description": "The Hurt Locker's Kirk Shaw, Concordia's Robert Franke produce project separate from anime plans",
-      "pubDate": "2026-09-19T01:33:05.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTYwMg",
-      "title": "Fate/Extra Record Feels Like Persona Meets Slay the Spire",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/fate-extra-record-feels-like-persona-meets-slay-the-spire/.241602",
-      "description": "If card-based battle systems and heroes from myth and legend are your jam, have I got the game for you.",
-      "pubDate": "2026-09-19T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-OS8uMjQxNzg0",
-      "title": "North American Anime, Manga Releases, September 13-19",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/north-american-anime-manga-releases-september-13-19/.241784",
-      "description": "Shirobako anime; Aoashi, Sound of a Blink, Casshan manga ship",
-      "pubDate": "2026-09-18T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Yy8uMjQxOTU0",
-      "title": "BAND-MAID Perform New Ending Theme Song for Beyblade X Anime's Beykingdom Arc",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/band-maid-perform-new-ending-theme-song-for-beyblade-x-anime-beykingdom-arc/.241954",
-      "description": "BAND-MAID's song \"SPIN\" debuts with new arc on October 9",
-      "pubDate": "2026-09-18T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5NTI",
-      "title": "Titan Manga Licenses Break Blade Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/titan-manga-licenses-break-blade-manga/.241952",
-      "description": "Special anniversary edition launches in English on December 15",
-      "pubDate": "2026-09-18T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTk1MQ",
-      "title": "OceanVeil Streams Kamui: He's Behind You Anime's English Dub",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/oceanveil-streams-kamui-he-behind-you-anime-english-dub/.241951",
-      "description": "Diana Garnet, Jesse Inocalla, more star in dub",
-      "pubDate": "2026-09-18T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQxOTUw",
-      "title": "Viz Media, Japan Society Screen World Premiere of Hirayasumi Anime on October 7",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/viz-media-japan-society-screen-world-premiere-of-hirayasumi-anime-on-october-7/.241950",
-      "description": "Anime's 1st episode screens in NYC ahead of January 2027 premiere",
-      "pubDate": "2026-09-18T18:45:58.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
