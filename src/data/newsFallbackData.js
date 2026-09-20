@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-20T14:57:46.468Z",
+  "lastUpdated": "2026-09-20T19:52:25.364Z",
   "items": [
+    {
+      "id": "ann-bS8uMjQxOTkx",
+      "title": "RESIDENT EVIL (2026) Live-Action Film Review",
+      "link": "https://www.animenewsnetwork.com/review/resident-evil/live-action-film/.241991",
+      "description": "This movie has earned the right to carve the name of RESIDENT EVIL in jagged letters onto its very bones.",
+      "pubDate": "2026-09-20T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/review.2/241991/resident-evil-poster-2026.jpg"
+    },
+    {
+      "id": "ann-LjI0MTkzNw",
+      "title": "Japan's Video Game Rankings, September 7-13",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/japan-video-game-rankings-september-7-13/.241937",
+      "description": "Onimusha: Way of the Sword PS5 game ranks at #2 in 2nd week",
+      "pubDate": "2026-09-20T18:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR2/cms/news.9/241937/onimusha.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5Mzg",
+      "title": "Japanese Animation TV Ranking, September 7-13",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/japanese-animation-tv-ranking-september-7-13/.241938",
+      "description": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke earns 3.1% rating",
+      "pubDate": "2026-09-20T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLC/encyc/A30955-2282000597.1775140130.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAyMQ",
+      "title": "Tokyo Game Show 2026 Draws 257,642 Attendees",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/tokyo-game-show-2026-draws-257642-attendees/.242021",
+      "description": "Attendance numbers slightly lower than last year's numbers",
+      "pubDate": "2026-09-20T16:13:40.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFY/cms/news.9/242021/tgs.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2MzM",
+      "title": "Hans Christian Andersen's The Little Mermaid Anime Film Review",
+      "link": "https://www.animenewsnetwork.com/review/hans-christian-andersen-the-little-mermaid/anime-film/.241633",
+      "description": "No matter how you feel about the story, as a piece of anime history, this is more than worthwhile.",
+      "pubDate": "2026-09-20T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7M/cms/review.2/241633/little-mermaid.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Futsutsuka na Akujo dewa Gozaimasu ga' Second Part Announced for Winter 2027",
+      "link": "https://myanimelist.net/news/74739206?_location=rss",
+      "description": "The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajimete no Gaiyuu-hen, will premiere in January 2027. The official website also revealed three additional cast members and a key visual (pictured). Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no Frieren) Produced by Doga Kobo, t...",
+      "pubDate": "2026-09-20T15:44:02.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789918911-e798a3313ca887d28217f6131cb73569.jpeg"
+    },
+    {
+      "id": "cr-bmNoeXJvbGw",
+      "title": "Though I Am an Inept Villainess Announces Cour 2 in Production, Will Stream on Crunchyroll",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/though-i-am-an-inept-villainess-cour-2-january-2027-stream-crunchyroll",
+      "description": "The second cour will premiere in January 2027",
+      "pubDate": "2026-09-20T15:36:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/9fa5ed19e3/though-i-am-an-inept-villainess.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5OTg",
+      "title": "Though I am an Inept Villainess Anime's 2nd Part Unveils Cast, Key Visual, January 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/though-i-am-an-inept-villainess-anime-2nd-part-unveils-cast-key-visual-january-2027-debut/.241998",
+      "description": "Yuichi Nakamura, Shunichi Toki, Chiaki Kobayashi join cast",
+      "pubDate": "2026-09-20T15:35:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241998/though-i-am-an-inept-villainess-the-first-royal-outing-arc-kv.jpg"
+    },
+    {
+      "id": "cr-LXVuaXZlcnNl",
+      "title": "Cozy Anime Corner: Start a Journey with A Place Further Than the Universe",
+      "link": "https://crunchyroll.com/news/features/2026/9/20/cozy-anime-corner-a-place-further-than-the-universe",
+      "description": "Sometimes it really is about the friends you make along the way",
+      "pubDate": "2026-09-20T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/f7ccce0788/a-place-further-than-the-universe.png"
+    },
     {
       "id": "ann-Ly4yNDE5OTk",
       "title": "Bushiroad Streams Ghost Meets Gal Anime on YouTube",
@@ -154,7 +244,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "New 'Magic Knight Rayearth' Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours",
+      "title": "New 'Magic Knight Rayearth' TV Anime Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours",
       "link": "https://myanimelist.net/news/74738043?_location=rss",
       "description": "The stage event for the new television anime adaptation of CLAMP's Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second promotional video on Sunday. The new anime series will run for two consecutive cours beginning on October 7 at 11.45 p.m. on TV Asahi's \"IMAnimation W\" programming block. Cast Alcyone: Mamiko Noto (Kimi ni Todoke) Ascot: Ayumu Murase (Chainsaw Man) Caldina: Hitomi Ueda (Kekkon Yubiwa...",
       "pubDate": "2026-09-20T05:08:35.000Z",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T11:17:33.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOE/youtube/QvHb6HO6jos.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTk3Mw",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T10:59:26.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/230264/atashinchinext_kv2.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4OTk",
@@ -450,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/interest.3/241899/hn-ovsfbeaaykaa.jpeg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T07:29:36.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/news.9/241974/0a6a3619.jpg"
+      "image": null
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -508,96 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-09-19/tougen-anki-nikko-kegon-falls-arc-anime-reveals-more-cast-october-2-debut/.241963",
       "description": "New English trailer, theme song artists, streaming platforms also revealed; anime to air for 2 split parts",
       "pubDate": "2026-09-19T07:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.9/241963/tougen-anki-kv-en-sm.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shin Oishinbo' New TV Anime Announced",
-      "link": "https://myanimelist.net/news/74735216?_location=rss",
-      "description": "A new television anime adaptation of Tetsu Kariya's Oshinbo manga, titled Shin Oishinbo was announced at the Shin-Ei Animation 50th Anniversary special stage at ABEMA Anime Festival 2026 on Saturday, revealing the announcement promotional video. Kariya began writing Oishinbo in Shogakukan's Big Comic Spirits magazine in 1983, featuring art by Akira Hanazaki. Shogakukan published the 111th and latest volume in December 2014. The manga has been on hiatus since May 2014. VIZ Media licens...",
-      "pubDate": "2026-09-19T06:48:04.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789799958-e828371782d37de11bdde9c4c92eb5a7.jpeg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "New Oishinbo TV Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/new-oishinbo-tv-anime-announced",
-      "description": "The original series aired in 1988",
-      "pubDate": "2026-09-19T06:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a60e4b07d2/oishinbo.jpg"
-    },
-    {
-      "id": "ann-LjI0MTk3MQ",
-      "title": "Oishinbo Gourmet Manga Gets New TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/oishinbo-gourmet-manga-gets-new-tv-anime/.241971",
-      "description": "Manga previously inspired TV anime from 1988-1992",
-      "pubDate": "2026-09-19T06:32:44.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTk1Mw",
-      "title": "Inherit the Winds Anime Reveals Theatrical Screening Trailer, Theme Songs, Additional Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/inherit-the-winds-anime-reveals-theatrical-screening-trailer-theme-songs-additional-cast/.241953",
-      "description": "Quruli, Hitsujibungaku collaborate for theme songs",
-      "pubDate": "2026-09-19T06:20:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aGVtZS1zb25n",
-      "title": "With Vengeance, Sincerely, Your Broken Saintess Season 2 Anime Theme Song Previewed in New Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/with-vengeance-sincerely-your-broken-saintess-season-2-anime-teaser-trailer-theme-song",
-      "description": "Lua and Sven's romance resumes this October",
-      "pubDate": "2026-09-19T06:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/853ed64db6/with-vengeance-sincerely-your-broken-saintess.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Dengeki Daisy' Unveils Additional Cast, Staff, First Promo, 2 Consecutive Cours for Winter 2027",
-      "link": "https://myanimelist.net/news/74735069?_location=rss",
-      "description": "The stage event for the television anime adaptation of Kyousuke Motomi's Dengeki Daisy manga at the Kyoto International Manga Anime Fair 2026 revealed additional cast, staff, a key visual (pictured), and the first promotional video on Saturday. The anime series will air in two consecutive cours beginning January 2027. Cast Souichirou Kurebayashi: Tomokazu Sugita (Sakamoto Days) Riko Onizuka: Yuka Terasaki (Chihayafuru) Masuda: Setsuji Satou (Urusei Yatsura (2022)) Akira: Kouhei Amasaki (Tok...",
-      "pubDate": "2026-09-19T04:54:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789793607-73bd922fa1acdf25180d86ae81eb82fc.jpeg"
-    },
-    {
-      "id": "ann-OS8uMjQxOTY3",
-      "title": "Yaiba: Samurai Legend Anime's 2nd Season Debuts on January 9",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/yaiba-samurai-legend-anime-2nd-season-debuts-on-january-9/.241967",
-      "description": "New season covering \"Kaguya Arc\" reveals visual",
-      "pubDate": "2026-09-19T04:41:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bmFsLWNhc3Q",
-      "title": "Dengeki Daisy Anime Trailer Reveals January 2027 Broadcast, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/dengeki-daisy-anime-january-2027-release-date-key-visual-main-trailer-additional-cast",
-      "description": "A new key visual was also unveiled for the shojo series",
-      "pubDate": "2026-09-19T04:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/abce28f655/dengeki-daisy.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5NjE",
-      "title": "Dengeki Daisy TV Anime Reveals January 2027 Debut, Half-Year Run in Main Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-18/dengeki-daisy-tv-anime-reveals-january-2027-debut-half-year-run-in-main-promo-video/.241961",
-      "description": "4 more cast members announced including Tomokazu Sugita, Yuka Terasaki",
-      "pubDate": "2026-09-19T03:59:37.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
