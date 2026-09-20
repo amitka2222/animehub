@@ -1,11 +1,121 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-20T01:51:38.353Z",
+  "lastUpdated": "2026-09-20T10:10:24.021Z",
   "items": [
     {
+      "id": "cr-LW1pbnV0ZXM",
+      "title": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyo de Ikeru Densetsu to Naru Anime Broadcasts in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/majutsu-wo-kiwamete-tabi-ni-deta-tensei-elf-moteamashita-jumyo-de-ikeru-densetsu-to-naru-anime-january-2027-release-date-first-2-minutes",
+      "description": "Yuki Inaba directs the fantasy series at Studio Palette",
+      "pubDate": "2026-09-20T09:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/d8301f1627/majutsu-wo-kiwamete-tabi-ni-deta-tensei-elf-moteamashita-jumyo-de-ikeru-densetsu-to-naru.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAxNg",
+      "title": "The Reincarnated Elf Left on a Journey to Master His Magic Anime Unveils 1st 2 Minutes, January Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-unveils-1st-2-minutes-january-debut/.242016",
+      "description": "Daiki Yamashita, Hana Hishikawa star in upcoming series",
+      "pubDate": "2026-09-20T09:02:16.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/swAIVfYAZDQ.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tensei Goblin dakedo Shitsumon Aru?' Announces Supporting Cast",
+      "link": "https://myanimelist.net/news/74738383?_location=rss",
+      "description": "The official website for the television anime adaptation of Nazuna Miki's Tensei Goblin dakedo Shitsumon Aru? (So What's Wrong with Getting Reborn as a Goblin?) manga announced supporting cast on Sunday. The anime series is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Cast Sandaime Hanzou: Junko Takeuchi (Haigakura) Nanadaime Hanzou: Mariya Ise (Made in Abyss) Rokudaime Masamune: Rin Mizuki (Tomodachi no Imouto ga Ore...",
+      "pubDate": "2026-09-20T08:43:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789893778-df552eac435d55af9b9ccc973f23731e.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQxOTkz",
+      "title": "So What's Wrong with Getting Reborn as a Goblin? Anime Reveals More Cast, Character Visuals",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/so-what-wrong-with-getting-reborn-as-a-goblin-anime-reveals-more-cast-character-visuals/.241993",
+      "description": "Junko Takeuchi, Mariya Ise, Rin Mizuki, Momoko Seto, more join cast of October 5 series",
+      "pubDate": "2026-09-20T08:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.9/241993/hanzou.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAxNA",
+      "title": "'Tetsuryō! meet with Tetsudō Musume' Anime's New Trailer Previews Opening Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/tetsuryo-meet-with-tetsudo-musume-anime-new-trailer-previews-opening-song/.242014",
+      "description": "Asaka performs \"GO! GO! RAILWAY!!\" opening for October 8 series",
+      "pubDate": "2026-09-20T07:24:31.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/youtube/1IoGtgNy_2I.jpg"
+    },
+    {
+      "id": "cr-eS12aXN1YWw",
+      "title": "The Detective Is Already Dead Anime Unveils 5th Anniversary Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/the-detective-is-already-dead-anime-5th-anniversary-visual",
+      "description": "The second season will stream on Crunchyroll starting October 7",
+      "pubDate": "2026-09-20T05:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/50c9a30e3c/the-detective-is-already-dead.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyMDEx",
+      "title": "New Magic Knight Rayearth Anime's 2nd Main Trailer Reveals More Cast, Theme Songs",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-20/new-magic-knight-rayearth-anime-2nd-main-trailer-reveals-more-cast-theme-songs/.242011",
+      "description": "Mamiko Noto, Ayumu Murase, Hitomi Ueda, Hiroki Yasumoto join cast of October 7 anime",
+      "pubDate": "2026-09-20T05:27:15.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/67GqhfLw3ys.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "New 'Magic Knight Rayearth' Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours",
+      "link": "https://myanimelist.net/news/74738043?_location=rss",
+      "description": "The stage event for the new television anime adaptation of CLAMP's Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second promotional video on Sunday. The new anime series will run for two consecutive cours beginning on October 7 at 11.45 p.m. on TV Asahi's \"IMAnimation W\" programming block. Cast Alcyone: Mamiko Noto (Kimi ni Todoke) Ascot: Ayumu Murase (Chainsaw Man) Caldina: Hitomi Ueda (Kekkon Yubiwa...",
+      "pubDate": "2026-09-20T05:08:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789880873-7c4511d582d8cdbe703dbebb4e27cda0.jpeg"
+    },
+    {
+      "id": "cr-dy10cmFpbGVy",
+      "title": "New Magic Knight Rayearth Anime Theme Songs Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/new-magic-knight-rayearth-anime-theme-songs-previewed-in-new-trailer",
+      "description": "Crunchyroll will stream the reboot series as it airs",
+      "pubDate": "2026-09-20T05:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/a1e1959512/magic-knight-rayearth.jpg"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Alya Sometimes Hides Her Feelings in Russian Season 2 Anime Teaser Trailer Released",
+      "link": "https://crunchyroll.com/news/latest/2026/9/20/alya-sometimes-hides-her-feelings-in-russian-season-2-anime-teaser-trailer",
+      "description": "The rom-com series returns in 2027",
+      "pubDate": "2026-09-20T04:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/c7a3cc36c9/alya-sometimes-hides-her-feelings-in-russian-season-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAwMw",
+      "title": "Alya Sometimes Hides Her Feelings in Russian TV Anime's 2nd Season Reveals Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/alya-sometimes-hides-her-feelings-in-russian-tv-anime-2nd-season-reveals-teaser-video/.242003",
+      "description": "Original book franchise has 5.5 million copies in circulation worldwide",
+      "pubDate": "2026-09-20T03:20:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/cms/news.9/242003/thumbnail.jpg"
+    },
+    {
       "id": "ann-ZS8uMjQxOTQ2",
-      "title": "Tokyo Int'l Film Fest to Screen Cherry and Virgin, ghost &ndash; end of night, More Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-intl-film-fest-to-screen-cherry-and-virgin-ghost-ndash-end-of-night-more-anime/.241946",
+      "title": "Tokyo Int'l Film Fest to Screen Cherry and Virgin, ghost – end of night, More Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-19/tokyo-intl-film-fest-to-screen-cherry-and-virgin-ghost-end-of-night-more-anime/.241946",
       "description": "Grotesqqque, We Are Aliens to also play at October 26-November 4 festival",
       "pubDate": "2026-09-20T01:12:37.000Z",
       "source": "Anime News Network",
@@ -106,7 +216,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'Yomi no Tsugai' Second Season in Production",
       "link": "https://myanimelist.net/news/74736072?_location=rss",
-      "description": "The official website of the television anime adaptation of Hiromu Arakawa's Yomi no Tsugai (Daemons of the Shadow Realm) manga announced a second season on Sunday, revealing the announcement visual (pictured) and promotional video. Produced by Bones Film, the first season aired for 24 episodes beginning in Spring 2026. Crunchyroll streamed the anime with multiple subtitles and dubs. Arakawa began serializing the manga in Shounen Gangan in December 2021. Square Enix published the 13th volume...",
+      "description": "The 24th and final episode of the Yomi no Tsugai (Daemons of the Shadow Realm) television anime ended with a second season announcement on Sunday, revealing an announcement promo, visual (pictured), and additional cast pair. Voice actors Jin Urayama (Summertime Render), as well as Hikaru Tanaka (Skip to Loafer) and Hayata Ookawa, are joining the cast as Shachou and Saishin, respectively. Produced by Bones Film, the anime series adapting Hiromu Arakawa's action fantasy manga began airing on...",
       "pubDate": "2026-09-19T15:22:25.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -430,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T01:33:05.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDI/cms/news.9/241960/910ven6vwcl.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTYwMg",
@@ -440,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-19T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/cms/convention/241602/vlcsnap-2026-09-16-15h17m24s529.png.jpg"
+      "image": null
     },
     {
       "id": "ann-OS8uMjQxNzg0",
@@ -450,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/herald/201423/casshan-1.jpg"
+      "image": null
     },
     {
       "id": "ann-Yy8uMjQxOTU0",
@@ -460,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB9/cms/news.9/241809/beyblade-x-bey-kingdom-arc.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE5NTI",
@@ -470,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-18T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF2/cms/news.9/241952/break-blade.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MTk1MQ",
@@ -491,116 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5NDk",
-      "title": "Announcing ANN in Japan 2027 Tour",
-      "link": "https://www.animenewsnetwork.com/site-news/2026-09-18/announcing-ann-in-japan-2027-tour/.241949",
-      "description": "Anime News Network is going to Japan again, and we want to bring you with us. Join us as we weave through the greater Tokyo/Kanto area, visiting many of the same spots anime producers and manga editors have visited to create the setting for their projects. Not enough? We'll be going to Kyoto, Kobe, Osaka and more!",
-      "pubDate": "2026-09-18T17:56:04.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZC10by0yMDI3",
-      "title": "UN:Me Psychological Horror Game Delayed to 2027 to Refine Motion Capture Performances",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/un-me-psychological-horror-game-delayed-to-2027",
-      "description": "Publisher Shueisha Games has the adventure on display at Tokyo Game Show",
-      "pubDate": "2026-09-18T17:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/1a60c288da/un-me.png"
-    },
-    {
-      "id": "cr-cmFpbGVycw",
-      "title": "The Eccentric Doctor of the Moon Flower Kingdom Anime Shares Koyou and Keiun Character Trailers",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/the-eccentric-doctor-of-the-moon-flower-kingdom-anime-koyou-keiun-character-trailers",
-      "description": "Koichiro Kuroda directs the drama series at Studio Elle",
-      "pubDate": "2026-09-18T16:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/4b082eab81/eccentric-doctor-pv1.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Magical Explorer Anime Introduces Ludie in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/magical-explorer-anime-introduces-ludie-in-new-character-trailer",
-      "description": "The series premieres October 3 on Crunchyroll",
-      "pubDate": "2026-09-18T16:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/6e347aa4ae/magical-explorer-ludie-hero.png"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Magical Sisters Lulutto Lilly Anime Spotlights CompatoLilly in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/magical-sisters-lulutto-lilly-anime-compatolilly-character-trailer",
-      "description": "The magical girl series returns on October 4",
-      "pubDate": "2026-09-18T16:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/661944b497/magical-sisters-lulutto-lilly-hero.png"
-    },
-    {
-      "id": "ann-LjI0MTk0OA",
-      "title": "Your Anime Rankings - Best of Summer 2026, Sep 9-15",
-      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.241948",
-      "description": "Goodbye, Lara finally grabs the #1 spot this week after hovering near it all season. Meanwhile, Iruma-kun and Iron Wok Jan have come a long way since the beginning of the season.",
-      "pubDate": "2026-09-18T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Pokémon Horizons Anime Introduces Loyal Three, Treasures of Ruin in New Trailer and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/pokemon-horizons-anime-loyal-three-treasures-of-ruin-new-trailer-visual",
-      "description": "Ogerpon and the Loyal Three debuted in Scarlet and Violet DLC",
-      "pubDate": "2026-09-18T16:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/3517ce9b50/pokemon-horizons-hero2.png"
-    },
-    {
-      "id": "cr-LWFyZS15b3U",
-      "title": "Which Clevatess Character Are You?",
-      "link": "https://crunchyroll.com/news/quizzes/2026/9/18/which-clevatess-character-are-you",
-      "description": "Are you the monster, the hero, the nanny or the mage?",
-      "pubDate": "2026-09-18T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/8ff0aeb768/clevatess-s1-e9-clevatess-family.jpg"
-    },
-    {
-      "id": "cr-bmctdmlkZW8",
-      "title": "VERTEX FORCE Anime Shares Creditless Opening Sequence Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/vertex-force-anime-creditless-opening-video",
-      "description": "Crunchyroll streams the original series beginning October 3",
-      "pubDate": "2026-09-18T15:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/db5f640182/vertex_force_header.jpg"
-    },
-    {
-      "id": "cr-ZS1zb25ncw",
-      "title": "Dreamland Animated Series Shares New Trailer, Opening and Ending Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/dreamland-animated-series-shares-trailer-2-japanese-opening-ending-theme-songs",
-      "description": "The series will stream on Crunchyroll starting October 16",
-      "pubDate": "2026-09-18T15:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/9313c4597f/dreamland-animation-hero.png"
-    },
-    {
-      "id": "cr-aGVtZS1zb25n",
-      "title": "Even the Student Council Has Its Holes! Anime Shares New Trailer, Ending Theme Song",
-      "link": "https://crunchyroll.com/news/latest/2026/9/18/even-the-student-council-has-its-holes-anime-main-trailer-2-ending-theme-song",
-      "description": "The series based on Muchimaro's manga premieres October 3",
-      "pubDate": "2026-09-18T15:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/1ee6926d8c/even-the-student-council-has-its-holes-hero.png"
     }
   ]
 };
