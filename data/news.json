@@ -1,6 +1,236 @@
 {
-  "lastUpdated": "2026-09-21T11:12:25.939Z",
+  "lastUpdated": "2026-09-21T17:15:58.543Z",
   "items": [
+    {
+      "id": "cr-ay1pbi0yMDI3",
+      "title": "Lufia I & II: The Sinistrals Saga Brings Two Classic RPGs Back in 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/21/lufia-the-sinistrals-saga-brings-two-classic-rpgs-back-in-2027",
+      "description": "Clear River Games to publish the collection in the west",
+      "pubDate": "2026-09-21T17:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/56800a9228/lufia-games.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwNTM",
+      "title": "Sanrio Kawaii Me Live! Rhythm Game Launches for Smartphones in January 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/sanrio-kawaii-me-live-rhythm-game-launches-for-smartphones-in-january-2027/.242053",
+      "description": "Concept promotional video streamed for Sanrio Games' 1st smartphone game",
+      "pubDate": "2026-09-21T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/news.9/242053/sanrio-kawaii-me-live.png.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyMDQ3",
+      "title": "Suikoden II Game Gets Stage Play in July 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/suikoden-ii-game-gets-stage-play-in-july-2027/.242047",
+      "description": "Sequel stage play runs in Tokyo on July 3-19, Osaka on July 24-25",
+      "pubDate": "2026-09-21T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/news.9/242047/suikoden-stage-play.jpg"
+    },
+    {
+      "id": "cr-aS1hbmltZQ",
+      "title": "Why The Elusive Samurai Is Such a Refreshing Samurai Anime",
+      "link": "https://crunchyroll.com/news/features/2026/9/21/the-elusive-samurai-a-refreshing-samurai-anime",
+      "description": "A forgotten heir, a forgotten era, and a hero whose signature move is getting away",
+      "pubDate": "2026-09-21T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/8199b2cb08/the-elusive-samurai-season-1-episode-2.png"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "Grand Blue Dreaming Season 4 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/21/grand-blue-dreaming-season-4-anime-announced",
+      "description": "Production plans confirmed along with new visual",
+      "pubDate": "2026-09-21T15:51:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/625fc7772f/grand-blue-dreaming-s3-e11.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwNTA",
+      "title": "Grand Blue Dreaming Anime Gets 4th Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/grand-blue-dreaming-anime-gets-4th-season/.242050",
+      "description": "3rd season concluded on Monday",
+      "pubDate": "2026-09-21T15:43:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL8/cms/news.9/242050/grand-blue-dreaming-season-4.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Grand Blue' Fourth Season in Production",
+      "link": "https://myanimelist.net/news/74743342?_location=rss",
+      "description": "The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3) ended with an announcement on Tuesday that a fourth season is in production. The official website also revealed an announcement visual (pictured). Produced by Zero-G, the first season aired in 12 episodes in Summer 2018. The second season aired in Summer 2025. A third season produced by Zero-G and Saber Works premiered on July 7. Amazon Prime Video streamed the first season, with Crunchyroll simulcasted the second a...",
+      "pubDate": "2026-09-21T15:39:14.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790004825-fa1f472440aec539007984f0964ef1a7.jpeg"
+    },
+    {
+      "id": "cr-ZGUtdmlzdWFs",
+      "title": "DIGIMON BEATBREAK Anime Teases Final Episode with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/21/digimon-beatbreak-anime-final-episode-visual",
+      "description": "The series is streaming on Crunchyroll",
+      "pubDate": "2026-09-21T15:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/5556584e3a/digimon-beatbreak47.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAzOA",
+      "title": "Castlevania: Belmont's Curse Took Me on a Trip to My Early Childhood Video Gaming",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/castlevania-belmont-curse-took-me-on-a-trip-to-my-early-childhood-video-gaming/.242038",
+      "description": "Traumatic \"Nintendo Hard\" flashbacks included.",
+      "pubDate": "2026-09-21T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/convention/242038/castelvania-belmonts-curse-first-boss.jpeg"
+    },
+    {
+      "id": "cr-ZXMtdm9sLTcz",
+      "title": "Crunchyroll News Puzzles Vol. 73: Make the Shortlist and Dodging Dreams",
+      "link": "https://crunchyroll.com/news/quizzes/2026/9/21/anime-crosswords-puzzles-vol-73",
+      "description": "Test your anime knowledge with our latest puzzle collection!",
+      "pubDate": "2026-09-21T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
+    },
+    {
+      "id": "ann-Ly4yNDIwNDY",
+      "title": "1st 2 Lufia SNES RPGs Get Collection in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046",
+      "description": "Lufia 1 and 2 The Sinistrals Saga includes 1993 original, 1995 prequel",
+      "pubDate": "2026-09-21T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/_l-QB7iN4pc.jpg"
+    },
+    {
+      "id": "cr-cy1jb2xsYWI",
+      "title": "Kura Sushi USA and Crunchyroll Team Up for The Apothecary Diaries Collab",
+      "link": "https://crunchyroll.com/news/latest/2026/9/21/kura-sushi-usa-crunchyroll-apothecary-diaries-collab",
+      "description": "Menu items, collectible prizes and more available through October 31",
+      "pubDate": "2026-09-21T14:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2000x1063/9e39e9205d/apothecary-now-available-desk.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwMjM",
+      "title": "One Piece Meets Restaurant Management in One Piece: Grand Gourmet",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023",
+      "description": "The only fighting you're going to see is the kitchen staff fighting the orders.",
+      "pubDate": "2026-09-21T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/convention/242023/oppixel.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwNDU",
+      "title": "Remow Launches 'It's Anime' Free Ad-Supported Channel on Live TV on PS5, Pluto TV, Prime Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045",
+      "description": "Channel reveals 1st original program Tomodachi Talks with SungWon Cho, AJ Beckles",
+      "pubDate": "2026-09-21T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN5/youtube/anXLl0LHw-U.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Magical Sisters Lulutto Lilly Anime Reintroduces MashuLulu in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/21/magical-sisters-lulutto-lilly-anime-mashululu-character-trailer",
+      "description": "The magical girl series returns on October 4",
+      "pubDate": "2026-09-21T14:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/466ae42445/magical-sisters-lulutto-lilly-mashululu.png"
+    },
+    {
+      "id": "ann-Ly4yNDE5OTc",
+      "title": "Cupid Parasite Visual Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997",
+      "description": "Lighthearted for the most part but serious when it needs to be, this is a sheer delight.",
+      "pubDate": "2026-09-21T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSA/cms/game-review/241997/cupidparasite-keyart.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAyNA",
+      "title": "Relive Attack on Titan's Greatest Moments in Attack on Titan 3",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/relive-attack-on-titan-greatest-moments-in-attack-on-titan-3/.242024",
+      "description": "Or get eaten by a Titan while trying.",
+      "pubDate": "2026-09-21T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS9/cms/convention/242024/aot-3-tgs2026-screenshot.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwMzk",
+      "title": "New Resident Evil Reboot Film Opens at #1 at U.S. Box Office With US$60 Million",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/new-resident-evil-reboot-film-opens-at-no.1-at-u.s-box-office-with-usd60-million/.242039",
+      "description": "Also: The Transformers: The Movie 4K re-release ranked at #8",
+      "pubDate": "2026-09-21T13:06:07.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.9/242039/resident.jpg"
+    },
+    {
+      "id": "ann-by8uMjQxNTUw",
+      "title": "From Chainsaw Man to A Silent Voice, Music Composer kensuke ushio",
+      "link": "https://www.animenewsnetwork.com/interview/2026-09-21/from-chainsaw-man-to-a-silent-voice-music-composer-kensuke-ushio/.241550",
+      "description": "kensuke ushio sat down with us to talk about his craft and process. He also dived deep into how he compiled the soundtrack for Chainsaw Man – The Movie: Reze Arc and navigates the music business.",
+      "pubDate": "2026-09-21T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/youtube/n5LBuMNoD6c.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE2OTE",
+      "title": "This Week in Mobile Games - The Legend of the Zelda-likes",
+      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-21/.241691",
+      "description": "There have been so many so-called \"Zelda-likes\" over the years that it'd be a waste of time to try to list them all, but Josh is going to do his best.",
+      "pubDate": "2026-09-21T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/gxBjDGc4YCg.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAxNQ",
+      "title": "Yuika Performs Promise Me the Spotlight Anime's Opening Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/yuika-performs-promise-me-the-spotlight-anime-opening-song/.242015",
+      "description": "Yuika performs \"Nanimono demo nakatta Watashi dakara\" opening theme",
+      "pubDate": "2026-09-21T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.9/239418/center.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAyNQ",
+      "title": "That Time I Got Carded Playing LOLLIPOP CHAINSAW 2: Back2Back",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/that-time-i-got-carded-playing-lollipop-chainsaw-2-back2back/.242025",
+      "description": "Of all the games I've played at TGS over the years, this is the first time I've ever had to show ID—and I'm not sure why that was.",
+      "pubDate": "2026-09-21T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAB/youtube/iacKQtesXlQ.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwMjA",
+      "title": "Action-RPG Combat Meets Turn-Based Combat in FAREIDOLIA",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/action-rpg-combat-meets-turn-based-combat-in-fareidolia/.242020",
+      "description": "Imagine Valkyria Chronicles without a movement limit.",
+      "pubDate": "2026-09-21T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0Y/cms/convention/242020/main-image-fareidolia.jpeg"
+    },
     {
       "id": "cr-d2Vla2VuZA",
       "title": "Star Detective Precure! Anime Film Scores Franchise's Biggest Opening Weekend",
@@ -309,7 +539,7 @@
       "pubDate": "2026-09-20T05:27:15.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/67GqhfLw3ys.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -349,7 +579,7 @@
       "pubDate": "2026-09-20T03:20:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/cms/news.9/242003/thumbnail.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQxOTQ2",
@@ -359,7 +589,7 @@
       "pubDate": "2026-09-20T01:12:37.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.9/235427/cherryandvirgin.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjAwMA",
@@ -369,236 +599,6 @@
       "pubDate": "2026-09-20T00:41:28.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.9/242000/hsjfqh3asaaknyr.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Winners of Next Manga Award 2026 Announced",
-      "link": "https://myanimelist.net/news/74737075?_location=rss",
-      "description": "The winners of Kadokawa's annual Next Manga Award were announced on Wednesday. The awards ceremony was streamed on Niconico on the same day. Out of the 7,952 titles that were submitted for the award, 100 titles (40 print manga, 60 web manga) were nominated by a special commitee for the final round of voting. A total of 382,581 votes were cast by fans this year. Print Manga &ensp;1. Someone Hertz &ensp;2. Futari Bus &ensp;3. Register! &ensp;4. Parashoppers &ensp;5. Silver Mountain &ensp;6. M...",
-      "pubDate": "2026-09-19T21:29:52.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789852378-883be78c6adc231883cf48b6f7020f1a.jpeg"
-    },
-    {
-      "id": "ann-MC8uMjQxOTk0",
-      "title": "The Elusive Samurai Season 2 ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-10/.241994",
-      "description": "I love how the show uses its signature dips into abstract phantasmagoria to demonstrate just how terrifying and dangerous Takauji truly is.",
-      "pubDate": "2026-09-19T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/episode-review.5/241994/elusive-samurai-s2-ep-10-review.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5OTI",
-      "title": "Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 23",
-      "link": "https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-23/.241992",
-      "description": "What changed in him to make him turn down Baal's offer? The easy answer is “Iruma.”",
-      "pubDate": "2026-09-19T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/episode-review.5/241992/iruma-s4-23.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5ODE",
-      "title": "Smoking Behind the Supermarket with You ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-11/.241981",
-      "description": "It’s rare for a piece of media to feel so hyperrelevant to my personal and professional life; I needed the little nudge this episode gave me to get my work-life balance back in order.",
-      "pubDate": "2026-09-19T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/episode-review.5/241981/supermarket-smoking-episode-11-review-image.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MTQ5OQ",
-      "title": "Marvel Tokon Fighting Souls Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/playstation-5-pc/steam/marvel-tokon-fighting-souls/.241499",
-      "description": "It's a tour de force that looks like nothing you've seen before, while also rooted in a profound appreciation for Marvel characters and broader fighting games as a culture.",
-      "pubDate": "2026-09-19T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRV/cms/game-review/241499/tokonsplash.jpg"
-    },
-    {
-      "id": "ann-LjI0MTk5MA",
-      "title": "Daemons of the Shadow Realm Anime Gets 2nd Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/daemons-of-the-shadow-realm-anime-gets-2nd-season/.241990",
-      "description": "First season's part 2 ended on Sunday",
-      "pubDate": "2026-09-19T15:43:09.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.9/241990/hskek4hbiaa2-uu.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQxOTY1",
-      "title": "The Resident Evil Remake Switch 2 Ports Look and Feel Great",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/the-resident-evil-remake-switch-2-ports-look-and-feel-great/.241965",
-      "description": "You might be worried about how these Resident Evil games run on the Switch 2. Don't be.",
-      "pubDate": "2026-09-19T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ0/cms/convention/241965/nsw2-bh-re2-ss-03.jpeg"
-    },
-    {
-      "id": "ann-MS8uMjQxOTgw",
-      "title": "Young Ladies Don't Play Fighting Games ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-11/.241980",
-      "description": "Arisa is exactly the type of player—an all too real type of player, unfortunately—with no respect for people she doesn’t perceive as taking the game seriously.",
-      "pubDate": "2026-09-19T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8M/cms/episode-review.5/241980/yl-3.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Yomi no Tsugai' Second Season in Production",
-      "link": "https://myanimelist.net/news/74736072?_location=rss",
-      "description": "The 24th and final episode of the Yomi no Tsugai (Daemons of the Shadow Realm) television anime ended with a second season announcement on Sunday, revealing an announcement promo, visual (pictured), and additional cast pair. Voice actors Jin Urayama (Summertime Render), as well as Hikaru Tanaka (Skip to Loafer) and Hayata Ookawa, are joining the cast as Shachou and Saishin, respectively. Produced by Bones Film, the anime series adapting Hiromu Arakawa's action fantasy manga began airing on...",
-      "pubDate": "2026-09-19T15:22:25.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789831265-8581a0e24443ce8c8e2e8022a8365869.jpeg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "Daemons of the Shadow Realm Season 2 Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/daemons-of-the-shadow-realm-season-2-anime-announced",
-      "description": "Crunchyroll streams the full first season",
-      "pubDate": "2026-09-19T15:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/126d3499f2/daemons-of-the-shadow-realm.jpg"
-    },
-    {
-      "id": "cr-ZXctMjAyNg",
-      "title": "Anime Artwork Is Born From the Human Hand: A Conversation With Yoshitaka Amano",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/19/yoshitaka-amano-anime-expo-interview-2026",
-      "description": "“It’s because I am an artist who draws,” says Yoshitaka Amano.",
-      "pubDate": "2026-09-19T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/ae0dcbe139/zan.png"
-    },
-    {
-      "id": "ann-Ly4yNDE5NjY",
-      "title": "Chainsmoker Cat ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-11/.241966",
-      "description": "This week sees the show dramatically paring down its raunchy excess to provide an experience that is almost — dare I say it? — normal.",
-      "pubDate": "2026-09-19T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIJ/cms/episode-review.5/241966/chainsmoker-cat-11.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5NjI",
-      "title": "Final Fantasy VII Revelation and Beyond: An Interview with Director Naoki Hamaguchi",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/final-fantasy-vii-revelation-and-beyond-an-interview-with-director-naoki-hamaguchi/.241962",
-      "description": "We spoke about lessons learned, how things will change in Revelation, and the delicate dance of putting a new twist on one of the most beloved games of all time.",
-      "pubDate": "2026-09-19T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGU/cms/interview/241962/ff7b.jpg"
-    },
-    {
-      "id": "ann-MS8uMjQxOTQ3",
-      "title": "Tomb Raider King ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/tomb-raider-king/episode-11/.241947",
-      "description": "And the sheer novelty and hilarious imagery of the earth worm being showered with money got a big laugh out of me.",
-      "pubDate": "2026-09-19T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/cms/episode-review.5/241947/tomraid11.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Neko to Ryuu' Second Season Announced for 2027",
-      "link": "https://myanimelist.net/news/74735782?_location=rss",
-      "description": "The 12th and final episode of Neko to Ryuu (The Cat and the Dragon) ended with an announcement on Saturday that a second season is in production. The series director, Jin-koo Oh drew an illustrations to commemorate the announcement (pictured). The anime series will premiere in 2027. Produced by OLM, the first anime season adapting Amara's fantasy light novel aired in 12 episodes on July 4. Crunchyroll simulcasted the anime with subtitles in multiple languages. Amara began writing the fantas...",
-      "pubDate": "2026-09-19T13:14:49.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789823619-dfed4dcdfdba32063c757b403de1f5ab.jpeg"
-    },
-    {
-      "id": "ann-LjI0MTk4Ng",
-      "title": "The Cat and the Dragon Anime Gets 2nd Season in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/the-cat-and-the-dragon-anime-gets-2nd-season-in-2027/.241986",
-      "description": "Announced after first season ended on Saturday",
-      "pubDate": "2026-09-19T13:08:17.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/youtube/K7f4bwOq87c.jpg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "You and I Are Polar Opposites Season 2 Anime Releases Graduation Day Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/you-and-i-are-polar-opposites-season-2-anime-graduation-day-visual",
-      "description": "The next episode will air in Japan on September 27",
-      "pubDate": "2026-09-19T12:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/4877288f9a/you-and-i-are-polar-opposites-season-2-ed-hero.png"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Overgeared Anime Introduces Protagonist Grid in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/overgeared-anime-protagonist-grid-character-trailer",
-      "description": "Crunchyroll will stream the manhwa adaptation",
-      "pubDate": "2026-09-19T12:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2fd3e4afff/overgeared-grid-hero.png"
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "The Cat and the Dragon Season 2 Announced, Will Stream on Crunchyroll",
-      "link": "https://crunchyroll.com/news/latest/2026/9/19/the-cat-and-the-dragon-season-2-anime-announced-stream-crunchyroll",
-      "description": "The first season aired from July to September 2026",
-      "pubDate": "2026-09-19T12:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/75dcf9e393/the-cat-and-the-dragon.png"
-    },
-    {
-      "id": "ann-Ly4yNDE5MjU",
-      "title": "Clevatess Season 2 ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/clevatess-season-2/episode-11/.241925",
-      "description": "For all of the body-shredding violence Alicia has had to endure as Clevatess' vassal, I don't think any strike has cut quite as deep as this vision of the peaceful life she might have shared with her loved ones.",
-      "pubDate": "2026-09-19T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTk2NA",
-      "title": "Go on a 3-in-1 Hunt in Monster Hunter Wilds: Ascendance",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/go-on-a-3-in-1-hunt-in-monster-hunter-wilds-ascendance/.241964",
-      "description": "Apha Araketa is a whole different kind of monster than you're used to.",
-      "pubDate": "2026-09-19T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5Nzg",
-      "title": "Sanrio's Fragaria Memories: Color of Wishes Smartphone Game Gets Worldwide Release in Fall 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/sanrio-fragaria-memories-color-of-wishes-smartphone-game-gets-worldwide-release-in-fall-2027/.241978",
-      "description": "New promo video streamed",
-      "pubDate": "2026-09-19T11:17:33.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTk3Mw",
-      "title": "ATASHIn'CHI Next Net Anime Gets New Episodes",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-19/atashinchi-next-net-anime-gets-new-episodes/.241973",
-      "description": "Chainsmoker Cat director Taku Kimura will direct new episodes",
-      "pubDate": "2026-09-19T10:59:26.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
