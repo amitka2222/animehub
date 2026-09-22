@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-22T15:48:20.414Z",
+  "lastUpdated": "2026-09-22T20:32:29.145Z",
   "items": [
+    {
+      "id": "ann-LjI0MjA3OQ",
+      "title": "Chiruran: Shinsengumi Requiem, Rappa: Yankee Ninpū Chō Manga Artist Eiji Hashimoto Confirms Full Hearing Loss in Right Ear",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/chiruran-shinsengumi-requiem-rappa-yankee-ninpu-cho-manga-artist-eiji-hashimoto-confirms-full-/.242079",
+      "description": "Hashimoto temporarily lost hearing in right ear after being diagnosed with sudden hearing loss in April",
+      "pubDate": "2026-09-22T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.9/237841/81arseomv4l.sl1500.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA2Ng",
+      "title": "Magilumiere Co. Ltd. Creator Yū Aoki, Ya Boy Kongming! Creator Yuto Yotsuba Launch New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/magilumiere-co-ltd-creator-yu-aoki-ya-boy-kongming-creator-yuto-yotsuba-launch-new-manga/.242066",
+      "description": "Ya Boy Kongming! creator credited with original story for Boat Girl series",
+      "pubDate": "2026-09-22T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY3/cms/news.9/242066/hsgg2lxasai27op.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyMDkw",
+      "title": "Kakao Entertainment to Shut Down N. American Webtoon Platform Tapas",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/kakao-entertainment-to-shut-down-n-american-webtoon-platform-tapas/.242090",
+      "description": "Kakao Entertainment plans to notify publishers and rights holders about the Tapas shutdown on Tuesday",
+      "pubDate": "2026-09-22T18:26:03.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.8/224338/kakaoentlogo.svg.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAzNg",
+      "title": "This Week in Anime - The Prophetic Visions of Cyberpunk Anime",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-22/.242036",
+      "description": "Sylvia and Lucas ask the big questions, like \"Is the entire cyberpunk genre prophetic?\"",
+      "pubDate": "2026-09-22T17:51:34.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJO/cms/this-week-in-anime/242036/sylvia29.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyMDg5",
+      "title": "Though I Am an Inept Villainess ‒ Episode 11",
+      "link": "https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-11/.242089",
+      "description": "This world needs both butterflies and rats.",
+      "pubDate": "2026-09-22T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/episode-review.5/242089/inept-villainess-11.png.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyMDg1",
+      "title": "Singer, Composer Duncan Sheik Dies",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/singer-composer-duncan-sheik-dies/.242085",
+      "description": "Sheik wrote music/lyrics for upcoming American stage musical of Memoirs of Amorous Gentlemen manga",
+      "pubDate": "2026-09-22T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.9/242085/duncan-sheik.png.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Super Psychic Policeman Chojo Anime Reveals Theme Song Performers in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/22/super-psychic-policeman-chojo-anime-theme-song-performers-new-trailer",
+      "description": "Adaptation based on Shun Numa's manga broadcasts beginning October 6",
+      "pubDate": "2026-09-22T16:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x542/9407bd447b/policeman-chojo-pv.jpg"
+    },
+    {
+      "id": "cr-MjQtcmVjYXA",
+      "title": "Daemons of the Shadow Realm Episode 24 Recap, “Higashi Village and Nishino Village”",
+      "link": "https://crunchyroll.com/news/features/2026/9/22/daemons-of-the-shadow-realm-episode-24-recap",
+      "description": "Sorry not sorry",
+      "pubDate": "2026-09-22T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/b645bc04dd/daemons-of-the-shadow-realm-episode-24.png"
+    },
+    {
+      "id": "ann-LjI0MTg2Mg",
+      "title": "A Livid Lady's Guide to Getting Even Volumes 1-7 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/a-livid-lady-guide-to-getting-even/volumes-1-7/.241862",
+      "description": "Ellie is perhaps the most morally gray villainess I’ve seen in an otome story. She’s a villainess with a body count: 103. And that’s only counting CHILDREN she’s killed.",
+      "pubDate": "2026-09-22T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g34/cms/review.2/241862/livid-lady.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwODg",
+      "title": "Super Psychic Policeman Chojo Anime's 2nd Promo Video Reveals Theme Songs",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/super-psychic-policeman-chojo-anime-2nd-promo-video-reveals-theme-songs/.242088",
+      "description": "M!LK, Shifuku Poncho perform theme songs for October 6 anime",
+      "pubDate": "2026-09-22T15:55:08.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY4/youtube/rYpXoCdTNQI.jpg"
+    },
     {
       "id": "ann-Ly4yNDIwODc",
       "title": "Goodbye, Lara ‒ Episode 12",
@@ -300,7 +400,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g70/cms/news.9/242026/hsqvtczakaasxbp.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjAyOA",
@@ -310,7 +410,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRA/cms/news.9/242028/tea-princess.png.jpg"
+      "image": null
     },
     {
       "id": "cr-ay1pbi0yMDI3",
@@ -330,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/news.9/242053/sanrio-kawaii-me-live.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQyMDQ3",
@@ -340,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHP/cms/news.9/242047/suikoden-stage-play.jpg"
+      "image": null
     },
     {
       "id": "cr-aS1hbmltZQ",
@@ -370,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T15:43:25.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL8/cms/news.9/242050/grand-blue-dreaming-season-4.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -400,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/convention/242038/castelvania-belmonts-curse-first-boss.jpeg"
+      "image": null
     },
     {
       "id": "cr-ZXMtdm9sLTcz",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/_l-QB7iN4pc.jpg"
+      "image": null
     },
     {
       "id": "cr-cy1jb2xsYWI",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/convention/242023/oppixel.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwNDU",
@@ -500,106 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE2OTE",
-      "title": "This Week in Mobile Games - The Legend of the Zelda-likes",
-      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-09-21/.241691",
-      "description": "There have been so many so-called \"Zelda-likes\" over the years that it'd be a waste of time to try to list them all, but Josh is going to do his best.",
-      "pubDate": "2026-09-21T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjAxNQ",
-      "title": "Yuika Performs Promise Me the Spotlight Anime's Opening Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/yuika-performs-promise-me-the-spotlight-anime-opening-song/.242015",
-      "description": "Yuika performs \"Nanimono demo nakatta Watashi dakara\" opening theme",
-      "pubDate": "2026-09-21T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjAyNQ",
-      "title": "That Time I Got Carded Playing LOLLIPOP CHAINSAW 2: Back2Back",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/that-time-i-got-carded-playing-lollipop-chainsaw-2-back2back/.242025",
-      "description": "Of all the games I've played at TGS over the years, this is the first time I've ever had to show ID—and I'm not sure why that was.",
-      "pubDate": "2026-09-21T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMjA",
-      "title": "Action-RPG Combat Meets Turn-Based Combat in FAREIDOLIA",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/action-rpg-combat-meets-turn-based-combat-in-fareidolia/.242020",
-      "description": "Imagine Valkyria Chronicles without a movement limit.",
-      "pubDate": "2026-09-21T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-d2Vla2VuZA",
-      "title": "Star Detective Precure! Anime Film Scores Franchise's Biggest Opening Weekend",
-      "link": "https://crunchyroll.com/news/latest/2026/9/21/star-detective-precure-anime-film-biggest-opening-weekend",
-      "description": "The movie earned over 100 million yen on its first day alone",
-      "pubDate": "2026-09-21T04:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/095936d61b/star-detective-precure-film.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kekkaishi no Ichirinka' Unveils Additional Cast, Second Teaser Promo",
-      "link": "https://myanimelist.net/news/74741587?_location=rss",
-      "description": "The official website for the television anime adaptation of Kureha's Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Onmyou Kaiten Re:Birt...",
-      "pubDate": "2026-09-21T03:21:01.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789960794-62430c8f03e7a078834d7431ed34d672.jpeg"
-    },
-    {
-      "id": "cr-b25hbC1jYXN0",
-      "title": "Bride of the Barrier Master Anime Unveils New Trailer, Visual, and Additional Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/21/bride-of-the-barrier-master-anime-new-trailer-visual-additional-cast",
-      "description": "The romantic fantasy series will premiere in January 2027",
-      "pubDate": "2026-09-21T03:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/2906b058ab/bride-of-the-barrier-master-teaser-trailer.png"
-    },
-    {
-      "id": "ann-LjI0MjAxMw",
-      "title": "Bride of the Barrier Master TV Anime Reveals 5 More Cast in New Teaser Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/bride-of-the-barrier-master-tv-anime-reveals-5-more-cast-in-new-teaser-video/.242013",
-      "description": "Kanon Takao, Hiroto Shimizu, Yuzuki Tamukai, Taihi Kimura, M.A.O join cast of series debuting in January",
-      "pubDate": "2026-09-21T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-dW5pbWluaQ",
-      "title": "Emunimini Shares Iron Wok Jan! Ending Song Anime Version Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/21/iron-wok-jan-ending-song-anime-version-music-video-emunimini",
-      "description": "Crunchyroll streamed The new cooking anime series",
-      "pubDate": "2026-09-21T02:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/72a1d889d0/iron-wok-jan-ending-mv.png"
-    },
-    {
-      "id": "ann-Ly4yNDIwMjI",
-      "title": "Magical Girl Raising Project Light Novels Get Stage Play",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/magical-girl-raising-project-light-novels-get-stage-play/.242022",
-      "description": "Stage play runs January 8-13 in Tokyo",
-      "pubDate": "2026-09-21T01:46:36.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
       "image": null
     }
   ]
