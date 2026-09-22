@@ -1,7 +1,87 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-22T10:26:00.152Z",
+  "lastUpdated": "2026-09-22T15:48:20.414Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIwODc",
+      "title": "Goodbye, Lara ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/goodbye-lara/episode-12/.242087",
+      "description": "Through the constant retelling and reimagining of his tales, Andersen lives on. If that isn't true love, I don't know what is.",
+      "pubDate": "2026-09-22T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/episode-review.5/242087/lara-12.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA4Ng",
+      "title": "Tokyopop's Public Stock Shares Offer Ends on September 24",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/tokyopop-public-stock-shares-offer-ends-on-september-24/.242086",
+      "description": "Publisher revealed plans for public stock shares originated 20 years ago",
+      "pubDate": "2026-09-22T15:01:20.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7T/cms/news.6/195610/tp-logo.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA2NQ",
+      "title": "Silent Witch Author Matsuri Isora Announces New Fantasy Novel",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/silent-witch-author-matsuri-isora-announces-new-fantasy-novel/.242065",
+      "description": "1st Bōkyaku no Curse Knight \"knight fantasy\" volume ships on November 13",
+      "pubDate": "2026-09-22T13:31:30.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDD/cms/news.9/242065/hszjsejawaavmkf.jpg"
+    },
+    {
+      "id": "cr-aWJpdGlvbg",
+      "title": "Made in Abyss Manga Reproduction Artwork Exhibition Launches This October in Japan",
+      "link": "https://crunchyroll.com/news/latest/2026/9/22/made-in-abyss-manga-reproduction-artwork-exhibition",
+      "description": "The event will run from October 24 to November 29",
+      "pubDate": "2026-09-22T13:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x563/f74af42f0f/made-in-abyss.jpg"
+    },
+    {
+      "id": "cr-aWJpdGlvbg",
+      "title": "Manga Artist Yoshihiro Takahashi Hosts 55th Anniversary Exhibition in Akita Prefecture",
+      "link": "https://crunchyroll.com/news/latest/2026/9/22/manga-artist-yoshihiro-takahashi-55th-anniversary-exhibition",
+      "description": "The event is now underway and will run until November 8",
+      "pubDate": "2026-09-22T13:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1024x556/c43a7c444e/2026_yoshi_ticket-ura-1024x556.jpg"
+    },
+    {
+      "id": "cr-bC12aXN1YWw",
+      "title": "Goodbye, Lara Anime Celebrates Story Conclusion with Memorial Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/22/goodbye-lara-anime-celebrates-story-conclusion-with-memorial-visual",
+      "description": "Crunchyroll streams original series inspired by The Little Mermaid",
+      "pubDate": "2026-09-22T12:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8ab9247c0f/goodbye-lara-7.jpg"
+    },
+    {
+      "id": "cr-Zm9ybWVycw",
+      "title": "Nia Liston: The Merciless Maiden Anime Reveals Ending Theme Song Performers",
+      "link": "https://crunchyroll.com/news/latest/2026/9/22/nia-liston-the-merciless-maiden-anime-ending-theme-song-performers",
+      "description": "Light novel adaptation broadcasts in Japan beginning October 6",
+      "pubDate": "2026-09-22T12:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/224a39c7d0/nia_liston_the_merciless_maiden_header2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwNzI",
+      "title": "Iron Wok Jan! ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/iron-wok-jan/episode-12/.242072",
+      "description": "This bright and cheery final note felt way too saccharine and by-the-numbers from a series which has spent three months zigging whenever I thought it would zag.",
+      "pubDate": "2026-09-22T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/242072/ironwok12.png.jpg"
+    },
     {
       "id": "ann-LjI0MjA4Mg",
       "title": "Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists",
@@ -370,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN5/youtube/anXLl0LHw-U.jpg"
+      "image": null
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -390,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSA/cms/game-review/241997/cupidparasite-keyart.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjAyNA",
@@ -400,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS9/cms/convention/242024/aot-3-tgs2026-screenshot.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwMzk",
@@ -410,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T13:06:07.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.9/242039/resident.jpg"
+      "image": null
     },
     {
       "id": "ann-by8uMjQxNTUw",
@@ -521,86 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Live-Action",
       "image": null
-    },
-    {
-      "id": "cr-b25vZ2FrYXJp",
-      "title": "Ikimonogakari Releases Goodbye, Lara Anime Opening Song Special Memorial Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/21/goodbye-lara-anime-opening-song-special-memorial-music-video-Ikimonogakari",
-      "description": "Crunchyroll streamed the Kinema Citrus-produced original series",
-      "pubDate": "2026-09-21T01:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/92b3b96681/goodbye-lala-special-mv.png"
-    },
-    {
-      "id": "ann-bS8uMjQxOTkx",
-      "title": "RESIDENT EVIL (2026) Live-Action Film Review",
-      "link": "https://www.animenewsnetwork.com/review/resident-evil/live-action-film/.241991",
-      "description": "This movie has earned the right to carve the name of RESIDENT EVIL in jagged letters onto its very bones.",
-      "pubDate": "2026-09-20T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MTkzNw",
-      "title": "Japan's Video Game Rankings, September 7-13",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/japan-video-game-rankings-september-7-13/.241937",
-      "description": "Onimusha: Way of the Sword PS5 game ranks at #2 in 2nd week",
-      "pubDate": "2026-09-20T18:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5Mzg",
-      "title": "Japanese Animation TV Ranking, September 7-13",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/japanese-animation-tv-ranking-september-7-13/.241938",
-      "description": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke earns 3.1% rating",
-      "pubDate": "2026-09-20T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjAyMQ",
-      "title": "Tokyo Game Show 2026 Draws 257,642 Attendees",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/tokyo-game-show-2026-draws-257642-attendees/.242021",
-      "description": "Attendance numbers slightly lower than last year's numbers",
-      "pubDate": "2026-09-20T16:13:40.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE2MzM",
-      "title": "Hans Christian Andersen's The Little Mermaid Anime Film Review",
-      "link": "https://www.animenewsnetwork.com/review/hans-christian-andersen-the-little-mermaid/anime-film/.241633",
-      "description": "No matter how you feel about the story, as a piece of anime history, this is more than worthwhile.",
-      "pubDate": "2026-09-20T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Futsutsuka na Akujo dewa Gozaimasu ga' Second Part Announced for Winter 2027",
-      "link": "https://myanimelist.net/news/74739206?_location=rss",
-      "description": "The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajimete no Gaiyuu-hen, will premiere in January 2027. The official website also revealed three additional cast members and a key visual (pictured). Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no Frieren) Produced by Doga Kobo, t...",
-      "pubDate": "2026-09-20T15:44:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1789918911-e798a3313ca887d28217f6131cb73569.jpeg"
-    },
-    {
-      "id": "cr-bmNoeXJvbGw",
-      "title": "Though I Am an Inept Villainess Announces Cour 2 in Production, Will Stream on Crunchyroll",
-      "link": "https://crunchyroll.com/news/latest/2026/9/20/though-i-am-an-inept-villainess-cour-2-january-2027-stream-crunchyroll",
-      "description": "The second cour will premiere in January 2027",
-      "pubDate": "2026-09-20T15:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/9fa5ed19e3/though-i-am-an-inept-villainess.jpg"
     }
   ]
 };
