@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-22T02:00:28.903Z",
+  "lastUpdated": "2026-09-22T10:26:00.152Z",
   "items": [
+    {
+      "id": "ann-LjI0MjA4Mg",
+      "title": "Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082",
+      "description": "Honoka Inoue, Rina Honnizumi, Rina Hidaka sing  \"Tokimeki Un・Deux・Trois♪\" ending as their characters",
+      "pubDate": "2026-09-22T09:25:32.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/cms/news.9/242082/nia.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyMDQx",
+      "title": "Kojima Productions Issues Statement Amid Speculation on Physint's Publisher Change",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-21/kojima-productions-issues-statement-amid-speculation-on-physint-publisher-change/.242041",
+      "description": "Kojima Productions: “None of the claims written came from any official or on-the-record source and as such we encourage you to take them with a dose of scepticism.”",
+      "pubDate": "2026-09-22T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/news.8/229131/physint.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA0NA",
+      "title": "Star Detective Precure! Joins Street Fighter 6 in 4-Part Collaboration",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-21/star-detective-precure-joins-street-fighter-6-in-4-part-collaboration/.242044",
+      "description": "Street Fighters, are you ready to take on the toughest challenge ever?",
+      "pubDate": "2026-09-22T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNH/cms/interest.3/242044/star-detective-precure-sf6-03.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwNzA",
+      "title": "New Ahare! Meisaku-kun Anime Gets More Episodes Next January",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/new-ahare-meisaku-kun-anime-gets-more-episodes-next-january/.242070",
+      "description": "Most recent season in comedy about school for fictional characters debuted on July 5",
+      "pubDate": "2026-09-22T02:26:48.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBD/cms/news.9/238709/hlkwbx1aeaaookn.jpeg"
+    },
+    {
+      "id": "ann-dC8uMjQyMDY3",
+      "title": "Netflix's Live-Action Quiztopia Series Unveils More Cast, December 17 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-21/netflix-live-action-quiztopia-series-unveils-more-cast-december-17-debut/.242067",
+      "description": "Masahiro Takashima, Eiko Koike, Riko Ishida, more join Takayuki Yamada in dystopian drama",
+      "pubDate": "2026-09-22T02:14:56.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/youtube/rMhFvd4CUbY.jpg"
+    },
     {
       "id": "cr-bmcteXVpa2E",
       "title": "Yuika to Perform Promise Me the Spotlight Anime Opening Song",
@@ -370,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/youtube/n5LBuMNoD6c.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE2OTE",
@@ -380,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/gxBjDGc4YCg.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjAxNQ",
@@ -390,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.9/239418/center.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjAyNQ",
@@ -400,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAB/youtube/iacKQtesXlQ.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwMjA",
@@ -410,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0Y/cms/convention/242020/main-image-fareidolia.jpeg"
+      "image": null
     },
     {
       "id": "cr-d2Vla2VuZA",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1920x1080/9fa5ed19e3/though-i-am-an-inept-villainess.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE5OTg",
-      "title": "Though I am an Inept Villainess Anime's 2nd Part Unveils Cast, Key Visual, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/though-i-am-an-inept-villainess-anime-2nd-part-unveils-cast-key-visual-january-2027-debut/.241998",
-      "description": "Yuichi Nakamura, Shunichi Toki, Chiaki Kobayashi join cast",
-      "pubDate": "2026-09-20T15:35:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXVuaXZlcnNl",
-      "title": "Cozy Anime Corner: Start a Journey with A Place Further Than the Universe",
-      "link": "https://crunchyroll.com/news/features/2026/9/20/cozy-anime-corner-a-place-further-than-the-universe",
-      "description": "Sometimes it really is about the friends you make along the way",
-      "pubDate": "2026-09-20T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/f7ccce0788/a-place-further-than-the-universe.png"
-    },
-    {
-      "id": "ann-Ly4yNDE5OTk",
-      "title": "Bushiroad Streams Ghost Meets Gal Anime on YouTube",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/bushiroad-streams-ghost-meets-gal-anime-on-youtube/.241999",
-      "description": "3-episode series available with English subtites",
-      "pubDate": "2026-09-20T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YWItZXZlbnQ",
-      "title": "Street Fighter 6 and Star Detective Precure! Launch Collab Event on December 17",
-      "link": "https://crunchyroll.com/news/latest/2026/9/20/street-fighter-6-star-detective-precure-collab-event",
-      "description": "The four-part storyline will be available in the Battle Hub",
-      "pubDate": "2026-09-20T13:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/843c4df5e4/street-fighter-precure-hero.png"
-    },
-    {
-      "id": "ann-LjI0MjAxMA",
-      "title": "2026 World Webtoon Awards Announces 20 Finalists, Opens Global Reader Vote",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-20/2026-world-webtoon-awards-announces-20-finalists-opens-global-reader-vote/.242010",
-      "description": "Now in their 3rd year, awards will accept online votes from readers worldwide from September 17 to October 19",
-      "pubDate": "2026-09-20T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
     }
   ]
 };
