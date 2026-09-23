@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-22T20:32:29.145Z",
+  "lastUpdated": "2026-09-23T01:58:41.066Z",
   "items": [
+    {
+      "id": "cr-LXByYXllcg",
+      "title": "Voice Actor Nagisa Aoyama Drops New Music Video \"Prayer\"",
+      "link": "https://crunchyroll.com/news/latest/2026/9/23/voice-actor-nagisa-aoyama-new-music-video-prayer",
+      "description": "Aoyama's 1st EP \"Gentle Beginning\" hits stores December 16",
+      "pubDate": "2026-09-23T01:57:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b8589aa64e/nagisa-aoyama-prayer-mv.jpg"
+    },
+    {
+      "id": "cr-eC1vZmZpY2U",
+      "title": "Cosmic Princess Kaguya! Anime Film Surpasses 3 Billion Yen at Japan Box Office",
+      "link": "https://crunchyroll.com/news/latest/2026/9/23/cosmic-princess-kaguya-anime-film-3-billion-yen-japan-box-office",
+      "description": "Revival screenings began in Japan on September 18",
+      "pubDate": "2026-09-23T01:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f4a1989368/cosmic-princess-kaguya.jpg"
+    },
+    {
+      "id": "cr-by10aGUtZW5k",
+      "title": "May'n Releases New Music Video \"Fly me to the End!☆\"",
+      "link": "https://crunchyroll.com/news/latest/2026/9/23/mayn-new-music-video-fly-me-to-the-end",
+      "description": "First collaboration with the Accel World theme song team in 14 years",
+      "pubDate": "2026-09-23T00:43:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/018f133420/mayn-fly-me-mv.png"
+    },
+    {
+      "id": "ann-cy8uMjQyMDkx",
+      "title": "Persona 4 Revival Game Reveals English Cast for Supporting Characters",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/persona-4-revival-game-reveals-english-cast-for-supporting-characters/.242091",
+      "description": "Judy Alice Lee, Courtney Shaw, Ray Chase, Johnny Yong Bosch join cast of February 18 game",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYK/cms/news.9/242091/hswxmuuwaaabog1.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA5Mg",
+      "title": "Manga Plus Adds KAKAKAKA, The Ura Files, Noisering, 1 More Title",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/manga-plus-adds-kakakaka-the-ura-files-noisering-1-more-title/.242092",
+      "description": "Also: Morino-san Just Won't Leave Me Be",
+      "pubDate": "2026-09-22T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/news.9/242092/614351.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA4Mw",
+      "title": "Yu Hibari's Watashi de Dōtei Suteta Kuse ni Novels Get Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/yu-hibari-watashi-de-dotei-suteta-kuse-ni-novels-get-manga/.242083",
+      "description": "Shūsei Kirisaki draws manga launching on September 29",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/cms/news.9/242083/dotei.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwODE",
+      "title": "Emma and the Eyes that Bid Farewell's Higure Sakino Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-22/emma-and-the-eyes-that-bid-farewell-higure-sakino-launches-new-manga/.242081",
+      "description": "Manga of Akane Yuzuki's Elina Sky wa Mō Machigaenai novel launches on September 28",
+      "pubDate": "2026-09-22T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.9/242081/sakino.jpg"
+    },
     {
       "id": "ann-LjI0MjA3OQ",
       "title": "Chiruran: Shinsengumi Requiem, Rappa: Yankee Ninpū Chō Manga Artist Eiji Hashimoto Confirms Full Hearing Loss in Right Ear",
@@ -350,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.8/222040/saint-seiya-dark-wing.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwMTg",
@@ -360,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/cms/news.9/242018/yves.jpg"
+      "image": null
     },
     {
       "id": "cr-Yi10cmFpbGVy",
@@ -380,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T19:30:57.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE7/cms/news.9/242062/danmachi.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQyMDM3",
@@ -390,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-21T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGJ/cms/episode-review.5/242037/100gf3600.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwMjY",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/2000x1063/9e39e9205d/apothecary-now-available-desk.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIwMjM",
-      "title": "One Piece Meets Restaurant Management in One Piece: Grand Gourmet",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/one-piece-meets-restaurant-management-in-one-piece-grand-gourmet/.242023",
-      "description": "The only fighting you're going to see is the kitchen staff fighting the orders.",
-      "pubDate": "2026-09-21T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwNDU",
-      "title": "Remow Launches 'It's Anime' Free Ad-Supported Channel on Live TV on PS5, Pluto TV, Prime Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/remow-launches-its-anime-free-ad-supported-channel-on-live-tv-on-ps5-pluto-tv-prime-video/.242045",
-      "description": "Channel reveals 1st original program Tomodachi Talks with SungWon Cho, AJ Beckles",
-      "pubDate": "2026-09-21T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Magical Sisters Lulutto Lilly Anime Reintroduces MashuLulu in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/21/magical-sisters-lulutto-lilly-anime-mashululu-character-trailer",
-      "description": "The magical girl series returns on October 4",
-      "pubDate": "2026-09-21T14:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/466ae42445/magical-sisters-lulutto-lilly-mashululu.png"
-    },
-    {
-      "id": "ann-Ly4yNDE5OTc",
-      "title": "Cupid Parasite Visual Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/game/steam/cupid-parasite-visual-novel/.241997",
-      "description": "Lighthearted for the most part but serious when it needs to be, this is a sheer delight.",
-      "pubDate": "2026-09-21T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjAyNA",
-      "title": "Relive Attack on Titan's Greatest Moments in Attack on Titan 3",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/relive-attack-on-titan-greatest-moments-in-attack-on-titan-3/.242024",
-      "description": "Or get eaten by a Titan while trying.",
-      "pubDate": "2026-09-21T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMzk",
-      "title": "New Resident Evil Reboot Film Opens at #1 at U.S. Box Office With US$60 Million",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/new-resident-evil-reboot-film-opens-at-no.1-at-u.s-box-office-with-usd60-million/.242039",
-      "description": "Also: The Transformers: The Movie 4K re-release ranked at #8",
-      "pubDate": "2026-09-21T13:06:07.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQxNTUw",
-      "title": "From Chainsaw Man to A Silent Voice, Music Composer kensuke ushio",
-      "link": "https://www.animenewsnetwork.com/interview/2026-09-21/from-chainsaw-man-to-a-silent-voice-music-composer-kensuke-ushio/.241550",
-      "description": "kensuke ushio sat down with us to talk about his craft and process. He also dived deep into how he compiled the soundtrack for Chainsaw Man – The Movie: Reze Arc and navigates the music business.",
-      "pubDate": "2026-09-21T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };

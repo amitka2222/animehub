@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T20:32:33.828Z",
+  "lastUpdated": "2026-09-23T01:58:43.495Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探��コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -89,42 +89,13 @@
       "hasDub": true
     },
     {
-      "mal_id": "44778",
-      "id": "44778",
-      "title": "Youjo Senki II",
-      "titles": {
-        "en": "Saga of Tanya the Evil II",
-        "en_jp": "Youjo Senki II",
-        "ja_jp": "幼女戦記 II"
-      },
-      "url": "https://kitsu.io/anime/youjo-senki-ii",
-      "poster": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
-          "image_url": "https://media.kitsu.app/anime/44778/poster_image/small-0e9798d38a7b1e049adf5267e15753e2.jpeg"
-        }
-      },
-      "synopsis": "The second season of Youjo Senki.",
-      "score": "80.61%",
-      "episodes": 12,
-      "rank": 4,
-      "season": "TV",
-      "startDate": "2026-07-08",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
       "mal_id": "49002",
       "id": "49002",
       "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
       "titles": {
         "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
         "en_jp": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
-        "ja_jp": "無職転生 ～異世界行ったら本気だす～ 第3期"
+        "ja_jp": "無職���生 ～異世界行ったら本気だす～ 第3期"
       },
       "url": "https://kitsu.io/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Season-3",
       "poster": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
@@ -136,9 +107,9 @@
         }
       },
       "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-      "score": "85.26%",
+      "score": "85.28%",
       "episodes": 14,
-      "rank": 5,
+      "rank": 4,
       "season": "TV",
       "startDate": "2026-07-04",
       "year": "2026",
@@ -165,9 +136,9 @@
         }
       },
       "synopsis": "The fourth season of Re:Zero kara Hajimeru Isekai Seikatsu.\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.\n\n(Source: Crunchyroll News)\n\nNote: World Premiere of Episode 1 screened at Lucca Comics &amp; Games 2025 on November 1, 2025, before the Japanese television broadcast.",
-      "score": "87.0%",
+      "score": "86.92%",
       "episodes": 19,
-      "rank": 6,
+      "rank": 5,
       "season": "TV",
       "startDate": "2026-04-08",
       "year": "2026",
@@ -196,7 +167,7 @@
       "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
       "score": "82.43%",
       "episodes": 24,
-      "rank": 7,
+      "rank": 6,
       "season": "TV",
       "startDate": "2026-04-03",
       "year": "2026",
@@ -223,9 +194,9 @@
         }
       },
       "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
-      "score": "74.11%",
+      "score": "73.93%",
       "episodes": 13,
-      "rank": 8,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-07-05",
       "year": "2026",
@@ -254,7 +225,7 @@
       "synopsis": "Comedy shorts featuring various VTuber characters from Hololive agency.(Source: AniList)",
       "score": "78.07%",
       "episodes": null,
-      "rank": 9,
+      "rank": 8,
       "season": "ONA",
       "startDate": "2019-05-05",
       "year": "2019",
@@ -283,10 +254,39 @@
       "synopsis": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n(Source: Wikipedia)",
       "score": "77.12%",
       "episodes": null,
-      "rank": 10,
+      "rank": 9,
       "season": "TV",
       "startDate": "2005-04-15",
       "year": "2005",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "50040",
+      "id": "50040",
+      "title": "Super no Ura de Yani Suu Futari",
+      "titles": {
+        "en": "Smoking Behind the Supermarket With You",
+        "en_jp": "Super no Ura de Yani Suu Futari",
+        "ja_jp": "スーパーの裏でヤニ吸うふたり"
+      },
+      "url": "https://kitsu.io/anime/super-no-ura-de-yani-suu-futari",
+      "poster": "https://media.kitsu.app/anime/50040/poster_image/large-6c60537fbda7aa6ce812138bed3f26f6.jpeg",
+      "cover": "https://media.kitsu.app/anime/50040/cover_image/large-49baf6fc44cf03e9b40aea1c694a32eb.jpeg",
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50040/poster_image/large-6c60537fbda7aa6ce812138bed3f26f6.jpeg",
+          "image_url": "https://media.kitsu.app/anime/50040/poster_image/small-4902c2ee0a34d6a7dad51361631106b8.jpeg"
+        }
+      },
+      "synopsis": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n\n(Source: Crunchyroll)\n\nNote: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026, in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast, which starts on July 9th, 2026.",
+      "score": "82.81%",
+      "episodes": 12,
+      "rank": 10,
+      "season": "TV",
+      "startDate": "2026-07-09",
+      "year": "2026",
       "status": "current",
       "hasSub": true,
       "hasDub": true
