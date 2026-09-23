@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T15:38:04.260Z",
+  "lastUpdated": "2026-09-23T20:44:46.563Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -95,7 +95,7 @@
       "titles": {
         "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
         "en_jp": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
-        "ja_jp": "無職転生 ～異世界行ったら本気だす～ 第3期"
+        "ja_jp": "無��転生 ～異世界行ったら本気だす～ 第3期"
       },
       "url": "https://kitsu.io/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Season-3",
       "poster": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
@@ -1071,7 +1071,7 @@
       },
       "synopsis": "The second season of Black Clover.",
       "score": "N/A",
-      "episodes": null,
+      "episodes": 26,
       "rank": 7,
       "season": "TV",
       "startDate": "2026-10-03",

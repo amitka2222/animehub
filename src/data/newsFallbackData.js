@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-23T15:38:01.108Z",
+  "lastUpdated": "2026-09-23T20:44:44.685Z",
   "items": [
+    {
+      "id": "ann-YS8uMjQyMTE2",
+      "title": "K Manga Adds Oh My Panda! Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/k-manga-adds-oh-my-panda-manga/.242116",
+      "description": "Chihiro Kanisawa debuted series in November 2025",
+      "pubDate": "2026-09-23T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY0/cms/news.9/242116/hs6wvzdb0aar-l.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjExMQ",
+      "title": "Saga of Tanya the Evil Anime Gets Film Concert for 10th Anniversary",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/saga-of-tanya-the-evil-anime-gets-film-concert-for-10th-anniversary/.242111",
+      "description": "Film concert runs at Ota Civic Hall Aprico in Tokyo on March 20",
+      "pubDate": "2026-09-23T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/cms/news.9/242111/tanya-logo.png.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyMDk5",
+      "title": "Chiikawa Film Earns 15.84 Billion Yen; TV Anime Streams English Dub on YouTube on October 1",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/chiikawa-film-earns-15.84-billion-yen-tv-anime-streams-english-dub-on-youtube-on-october-1/.242099",
+      "description": "Chiikawa anime film is top movie in Japan for 2026",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/youtube/6voP0Z6uhdc.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDA2MTM",
+      "title": "Beyond the Season Finale: 5 More Manga You Need to Continue Right Now",
+      "link": "https://www.animenewsnetwork.com/feature/2026-09-23/beyond-the-season-finale-5-more-manga-you-need-to-continue-right-now/.240613",
+      "description": "Watch the anime, then rush to read these series to find out what happens next. Here are five more series you should continue reading in manga form!",
+      "pubDate": "2026-09-23T17:33:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/feature/240613/city-vol-1.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyMTA5",
+      "title": "From Old Country Bumpkin to Master Swordsman Anime Gets 3rd Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/from-old-country-bumpkin-to-master-swordsman-anime-gets-3rd-season/.242109",
+      "description": "Anime's 2nd season ended on Wednesday",
+      "pubDate": "2026-09-23T16:42:49.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMN/cms/news.9/242109/from-old-country-bumpkin-to-master-swordsman-s3.jpg"
+    },
+    {
+      "id": "cr-c2ljLXZpZGVv",
+      "title": "Though I Am an Inept Villainess Anime Celebrates Cour 1 Finale with Special Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/23/though-i-am-an-inept-villainess-cour-1-finale-special-music-video",
+      "description": "Enjoy moments from the series set to milet's opening theme song \"Sunny\"",
+      "pubDate": "2026-09-23T16:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/2ce7c1110a/though-i-am-an-inept-villainess-milet-sunny-hero.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Mamahaha no Tsurego ga Motokano datta' Ends with 14th Volume",
+      "link": "https://myanimelist.net/news/74751890?_location=rss",
+      "description": "The official X account for Kyousuke Kamishiro and TakayaKi's Mamahaha no Tsurego ga Motokano datta (My Stepmom's Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...",
+      "pubDate": "2026-09-23T16:18:06.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790180264-c7b5855c2dd91114b1bf75313ce17412.jpeg"
+    },
+    {
+      "id": "cr-bm91bmNlZA",
+      "title": "From Old Country Bumpkin to Master Swordsman Season 3 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/23/from-old-country-bumpkin-to-master-swordsman-season-3-anime-announced",
+      "description": "Visual showcased alongside the reveal",
+      "pubDate": "2026-09-23T16:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/ee700958d3/country-bumpkin-season2-e12.jpeg"
+    },
+    {
+      "id": "ann-ZS8uMjQyMTA2",
+      "title": "My Stepmom's Daughter Is My Ex Light Novel Series Ends With 14th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/my-stepmom-daughter-is-my-ex-light-novel-series-ends-with-14th-volume/.242106",
+      "description": "Final volume ships on December 1",
+      "pubDate": "2026-09-23T16:00:51.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g98/cms/news.9/242106/stepmom.jpg"
+    },
+    {
+      "id": "cr-ZXhwbGFpbmVk",
+      "title": "Daemons of the Shadow Realm Season 1 Ending, Explained",
+      "link": "https://crunchyroll.com/news/guides/2026/9/23/daemons-of-the-shadow-realm-season-1-ending-explained",
+      "description": "Daemons of the Shadow Realm Season 2 has also been announced!",
+      "pubDate": "2026-09-23T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Guides",
+      "image": "https://a.storyblok.com/f/178900/960x540/063a3f3ac1/daemons-of-the-shadow-realm-episode-24.jpg"
+    },
+    {
+      "id": "ann-LjI0MTc5NQ",
+      "title": "Akane-banashi Volumes 1-3 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/akane-banashi-volumes-1-3-manga/.241795",
+      "description": "Determined to vindicate her father after the humiliating end of his Rakugoka career, Akane Osaki descends into the world of rakugo herself, but will she fare any better?",
+      "pubDate": "2026-09-23T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/herald/201459/akanebanashi.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Katainaka no Ossan, Kensei ni Naru' Gets Third Season",
+      "link": "https://myanimelist.net/news/74751799?_location=rss",
+      "description": "The 12th and final episode of Katainaka no Ossan, Kensei ni Naru II (From Old Country Bumpkin to Master Swordsman Season 2) ended with an announcement on Thursday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Passione and Hayabusa Film, the first season aired in 12 episodes in Spring 2025. The second season premiered on July 8. Amazon Prime streamed the anime worldwide with subtitles. The anime series adapts Shigeru Sagaza...",
+      "pubDate": "2026-09-23T15:49:18.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790178393-ef1d9d75c9e9c157ec8c3a2422c827e1.jpeg"
+    },
     {
       "id": "ann-Ly4yNDIxMDU",
       "title": "Red River ‒ Episode 12",
@@ -350,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/episode-review.5/242087/lara-12.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA4Ng",
@@ -360,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T15:01:20.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7T/cms/news.6/195610/tp-logo.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA2NQ",
@@ -370,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T13:31:30.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDD/cms/news.9/242065/hszjsejawaavmkf.jpg"
+      "image": null
     },
     {
       "id": "cr-aWJpdGlvbg",
@@ -420,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/242072/ironwok12.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA4Mg",
@@ -430,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T09:25:32.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/cms/news.9/242082/nia.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQyMDQx",
@@ -440,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/news.8/229131/physint.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA0NA",
@@ -450,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNH/cms/interest.3/242044/star-detective-precure-sf6-03.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwNzA",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x539/2067eaf349/yuika-header.jpg"
-    },
-    {
-      "id": "cr-b2hpa29rYWk",
-      "title": "MeishoHikokai Shares I Became a Legend after My 10 Year-Long Last Stand Anime Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/i-became-a-legend-after-my-10-year-long-last-stand-anime-ending-song-music-video-meishohikokai",
-      "description": "Crunchyroll streamed the Gekkou-animated fantasy series",
-      "pubDate": "2026-09-22T00:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ba828d43d7/meishihikokai-arikitari-mv.jpg"
-    },
-    {
-      "id": "ann-eS8uMjQxODM3",
-      "title": "Akira Failing in Love Manga Tops 1 Million in Circulation Globally",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/akira-failing-in-love-manga-tops-1-million-in-circulation-globally/.241837",
-      "description": "Love comedy manga launched in 2024",
-      "pubDate": "2026-09-22T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5OTY",
-      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 22",
-      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-22/.241996",
-      "description": "The meeting turns the structure into an impromptu courtroom drama of sorts, laying out the stakes and potential consequences.",
-      "pubDate": "2026-09-21T23:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjA0MA",
-      "title": "Writer Tadashi Agi, Artist Jun Nakanishi's Foodies Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/writer-tadashi-agi-artist-jun-nakanishi-foodies-manga-ends/.242040",
-      "description": "Manga about \"foodie hunters\" launched in August 2025",
-      "pubDate": "2026-09-21T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMjk",
-      "title": "Sparks of Tomorrow ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-12/.242029",
-      "description": "This episode, and Sparks of Tomorrow at large, is such a misfire on nearly every level and I cannot wait for it to be over soon.",
-      "pubDate": "2026-09-21T22:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjAzNQ",
-      "title": "Shūichi Shigeno's Subaru and Subaru Manga Goes on Break Until October 26",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/shuichi-shigeno-subaru-and-subaru-manga-goes-on-break-until-october-26/.242035",
-      "description": "Manga launched in July 2025",
-      "pubDate": "2026-09-21T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMzM",
-      "title": "Draw This, Then Die! ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/draw-this-then-die/episode-11/.242033",
-      "description": "This is hands down my favorite show of the season, but this episode is a little disappointing.",
-      "pubDate": "2026-09-21T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjA1Ng",
-      "title": "Persona 4 Revival Game Adds Aika Nakamura as New Social Link Character",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/persona-4-revival-game-adds-aika-nakamura-as-new-social-link-character/.242056",
-      "description": "Aika originally appeared in Persona 4 anime",
-      "pubDate": "2026-09-21T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMjc",
-      "title": "'Luca, the Dragon Vet' Manga Ends in 8th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/luca-the-dragon-vet-manga-ends-in-8th-volume/.242027",
-      "description": "Yūna Hirasawa launched manga in 2022",
-      "pubDate": "2026-09-21T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMzQ",
-      "title": "KAIJU GIRL CARAMELISE ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-12/.242034",
-      "description": "Finding love as a kaiju girl is one thing. Holding onto love as a kaiju girl is another.",
-      "pubDate": "2026-09-21T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQyMDYx",
-      "title": "Saint Seiya: Dark Wing, Garagarapom Manga Both End in November",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/saint-seiya-dark-wing-garagarapom-manga-both-end-in-november/.242061",
-      "description": "Both end in Champion Red's January issue on November 19",
-      "pubDate": "2026-09-21T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMTg",
-      "title": "French Publisher Kana's Founder Yves Schlirf Dies",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-21/french-publisher-kana-founder-yves-schlirf-dies/.242018",
-      "description": "Schlirf founded Kana in 1996, known for publishing Naruto, Yu Yu Hakusho, Saint Seiya, Monster, more in French",
-      "pubDate": "2026-09-21T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
     }
   ]
 };
