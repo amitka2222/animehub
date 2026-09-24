@@ -1,7 +1,217 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-24T01:47:30.837Z",
+  "lastUpdated": "2026-09-24T10:35:10.277Z",
   "items": [
+    {
+      "id": "ann-dC8uMjQyMTMw",
+      "title": "Magical Sisters Lulutto Lilly Anime Streams Main Trailer for 2nd Part",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/magical-sisters-lulutto-lilly-anime-streams-main-trailer-for-2nd-part/.242130",
+      "description": "Anime's 2nd part starts on October 4",
+      "pubDate": "2026-09-24T10:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.9/242130/lulu.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Aoki Denshou Welsh & Shedar' Reveals Additional Cast, Theme Songs, Main Promo",
+      "link": "https://myanimelist.net/news/74754150?_location=rss",
+      "description": "The official website for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast, theme songs and the main promotional video on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama&deg;) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Japanese musical artist Hironobu Kageyama (One Punch Man 3) and J-pop singer Masami Okui (Hait...",
+      "pubDate": "2026-09-24T09:58:12.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790243539-d79234f6d138a0921b38b3d833b42ddb.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "New Oishinbo TV Anime Reveals Main Cast, 2027 Release Date",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/new-oishinbo-tv-anime-2027-release-date-main-cast-teaser-visual",
+      "description": "The original series aired in 1988",
+      "pubDate": "2026-09-24T09:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/511933a834/new-oishinbo-tv-anime-logo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMzU",
+      "title": "Aoki Denshō Welsh & Shedar Anime's Main Trailer Reveals More Cast Members, Theme Song Artists",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/aoki-densho-welsh-and-shedar-anime-main-trailer-reveals-more-cast-members-theme-song-artists/.242135",
+      "description": "Yūko Kaida, Makoto Furukawa, Risa Kayama, more join cast of anime debuting on October 2",
+      "pubDate": "2026-09-24T09:25:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/tBTxq59Nz48.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Phantom Busters' TV Anime Announced For 2027",
+      "link": "https://myanimelist.net/news/74754110?_location=rss",
+      "description": "A television anime adaptation of Shoco's Phantom Busters manga was announced on Thursday through the anime's official website, revealing a commemorative illustration from Shoco (pictured to the right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in the fall 2022 season before beginning serialization in Jump SQ. in August 2023. The seventh volume was released in February 2026, with the eighth one scheduled to be released on October 2. The manga has over 1...",
+      "pubDate": "2026-09-24T09:22:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790241726-e2011f2218bf8d3537598b2c8cb96f6e.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast Pair",
+      "link": "https://myanimelist.net/news/74754105?_location=rss",
+      "description": "The official website for the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additional pair of cast for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Voice actors Kazuyuki Okitsu (Hidarikiki no Eren) and Shiki Aoki (Helck) are joining the second season as Marius Bassett and M...",
+      "pubDate": "2026-09-24T09:20:26.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790241602-cfba919a245a46f4d5bb87b1669d06a3.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjEzNg",
+      "title": "Neoshoco's Phantom Busters Manga Gets TV Anime in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/neoshoco-phantom-busters-manga-gets-tv-anime-in-2027/.242136",
+      "description": "Youth comedy manga about exorcist club launched in 2023",
+      "pubDate": "2026-09-24T09:15:17.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTB/cms/news.9/242136/phatom-busters-anime.jfif.jpeg"
+    },
+    {
+      "id": "cr-bmctaW5mbw",
+      "title": "Aoki Densho Welsh & Shedar Anime Reveals Trailer, Additional Cast, Theme Song Info",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/aoki-densho-welsh-shedar-anime-reveals-trailer-additional-cast-theme-song-info",
+      "description": "French / Japanese co-production begins broadcasting on October 2",
+      "pubDate": "2026-09-24T09:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1230x691/29abd41381/aoki_densho_welsh_and_shedar_header2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMjQ",
+      "title": "Star Detective Precure! Film Opens at #3, Cosmic Princess Kaguya! Returns at #6 in Japan",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/star-detective-precure-film-opens-at-no.3-cosmic-princess-kaguya-returns-at-no.6-in-japan/.242124",
+      "description": "Madoka Walpurgisnacht: Rising drops to #8, live-action Look Back to #10",
+      "pubDate": "2026-09-24T07:53:08.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJK/cms/news.9/239977/precure.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQyMTMx",
+      "title": "Idol Group WEST. to Cease Activities on September 30",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/idol-group-west-to-cease-activities-on-september-30/.242131",
+      "description": "Members Ryusei Fujii, Nozomu Kotaki previously announced departure from group",
+      "pubDate": "2026-09-24T07:06:14.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOD/cms/news.9/242131/west-image.webp"
+    },
+    {
+      "id": "ann-dy8uMjQyMDc2",
+      "title": "Qliphah in Providence's Shadow Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/pc/qliphah-in-providence-shadow/.242076",
+      "description": "Can Stylish Rock-Paper-Scissors combat save Qliphah in Providence's Shadow’s dull narrative? No. But can it evoke memories of the PS Vita? Yes, for better or worse.",
+      "pubDate": "2026-09-24T07:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/game-review/242076/screenshot-2026-09-21-191914.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMDg",
+      "title": "Level 5 Addresses Generative AI Use in Latest Presentation",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-23/level-5-addresses-generative-ai-use-in-latest-presentation/.242108",
+      "description": "Level 5: “We offer our deepest apologies for causing suspicions in our production process due to our inexperience with generative AI and simple human errors”",
+      "pubDate": "2026-09-24T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHW/cms/interest.3/242108/yokai-watch-2-revided-image.jpg"
+    },
+    {
+      "id": "ann-LjI0MjEyMg",
+      "title": "Haganai: I Don't Have Many Friends Author Yomi Hirasaka Retires",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/haganai-i-dont-have-many-friends-author-yomi-hirasaka-retires/.242122",
+      "description": "A Salad Bowl of Eccentrics/A Sister's All You Need novelist explains he achieved financial independence to retire early",
+      "pubDate": "2026-09-24T03:58:57.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW5/cms/news.9/242122/712yvomhuil.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyMTIz",
+      "title": "Gelpiyo Anime Gets Sequel on October 21",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/gelpiyo-anime-gets-sequel-on-october-21/.242123",
+      "description": "New guest cast members include Park Yu Chun, SU, Sumire Yoshida, Aina Yamauchi, Airi Mizushima",
+      "pubDate": "2026-09-24T03:31:48.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.9/242123/gelpiyo2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIwOTg",
+      "title": "LEGO Teases Dragon Ball Sets",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-23/lego-teases-dragon-ball-sets/.242098",
+      "description": "Do you need to collect 7 Dragon Ball LEGO sets to get a wish?",
+      "pubDate": "2026-09-24T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/herald/201567/dragon-ball-lego.jpg"
+    },
+    {
+      "id": "cr-Zm9yLTIwMjc",
+      "title": "Ace Attorney: Dual Destinies VR Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/ace-attorney-dual-destinies-vr-announced-for-2027",
+      "description": "Phoenix, Apollo and Athena will reunite on Meta platforms",
+      "pubDate": "2026-09-24T02:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/af78a63566/ace-attorney-dual-destinies-vr.jpg"
+    },
+    {
+      "id": "ann-LjI0MjEyMQ",
+      "title": "Amata Games Unveils Phoenix Wright: Ace Attorney – Dual Destinies VR Game for 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/amata-games-unveils-phoenix-wright-ace-attorney-dual-destinies-vr-game-for-2027/.242121",
+      "description": "VR version of 5th Ace Attorney game offered with support for English, other languages",
+      "pubDate": "2026-09-24T02:43:16.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCG/cms/news.9/242121/dualdestiniesvr.jpg"
+    },
+    {
+      "id": "cr-c2ljLXZpZGVv",
+      "title": "Tomb Raider King Animated Series Releases Ending Song Lyric Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/tomb-raider-king-animated-series-ending-song-lyric-music-video",
+      "description": "The STUDIO EEK-animated series is now available on Crunchyroll",
+      "pubDate": "2026-09-24T02:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/bb8d86607f/tomb-raider-king-ending-lyric-mv.jpg"
+    },
+    {
+      "id": "cr-LXBvc3Rlcg",
+      "title": "Godzilla Minus Zero Film Scales Up in IMAX Poster",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/godzilla-minus-zero-film-imax-poster",
+      "description": "Takashi Yamazaki’s sequel opens in North America on November 6",
+      "pubDate": "2026-09-24T01:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x557/84c82a6713/godzilla-minus-zero2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMjA",
+      "title": "Go! Go! Loser Ranger! Manga Resumes After 2-Month Hiatus",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/go-go-loser-ranger-manga-resumes-after-2-month-hiatus/.242120",
+      "description": "Manga went on hiatus on July 8 due to creator Negi Haruba's health",
+      "pubDate": "2026-09-24T01:37:43.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.6/192519/loser.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMTc",
+      "title": "My Tiny Senpai Manga to End in 14th Volume Next April",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-23/my-tiny-senpai-manga-to-end-in-14th-volume-next-april/.242117",
+      "description": "Series debuted in April 2020",
+      "pubDate": "2026-09-24T01:32:11.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.8/221237/my-tiny-senpai-manga-volume-1-cover-en.jpg"
+    },
     {
       "id": "cr-ZGVyLWdpcmw",
       "title": "Cider Girl Releases Chitose Is in the Ramune Bottle 2nd Cour Anime Opening Song Music Video",
@@ -310,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-23T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWG/cms/interest.3/242084/apothecary-now-available.jpg"
+      "image": null
     },
     {
       "id": "cr-LXByYXllcg",
@@ -330,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-23T01:41:46.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.9/235427/cherryandvirgin.jpg"
+      "image": null
     },
     {
       "id": "cr-eC1vZmZpY2U",
@@ -350,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-23T01:18:36.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/youtube/IDxFrIfaUbE.jpg"
+      "image": null
     },
     {
       "id": "cr-by10aGUtZW5k",
@@ -370,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-23T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYK/cms/news.9/242091/hswxmuuwaaabog1.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA5Mg",
@@ -380,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/news.9/242092/614351.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjA4Mw",
@@ -390,216 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-22T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/cms/news.9/242083/dotei.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIwODE",
-      "title": "Emma and the Eyes that Bid Farewell's Higure Sakino Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/emma-and-the-eyes-that-bid-farewell-higure-sakino-launches-new-manga/.242081",
-      "description": "Manga of Akane Yuzuki's Elina Sky wa Mō Machigaenai novel launches on September 28",
-      "pubDate": "2026-09-22T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.9/242081/sakino.jpg"
-    },
-    {
-      "id": "ann-LjI0MjA3OQ",
-      "title": "Chiruran: Shinsengumi Requiem, Rappa: Yankee Ninpū Chō Manga Artist Eiji Hashimoto Confirms Full Hearing Loss in Right Ear",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/chiruran-shinsengumi-requiem-rappa-yankee-ninpu-cho-manga-artist-eiji-hashimoto-confirms-full-/.242079",
-      "description": "Hashimoto temporarily lost hearing in right ear after being diagnosed with sudden hearing loss in April",
-      "pubDate": "2026-09-22T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.9/237841/81arseomv4l.sl1500.jpg"
-    },
-    {
-      "id": "ann-LjI0MjA2Ng",
-      "title": "Magilumiere Co. Ltd. Creator Yū Aoki, Ya Boy Kongming! Creator Yuto Yotsuba Launch New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/magilumiere-co-ltd-creator-yu-aoki-ya-boy-kongming-creator-yuto-yotsuba-launch-new-manga/.242066",
-      "description": "Ya Boy Kongming! creator credited with original story for Boat Girl series",
-      "pubDate": "2026-09-22T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY3/cms/news.9/242066/hsgg2lxasai27op.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMDkw",
-      "title": "Kakao Entertainment to Shut Down N. American Webtoon Platform Tapas",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/kakao-entertainment-to-shut-down-n-american-webtoon-platform-tapas/.242090",
-      "description": "Kakao Entertainment plans to notify publishers and rights holders about the Tapas shutdown on Tuesday",
-      "pubDate": "2026-09-22T18:26:03.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.8/224338/kakaoentlogo.svg.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjAzNg",
-      "title": "This Week in Anime - The Prophetic Visions of Cyberpunk Anime",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-22/.242036",
-      "description": "Sylvia and Lucas ask the big questions, like \"Is the entire cyberpunk genre prophetic?\"",
-      "pubDate": "2026-09-22T17:51:34.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJO/cms/this-week-in-anime/242036/sylvia29.jpg"
-    },
-    {
-      "id": "ann-MS8uMjQyMDg5",
-      "title": "Though I Am an Inept Villainess ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-11/.242089",
-      "description": "This world needs both butterflies and rats.",
-      "pubDate": "2026-09-22T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/episode-review.5/242089/inept-villainess-11.png.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMDg1",
-      "title": "Singer, Composer Duncan Sheik Dies",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/singer-composer-duncan-sheik-dies/.242085",
-      "description": "Sheik wrote music/lyrics for upcoming American stage musical of Memoirs of Amorous Gentlemen manga",
-      "pubDate": "2026-09-22T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.9/242085/duncan-sheik.png.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Super Psychic Policeman Chojo Anime Reveals Theme Song Performers in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/super-psychic-policeman-chojo-anime-theme-song-performers-new-trailer",
-      "description": "Adaptation based on Shun Numa's manga broadcasts beginning October 6",
-      "pubDate": "2026-09-22T16:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x542/9407bd447b/policeman-chojo-pv.jpg"
-    },
-    {
-      "id": "cr-MjQtcmVjYXA",
-      "title": "Daemons of the Shadow Realm Episode 24 Recap, “Higashi Village and Nishino Village”",
-      "link": "https://crunchyroll.com/news/features/2026/9/22/daemons-of-the-shadow-realm-episode-24-recap",
-      "description": "Sorry not sorry",
-      "pubDate": "2026-09-22T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/b645bc04dd/daemons-of-the-shadow-realm-episode-24.png"
-    },
-    {
-      "id": "ann-LjI0MTg2Mg",
-      "title": "A Livid Lady's Guide to Getting Even Volumes 1-7 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/a-livid-lady-guide-to-getting-even/volumes-1-7/.241862",
-      "description": "Ellie is perhaps the most morally gray villainess I’ve seen in an otome story. She’s a villainess with a body count: 103. And that’s only counting CHILDREN she’s killed.",
-      "pubDate": "2026-09-22T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwODg",
-      "title": "Super Psychic Policeman Chojo Anime's 2nd Promo Video Reveals Theme Songs",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/super-psychic-policeman-chojo-anime-2nd-promo-video-reveals-theme-songs/.242088",
-      "description": "M!LK, Shifuku Poncho perform theme songs for October 6 anime",
-      "pubDate": "2026-09-22T15:55:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwODc",
-      "title": "Goodbye, Lara ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/goodbye-lara/episode-12/.242087",
-      "description": "Through the constant retelling and reimagining of his tales, Andersen lives on. If that isn't true love, I don't know what is.",
-      "pubDate": "2026-09-22T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjA4Ng",
-      "title": "Tokyopop's Public Stock Shares Offer Ends on September 24",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/tokyopop-public-stock-shares-offer-ends-on-september-24/.242086",
-      "description": "Publisher revealed plans for public stock shares originated 20 years ago",
-      "pubDate": "2026-09-22T15:01:20.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjA2NQ",
-      "title": "Silent Witch Author Matsuri Isora Announces New Fantasy Novel",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/silent-witch-author-matsuri-isora-announces-new-fantasy-novel/.242065",
-      "description": "1st Bōkyaku no Curse Knight \"knight fantasy\" volume ships on November 13",
-      "pubDate": "2026-09-22T13:31:30.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-aWJpdGlvbg",
-      "title": "Made in Abyss Manga Reproduction Artwork Exhibition Launches This October in Japan",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/made-in-abyss-manga-reproduction-artwork-exhibition",
-      "description": "The event will run from October 24 to November 29",
-      "pubDate": "2026-09-22T13:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x563/f74af42f0f/made-in-abyss.jpg"
-    },
-    {
-      "id": "cr-aWJpdGlvbg",
-      "title": "Manga Artist Yoshihiro Takahashi Hosts 55th Anniversary Exhibition in Akita Prefecture",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/manga-artist-yoshihiro-takahashi-55th-anniversary-exhibition",
-      "description": "The event is now underway and will run until November 8",
-      "pubDate": "2026-09-22T13:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x556/c43a7c444e/2026_yoshi_ticket-ura-1024x556.jpg"
-    },
-    {
-      "id": "cr-bC12aXN1YWw",
-      "title": "Goodbye, Lara Anime Celebrates Story Conclusion with Memorial Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/goodbye-lara-anime-celebrates-story-conclusion-with-memorial-visual",
-      "description": "Crunchyroll streams original series inspired by The Little Mermaid",
-      "pubDate": "2026-09-22T12:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8ab9247c0f/goodbye-lara-7.jpg"
-    },
-    {
-      "id": "cr-Zm9ybWVycw",
-      "title": "Nia Liston: The Merciless Maiden Anime Reveals Ending Theme Song Performers",
-      "link": "https://crunchyroll.com/news/latest/2026/9/22/nia-liston-the-merciless-maiden-anime-ending-theme-song-performers",
-      "description": "Light novel adaptation broadcasts in Japan beginning October 6",
-      "pubDate": "2026-09-22T12:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/224a39c7d0/nia_liston_the_merciless_maiden_header2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIwNzI",
-      "title": "Iron Wok Jan! ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/iron-wok-jan/episode-12/.242072",
-      "description": "This bright and cheery final note felt way too saccharine and by-the-numbers from a series which has spent three months zigging whenever I thought it would zag.",
-      "pubDate": "2026-09-22T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjA4Mg",
-      "title": "Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082",
-      "description": "Honoka Inoue, Rina Honnizumi, Rina Hidaka sing  \"Tokimeki Un・Deux・Trois♪\" ending as their characters",
-      "pubDate": "2026-09-22T09:25:32.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQyMDQx",
-      "title": "Kojima Productions Issues Statement Amid Speculation on Physint's Publisher Change",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-21/kojima-productions-issues-statement-amid-speculation-on-physint-publisher-change/.242041",
-      "description": "Kojima Productions: “None of the claims written came from any official or on-the-record source and as such we encourage you to take them with a dose of scepticism.”",
-      "pubDate": "2026-09-22T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
