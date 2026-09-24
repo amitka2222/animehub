@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-09-24T15:59:03.095Z",
+  "lastUpdated": "2026-09-24T20:50:32.052Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIxNTM",
+      "title": "Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/disney-hulu-raise-monthly-pricing-on-streaming-plans-in-u.s-again/.242153",
+      "description": "Standalone subscription prices rise to US$12.49 with ads, US$21.49 without ads following last year's increase",
+      "pubDate": "2026-09-24T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEP/herald/201614/disney.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE1Mg",
+      "title": "Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152",
+      "description": "English-subbed trailer streamed for anime inspired by Alice in Wonderland",
+      "pubDate": "2026-09-24T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/youtube/Y6fNuySFktc.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNTA",
+      "title": "Global Stage Hollywood Screens World Premiere of Psyren TV Anime's 2nd Episode on October 3 With Original Creator Toshiaki Iwashiro",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/global-stage-hollywood-screens-world-premiere-of-psyren-tv-anime-2nd-episode-on-october-3-with-/.242150",
+      "description": "1st 2 episodes to screen at Global Stage Hollywood Film Fest with Iwashiro in attendance",
+      "pubDate": "2026-09-24T17:45:39.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
+    },
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "Chainsmoker Cat Anime Celebrates Conclusion with Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/chainsmoker-cat-anime-music-video",
+      "description": "Main cast performs a cover of the opening theme song",
+      "pubDate": "2026-09-24T17:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/24324ff7cd/chainsmoker_cat_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE0OA",
+      "title": "Marvelous Announces Story of Seasons: Your Wonderful Life Virtual Reality Farming Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/marvelous-announces-story-of-seasons-your-wonderful-life-virtual-reality-farming-game/.242148",
+      "description": "Farming sim launches for Meta VR Glasses, Meta Quest 3, and Meta Quest 3s in spring 2027",
+      "pubDate": "2026-09-24T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.9/242148/story-of-seasons-your-wonderful-life.webp"
+    },
+    {
+      "id": "cr-cmVtaWVyZQ",
+      "title": "Sekiro: No Defeat Anime Announces Series Adaptation to Premiere in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/24/sekiro-no-defeat-anime-series-january-2027-premiere",
+      "description": "Crunchyroll will stream the series when it premieres next year",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1800x1080/7d92a05684/sekiro-no-defeat.png"
+    },
+    {
+      "id": "ann-Mi8uMjQxNTc0",
+      "title": "Billy Bat Volume 2 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/billy-bat/volume-2/.241574",
+      "description": "What does the bat want? Why does he want it?",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS6/cms/review.2/241574/billy-bat-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE0OQ",
+      "title": "Sekiro: No Defeat Anime Airs in January as 8-Episode TV Series (Updated)",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/sekiro-no-defeat-anime-airs-in-january-as-8-episode-tv-series/.242149",
+      "description": "Crunchyroll to stream series version of film that opened in Japan on September 4",
+      "pubDate": "2026-09-24T15:28:29.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/242149/tv-sekiro-kv.jpg"
+    },
     {
       "id": "cr-bm91bmNlZA",
       "title": "Pokémon TCG Pocket Mega Evolves in New Deluxe Set",
@@ -265,7 +345,7 @@
       "id": "mal-YXRpb249cnNz",
       "title": "'Shin Oishinbo'  Reveals Main Cast, Staff",
       "link": "https://myanimelist.net/news/74754201?_location=rss",
-      "description": "The official website for the television anime adaptation of Tetsu Kariya's Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Black Clover) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composition: Taka...",
+      "description": "The official website for the television anime adaptation of Tetsu Kariya's Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Fujimoto Tatsuki 17-26) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composi...",
       "pubDate": "2026-09-24T10:43:09.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -295,7 +375,7 @@
       "id": "mal-YXRpb249cnNz",
       "title": "'Aoki Denshou Welsh & Shedar' Reveals Additional Cast, Theme Songs, Main Promo",
       "link": "https://myanimelist.net/news/74754150?_location=rss",
-      "description": "The official website for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast, theme songs and the main promotional video on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Japanese musical artist Hironobu Kageyama (Dragon Ball Z) and J-pop singer Masami Okui (Haite Kudas...",
+      "description": "The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...",
       "pubDate": "2026-09-24T09:58:12.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -449,7 +529,7 @@
       "pubDate": "2026-09-24T02:43:16.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCG/cms/news.9/242121/dualdestiniesvr.jpg"
+      "image": null
     },
     {
       "id": "cr-c2ljLXZpZGVv",
@@ -479,7 +559,7 @@
       "pubDate": "2026-09-24T01:37:43.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.6/192519/loser.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIxMTc",
@@ -489,7 +569,7 @@
       "pubDate": "2026-09-24T01:32:11.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.8/221237/my-tiny-senpai-manga-volume-1-cover-en.jpg"
+      "image": null
     },
     {
       "id": "cr-ZGVyLWdpcmw",
@@ -520,86 +600,6 @@
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790207099-4171ed81e93a5314a242925012dfe055.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMTM",
-      "title": "Zombie Police: Midsummer Unhappy New Year Game Launches for PC via Steam on November 22",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/zombie-police-midsummer-unhappy-new-year-game-launches-for-pc-via-steam-on-november-22/.242113",
-      "description": "Game gets Switch release at later date",
-      "pubDate": "2026-09-23T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS5/cms/news.9/242113/key-art-ja.png.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQyMTE2",
-      "title": "K Manga Adds Oh My Panda! Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/k-manga-adds-oh-my-panda-manga/.242116",
-      "description": "Chihiro Kanisawa debuted series in November 2025",
-      "pubDate": "2026-09-23T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY0/cms/news.9/242116/hs6wvzdb0aar-l.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjExMQ",
-      "title": "Saga of Tanya the Evil Anime Gets Film Concert for 10th Anniversary",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/saga-of-tanya-the-evil-anime-gets-film-concert-for-10th-anniversary/.242111",
-      "description": "Film concert runs at Ota Civic Hall Aprico in Tokyo on March 20",
-      "pubDate": "2026-09-23T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-MS8uMjQyMDk5",
-      "title": "Chiikawa Film Earns 15.84 Billion Yen; TV Anime Streams English Dub on YouTube on October 1",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/chiikawa-film-earns-15.84-billion-yen-tv-anime-streams-english-dub-on-youtube-on-october-1/.242099",
-      "description": "Chiikawa anime film is top movie in Japan for 2026",
-      "pubDate": "2026-09-23T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDA2MTM",
-      "title": "Beyond the Season Finale: 5 More Manga You Need to Continue Right Now",
-      "link": "https://www.animenewsnetwork.com/feature/2026-09-23/beyond-the-season-finale-5-more-manga-you-need-to-continue-right-now/.240613",
-      "description": "Watch the anime, then rush to read these series to find out what happens next. Here are five more series you should continue reading in manga form!",
-      "pubDate": "2026-09-23T17:33:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-bi8uMjQyMTA5",
-      "title": "From Old Country Bumpkin to Master Swordsman Anime Gets 3rd Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/from-old-country-bumpkin-to-master-swordsman-anime-gets-3rd-season/.242109",
-      "description": "Anime's 2nd season ended on Wednesday",
-      "pubDate": "2026-09-23T16:42:49.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c2ljLXZpZGVv",
-      "title": "Though I Am an Inept Villainess Anime Celebrates Cour 1 Finale with Special Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/23/though-i-am-an-inept-villainess-cour-1-finale-special-music-video",
-      "description": "Enjoy moments from the series set to milet's opening theme song \"Sunny\"",
-      "pubDate": "2026-09-23T16:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2ce7c1110a/though-i-am-an-inept-villainess-milet-sunny-hero.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Mamahaha no Tsurego ga Motokano datta' Ends with 14th Volume",
-      "link": "https://myanimelist.net/news/74751890?_location=rss",
-      "description": "The official X account for Kyousuke Kamishiro and TakayaKi's Mamahaha no Tsurego ga Motokano datta (My Stepmom's Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...",
-      "pubDate": "2026-09-23T16:18:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790180264-c7b5855c2dd91114b1bf75313ce17412.jpeg"
     }
   ]
 }
