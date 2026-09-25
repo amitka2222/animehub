@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-25T02:04:07.439Z",
+  "lastUpdated": "2026-09-25T10:38:43.949Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Yozakura-san Chi no Daisakusen 2nd Season Part 2' Announces Additional Cast, Character Promo",
+      "link": "https://myanimelist.net/news/74757874?_location=rss",
+      "description": "The official website of the Yozakura-san Chi no Daisakusen (Mission: Yozakura Family) television anime announced additional cast members for its second part of second season on Friday. The second part is scheduled to premiere on October 11 at 5.00 p.m. on MBS/TBS Network, followed by BS Nippon Television and AT-X on October 21. Cast Alexandre: Houchuu Ootsuka (Sakamoto Days) Shura: Miku Itou (Nekopara) Cyber Demon King \"G\": Yumiri Hanamori (Gachiakuta) Dr. Mozu: Sumire Uesaka (Overlord...",
+      "pubDate": "2026-09-25T10:08:52.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790330458-f089ab7a51af1cf495b36cd2169812b7.jpeg"
+    },
+    {
+      "id": "cr-YW5rLXNwaWVz",
+      "title": "Mission: Yozakura Family Season 2 Cour 2 Anime Reveals Cast for 5 Gold Rank Spies",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/mission-yozakura-family-season-2-cour-2-anime-reveals-cast-for-5-gold-rank-spies",
+      "description": "The action comedy series returns on October 11",
+      "pubDate": "2026-09-25T10:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x563/1ff262dc22/mission-yozakura-family-season-2-cour-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE3OQ",
+      "title": "Duel Masters Lost: Danzai no Shōnen Anime Reveals More Cast, Ending Theme in Main Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/duel-masters-lost-danzai-no-shonen-anime-reveals-more-cast-ending-theme-in-main-promo-video/.242179",
+      "description": "4-episode series debuts on October 9",
+      "pubDate": "2026-09-25T09:40:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/youtube/TMvCjiKHURM.jpg"
+    },
+    {
+      "id": "cr-bi10cmFpbGVy",
+      "title": "Duel Masters LOST ~Danzai no Shonen~ Anime Releases Main Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/duel-masters-lost-danzai-no-shonen-anime-main-trailer",
+      "description": "The next series debuts on October 9",
+      "pubDate": "2026-09-25T09:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/3833c2f28b/duel-masters-lost-danzai-no-shonen.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNzE",
+      "title": "Mission: Yozakura Family Season 2 Part 2's Video Reveals 5 Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/mission-yozakura-family-season-2-part-2-video-reveals-5-cast-members/.242171",
+      "description": "Hōchū Ōtsuka, Miku Itō, Yumiri Hanamori, Sumire Uesaka, Naomi Shindoh join cast",
+      "pubDate": "2026-09-25T09:02:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.9/242171/alexandryu.jpg"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure Anime Ending Theme Song Revealed",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/steel-ball-run-jojos-bizarre-adventure-anime-ending-theme-song",
+      "description": "The anime's 2nd STAGE is now streaming",
+      "pubDate": "2026-09-25T08:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ac9184b8fd/steel-ball-run-jojos-bizarre-adventure.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNzA",
+      "title": "Chizuna Nakajima's Where is the Elf Teacher's Toilet? Manga Gets TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/chizuna-nakajima-where-is-the-elf-teacher-toilet-manga-gets-tv-anime/.242170",
+      "description": "\"Toilet fantasy comedy\" manga from Angel Drop manga creator launched in January 2024",
+      "pubDate": "2026-09-25T06:28:23.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/news.9/242170/elfsensei-illust.jfif.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Elf-sensei no Toilet wa Doko desu ka?' Receives TV Anime Adaptation",
+      "link": "https://myanimelist.net/news/74757191?_location=rss",
+      "description": "WWWave Corporation's Deregula animation label announced a television anime adaptation of Chizuna Nakajima's Elf-sensei no Toilet wa Doko desu ka? (Where Is the Elf Teacher's Toilet?) on Friday, revealing a pair of commemorative illustrations by the original creator (pictured above and right). Nakajima began serializing the comedy ecchi series in Comic Cune in January 2024. The series entered hiatus in January 2025 and is scheduled to return on September 26. Kadokawa published the...",
+      "pubDate": "2026-09-25T04:44:47.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790311309-81af7a3e02edf7520960d5a4ef533962.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Red River Anime Unveils Cour 2 Main Trailer, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/red-river-anime-cour-2-main-trailer-visual",
+      "description": "The conflict enters its next stage on September 29",
+      "pubDate": "2026-09-25T04:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/128e66236d/red-river.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNjU",
+      "title": "The Fake Alchemist Anime's Teaser Unveils Cast, Staff",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/the-fake-alchemist-anime-teaser-unveils-cast-staff/.242165",
+      "description": "Yōhei Matsuoka, Miyari Nemoto stars as Paracelsus, Nora",
+      "pubDate": "2026-09-25T03:46:55.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE8/youtube/EpQLKHbT_qo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNjM",
+      "title": "Red River Anime Posts New Video for 2nd Part",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/red-river-anime-posts-new-video-for-2nd-part/.242163",
+      "description": "Video previews new opening song \"Akatsuki no Hoshi\" by Nana Mizuki",
+      "pubDate": "2026-09-25T03:37:52.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/6N6pcBa0TzU.jpg"
+    },
+    {
+      "id": "cr-ZWxlYXNlZA",
+      "title": "The Fake Alchemist Anime Main Cast, Staff Revealed in Teaser Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/the-fake-alchemist-anime-teaser-trailer-released",
+      "description": "Studio Passione is producing the fantasy adventure series",
+      "pubDate": "2026-09-25T03:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f558802bb3/the-fake-alchemist.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Nisemono no Renkinjutsushi' Reveals Main Cast, Staff, Teaser Promo",
+      "link": "https://myanimelist.net/news/74756971?_location=rss",
+      "description": "The official website for the television anime adaptation of Jirou Sugiura and Umemaru's Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotional video on Friday. Voice actors Youhei Matsuoka (Fujimoto Tatsuki 17-26) and Miyari Nemoto (Ruri no Houseki) are starring as Paracelsus and Nora Petan, respectively. Staff Chief Director: Takeo Takahashi (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Director: Hijiri Sanpei (Watashi no Yuri...",
+      "pubDate": "2026-09-25T03:21:53.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790306415-7ec04d312b648d821182c62def68774b.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjE0MA",
+      "title": "Konami Offers Official Metal Gear Solid Boxes (for Your Cat)",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-24/konami-offers-official-metal-gear-solid-boxes/.242140",
+      "description": "Now your cat can become the ultimate spy & special operations soldier",
+      "pubDate": "2026-09-25T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIT/cms/interest.3/242140/metal-gear-cat-boxes.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE5NzU",
+      "title": "Stop President 'Dramp's' Ambitions in New Mahjong Game for Switch",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-24/stop-president-dramp-ambitions-in-new-mahjong-game-for-switch/.241975",
+      "description": "Latest from mahjong manga/game artist Masayuki Katayama also features Elon Musg",
+      "pubDate": "2026-09-25T02:38:16.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/4lCzPwXDoOE.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNjA",
+      "title": "Chiikawa Anime to Temporarily Halt New Episodes",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/chiikawa-anime-to-temporarily-halt-new-episodes/.242160",
+      "description": "25 past episodes to rerun until December 25, with focus on early episodes, episodes tied to recent film",
+      "pubDate": "2026-09-25T02:03:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/daily-briefs/226431/20250707152651.png.jpg"
+    },
     {
       "id": "ann-LjI0MjE1NA",
       "title": "Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Kim Kaphwan",
@@ -410,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T09:25:14.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/tBTxq59Nz48.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -440,167 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T09:15:17.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTB/cms/news.9/242136/phatom-busters-anime.jfif.jpeg"
-    },
-    {
-      "id": "cr-bmctaW5mbw",
-      "title": "Aoki Densho Welsh & Shedar Anime Reveals Trailer, Additional Cast, Theme Song Info",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/aoki-densho-welsh-shedar-anime-reveals-trailer-additional-cast-theme-song-info",
-      "description": "French / Japanese co-production begins broadcasting on October 2",
-      "pubDate": "2026-09-24T09:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1230x691/29abd41381/aoki_densho_welsh_and_shedar_header2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMjQ",
-      "title": "Star Detective Precure! Film Opens at #3, Cosmic Princess Kaguya! Returns at #6 in Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/star-detective-precure-film-opens-at-no.3-cosmic-princess-kaguya-returns-at-no.6-in-japan/.242124",
-      "description": "Madoka Walpurgisnacht: Rising drops to #8, live-action Look Back to #10",
-      "pubDate": "2026-09-24T07:53:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJK/cms/news.9/239977/precure.jpg"
-    },
-    {
-      "id": "ann-MC8uMjQyMTMx",
-      "title": "Idol Group WEST. to Cease Activities on September 30",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/idol-group-west-to-cease-activities-on-september-30/.242131",
-      "description": "Members Ryusei Fujii, Nozomu Kotaki previously announced departure from group",
-      "pubDate": "2026-09-24T07:06:14.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOD/cms/news.9/242131/west-image.webp"
-    },
-    {
-      "id": "ann-dy8uMjQyMDc2",
-      "title": "Qliphah in Providence's Shadow Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/pc/qliphah-in-providence-shadow/.242076",
-      "description": "Can Stylish Rock-Paper-Scissors combat save Qliphah in Providence's Shadow’s dull narrative? No. But can it evoke memories of the PS Vita? Yes, for better or worse.",
-      "pubDate": "2026-09-24T07:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/game-review/242076/screenshot-2026-09-21-191914.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMDg",
-      "title": "Level 5 Addresses Generative AI Use in Latest Presentation",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-23/level-5-addresses-generative-ai-use-in-latest-presentation/.242108",
-      "description": "Level 5: “We offer our deepest apologies for causing suspicions in our production process due to our inexperience with generative AI and simple human errors”",
-      "pubDate": "2026-09-24T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHW/cms/interest.3/242108/yokai-watch-2-revided-image.jpg"
-    },
-    {
-      "id": "ann-LjI0MjEyMg",
-      "title": "Haganai: I Don't Have Many Friends Author Yomi Hirasaka Retires",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/haganai-i-dont-have-many-friends-author-yomi-hirasaka-retires/.242122",
-      "description": "A Salad Bowl of Eccentrics/A Sister's All You Need novelist explains he achieved financial independence to retire early",
-      "pubDate": "2026-09-24T03:58:57.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW5/cms/news.9/242122/712yvomhuil.jpg"
-    },
-    {
-      "id": "ann-MS8uMjQyMTIz",
-      "title": "Gelpiyo Anime Gets Sequel on October 21",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/gelpiyo-anime-gets-sequel-on-october-21/.242123",
-      "description": "New guest cast members include Park Yu Chun, SU, Sumire Yoshida, Aina Yamauchi, Airi Mizushima",
-      "pubDate": "2026-09-24T03:31:48.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.9/242123/gelpiyo2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIwOTg",
-      "title": "LEGO Teases Dragon Ball Sets",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-23/lego-teases-dragon-ball-sets/.242098",
-      "description": "Do you need to collect 7 Dragon Ball LEGO sets to get a wish?",
-      "pubDate": "2026-09-24T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
       "image": null
-    },
-    {
-      "id": "cr-Zm9yLTIwMjc",
-      "title": "Ace Attorney: Dual Destinies VR Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/ace-attorney-dual-destinies-vr-announced-for-2027",
-      "description": "Phoenix, Apollo and Athena will reunite on Meta platforms",
-      "pubDate": "2026-09-24T02:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/af78a63566/ace-attorney-dual-destinies-vr.jpg"
-    },
-    {
-      "id": "ann-LjI0MjEyMQ",
-      "title": "Amata Games Unveils Phoenix Wright: Ace Attorney – Dual Destinies VR Game for 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/amata-games-unveils-phoenix-wright-ace-attorney-dual-destinies-vr-game-for-2027/.242121",
-      "description": "VR version of 5th Ace Attorney game offered with support for English, other languages",
-      "pubDate": "2026-09-24T02:43:16.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-c2ljLXZpZGVv",
-      "title": "Tomb Raider King Animated Series Releases Ending Song Lyric Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/tomb-raider-king-animated-series-ending-song-lyric-music-video",
-      "description": "The STUDIO EEK-animated series is now available on Crunchyroll",
-      "pubDate": "2026-09-24T02:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/bb8d86607f/tomb-raider-king-ending-lyric-mv.jpg"
-    },
-    {
-      "id": "cr-LXBvc3Rlcg",
-      "title": "Godzilla Minus Zero Film Scales Up in IMAX Poster",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/godzilla-minus-zero-film-imax-poster",
-      "description": "Takashi Yamazaki’s sequel opens in North America on November 6",
-      "pubDate": "2026-09-24T01:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x557/84c82a6713/godzilla-minus-zero2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMjA",
-      "title": "Go! Go! Loser Ranger! Manga Resumes After 2-Month Hiatus",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/go-go-loser-ranger-manga-resumes-after-2-month-hiatus/.242120",
-      "description": "Manga went on hiatus on July 8 due to creator Negi Haruba's health",
-      "pubDate": "2026-09-24T01:37:43.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIxMTc",
-      "title": "My Tiny Senpai Manga to End in 14th Volume Next April",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-23/my-tiny-senpai-manga-to-end-in-14th-volume-next-april/.242117",
-      "description": "Series debuted in April 2020",
-      "pubDate": "2026-09-24T01:32:11.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-ZGVyLWdpcmw",
-      "title": "Cider Girl Releases Chitose Is in the Ramune Bottle 2nd Cour Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/chitose-is-in-the-ramune-bottle-2nd-cour-anime-opening-song-music-video-cider-girl",
-      "description": "Crunchyroll will stream the anime's second cour as it airs",
-      "pubDate": "2026-09-24T01:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6cda8ea85b/cider-girl-saku-mv.jpg"
-    },
-    {
-      "id": "cr-b2ljZS1jYXN0",
-      "title": "The Exiled Heavy Knight Knows How to Game the System Anime Unveils New Cour 2 Trailer, Visual, Theme Songs, Voice Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/the-exiled-heavy-knight-knows-how-to-game-the-system-cour-2-anime-new-trailer-visual-theme-songs-voice-cast",
-      "description": "Crunchyroll streams the GoHands-animated fantasy series",
-      "pubDate": "2026-09-24T00:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4e80378122/the-exiled-heavy-knight-cour2-trailer.jpg"
     }
   ]
 };
