@@ -1,7 +1,17 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-24T20:50:32.052Z",
+  "lastUpdated": "2026-09-25T02:04:07.439Z",
   "items": [
+    {
+      "id": "ann-LjI0MjE1NA",
+      "title": "Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Kim Kaphwan",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-24/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-highlights-kim-kaphwan/.242154",
+      "description": "Kim joins game on Thursday",
+      "pubDate": "2026-09-24T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSA/youtube/DEeIaVzK9B8.jpg"
+    },
     {
       "id": "ann-Ly4yNDIxNTM",
       "title": "Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again",
@@ -406,7 +416,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'Phantom Busters' TV Anime Announced For 2027",
       "link": "https://myanimelist.net/news/74754110?_location=rss",
-      "description": "A television anime adaptation of Shoco's Phantom Busters manga was announced on Thursday through the anime's official website, revealing a commemorative illustration from Shoco (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in the fall 2022 season before beginning serialization in Jump SQ. in August 2023. The seventh volume was released in February 2026, with the eighth one scheduled to be released on October 2. The manga has over 1.4 mill...",
+      "description": "Production company TOHO animation opened an official website for a television anime adaptation of Shoco's Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....",
       "pubDate": "2026-09-24T09:22:35.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -510,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/herald/201567/dragon-ball-lego.jpg"
+      "image": null
     },
     {
       "id": "cr-Zm9yLTIwMjc",
@@ -591,16 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/4e80378122/the-exiled-heavy-knight-cour2-trailer.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru' Unveils Additional Cast, Theme Songs, Main Promo for Second Cour",
-      "link": "https://myanimelist.net/news/74753120?_location=rss",
-      "description": "The official website for the television anime adaptation of Necoco and Lee Brocco's Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru (The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge) manga unveiled additional cast, a key visual (pictured), the theme songs, and main promotional video for second cour on Thursday. The second half began with the 13th episode on October 2 at 12:26 p.m. on MBS and TBS' Super Animeism Turbo block, followed by BS Nippon Televis...",
-      "pubDate": "2026-09-23T23:46:28.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790207099-4171ed81e93a5314a242925012dfe055.jpeg"
     }
   ]
 };
