@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-25T15:59:39.628Z",
+  "lastUpdated": "2026-09-25T20:47:55.398Z",
   "items": [
+    {
+      "id": "ann-LjI0MjE4Mg",
+      "title": "Ace Combat 8: Wings of Theve Game Streams Opening Cinematic",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/ace-combat-8-wings-of-theve-game-streams-opening-cinematic/.242182",
+      "description": "Game launches on October 2 with Deluxe Edition debuting early on September 29",
+      "pubDate": "2026-09-25T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/youtube/6XLlukhUl7k.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyMjAx",
+      "title": "New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201",
+      "description": "Kazuya Nomura directs new anime for Code Geass' 20th anniversary",
+      "pubDate": "2026-09-25T19:35:03.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGL/youtube/j6cQAaNYYeA.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE5NQ",
+      "title": "Your Anime Rankings - Best of Summer 2026, Sep 16-22",
+      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.242195",
+      "description": "Rebounding from a mid-season drop, Mushoku Tensei and Kaiju Girl Caramelise are back as strong as they started! Find out how your favorite shows performed in our weekly user rankings.",
+      "pubDate": "2026-09-25T19:20:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWY/cms/weekly-ranking/242195/summer2026-montage-w12.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tensei shitara Slime Datta Ken 4th Season' Part 2 Announced for Summer 2027, 'Clayman Revenge' Spin-off Gets TV Anime for Spring 2027",
+      "link": "https://myanimelist.net/news/74759618?_location=rss",
+      "description": "The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere in July 2027. The official website simultaneously announced a television anime adaptation of Wataru Kajika's spin-off manga Tensei shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman's Revenge), revealing the main staff, teaser visual (pictured right)...",
+      "pubDate": "2026-09-25T19:11:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790362735-cfbb17b92e9789d80c672b5afec81cac.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQyMTgz",
+      "title": "Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183",
+      "description": "Sweet Shop adds Pandora, Dream Another Dream, Mothers, Red Riding Hood's Wolf Apprentice, more manga",
+      "pubDate": "2026-09-25T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.4/173368/unnamed-23-.jpg"
+    },
+    {
+      "id": "ann-LjI0MjIwMA",
+      "title": "The Fall 2026 Anime Trailer Watch Party Premieres Tonight!",
+      "link": "https://www.animenewsnetwork.com/watch/2026-09-25/the-fall-2026-anime-trailer-party-premieres-tonight/.242200",
+      "description": "The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.",
+      "pubDate": "2026-09-25T18:45:35.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYG/youtube/i6exghRrkaI.jpg"
+    },
+    {
+      "id": "ann-Yy8uMjQyMTk4",
+      "title": "Hell Mode Anime Gets 3rd Season for 'S-Rank Dungeon Conquest Arc'",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/hell-mode-anime-gets-3rd-season-for-s-rank-dungeon-conquest-arc/.242198",
+      "description": "Anime's 2nd season ended on Friday",
+      "pubDate": "2026-09-25T18:21:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.9/242198/hell-mode-s3.webp"
+    },
+    {
+      "id": "ann-YS8uMjQyMTg2",
+      "title": "Dentsu Enters Partnership with Kodansha",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/dentsu-enters-partnership-with-kodansha/.242186",
+      "description": "Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs",
+      "pubDate": "2026-09-25T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.7/211172/ogp.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE5NA",
+      "title": "Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194",
+      "description": "Also: Oh Boy, Was I Wrong About Her, The Returned Tyrant Princess Rewrites Her Dark Past, more",
+      "pubDate": "2026-09-25T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/cms/news.9/242194/kafkas-journey-cnf.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hell Mode' Third Season in Production",
+      "link": "https://myanimelist.net/news/74759332?_location=rss",
+      "description": "The 13th and final episode of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season (Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2) ended with an announcement on Friday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Yokohama Animation Lab, the first season aired in 12 episodes in Winter 2026. The second season premiered on July 4. Sentai Filmworks licens...",
+      "pubDate": "2026-09-25T17:22:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790356815-a71a1ec15759b985b7b5b73f2b1ab349.jpeg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "HELL MODE Season 3 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/hell-mode-season-3-anime-announced",
+      "description": "Teaser visual published for the upcoming S-Rank Dungeon Conquest Arc",
+      "pubDate": "2026-09-25T17:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/40e4bf5d42/hell_mode_season3_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kore Kaite Shine' Gets Second Season",
+      "link": "https://myanimelist.net/news/74759213?_location=rss",
+      "description": "The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda's comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...",
+      "pubDate": "2026-09-25T16:47:16.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790354366-394098f17d9a001428c3df5afa73b276.jpeg"
+    },
+    {
+      "id": "cr-LWFkZGl0aW9u",
+      "title": "Please Excuse My Younger Brothers Cour 2 Anime Shares New Trailer, Visual and Cast Addition",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/please-excuse-my-younger-brothers-cour-2-anime-shares-new-trailer-visual-cast-addition",
+      "description": "Crunchyroll simulcasts the rom-com series",
+      "pubDate": "2026-09-25T16:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/191ad68347/please-excuse-my-younger-brothers-cour-2-hero.png"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Cour 3 Premieres in July 2027, Clayman’s Revenge TV Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/that-time-i-got-reincarnated-as-a-slime-season-4-cour-3-july-2027-claymans-revenge-tv-anime-announced",
+      "description": "Adaptation of spinoff to premiere in April 2027",
+      "pubDate": "2026-09-25T16:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x542/f7ce33a48f/slime-clayman-anime.jpg"
+    },
+    {
+      "id": "cr-LWFuZC1jcmV3",
+      "title": "Overgeared English Dub Reveals Same-Day Release, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/25/overgeared-anime-english-dub-release-date-cast-and-crew",
+      "description": "The first episode drops on Crunchyroll this Sunday",
+      "pubDate": "2026-09-25T16:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1320x743/09300d9b83/overgeared.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE0NjU",
+      "title": "Historié Volumes 1-2 Digital Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465",
+      "description": "Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.",
+      "pubDate": "2026-09-25T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU9/cms/review.2/241465/images-3.jpg"
+    },
     {
       "id": "cr-bm5vdW5jZWQ",
       "title": "Draw This, Then Die! Season 2 Anime Announced",
@@ -350,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T02:03:50.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/daily-briefs/226431/20250707152651.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE1NA",
@@ -360,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSA/youtube/DEeIaVzK9B8.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIxNTM",
@@ -370,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEP/herald/201614/disney.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE1Mg",
@@ -380,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/youtube/Y6fNuySFktc.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIxNTA",
@@ -390,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T17:45:39.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
+      "image": null
     },
     {
       "id": "cr-Yy12aWRlbw",
@@ -410,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.9/242148/story-of-seasons-your-wonderful-life.webp"
+      "image": null
     },
     {
       "id": "cr-cmVtaWVyZQ",
@@ -430,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS6/cms/review.2/241574/billy-bat-2.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE0OQ",
@@ -440,167 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T15:28:29.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.9/242149/tv-sekiro-kv.jpg"
-    },
-    {
-      "id": "cr-bm91bmNlZA",
-      "title": "Pokémon TCG Pocket Mega Evolves in New Deluxe Set",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/pokemon-tcg-pocket-deluxe-pack-mega-announced",
-      "description": "Deluxe Pack: Mega launches in the app on September 29",
-      "pubDate": "2026-09-24T15:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/8f34d4ce6b/pokemon-tcg-pocket-deluxe-pack-mega-announcement.png"
-    },
-    {
-      "id": "ann-LjI0MjExOA",
-      "title": "Norimitsu Kaihō, Kurageso's Akarui Mirai Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/norimitsu-kaiho-kurageso-akarui-mirai-manga-ends-in-next-chapter/.242118",
-      "description": "Final chapter debuts on October 23",
-      "pubDate": "2026-09-24T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP4/cms/news.9/242118/81synndj-9l.sl1500.jpg"
-    },
-    {
-      "id": "cr-ZXctMjAyNg",
-      "title": "Black Clover Director Ayataka Tanemura on the Highly Anticipated Second Season",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/24/black-clover-anime-expo-interview-2026",
-      "description": "Time to dive into the next installment of Asta's journey!",
-      "pubDate": "2026-09-24T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/fbb60d4624/black-clover.jpg"
-    },
-    {
-      "id": "ann-LjI0MjE0NQ",
-      "title": "Hotel Inhumans Anime's 2nd Season Casts Shōya Chiba",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/hotel-inhumans-anime-2nd-season-casts-shoya-chiba/.242145",
-      "description": "Shōya Chiba plays Subaru Yoda in 1st episode of 2nd season",
-      "pubDate": "2026-09-24T14:45:02.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-ci8uMjQyMTE5",
-      "title": "Fairy Tail Re:Fantasia Manga Miniseries Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/fairy-tail-re-fantasia-manga-miniseries-ends-in-next-chapter/.242119",
-      "description": "Miniseries debuted on July 29",
-      "pubDate": "2026-09-24T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjEwMQ",
-      "title": "This Week in Anime - The Waiting Game",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-24/.242101",
-      "description": "Are you ready to play the Waiting Game? Oh, hang on a sec, Chris and Coop have some thoughts.",
-      "pubDate": "2026-09-24T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-dWxhdGlvbg",
-      "title": "SNOWBALL EARTH Manga Celebrates 1 Million Copies in Circulation",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/snowball-earth-manga-celebrates-1-million-copies-in-circulation",
-      "description": "Yuhiro Tsujitsugu’s series prepares to enter its final arc",
-      "pubDate": "2026-09-24T13:56:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8da05bd466/snowball-earth-e8.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMjc",
-      "title": "Daemons of the Shadow Realm ‒ Episode 24",
-      "link": "https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-24/.242127",
-      "description": "Boy, if any anime feels like it's already run out of steam, it's this one.",
-      "pubDate": "2026-09-24T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bmltZS0yMDI3",
-      "title": "Phantom Busters TV Anime Revealed for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/phantom-busters-anime-2027",
-      "description": "Creator Neoshoco celebrated with a special illustration",
-      "pubDate": "2026-09-24T13:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/700x500/001d72a031/phantom-busters-manga-header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMjg",
-      "title": "WEBTOON Launches 1st Global Drop With The Warrior's Ballad",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/webtoon-launches-1st-global-drop-with-the-warrior-ballad/.242128",
-      "description": "Series follows  powerful sword master who is reincarnated 100 years after his death as boy named Ricardt",
-      "pubDate": "2026-09-24T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "cr-b3gtb2ZmaWNl",
-      "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Retains Top Spot in 9th Weekend",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/chiikawa-the-movie-the-secret-of-the-mermaid-island-top-spot-9th-weekend-japan-box-office",
-      "description": "Star Detective Precure! film makes a No. 3 debut",
-      "pubDate": "2026-09-24T12:49:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x519/6bbe9484cc/chiikawa-the-movie.jpg"
-    },
-    {
-      "id": "ann-LjI0MjEzNA",
-      "title": "Snowball Earth Manga Heads to Final Arc, Exceeds 1 Million Copies in Circulation",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/snowball-earth-manga-heads-to-final-arc-exceeds-1-million-copies-in-circulation/.242134",
-      "description": "Manga launched in 2021, anime adaptation debuted on April 3",
-      "pubDate": "2026-09-24T12:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kakunaru Ue wa' Reveals Additional Staff, First Promo for Winter 2027",
-      "link": "https://myanimelist.net/news/74754396?_location=rss",
-      "description": "The official website for the television anime adaptation of Kyuu Takahata and Yuuji Kaba's Kakunaru Ue wa (Now That We Draw) manga revealed additional staff, a character visual (pictured above), and the first promotional video on Thursday. The anime series will premiere in January 2027. Staff Sub-character Design: Momoka Izumi (Yofukashi no Uta animation director) Color Design: Yurie Matsuura (Koi wa Futago de Warikirenai) Art Director: Arei Saiga (Kabushikigaisha Magi-Lumi&egrave;re backg...",
-      "pubDate": "2026-09-24T12:39:39.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790253469-16f163a65ee712da3a08ddec9c20a404.jpeg"
-    },
-    {
-      "id": "cr-cHJlbWllcmU",
-      "title": "Now That We Draw TV Anime Confirms January 2027 Premiere in First Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/now-that-we-draw-tv-anime-trailer-january-2027-premiere",
-      "description": "Studio ROLL2 animates the adaptation",
-      "pubDate": "2026-09-24T12:39:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/7daca99488/now-that-we-draw-trailer.png"
-    },
-    {
-      "id": "cr-ZW1lLXNvbmc",
-      "title": "Magical Sisters Lulutto Lilly Cour 2 Anime Teases New Opening Theme Song in Latest Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/magical-sisters-lulutto-lilly-cour-2-anime-trailer-new-opening-theme-song",
-      "description": "The magical girl series returns on October 4",
-      "pubDate": "2026-09-24T12:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/40f51ae604/magical-sisters-lulutto-lilly-trailer-hero.png"
-    },
-    {
-      "id": "cr-LXN1bWVyYWdp",
-      "title": "Bless Anime Introduces the Sumeragi Twins in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/bless-anime-reveals-cast-for-oroka-shitataka-sumeragi",
-      "description": "The makeup drama series debuts in January 2027",
-      "pubDate": "2026-09-24T12:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/96d1f35ba7/bless.jpg"
     }
   ]
 };
