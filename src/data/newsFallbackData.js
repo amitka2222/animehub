@@ -1,7 +1,197 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-25T10:38:43.949Z",
+  "lastUpdated": "2026-09-25T15:59:39.628Z",
   "items": [
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "Draw This, Then Die! Season 2 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/draw-this-then-die-season-2-anime-announced",
+      "description": "Celebratory visual revealed for continuation",
+      "pubDate": "2026-09-25T15:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/2fd926db2f/korekaite_pv1_main.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxODQ",
+      "title": "Please Excuse My Younger Brothers TV Anime Reveals More Cast, New Ending Theme",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/please-excuse-my-younger-brothers-tv-anime-reveals-more-cast-new-ending-theme/.242184",
+      "description": "Yōko Hikasa joins cast",
+      "pubDate": "2026-09-25T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/youtube/lUhpmL1vbL4.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE5Mw",
+      "title": "'Draw This, Then Die!' Anime Gets 2nd Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/draw-this-then-die-anime-gets-2nd-season/.242193",
+      "description": "Season 1 ended on Friday",
+      "pubDate": "2026-09-25T15:15:06.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNA/cms/news.9/242193/draw-this-then-die-season-2.jpg"
+    },
+    {
+      "id": "cr-a3MtYWxpdmU",
+      "title": "Initiate: Keep Anime Edits With Heavy Music Soundtracks Alive!",
+      "link": "https://crunchyroll.com/news/interviews/2026/9/25/initiate-keep-anime-edits-with-heavy-music-soundtracks-alive",
+      "description": "From Studio Ghibli while recording to watching anime on the iPad on tour",
+      "pubDate": "2026-09-25T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x541/07f4dd820d/iniate-band.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxOTA",
+      "title": "Tatsuki Fujimoto 17-26 Anime, My Melody & Kuromi Stop-Motion Animated Series Nominated for International Emmy",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/tatsuki-fujimoto-17-26-anime-my-melody-and-kuromi-stop-motion-animated-series-nominated-for-/.242190",
+      "description": "International Emmy Awards announce winners on November 23",
+      "pubDate": "2026-09-25T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT8/cms/news.8/228352/fujimoto.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE4MQ",
+      "title": "That Time I Got Reincarnated as a Slime Season 4 Anime Returns for 3rd Part in July 2027, Clayman's Revenge Spinoff Anime Debuts in April",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/that-time-i-got-reincarnated-as-a-slime-season-4-anime-returns-for-3rd-part-in-july-2027-clayman-/.242181",
+      "description": "Wataru Kajika's spinoff manga about Clayman debuted in April 2022",
+      "pubDate": "2026-09-25T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY9/cms/news.9/242181/revenge-visual-sm.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxODU",
+      "title": "Smoking Behind the Supermarket with You ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-12/.242185",
+      "description": "Even if the themes and takeaways from this episode are good and important for people to learn, I’m growing tired of this perpetual will-they-won’t-they romance.",
+      "pubDate": "2026-09-25T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAR/cms/episode-review.5/242185/supermarket-smoking-episode-12.png.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQyMDcz",
+      "title": "This Week in Games - What's Old is New, What's Evil is Residing",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-09-25/what-old-is-new-what-evil-is-residing/.242073",
+      "description": "Jean-Karlo takes a look at the history of Resident Evil and mulls the future of VR games.",
+      "pubDate": "2026-09-25T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/youtube/PcDjo_uKeF4.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE2Ng",
+      "title": "Game Review: Ace Combat 8: Wings of Theve",
+      "link": "https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x/s-windows/ace-combat-8/wings-of-theve/.242166",
+      "description": "Few games fly as high or as well as Wings of Theve.",
+      "pubDate": "2026-09-25T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/game-review/242166/ac8.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNTk",
+      "title": "Clevatess Season 2 ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/clevatess-season-2/episode-12/.242159",
+      "description": "Vorden spent a year frolicking with the most heinous Supervillain Isekai Boyfriend that his universe has ever known. Even after a millennium, who else could possibly compare?",
+      "pubDate": "2026-09-25T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/episode-review.5/242159/clevatess-ii-12.png.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQyMTc2",
+      "title": "Monochrome, Good Smile Unveil Ignisphere Mixed Media Project, Along With Project's Dawngazer Action RPG",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/monochrome-good-smile-unveil-ignisphere-mixed-media-project-along-with-project-dawngazer-action-rpg/.242176",
+      "description": "Unicorn Overlord director, character designer Takafumi Noma helms Dawngazer 2028 game",
+      "pubDate": "2026-09-25T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/youtube/McpAJLJ-D6E.jpg"
+    },
+    {
+      "id": "cr-Y3VsYXRpb24",
+      "title": "Smoking Behind the Supermarket with You Manga Celebrates 4 Million Copies in Circulation",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/smoking-behind-the-supermarket-with-you-manga-celebrates-4-million-copies-in-circulation",
+      "description": "The anime adaptation is available to watch on Crunchyroll",
+      "pubDate": "2026-09-25T13:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/13b52f10c1/smoking-behind-the-supermarket-with-you.png"
+    },
+    {
+      "id": "ann-Ly4yNDEwMzE",
+      "title": "WIT Studio's George Wada on Attack on Titan, Trust, and Taking on The One Piece",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/wit-studio-george-wada-on-attack-on-titan-trust-and-taking-on-the-one-piece/.241031",
+      "description": "\"I consider One Piece one of Japan's most precious manga, so I'm really looking forward to bringing it to the world.\"",
+      "pubDate": "2026-09-25T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA9/herald/201154/8y6330aa6mkh1.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjAwOA",
+      "title": "The Worst Anime of Summer 2026",
+      "link": "https://www.animenewsnetwork.com/seasonal/2026/summer/.242008",
+      "description": "I think we've all gotten a little fed up with seminal shojo classics getting the short end of the animation stick.",
+      "pubDate": "2026-09-25T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/seasonal/242008/rhs-red-river-cap-2.png.jpg"
+    },
+    {
+      "id": "ann-My8uMjQyMTU4",
+      "title": "Mushoku Tensei: Jobless Reincarnation III ‒ Episode 13",
+      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-13/.242158",
+      "description": "There were numerous chances where better choices from Rudeus would have stopped the chain-reaction of despair in his life.",
+      "pubDate": "2026-09-25T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/cms/episode-review.5/242158/mushoku-4-13.jpg"
+    },
+    {
+      "id": "ann-LjI0MjE1Nw",
+      "title": "I Want to Love You Till Your Dying Day ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-12/.242157",
+      "description": "The show definitely revolves around Mimi, but Mimi herself was almost never a main focus or a character whose journey I feel like I was following.",
+      "pubDate": "2026-09-25T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBE/cms/episode-review.5/242157/vlcsnap-2026-09-24-17h33m38s298.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNzU",
+      "title": "The Apothecary Diaries Season 3 Anime's 2nd Trailer Reveals Eve's Ending Theme",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-25/the-apothecary-diaries-season-3-anime-2nd-trailer-reveals-eve-ending-theme/.242175",
+      "description": "New season debuts on October 2",
+      "pubDate": "2026-09-25T11:08:13.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/youtube/YvNvvUeCztE.jpg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmc",
+      "title": "The Apothecary Diaries Season 3 Anime Trailer Reveals Eve Ending Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/the-apothecary-diaries-season-3-anime-trailer-eve-ending-theme-song",
+      "description": "The historical drama series returns on Crunchyroll next week",
+      "pubDate": "2026-09-25T11:06:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ec3fa5b294/the-apothecary-diaries-season-3.jpg"
+    },
+    {
+      "id": "cr-ZXIteXVraW5l",
+      "title": "Magical Explorer Anime Strong Arms in Yukine Mizumori Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/9/25/magical-explorer-anime-character-trailer-yukine",
+      "description": "The series premieres October 3 on Crunchyroll",
+      "pubDate": "2026-09-25T10:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/237d4547af/magical-explorer-character-trailer-yukine.png"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Yozakura-san Chi no Daisakusen 2nd Season Part 2' Announces Additional Cast, Character Promo",
@@ -290,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T14:45:02.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY6/cms/news.9/242145/hotel-inhumans-subaru.jpg"
+      "image": null
     },
     {
       "id": "ann-ci8uMjQyMTE5",
@@ -300,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGQ/cms/news.9/242119/hknzeueawaaaipg.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjEwMQ",
@@ -310,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/8Mk4Uykq5I8.jpg"
+      "image": null
     },
     {
       "id": "cr-dWxhdGlvbg",
@@ -330,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/episode-review.5/242127/daemons-24.jpg"
+      "image": null
     },
     {
       "id": "cr-bmltZS0yMDI3",
@@ -350,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT9/cms/news.9/242128/3thumb-poster.jpg"
+      "image": null
     },
     {
       "id": "cr-b3gtb2ZmaWNl",
@@ -370,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-24T12:45:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMC/cms/news.9/242134/snow.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -411,196 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1200x675/96d1f35ba7/bless.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMjY",
-      "title": "Re:ZERO -Starting Life in Another World- Season 4 ‒ Episodes 17-18",
-      "link": "https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episodes-17-18/.242126",
-      "description": "Memories may have been tampered with, but their biological and spiritual connection remains.",
-      "pubDate": "2026-09-24T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/episode-review.5/242126/rezero-4-18.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyMTQz",
-      "title": "'Now That We Draw' Anime's 1st Full Promo Video Unveils More Staff, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/now-that-we-draw-anime-1st-full-promo-video-unveils-more-staff-january-2027-debut/.242143",
-      "description": "Yoshiaki Miura scores music for romantic comedy starring Ayumu Murase, Sayumi Suzushiro",
-      "pubDate": "2026-09-24T12:28:55.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/u05QQa7wun4.jpg"
-    },
-    {
-      "id": "cr-dC1tZW1iZXJz",
-      "title": "The Iceblade Sorcerer Shall Rule the World II Anime Adds Two Additional Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/the-iceblade-sorcerer-shall-rule-the-world-2-anime-two-new-cast-members",
-      "description": "Crunchyroll streams ongoing fantasy light novel adaptation beginning October 8",
-      "pubDate": "2026-09-24T12:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/8e5b866ab1/the_iceblade_sorcerer_shall_rule_the_world_header.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMTQx",
-      "title": "Bless Anime Reveals 2 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/bless-anime-reveals-2-more-cast-members/.242141",
-      "description": "Yoshino Aoyama, Momoka Terasawa join cast of January 2027 anime",
-      "pubDate": "2026-09-24T12:14:57.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUB/youtube/iHk_UX0nSAs.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMzk",
-      "title": "The Iceblade Sorcerer Shall Rule the World 2nd Season Anime Casts Shiki Aoki, Kazuyuki Okitsu",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/the-iceblade-sorcerer-shall-rule-the-world-2nd-season-anime-casts-shiki-aoki-kazuyuki-okitsu/.242139",
-      "description": "Aoki, Okitsu join cast of anime debuting on October 8",
-      "pubDate": "2026-09-24T11:48:07.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.9/242139/ice.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMTM4",
-      "title": "Isshiki-san Wants to Know About Love TV Anime Reveals New Visual, 4 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/isshiki-san-wants-to-know-about-love-tv-anime-reveals-new-visual-4-more-cast-members/.242138",
-      "description": "Haruki Ishiya, Takuma Nagatsuka, more join cast for anime debuting in January 2027",
-      "pubDate": "2026-09-24T11:40:23.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/cms/news.9/242138/animeisshikib2kv02-sho-b280.jpg"
-    },
-    {
-      "id": "ann-LjI0MjEyNQ",
-      "title": "Saga of Tanya the Evil II ‒ Episodes 11-12",
-      "link": "https://www.animenewsnetwork.com/review/saga-of-tanya-the-evil-ii/episodes-11-12/.242125",
-      "description": "\"“If we both lose another million, no, ten million lives, even the stupidest of them will be willing to talk.”\"",
-      "pubDate": "2026-09-24T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/episode-review.5/242125/tanya-2-12a.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Bless' Unveils Additional Cast, Character Promo",
-      "link": "https://myanimelist.net/news/74754247?_location=rss",
-      "description": "The official website for the television anime adaptation of Yukino Sonoyama's Bless manga unveiled additional cast and the character promotional video on Thursday. The anime series is scheduled to premiere on Fuji TV's NoitaminA programming block at 11.30. p.m. in January 2027. Cast Ginga Yoyogi: Nobuhiko Okamoto (Boku no Hero Academia) Oroka Sumeragi: Yoshino Aoyama (Bocchi the Rock!) Shitataka Sumeragi: Momoka Terasawa (Make Heroine ga Oosugiru!) Shoutarou Kitamura (Make Heroine ga...",
-      "pubDate": "2026-09-24T11:26:51.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790249127-8c856a3e5fb4dd73357d76348bacd9f1.jpeg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "Isshiki-san Wants to Know About Love Anime Unveils Main Visual, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/isshiki-san-wants-to-know-about-love-anime-main-visual-additonal-cast",
-      "description": "The police rom-com series debuts in January 2027",
-      "pubDate": "2026-09-24T10:58:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/1f69d0f5dd/isshiki-san-wants-to-know-about-love.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Isshiki-san wa Koi wo Shiritai.' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74754203?_location=rss",
-      "description": "The official website for the television anime adaptation of Ayune Araragi's Isshiki-san wa Koi wo Shiritai. (Ms. Isshiki Wants to Know About Love) manga revealed additional cast and a key visual (pictured) on Thursday. The anime series is scheduled to premiere in January 2027. Cast Iwata Danjuro: Haruki Ishiya (Hibike! Euphonium) Nakatani Masato: Takuma Nagatsuka (SK&infin;) Matsumoto Chikai: Hiiro Ishibashi (Kaoru Hana wa Rin to Saku) Yamakawa Rena: Yuu Wakui (Otonari ni Ginga) Kazuya Koma...",
-      "pubDate": "2026-09-24T10:44:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790246557-6c5c2b814adc75f8ef59a20139022072.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shin Oishinbo'  Reveals Main Cast, Staff",
-      "link": "https://myanimelist.net/news/74754201?_location=rss",
-      "description": "The official website for the television anime adaptation of Tetsu Kariya's Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Fujimoto Tatsuki 17-26) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composi...",
-      "pubDate": "2026-09-24T10:43:09.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790245855-cb52036559471b2bc2f46af310d5d3c6.jpeg"
-    },
-    {
-      "id": "ann-dC8uMjQyMTM3",
-      "title": "Shin Oishinbo TV Anime Reveals Main Cast & Staff Members, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/shin-oishinbo-tv-anime-reveals-main-cast-and-staff-members-2027-debut/.242137",
-      "description": "Yōhei Azakami voices protagonist Shirō Yamaoka",
-      "pubDate": "2026-09-24T10:12:36.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS2/cms/news.9/242137/oishinbo.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyMTMw",
-      "title": "Magical Sisters Lulutto Lilly Anime Streams Main Trailer for 2nd Part",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/magical-sisters-lulutto-lilly-anime-streams-main-trailer-for-2nd-part/.242130",
-      "description": "Anime's 2nd part starts on October 4",
-      "pubDate": "2026-09-24T10:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.9/242130/lulu.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Aoki Denshou Welsh & Shedar' Reveals Additional Cast, Theme Songs, Main Promo",
-      "link": "https://myanimelist.net/news/74754150?_location=rss",
-      "description": "The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...",
-      "pubDate": "2026-09-24T09:58:12.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790243539-d79234f6d138a0921b38b3d833b42ddb.jpeg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "New Oishinbo TV Anime Reveals Main Cast, 2027 Release Date",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/new-oishinbo-tv-anime-2027-release-date-main-cast-teaser-visual",
-      "description": "The original series aired in 1988",
-      "pubDate": "2026-09-24T09:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/511933a834/new-oishinbo-tv-anime-logo.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMzU",
-      "title": "Aoki Denshō Welsh & Shedar Anime's Main Trailer Reveals More Cast Members, Theme Song Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/aoki-densho-welsh-and-shedar-anime-main-trailer-reveals-more-cast-members-theme-song-artists/.242135",
-      "description": "Yūko Kaida, Makoto Furukawa, Risa Kayama, more join cast of anime debuting on October 2",
-      "pubDate": "2026-09-24T09:25:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Phantom Busters' TV Anime Announced For 2027",
-      "link": "https://myanimelist.net/news/74754110?_location=rss",
-      "description": "Production company TOHO animation opened an official website for a television anime adaptation of Shoco's Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....",
-      "pubDate": "2026-09-24T09:22:35.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790241726-e2011f2218bf8d3537598b2c8cb96f6e.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast Pair",
-      "link": "https://myanimelist.net/news/74754105?_location=rss",
-      "description": "The official website for the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additional pair of cast for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Voice actors Kazuyuki Okitsu (Hidarikiki no Eren) and Shiki Aoki (Helck) are joining the second season as Marius Bassett and M...",
-      "pubDate": "2026-09-24T09:20:26.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790241602-cfba919a245a46f4d5bb87b1669d06a3.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjEzNg",
-      "title": "Neoshoco's Phantom Busters Manga Gets TV Anime in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/neoshoco-phantom-busters-manga-gets-tv-anime-in-2027/.242136",
-      "description": "Youth comedy manga about exorcist club launched in 2023",
-      "pubDate": "2026-09-24T09:15:17.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 };
