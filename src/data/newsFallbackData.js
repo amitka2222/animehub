@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-26T15:11:14.181Z",
+  "lastUpdated": "2026-09-26T20:15:05.847Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIwNTc",
+      "title": "MY HERO ACADEMIA: All's Justice Switch 2 Port Video Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/switch-2-port-video/my-hero-academia/all-justice/.242057",
+      "description": "This game is meant to enhance the experience of an established fan rather than draw in potential new ones.",
+      "pubDate": "2026-09-26T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK8/cms/game-review/242057/screenshot-2026-09-21-11-22-55.png.jpg"
+    },
+    {
+      "id": "cr-cnNhcnktYXJ0",
+      "title": "Frieren: Beyond Journey's End Anime Shares 3rd Anniversary Art",
+      "link": "https://crunchyroll.com/news/latest/2026/9/26/frieren-beyond-journeys-end-anime-3rd-anniversary-art",
+      "description": "Countdown illustration campaign also proceeds towards October 2027 premiere",
+      "pubDate": "2026-09-26T15:17:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/fca447d5a8/frieren-season-2.jpg"
+    },
     {
       "id": "cr-dC1zcGlyaXQ",
       "title": "Why Did It Take Me So Long to Watch Somali and the Forest Spirit?",
@@ -11,6 +31,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Features",
       "image": "https://a.storyblok.com/f/178900/960x540/bd4d94e144/golem-with-child-somali-and-the-forest-spirit-episode-1.png"
+    },
+    {
+      "id": "ann-Ly4yNDIyMTg",
+      "title": "Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 24",
+      "link": "https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-24/.242218",
+      "description": "And so ends another season with the Misfit Class. Luckily the English translation of the manga has caught up with the anime, so we won't have to wait to find out what happens next.",
+      "pubDate": "2026-09-26T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/episode-review.5/242218/iruma-s4-24.png.jpg"
     },
     {
       "id": "ann-LjI0MDIwMA",
@@ -480,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T09:40:32.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/youtube/TMvCjiKHURM.jpg"
+      "image": null
     },
     {
       "id": "cr-bi10cmFpbGVy",
@@ -500,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T09:02:32.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.9/242171/alexandryu.jpg"
+      "image": null
     },
     {
       "id": "cr-aGVtZS1zb25n",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/f558802bb3/the-fake-alchemist.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Nisemono no Renkinjutsushi' Reveals Main Cast, Staff, Teaser Promo",
-      "link": "https://myanimelist.net/news/74756971?_location=rss",
-      "description": "The official website for the television anime adaptation of Jirou Sugiura and Umemaru's Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotional video on Friday. Voice actors Youhei Matsuoka (Fujimoto Tatsuki 17-26) and Miyari Nemoto (Ruri no Houseki) are starring as Paracelsus and Nora Petan, respectively. Staff Chief Director: Takeo Takahashi (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Director: Hijiri Sanpei (Watashi no Yuri...",
-      "pubDate": "2026-09-25T03:21:53.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790306415-7ec04d312b648d821182c62def68774b.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjE0MA",
-      "title": "Konami Offers Official Metal Gear Solid Boxes (for Your Cat)",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-24/konami-offers-official-metal-gear-solid-boxes/.242140",
-      "description": "Now your cat can become the ultimate spy & special operations soldier",
-      "pubDate": "2026-09-25T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE5NzU",
-      "title": "Stop President 'Dramp's' Ambitions in New Mahjong Game for Switch",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-24/stop-president-dramp-ambitions-in-new-mahjong-game-for-switch/.241975",
-      "description": "Latest from mahjong manga/game artist Masayuki Katayama also features Elon Musg",
-      "pubDate": "2026-09-25T02:38:16.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
     }
   ]
 };
