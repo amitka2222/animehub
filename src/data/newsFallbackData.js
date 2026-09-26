@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-26T02:09:29.186Z",
+  "lastUpdated": "2026-09-26T10:22:15.256Z",
   "items": [
+    {
+      "id": "ann-OS8uMjQyMjA1",
+      "title": "Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205",
+      "description": "Short will screen alongside new HD remastered \"movie edition\" of Future GPX Cyber Formula: Early Days Renewal compilation OVA",
+      "pubDate": "2026-09-26T05:37:39.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRB/cms/news.9/242205/cf-02-movie-b2poster-web.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxODA",
+      "title": "Starbucks Japan Introduces 1st Pokémon Collaboration",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-25/starbucks-japan-introduces-1st-pokemon-collaboration/.242180",
+      "description": "Your favorite Pokémon now come in coffee form",
+      "pubDate": "2026-09-26T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/interest.3/242180/pokemon-starbucks.jpg"
+    },
+    {
+      "id": "cr-by12YW1waXJl",
+      "title": "Are You a Landmine, Chihara-san? Anime Music Project Releases 3rd Music Video \"Vampire\"",
+      "link": "https://crunchyroll.com/news/latest/2026/9/26/are-you-a-landmine-chihara-san-anime-music-project-3rd-music-video-vampire",
+      "description": "The new rom-com series will arrive in January 2027",
+      "pubDate": "2026-09-26T02:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4d845f1b97/mai-chihara-vampire-mv.jpg"
+    },
     {
       "id": "cr-bmEtdWVkYQ",
       "title": "Reina Ueda Drops MAO Anime Cour 2 Ending Song Music Video",
@@ -500,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T03:37:52.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/youtube/6N6pcBa0TzU.jpg"
+      "image": null
     },
     {
       "id": "cr-ZWxlYXNlZA",
@@ -530,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIT/cms/interest.3/242140/metal-gear-cat-boxes.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE5NzU",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Industry",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MjE1Mg",
-      "title": "Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152",
-      "description": "English-subbed trailer streamed for anime inspired by Alice in Wonderland",
-      "pubDate": "2026-09-24T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIxNTA",
-      "title": "Global Stage Hollywood Screens World Premiere of Psyren TV Anime's 2nd Episode on October 3 With Original Creator Toshiaki Iwashiro",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/global-stage-hollywood-screens-world-premiere-of-psyren-tv-anime-2nd-episode-on-october-3-with-/.242150",
-      "description": "1st 2 episodes to screen at Global Stage Hollywood Film Fest with Iwashiro in attendance",
-      "pubDate": "2026-09-24T17:45:39.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Yy12aWRlbw",
-      "title": "Chainsmoker Cat Anime Celebrates Conclusion with Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/24/chainsmoker-cat-anime-music-video",
-      "description": "Main cast performs a cover of the opening theme song",
-      "pubDate": "2026-09-24T17:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/24324ff7cd/chainsmoker_cat_header.jpg"
     }
   ]
 };
