@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-26T20:15:05.847Z",
+  "lastUpdated": "2026-09-27T02:02:12.473Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIyMTk",
+      "title": "Gantz Creator Hiroya Oku Confirms He Drew Thunder 3 Manga Under Pen Name Yuki Ikeda",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-26/gantz-creator-hiroya-oku-confirms-he-drew-thunder-3-manga-under-pen-name-yuki-ikeda/.242219",
+      "description": "Series ended on June 5",
+      "pubDate": "2026-09-27T01:03:41.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN7/cms/news.9/237093/thunder.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Toshio Masuda, Director of 'Uchuu Senkan Yamato' Movies, Dies at 98",
+      "link": "https://myanimelist.net/news/74764175?_location=rss",
+      "description": "Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday, stating that Masuda died at a hospital in Tokyo. A private funeral service has been held by his close relatives. Born in Kobe in 1927, Masuda was expelled from a technical training school in July 1945 due to a mismatch with its military indoctrination. He later attended the Osaka University of For...",
+      "pubDate": "2026-09-27T01:02:15.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790470851-a31244281f5791ad44f3c3ceafa0947c.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjIwOA",
+      "title": "Overgeared Anime Gets Same-Day English Dub on September 27",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-26/overgeared-anime-gets-same-day-english-dub-on-september-27/.242208",
+      "description": "Company reveals English dub cast, staff",
+      "pubDate": "2026-09-27T00:43:52.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE3/cms/news.9/241725/overgeared.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyMTA",
+      "title": "Happy Harvest Moon From Around the Anime World",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-26/happy-harvest-moon-from-around-the-anime-world/.242210",
+      "description": "Featuring Frieren, Gundam, Pragmata, Spice & Wolf, Chiikawa, Pokémon, Bayonetta, Square Enix, & more!",
+      "pubDate": "2026-09-27T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/cms/interest.3/242210/hs-df86bkaaix38b.jpeg"
+    },
     {
       "id": "ann-Ly4yNDIwNTc",
       "title": "MY HERO ACADEMIA: All's Justice Switch 2 Port Video Game Review",
@@ -440,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/cms/episode-review.5/242158/mushoku-4-13.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE1Nw",
@@ -450,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBE/cms/episode-review.5/242157/vlcsnap-2026-09-24-17h33m38s298.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIxNzU",
@@ -460,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T11:08:13.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/youtube/YvNvvUeCztE.jpg"
+      "image": null
     },
     {
       "id": "cr-ZW1lLXNvbmc",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790311309-81af7a3e02edf7520960d5a4ef533962.jpeg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Red River Anime Unveils Cour 2 Main Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/red-river-anime-cour-2-main-trailer-visual",
-      "description": "The conflict enters its next stage on September 29",
-      "pubDate": "2026-09-25T04:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/128e66236d/red-river.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxNjU",
-      "title": "The Fake Alchemist Anime's Teaser Unveils Cast, Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/the-fake-alchemist-anime-teaser-unveils-cast-staff/.242165",
-      "description": "Yōhei Matsuoka, Miyari Nemoto stars as Paracelsus, Nora",
-      "pubDate": "2026-09-25T03:46:55.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIxNjM",
-      "title": "Red River Anime Posts New Video for 2nd Part",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-24/red-river-anime-posts-new-video-for-2nd-part/.242163",
-      "description": "Video previews new opening song \"Akatsuki no Hoshi\" by Nana Mizuki",
-      "pubDate": "2026-09-25T03:37:52.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZWxlYXNlZA",
-      "title": "The Fake Alchemist Anime Main Cast, Staff Revealed in Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/the-fake-alchemist-anime-teaser-trailer-released",
-      "description": "Studio Passione is producing the fantasy adventure series",
-      "pubDate": "2026-09-25T03:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f558802bb3/the-fake-alchemist.jpg"
     }
   ]
 };
