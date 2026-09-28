@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-28T02:07:29.037Z",
+  "lastUpdated": "2026-09-28T12:06:31.117Z",
   "items": [
+    {
+      "id": "cr-dWUtdmlzdWFs",
+      "title": "Though I Am an Inept Villainess Anime Shares Epilogue Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/though-i-am-an-inept-villainess-anime-epilogue-visual",
+      "description": "Next installment of ongoing light novel adaptation broadcasts in January",
+      "pubDate": "2026-09-28T11:57:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/a940deff1a/though-i-am-an-inept-villainess-ed-hero-1.png"
+    },
+    {
+      "id": "ann-Ly4yNDIyMjI",
+      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 23",
+      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-23/.242222",
+      "description": "It's not just the episode upping its aesthetics as it gets close to the finish line; Wit Studio has an explosive climax they're rendering, and it's going to look slick.",
+      "pubDate": "2026-09-28T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEC/cms/episode-review.5/242222/aobw4231.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyNDc",
+      "title": "Machibari, Juan Albarrán Each Launch New Manga on Manga One App",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/machibari-juan-albarran-each-launch-new-manga-on-manga-one-app/.242247",
+      "description": "Both new manga to debut in October",
+      "pubDate": "2026-09-28T11:16:33.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/242247/escape.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI2NA",
+      "title": "Lone Wolf and Cub Deluxe Edition Manga Wins Ringo Award",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/lone-wolf-and-cub-deluxe-edition-manga-wins-ringo-award/.242264",
+      "description": "Deluxe Edition wins 'Best Presentation in Design' award from jury, fans",
+      "pubDate": "2026-09-28T10:24:44.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.10/242264/lone-wolf-and-cub-deluxe.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyMjYz",
+      "title": "Zero-sen Hayato Anime Scriptwriter Sō Kuramoto Dies at 91",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/zero-sen-hayato-anime-scriptwriter-so-kuramoto-dies-at-91/.242263",
+      "description": "Kuramoto died of multiple organ failure on September 18",
+      "pubDate": "2026-09-28T09:59:45.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/242263/kuramoto.jpg"
+    },
+    {
+      "id": "ann-ZC8uMjQyMjY1",
+      "title": "Psyren TV Anime Reveals Ending Song by Who-ya Extended",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/psyren-tv-anime-reveals-ending-song-by-who-ya-extended/.242265",
+      "description": "Artist performs \"ICARUS\" ending song for October 5 series",
+      "pubDate": "2026-09-28T09:04:59.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI1Ng",
+      "title": "Manchuria Opium Squad Manga Resumes Serialization With New Artist Tsurushima",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/manchuria-opium-squad-manga-resumes-serialization-with-new-artist-tsurushima/.242256",
+      "description": "Tsurushima takes over manga's artist Shikako who died in November 2025",
+      "pubDate": "2026-09-28T07:48:02.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW2/cms/news.6/203075/91hfh9p2gkl._sl1500_.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyNDA",
+      "title": "4 of Dragon Ball Z's Goku Voice Actors Perform Kamehameha Together",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-27/4-of-dragon-ball-z-goku-voice-actors-perform-kamehameha-together/.242240",
+      "description": "Masako Nozawa, Sean Schemmel, Mario Castañeda, Ankur Javeri team up",
+      "pubDate": "2026-09-28T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/interest.3/242240/825322530-1446351880745544-8383176036745200340-n.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI1NQ",
+      "title": "Everyone's Darling Has a Secret Manga Gets TV Anime in April",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-27/everyone-darling-has-a-secret-manga-gets-tv-anime-in-april/.242255",
+      "description": "Reiji Kawashima, Hikaru Tōno star in romantic comedy from Gekkō",
+      "pubDate": "2026-09-28T03:58:34.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242255/htrvpeobmaa9ebz.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Web Manga 'Houkago no Idol ni wa Himitsu ga Aru' Gets TV Anime in Spring 2027",
+      "link": "https://myanimelist.net/news/74768378?_location=rss",
+      "description": "Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane's Houkago no Idol ni wa Himitsu ga Aru (Everyone's Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime series will premiere in April 2027. Cast Hiruno Hizashi: Reiji Kawashima (Fumetsu no Anata e) Rei Kuromiya: Hikaru Tono (Make Heroine ga Oosugiru) Sakura Akai: Iori Noguchi (=LOVE) (Hashiri Tsuzukete Yokatta tte.) S...",
+      "pubDate": "2026-09-28T03:49:54.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790567314-c180cada59cc88a7b9e12cfdb9cebeba.jpeg"
+    },
+    {
+      "id": "cr-dWFsLWNhc3Q",
+      "title": "Everyone's Darling Has a Secret Anime Announced for April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/everyones-darling-has-a-secret-anime-announced-april-2027-teaser-visual-cast",
+      "description": "A teaser visual was also shared, along with cast and staff details",
+      "pubDate": "2026-09-28T03:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/fed7f8a89e/everyones-darling-has-a-secret-header.jpg"
+    },
+    {
+      "id": "ann-ei8uMjQyMjM5",
+      "title": "Stranger Than Heaven Game Streams In-Depth Video Highlighting 'Showbiz'",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-27/stranger-than-heaven-game-streams-in-depth-video-highlighting-showbiz/.242239",
+      "description": "Game launches on January 15 for Xbox Series X|S, PS5, PC via Steam",
+      "pubDate": "2026-09-28T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.10/242239/0-2.jpg"
+    },
+    {
+      "id": "cr-YS11Y2hpZGE",
+      "title": "Maaya Uchida Releases The Iceblade Sorcerer Shall Rule the World II Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/the-iceblade-sorcerer-shall-rule-the-world-ii-anime-ending-song-music-video-maaya-uchida",
+      "description": "Crunchyroll will stream the new season as it airs",
+      "pubDate": "2026-09-28T02:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0a373c4fbc/maaya-uchida-compression-mv.jpg"
+    },
     {
       "id": "cr-ZS1saW5ldXA",
       "title": "Jump Festa 2027 Reveals Stage Lineup Including ONE PIECE, Chainsaw Man and More",
@@ -370,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-26T11:31:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/episode-review.5/242212/yl-4.jpg"
+      "image": null
     },
     {
       "id": "ann-OS8uMjQyMjA1",
@@ -380,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-26T05:37:39.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRB/cms/news.9/242205/cf-02-movie-b2poster-web.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIxODA",
@@ -390,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-26T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/interest.3/242180/pokemon-starbucks.jpg"
+      "image": null
     },
     {
       "id": "cr-by12YW1waXJl",
@@ -440,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD2/herald/201652/chao.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE4Mg",
@@ -450,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/youtube/6XLlukhUl7k.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQyMjAx",
@@ -460,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T19:35:03.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGL/youtube/j6cQAaNYYeA.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE5NQ",
@@ -470,136 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T19:20:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWY/cms/weekly-ranking/242195/summer2026-montage-w12.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Tensei shitara Slime Datta Ken 4th Season' Part 2 Announced for Summer 2027, 'Clayman Revenge' Spin-off Gets TV Anime for Spring 2027",
-      "link": "https://myanimelist.net/news/74759618?_location=rss",
-      "description": "The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere in July 2027. The official website simultaneously announced a television anime adaptation of Wataru Kajika's spin-off manga Tensei shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman's Revenge), revealing the main staff, teaser visual (pictured right)...",
-      "pubDate": "2026-09-25T19:11:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790362735-cfbb17b92e9789d80c672b5afec81cac.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQyMTgz",
-      "title": "Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183",
-      "description": "Sweet Shop adds Pandora, Dream Another Dream, Mothers, Red Riding Hood's Wolf Apprentice, more manga",
-      "pubDate": "2026-09-25T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.4/173368/unnamed-23-.jpg"
-    },
-    {
-      "id": "ann-LjI0MjIwMA",
-      "title": "The Fall 2026 Anime Trailer Watch Party Premieres Tonight!",
-      "link": "https://www.animenewsnetwork.com/watch/2026-09-25/the-fall-2026-anime-trailer-party-premieres-tonight/.242200",
-      "description": "The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.",
-      "pubDate": "2026-09-25T18:45:35.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYG/youtube/i6exghRrkaI.jpg"
-    },
-    {
-      "id": "ann-Yy8uMjQyMTk4",
-      "title": "Hell Mode Anime Gets 3rd Season for 'S-Rank Dungeon Conquest Arc'",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/hell-mode-anime-gets-3rd-season-for-s-rank-dungeon-conquest-arc/.242198",
-      "description": "Anime's 2nd season ended on Friday",
-      "pubDate": "2026-09-25T18:21:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-YS8uMjQyMTg2",
-      "title": "Dentsu Enters Partnership with Kodansha",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/dentsu-enters-partnership-with-kodansha/.242186",
-      "description": "Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs",
-      "pubDate": "2026-09-25T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjE5NA",
-      "title": "Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194",
-      "description": "Also: Oh Boy, Was I Wrong About Her; The Returned Tyrant Princess Rewrites Her Dark Past; more",
-      "pubDate": "2026-09-25T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hell Mode' Third Season in Production",
-      "link": "https://myanimelist.net/news/74759332?_location=rss",
-      "description": "The 13th and final episode of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season (Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2) ended with an announcement on Friday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Yokohama Animation Lab, the first season aired in 12 episodes in Winter 2026. The second season premiered on July 4. Sentai Filmworks licens...",
-      "pubDate": "2026-09-25T17:22:55.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790356815-a71a1ec15759b985b7b5b73f2b1ab349.jpeg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "HELL MODE Season 3 Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/hell-mode-season-3-anime-announced",
-      "description": "Teaser visual published for the upcoming S-Rank Dungeon Conquest Arc",
-      "pubDate": "2026-09-25T17:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/40e4bf5d42/hell_mode_season3_header.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kore Kaite Shine' Gets Second Season",
-      "link": "https://myanimelist.net/news/74759213?_location=rss",
-      "description": "The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda's comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...",
-      "pubDate": "2026-09-25T16:47:16.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790354366-394098f17d9a001428c3df5afa73b276.jpeg"
-    },
-    {
-      "id": "cr-LWFkZGl0aW9u",
-      "title": "Please Excuse My Younger Brothers Cour 2 Anime Shares New Trailer, Visual and Cast Addition",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/please-excuse-my-younger-brothers-cour-2-anime-shares-new-trailer-visual-cast-addition",
-      "description": "Crunchyroll simulcasts the rom-com series",
-      "pubDate": "2026-09-25T16:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/191ad68347/please-excuse-my-younger-brothers-cour-2-hero.png"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Cour 3 Premieres in July 2027, Clayman’s Revenge TV Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/that-time-i-got-reincarnated-as-a-slime-season-4-cour-3-july-2027-claymans-revenge-tv-anime-announced",
-      "description": "Adaptation of spinoff to premiere in April 2027",
-      "pubDate": "2026-09-25T16:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x542/f7ce33a48f/slime-clayman-anime.jpg"
-    },
-    {
-      "id": "cr-LWFuZC1jcmV3",
-      "title": "Overgeared English Dub Reveals Same-Day Release, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/25/overgeared-anime-english-dub-release-date-cast-and-crew",
-      "description": "The first episode drops on Crunchyroll this Sunday",
-      "pubDate": "2026-09-25T16:09:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1320x743/09300d9b83/overgeared.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDE0NjU",
-      "title": "Historié Volumes 1-2 Digital Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465",
-      "description": "Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.",
-      "pubDate": "2026-09-25T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
     }
   ]
