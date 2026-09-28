@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-27T20:30:28.665Z",
+  "lastUpdated": "2026-09-28T02:07:29.037Z",
   "items": [
+    {
+      "id": "cr-ZS1saW5ldXA",
+      "title": "Jump Festa 2027 Reveals Stage Lineup Including ONE PIECE, Chainsaw Man and More",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/jump-festa-2027-stage-lineup",
+      "description": "The second-biggest anime news weekend of the year is almost here",
+      "pubDate": "2026-09-28T02:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/bcca91807f/jump-festa-2027-key-visual.jpg"
+    },
+    {
+      "id": "cr-LXJlY29yZA",
+      "title": "Mai Kuraki Breaks Her Own Guinness World Record for Detective Conan Anime Theme Songs",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/detective-conan-anime-theme-songs-mai-kuraki-guinness-world-record",
+      "description": "Theme song best album will be available on November 11",
+      "pubDate": "2026-09-28T01:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/38287377a7/mai-kuraki-detective-conan-guinness-world-records.jpg"
+    },
+    {
+      "id": "ann-aC8uMjQyMjM3",
+      "title": "Tetsuya Chiba Puts Hinemosu Notari Nikki Manga on Hiatus Due to Poor Health",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-27/tetsuya-chiba-puts-hinemosu-notari-nikki-manga-on-hiatus-due-to-poor-health/.242237",
+      "description": "Chiba cites summer's severe heat, plans to return to autobiographical manga",
+      "pubDate": "2026-09-28T01:03:55.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/242237/nikki.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI0Mg",
+      "title": "Sankaku Head Reveals New Himouto! Umaru-chan Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-27/sankaku-head-reveals-new-himouto-umaru-chan-manga/.242242",
+      "description": "Umaru-chan 100 debuts on Young Jump+ on October 1",
+      "pubDate": "2026-09-28T00:37:37.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.10/242242/htjnpuda0aa7vee.jpg"
+    },
+    {
+      "id": "cr-aWVyZS0yMDI3",
+      "title": "Mushoku Tensei: Jobless Reincarnation Season 3 Cour 2 Anime Set to Premiere in 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/9/28/mushoku-tensei-jobless-reincarnation-season-3-cour2-anime-premiere-2027",
+      "description": "Crunchyroll is currently streaming the new season",
+      "pubDate": "2026-09-28T00:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/84f286e014/mushoku-tensei-season-3-cour-2-announcement.jpg"
+    },
+    {
+      "id": "ann-OC8uMjQyMjQ1",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Premieres in U.S. on October 8",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-27/cloverworks-omnibus-anime-film-grotesqqque-premieres-in-u.s-on-october-8/.242245",
+      "description": "Director Atsushi Nishigori to attend event in-person in New York City",
+      "pubDate": "2026-09-27T23:53:21.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB5/cms/news.9/239302/grotesqqque-kv.jfif.jpg"
+    },
+    {
+      "id": "ann-LjI0MjIyNw",
+      "title": "Godzilla Minus Zero Live Action Movie Review",
+      "link": "https://www.animenewsnetwork.com/review/godzilla-minus-zero-live-action-movie/.242227",
+      "description": "The King of the Monsters is here to blow you away again—and this time, he’s got company.",
+      "pubDate": "2026-09-27T21:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g03/cms/review.2/242227/gmz.webp"
+    },
     {
       "id": "ann-Ly4yNDIyMjA",
       "title": "'Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga' Gets Miniseries in October",
@@ -104,7 +174,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "New 'Monster Strike: Mera×Death: Shinigami to Boku no Ijou na Koi' Announced for Winter 2027",
+      "title": "New 'Monster Strike' Anime 'Mera×Death - Shinigami to Boku no Ijou na Koi' Announced for Winter 2027",
       "link": "https://myanimelist.net/news/74765539?_location=rss",
       "description": "Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) on Sunday. The official website also revealed the production staff, a key visual (pictured), and the first promotional video. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5, 2027. Staff...",
       "pubDate": "2026-09-27T12:25:21.000Z",
@@ -440,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T18:21:14.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.9/242198/hell-mode-s3.webp"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQyMTg2",
@@ -450,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.7/211172/ogp.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjE5NA",
@@ -460,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/cms/news.9/242194/kafkas-journey-cnf.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -530,76 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-25T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU9/cms/review.2/241465/images-3.jpg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "Draw This, Then Die! Season 2 Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/25/draw-this-then-die-season-2-anime-announced",
-      "description": "Celebratory visual revealed for continuation",
-      "pubDate": "2026-09-25T15:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2fd926db2f/korekaite_pv1_main.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxODQ",
-      "title": "Please Excuse My Younger Brothers TV Anime Reveals More Cast, New Ending Theme",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/please-excuse-my-younger-brothers-tv-anime-reveals-more-cast-new-ending-theme/.242184",
-      "description": "Yōko Hikasa joins cast",
-      "pubDate": "2026-09-25T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/youtube/lUhpmL1vbL4.jpg"
-    },
-    {
-      "id": "ann-LjI0MjE5Mw",
-      "title": "'Draw This, Then Die!' Anime Gets 2nd Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/draw-this-then-die-anime-gets-2nd-season/.242193",
-      "description": "Season 1 ended on Friday",
-      "pubDate": "2026-09-25T15:15:06.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-a3MtYWxpdmU",
-      "title": "Initiate: Keep Anime Edits With Heavy Music Soundtracks Alive!",
-      "link": "https://crunchyroll.com/news/interviews/2026/9/25/initiate-keep-anime-edits-with-heavy-music-soundtracks-alive",
-      "description": "From Studio Ghibli while recording to watching anime on the iPad on tour",
-      "pubDate": "2026-09-25T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x541/07f4dd820d/iniate-band.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxOTA",
-      "title": "Tatsuki Fujimoto 17-26 Anime, My Melody & Kuromi Stop-Motion Animated Series Nominated for International Emmy",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/tatsuki-fujimoto-17-26-anime-my-melody-and-kuromi-stop-motion-animated-series-nominated-for-/.242190",
-      "description": "International Emmy Awards announce winners on November 23",
-      "pubDate": "2026-09-25T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjE4MQ",
-      "title": "That Time I Got Reincarnated as a Slime Season 4 Anime Returns for 3rd Part in July 2027, Clayman's Revenge Spinoff Anime Debuts in April",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-25/that-time-i-got-reincarnated-as-a-slime-season-4-anime-returns-for-3rd-part-in-july-2027-clayman-/.242181",
-      "description": "Wataru Kajika's spinoff manga about Clayman debuted in April 2022",
-      "pubDate": "2026-09-25T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIxODU",
-      "title": "Smoking Behind the Supermarket with You ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-12/.242185",
-      "description": "Even if the themes and takeaways from this episode are good and important for people to learn, I’m growing tired of this perpetual will-they-won’t-they romance.",
-      "pubDate": "2026-09-25T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
