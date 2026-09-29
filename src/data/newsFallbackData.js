@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-29T17:05:49.166Z",
+  "lastUpdated": "2026-09-29T21:33:57.652Z",
   "items": [
+    {
+      "id": "ann-LjI0MjI2Nw",
+      "title": "Now That I Can Control Reality With A Mouse Cursor Anime's English Dub Debuts on October 4",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/now-that-i-can-control-reality-with-a-mouse-cursor-anime-english-dub-debuts-on-october-4/.242267",
+      "description": "Dub stars Ty Wilkins, Roo Ryder, Alexandria Loverro, more on Sunday",
+      "pubDate": "2026-09-29T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEC/cms/news.9/241034/oclick.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyODM",
+      "title": "Ankoku Delta's Alpa Launches New Slap Shot Girls Hockey Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/ankoku-delta-alpa-launches-new-slap-shot-girls-hockey-manga/.242283",
+      "description": "Manga Plus released Slap Shot Girls manga in English on September 28",
+      "pubDate": "2026-09-29T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/news.10/242283/htt7ejaakaeymt.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyMzIw",
+      "title": "Titan Manga's Chiruran 3-in-1 Edition Manga Ships in January 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/titan-manga-chiruran-3-in-1-edition-manga-ships-in-january-2027/.242320",
+      "description": "Cover unveiled for 1st English omnibus volume",
+      "pubDate": "2026-09-29T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.10/242320/chiruran-shinsengumi-requiem-1-vol1-2-3-cover.jpg"
+    },
+    {
+      "id": "ann-My8uMjQyMjkz",
+      "title": "OceanVeil Streams Even the Student Council Has its Holes! Anime on October 3",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/oceanveil-streams-even-the-student-council-has-its-holes-anime-on-october-3/.242293",
+      "description": "Anime debuts in Japan on Saturday",
+      "pubDate": "2026-09-29T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/VTRVLnzhl90.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyMzEz",
+      "title": "Paradox Live Franchise Introduces New Team ILLGATOR for 4th Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/paradox-live-franchise-introduces-new-team-illgator-for-4th-season/.242313",
+      "description": "Multimedia project streams ILLGATOR's music video, 4th season's story trailer",
+      "pubDate": "2026-09-29T18:06:33.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHO/youtube/FvRaYwGW0k4.jpg"
+    },
     {
       "id": "cr-LTEwLWZpbG1z",
       "title": "ANIAFF 2026 Celebrates Director Osamu Dezaki with Screening of 10 Films and Series",
@@ -450,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/episode-review.5/242249/vlcsnap-2026-09-27-21h21m48s699.png.jpg"
+      "image": null
     },
     {
       "id": "cr-eC1vZmZpY2U",
@@ -500,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/news.9/242042/1023-25.png.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -520,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/episode-review.5/242224/elusive-samurai-s2-ep-11-review.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI1NA",
@@ -530,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.10/242254/ps26091000637.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIwMDk",
@@ -540,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/seasonal/242009/magic-knight-rayeath-most-anticipated.png.jpg"
+      "image": null
     },
     {
       "id": "ann-NC8uMjQyMjQ4",
@@ -550,56 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjIxNA",
-      "title": "Musician Coda to Perform in New York City on November 8",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/musician-coda-to-perform-in-new-york-city-on-november-8/.242214",
-      "description": "\"Kazuso Oda & His NY Club Band\" will perform at The Jazz Gallery in NY",
-      "pubDate": "2026-09-28T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-LjIzOTY5NA",
-      "title": "Bringing Magic Knight Rayearth to a New Generation with Director Yui Miura",
-      "link": "https://www.animenewsnetwork.com/interview/2026-09-28/bringing-magic-knight-rayearth-to-a-new-generation-with-director-yui-miura/.239694",
-      "description": "We spoke with the new series' director about the current trend of adapting older series featuring the isekai plot device and how older series focus on growth over wish fulfillment.",
-      "pubDate": "2026-09-28T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyMjM",
-      "title": "Chainsmoker Cat ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/chainsmoker-cat/episode-12/.242223",
-      "description": "If the show has anything to say about addiction and immaturity keeping people stuck in their lives, it's that none of us on this side of the screen are really any different from Yani Neko and her pals (feline features notwithstanding).",
-      "pubDate": "2026-09-28T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyNjk",
-      "title": "Voice Actress Asami Yaguchi Dies at 47",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/voice-actress-asami-yaguchi-dies-at-47/.242269",
-      "description": "Tamagotchi, Gintama cast member suddenly died on Saturday",
-      "pubDate": "2026-09-28T12:27:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyMzY",
-      "title": "Dungeon Friends Forever Manga Ends With 8th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/dungeon-friends-forever-manga-ends-with-8th-volume/.242236",
-      "description": "Romantic comedy manga's final volume ships on November 20",
-      "pubDate": "2026-09-28T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
     }
   ]
