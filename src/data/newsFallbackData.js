@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-28T22:40:33.952Z",
+  "lastUpdated": "2026-09-29T02:53:38.348Z",
   "items": [
+    {
+      "id": "cr-LWtpdGF5YW1h",
+      "title": "Hiromitsu Kitayama Shares TOUGEN ANKI: Nikko Kegon Falls Arc Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/tougen-anki-nikko-kegon-falls-arc-anime-opening-song-music-video-hiromitsu-kitayama",
+      "description": "Crunchyroll will stream the anime's new arc as it airs",
+      "pubDate": "2026-09-29T01:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e28c57469f/hiromitsu-kitayama-backlash-mv.png"
+    },
+    {
+      "id": "cr-dmlkZW8tc2lt",
+      "title": "SiM Releases BLACK TORCH Opening Song Anime Special Version Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/black-torch-opening-song-anime-special-version-music-video-sim",
+      "description": "The supernatural action series is available on Crunchyroll",
+      "pubDate": "2026-09-29T01:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/be8c675e72/sim-freeze-me-up-anime-mv.jpg"
+    },
+    {
+      "id": "cr-aWNlLWNhc3Q",
+      "title": "Hirayasumi Anime Unveils New Teaser Trailer, Main Visual, and Voice Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/hirayasumi-anime-new-teaser-trailer-main-visual-voice-cast",
+      "description": "The adaptation of Keigo Shinzo's slice-of-life manga will premiere in January 2027",
+      "pubDate": "2026-09-29T00:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/02c083a7ab/hirayasumi-teaser-trailer.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hirayasumi' Unveils Main Cast, Second Teaser Promo",
+      "link": "https://myanimelist.net/news/74772034?_location=rss",
+      "description": "The official website for the television anime adaptation of Keigo Shinzou's Hirayasumi manga revealed the main cast, a key visual (pictured), and a second teaser promotional video on Tuesday. The anime is scheduled to premiere on NHK-G in January 2027. Cast Hiroto Ikuta: Yuuma Uchida (Fruits Basket 1st Season) Natsumi Kobayashi: Mayu Takahashi (Long Zu II: Daowangzhe Zhi Tong) Hanae Wada: Rikako Aikawa (Pokemon Sun &amp; Moon) Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...",
+      "pubDate": "2026-09-28T23:57:54.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790640305-fc29b416fd4e3933bc4dcaa4747d4956.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDIyODQ",
+      "title": "Hirayasumi Anime Unveils Teaser, Key Visual, Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284",
+      "description": "Yuma Uchida, Mayu Takahashi, Rikako Aikawa star in October 7 human drama anime",
+      "pubDate": "2026-09-28T23:42:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/242284/cwop-26817-hirayasumi-japansociety-posters-1-copy.jpg"
+    },
     {
       "id": "ann-ci8uMjQyMjgw",
       "title": "Amata Games' Shinjuku Anomaly Game Reveals September 30 Launch in Trailer",
@@ -410,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T07:48:02.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW2/cms/news.6/203075/91hfh9p2gkl._sl1500_.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyNDA",
@@ -550,56 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-27T18:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-eW8tZS1hcnQ",
-      "title": "Baki-Dou: The Invincible Samurai Anime Reveals New Ukiyo-e Art",
-      "link": "https://crunchyroll.com/news/latest/2026/9/27/baki-dou-the-invincible-samurai-anime-reveals-new-ukiyo-e-art",
-      "description": "Brutal martial arts series continues TOKYO MX broadcast run on October 4",
-      "pubDate": "2026-09-27T17:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/d5048d29d6/baki-dou.webp"
-    },
-    {
-      "id": "cr-LWluLTIwMjc",
-      "title": "ONE PIECE TV Anime Broadcast to Return in 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/27/one-piece-tv-anime-broadcast-to-return-in-2027",
-      "description": "The last episode of the year has aired, with more details to come",
-      "pubDate": "2026-09-27T16:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/1905d6cf15/one-piece-2027.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjIyNQ",
-      "title": "Akaza Samamiya's Mr. Mallow Blue Side Story Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/akaza-samamiya-mr-mallow-blue-side-story-manga-ends-in-next-chapter/.242225",
-      "description": "Side story debuted in January",
-      "pubDate": "2026-09-27T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-dGVyLWV2ZQ",
-      "title": "Millennium Family Anime Casts Lynn as Eldest Daughter Eve",
-      "link": "https://crunchyroll.com/news/latest/2026/9/27/millennium-family-casts-lynn-as-eldest-daughter-eve",
-      "description": "Check out character art and a new trailer",
-      "pubDate": "2026-09-27T16:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x724/9047af2183/millennium-family-eve.png"
-    },
-    {
-      "id": "ann-LjI0MTc5MA",
-      "title": "Orbitals Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/orbitals/.241790",
-      "description": "Despite the gorgeous veneer, the characterization and writing in Orbitals don't have anywhere near the same amount of gas that everything else in it does.",
-      "pubDate": "2026-09-27T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
