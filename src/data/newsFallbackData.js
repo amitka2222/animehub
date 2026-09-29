@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-29T02:53:38.348Z",
+  "lastUpdated": "2026-09-29T11:39:20.721Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIzMDQ",
+      "title": "Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304",
+      "description": "Saeko Kamijō, Hitomi Ueda, Azusa Tadokoro, Ayaka Ōhashi join cast of October 6 series",
+      "pubDate": "2026-09-29T10:28:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/240046/nia.jpg"
+    },
+    {
+      "id": "ann-LjI0MjMwMw",
+      "title": "The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303",
+      "description": "Tegoshi to appear in upcoming anime's 12th episode",
+      "pubDate": "2026-09-29T09:57:03.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.9/241641/vermilion-mask-visual.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kyouran Reijou Nia Liston' Announces Additional Cast",
+      "link": "https://myanimelist.net/news/74773120?_location=rss",
+      "description": "The official website for the television anime adaptation of Umikaze Minamino's Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel announced additional cast Tuesday. The anime series will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. Cast Essera Blanket: Saeko Kamijou (Enen no Shouboutai) Raffine Silver: Hitomi Ueda (Uma Musum...",
+      "pubDate": "2026-09-29T09:23:01.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790673735-01f6d45eef93d3a7b2e4e3a21503afce.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDIyOTI",
+      "title": "Monster Hunter Outlanders Game Launches on October 29",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/monster-hunter-outlanders-game-launches-on-october-29/.242292",
+      "description": "Game's mainland China version slated for 2027",
+      "pubDate": "2026-09-29T07:31:58.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/cms/news.10/242292/outlander.webp"
+    },
+    {
+      "id": "ann-Zy8uMjQyMjkw",
+      "title": "Tomohiro Hata Performs Live-Action Ao no Hana Utsuwa no Mori Series' Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/tomohiro-hata-performs-live-action-ao-no-hana-utsuwa-no-mori-series-theme-song/.242290",
+      "description": "October 26 series also presents new visual",
+      "pubDate": "2026-09-29T05:46:14.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/news.10/242290/aonohanakv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Sekai Saikyou no Majo, Hajimemashita' Ends with 6th Volume",
+      "link": "https://myanimelist.net/news/74772660?_location=rss",
+      "description": "Publishing company Square Enix announced on Wednesday that Mochimaru Sakaki's Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu (The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide) light novel will end with its sixth volume on October 7. Sakaki began penning the fantasy adventure series on both the Shousetsuka ni Narou and Kakuyomu websites simultaneously in...",
+      "pubDate": "2026-09-29T05:04:25.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790658079-b58a58515b6e33280942d9255907c016.jpeg"
+    },
+    {
+      "id": "cr-MTAtbnljYw",
+      "title": "Naruto Anime Reveals What’s Next for TV Series on October 10",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/new-naruto-tv-anime-limited-series-announcement-october-10-nycc",
+      "description": "A global livestream will be held from NYCC",
+      "pubDate": "2026-09-29T03:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/c805853af7/e6b2cd29a5ff62f4591d3b299007e24e.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQyMjg5",
+      "title": "Naruto Gets New 'Limited' TV Anime Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289",
+      "description": "Franchise to reveal more details at NYCC panel on October 10",
+      "pubDate": "2026-09-29T03:22:57.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g55/youtube/G2B8oLsZNeU.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI3Mg",
+      "title": "Uma Musume Anime Aims for Guinness World Record with New Series",
+      "link": "https://www.animenewsnetwork.com/interest/2026-09-28/uma-musume-anime-aims-for-guinness-world-record-with-new-series/.242272",
+      "description": "Will the horse girls achieve Most Speaking Characters in a Short-form Animation Series Based on a Video Game?",
+      "pubDate": "2026-09-29T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYG/cms/interest.3/242272/umayuru-guinness-world-record-announcement.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyMjg1",
+      "title": "One Piece Anime Confirms New Episodes to Return in 2027",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-28/one-piece-anime-confirms-new-episodes-to-return-in-2027/.242285",
+      "description": "The last episode of the anime for this year aired on Fuji TV on Sunday, with the anime continuing next year. The Dragon Ball Super: Beerus anime will take...",
+      "pubDate": "2026-09-29T02:55:44.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.9/231568/one-piece-elbaph-kv.jfif.jpeg"
+    },
     {
       "id": "cr-LWtpdGF5YW1h",
       "title": "Hiromitsu Kitayama Shares TOUGEN ANKI: Nikko Kegon Falls Arc Anime Opening Song Music Video",
@@ -380,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T12:07:20.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNE/cms/news.10/242244/2026091113432344773eb40c09504ab8b7a4dd531662ddede.jpg"
+      "image": null
     },
     {
       "id": "cr-dWUtdmlzdWFs",
@@ -400,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T11:43:52.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/youtube/hvcpT1romfc.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyMjI",
@@ -410,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEC/cms/episode-review.5/242222/aobw4231.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyNDc",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T11:16:33.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/242247/escape.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI2NA",
@@ -430,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T10:24:44.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.10/242264/lone-wolf-and-cub-deluxe.jpg"
+      "image": null
     },
     {
       "id": "ann-MS8uMjQyMjYz",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T09:59:45.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/242263/kuramoto.jpg"
+      "image": null
     },
     {
       "id": "ann-ZC8uMjQyMjY1",
@@ -450,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T09:04:59.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/241661/psyren-kv-rgb-fix.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI1Ng",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1200x630/fed7f8a89e/everyones-darling-has-a-secret-header.jpg"
-    },
-    {
-      "id": "ann-ei8uMjQyMjM5",
-      "title": "Stranger Than Heaven Game Streams In-Depth Video Highlighting 'Showbiz'",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/stranger-than-heaven-game-streams-in-depth-video-highlighting-showbiz/.242239",
-      "description": "Game launches on January 15 for Xbox Series X|S, PS5, PC via Steam",
-      "pubDate": "2026-09-28T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-YS11Y2hpZGE",
-      "title": "Maaya Uchida Releases The Iceblade Sorcerer Shall Rule the World II Anime Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/the-iceblade-sorcerer-shall-rule-the-world-ii-anime-ending-song-music-video-maaya-uchida",
-      "description": "Crunchyroll will stream the new season as it airs",
-      "pubDate": "2026-09-28T02:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0a373c4fbc/maaya-uchida-compression-mv.jpg"
-    },
-    {
-      "id": "cr-ZS1saW5ldXA",
-      "title": "Jump Festa 2027 Reveals Stage Lineup Including ONE PIECE, Chainsaw Man and More",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/jump-festa-2027-stage-lineup",
-      "description": "The second-biggest anime news weekend of the year is almost here",
-      "pubDate": "2026-09-28T02:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/bcca91807f/jump-festa-2027-key-visual.jpg"
-    },
-    {
-      "id": "cr-LXJlY29yZA",
-      "title": "Mai Kuraki Breaks Her Own Guinness World Record for Detective Conan Anime Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/detective-conan-anime-theme-songs-mai-kuraki-guinness-world-record",
-      "description": "Theme song best album will be available on November 11",
-      "pubDate": "2026-09-28T01:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/38287377a7/mai-kuraki-detective-conan-guinness-world-records.jpg"
-    },
-    {
-      "id": "ann-aC8uMjQyMjM3",
-      "title": "Tetsuya Chiba Puts Hinemosu Notari Nikki Manga on Hiatus Due to Poor Health",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/tetsuya-chiba-puts-hinemosu-notari-nikki-manga-on-hiatus-due-to-poor-health/.242237",
-      "description": "Chiba cites summer's severe heat, plans to return to autobiographical manga",
-      "pubDate": "2026-09-28T01:03:55.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI0Mg",
-      "title": "Sankaku Head Reveals New Himouto! Umaru-chan Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/sankaku-head-reveals-new-himouto-umaru-chan-manga/.242242",
-      "description": "Umaru-chan 100 debuts on Young Jump+ on October 1",
-      "pubDate": "2026-09-28T00:37:37.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-aWVyZS0yMDI3",
-      "title": "Mushoku Tensei: Jobless Reincarnation Season 3 Cour 2 Anime Set to Premiere in 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/mushoku-tensei-jobless-reincarnation-season-3-cour2-anime-premiere-2027",
-      "description": "Crunchyroll is currently streaming the new season",
-      "pubDate": "2026-09-28T00:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/84f286e014/mushoku-tensei-season-3-cour-2-announcement.jpg"
-    },
-    {
-      "id": "ann-OC8uMjQyMjQ1",
-      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Premieres in U.S. on October 8",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/cloverworks-omnibus-anime-film-grotesqqque-premieres-in-u.s-on-october-8/.242245",
-      "description": "Director Atsushi Nishigori to attend event in-person in New York City",
-      "pubDate": "2026-09-27T23:53:21.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjIyNw",
-      "title": "Godzilla Minus Zero Live-Action Movie Review",
-      "link": "https://www.animenewsnetwork.com/review/godzilla-minus-zero-live-action-movie/.242227",
-      "description": "The King of the Monsters is here to blow you away again—and this time, he’s got company.",
-      "pubDate": "2026-09-27T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyMjA",
-      "title": "'Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga' Gets Miniseries in October",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/destroy-all-humans-they-cant-be-regenerated-a-magic-the-gathering-manga-gets-miniseries-in-october/.242220",
-      "description": "Original series based on card game ended in April 2025",
-      "pubDate": "2026-09-27T18:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 };
