@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-29T11:39:20.721Z",
+  "lastUpdated": "2026-09-29T17:05:49.166Z",
   "items": [
+    {
+      "id": "cr-LTEwLWZpbG1z",
+      "title": "ANIAFF 2026 Celebrates Director Osamu Dezaki with Screening of 10 Films and Series",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/aniaff-2026-celebrates-director-osamu-dezaki-with-screening-of-10-films",
+      "description": "This year's event will take place November 13-18",
+      "pubDate": "2026-09-29T16:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/daf567bc6b/aniaff-aim-for-the-ace.png"
+    },
+    {
+      "id": "cr-bGwtMjAyNg",
+      "title": "Crunchyroll Store to Launch Exclusive Gachiakuta and Solo Leveling Collections This Fall",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/29/crunchyroll-store-exclusive-gachiakuta-solo-leveling-collections-fall-2026",
+      "description": "Gachiakuta launches October 13, Solo Leveling follows on November 4",
+      "pubDate": "2026-09-29T16:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/998x452/aa4e9d1caa/gachiakuta-sl.png"
+    },
+    {
+      "id": "cr-OS10aWNrZXRz",
+      "title": "Yuri!!! on ICE Anime Celebrates 10th Anniversary in North American Theaters on October 19",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/29/yuri-on-ice-anime-nights-north-american-theaters-october-19-tickets",
+      "description": "One-night-only screenings head to U.S. and Canada as part of Crunchyroll Anime Nights",
+      "pubDate": "2026-09-29T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1040/348d7a130a/yuri-on-ice-anime-nights1.png"
+    },
+    {
+      "id": "ann-LjI0MTU5OA",
+      "title": "The Summer Hikaru Died Volumes 2-7 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/the-summer-hikaru-died/volumes-2-7/.241598",
+      "description": "As The Summer Hikaru Died approaches its conclusion, who can say where it will take \"Hikaru\" and Yoshiki? The monster already ripped his heart out; will Yoshiki be next?",
+      "pubDate": "2026-09-29T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/review.2/241598/en-volume-7.webp"
+    },
+    {
+      "id": "ann-LjI0MjMxMQ",
+      "title": "The Shy Snow Woman And The Cursed Ring Anime Gets English Dub",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/the-shy-snow-woman-and-the-cursed-ring-anime-gets-english-dub/.242311",
+      "description": "OceanVeil debuts dub starring Jordan Woollen, Leah Booth, CottontailVA on October 4",
+      "pubDate": "2026-09-29T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/241386/shy-snow-woman-visual.jpg"
+    },
+    {
+      "id": "ann-LjI0MjMxMA",
+      "title": "A/V Post-Production Company Salami Studios Closes",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/a-v-post-production-company-salami-studios-closes/.242310",
+      "description": "Salami Studios worked on recording for Cyberpunk 2077: Edgerunners 2 anime",
+      "pubDate": "2026-09-29T15:01:07.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g51/cms/news.10/242310/salami-studios.jpg"
+    },
+    {
+      "id": "cr-bnJvbi1nb2t1",
+      "title": "First Dragon Ball LEGO Set Revealed, Features Shenron and Goku",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/dragon-ball-lego-shenron-goku",
+      "description": "Lego Icons Dragon Ball set is due out this November",
+      "pubDate": "2026-09-29T14:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x800/130610461f/dragon-ball-lego7.jpg"
+    },
+    {
+      "id": "cr-aWNlLWNhc3Q",
+      "title": "The Vermilion Mask Anime Welcomes T.N.T. Vocalist Yuya Tegoshi to Voice Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/the-vermilion-mask-anime-tnt-vocalist-yuya-tegoshi-voice-cast",
+      "description": "The series will premiere October 10 on Crunchyroll",
+      "pubDate": "2026-09-29T14:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/346bdd6570/the-vermilion-mask-hero.png"
+    },
+    {
+      "id": "cr-LW1lbWJlcnM",
+      "title": "Nia Liston: The Merciless Maiden Anime Introduces Four New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/nia-liston-the-merciless-maiden-anime-introduces-four-new-cast-members",
+      "description": "The light novel adaptation premieres in Japan on October 6",
+      "pubDate": "2026-09-29T14:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/848e765d0e/nia-liston-riculvitar-hero.png"
+    },
+    {
+      "id": "ann-cy8uMjQyMDU1",
+      "title": "When Webtoons Step Out of the Screen: A Visit to K-Comics Origin Los Angeles",
+      "link": "https://www.animenewsnetwork.com/feature/2026-09-29/when-webtoons-step-out-of-the-screen-a-visit-to-k-comics-origin-los-angeles/.242055",
+      "description": "The exhibition explores the 100-year history of Korean comics, the evolution of webtoons as a distinct format, and their growing role as an IP source for Korean content.",
+      "pubDate": "2026-09-29T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8I/cms/news.9/242055/20260911-164025.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI2MA",
+      "title": "This Week in Anime - 1 in 100 (GFs)",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-29/.242260",
+      "description": "They really, really, really, really, really love you, but which of them is your favorite?",
+      "pubDate": "2026-09-29T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/this-week-in-anime/242260/lucas-21.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDE4NzE",
+      "title": "Interview: Miyu Tomita Becomes Cute Mascot PAGTARO in Uncle's Obsession with Cute Things Anime",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/interview-miyu-tomita-becomes-cute-mascot-pagtaro-in-uncle-obsession-with-cute-things-anime/.241871",
+      "description": "From Made in Abyss to an impossibly adorable pug mascot, Miyu Tomita is putting her all into every \"Paguuu!\"",
+      "pubDate": "2026-09-29T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g83/cms/convention/241871/miyutomita2.jpg"
+    },
+    {
+      "id": "cr-eS12aXN1YWw",
+      "title": "Mercedes and the Waning Moon Anime Reveals Action-Packed Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/29/mercedes-and-the-waning-moon-anime-1st-key-visual",
+      "description": "The isekai series premieres in January 2027",
+      "pubDate": "2026-09-29T12:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ee67810ac5/mercedes-and-the-waning-moon-anime-teaser-hand.jpeg"
+    },
     {
       "id": "ann-Ly4yNDIzMDQ",
       "title": "Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members",
@@ -420,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJL/cms/episode-review.5/242248/mushoku-3-14c.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjIxNA",
@@ -430,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNK/cms/news.9/242214/kazusouodamainaphoto2026.jpg"
+      "image": null
     },
     {
       "id": "ann-LjIzOTY5NA",
@@ -440,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/interview/239694/rayearth-kv-b2pos-n-rgb-ol-eng.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyMjM",
@@ -450,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJM/cms/episode-review.5/242223/chainsmoker-cat-12.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyNjk",
@@ -460,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T12:27:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/news.10/242269/yaguchi1.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyMzY",
@@ -470,137 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/news.6/195192/dungeon-friends-forever.jpg"
-    },
-    {
-      "id": "ann-LjI0MjI0NA",
-      "title": "Battle Royale: Enforcers Artist Yukai Asada Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/battle-royale-enforcers-artist-yukai-asada-launches-new-manga/.242244",
-      "description": "Zombie Dakedo Shitsumon Aru? debuts on September 29",
-      "pubDate": "2026-09-28T12:07:20.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
-    },
-    {
-      "id": "cr-dWUtdmlzdWFs",
-      "title": "Though I Am an Inept Villainess Anime Shares Epilogue Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/though-i-am-an-inept-villainess-anime-epilogue-visual",
-      "description": "Next installment of ongoing light novel adaptation broadcasts in January",
-      "pubDate": "2026-09-28T11:57:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a940deff1a/though-i-am-an-inept-villainess-ed-hero-1.png"
-    },
-    {
-      "id": "ann-Ny8uMjQyMjY2",
-      "title": "Synduality Echo of Ada Game to End Online Service in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/synduality-echo-of-ada-game-to-end-online-service-in-2027/.242266",
-      "description": "Game transitions to offline version",
-      "pubDate": "2026-09-28T11:43:52.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyMjI",
-      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 23",
-      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-23/.242222",
-      "description": "It's not just the episode upping its aesthetics as it gets close to the finish line; Wit Studio has an explosive climax they're rendering, and it's going to look slick.",
-      "pubDate": "2026-09-28T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyNDc",
-      "title": "Machibari, Juan Albarrán Each Launch New Manga on Manga One App",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/machibari-juan-albarran-each-launch-new-manga-on-manga-one-app/.242247",
-      "description": "Both new manga to debut in October",
-      "pubDate": "2026-09-28T11:16:33.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI2NA",
-      "title": "Lone Wolf and Cub Deluxe Edition Manga Wins Ringo Award",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/lone-wolf-and-cub-deluxe-edition-manga-wins-ringo-award/.242264",
-      "description": "Deluxe Edition wins 'Best Presentation in Design' award from jury, fans",
-      "pubDate": "2026-09-28T10:24:44.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-MS8uMjQyMjYz",
-      "title": "Zero-sen Hayato Anime Scriptwriter Sō Kuramoto Dies at 91",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/zero-sen-hayato-anime-scriptwriter-so-kuramoto-dies-at-91/.242263",
-      "description": "Kuramoto died of multiple organ failure on September 18",
-      "pubDate": "2026-09-28T09:59:45.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-ZC8uMjQyMjY1",
-      "title": "Psyren TV Anime Reveals Ending Song by Who-ya Extended",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/psyren-tv-anime-reveals-ending-song-by-who-ya-extended/.242265",
-      "description": "Artist performs \"ICARUS\" ending song for October 5 series",
-      "pubDate": "2026-09-28T09:04:59.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI1Ng",
-      "title": "Manchuria Opium Squad Manga Resumes Serialization With New Artist Tsurushima",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/manchuria-opium-squad-manga-resumes-serialization-with-new-artist-tsurushima/.242256",
-      "description": "Tsurushima takes over manga's artist Shikako who died in November 2025",
-      "pubDate": "2026-09-28T07:48:02.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyNDA",
-      "title": "4 of Dragon Ball Z's Goku Voice Actors Perform Kamehameha Together",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-27/4-of-dragon-ball-z-goku-voice-actors-perform-kamehameha-together/.242240",
-      "description": "Masako Nozawa, Sean Schemmel, Mario Castañeda, Ankur Javeri team up",
-      "pubDate": "2026-09-28T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI1NQ",
-      "title": "Everyone's Darling Has a Secret Manga Gets TV Anime in April",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-27/everyone-darling-has-a-secret-manga-gets-tv-anime-in-april/.242255",
-      "description": "Reiji Kawashima, Hikaru Tōno star in romantic comedy from Gekkō",
-      "pubDate": "2026-09-28T03:58:34.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Web Manga 'Houkago no Idol ni wa Himitsu ga Aru' Gets TV Anime in Spring 2027",
-      "link": "https://myanimelist.net/news/74768378?_location=rss",
-      "description": "Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane's Houkago no Idol ni wa Himitsu ga Aru (Everyone's Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime series will premiere in April 2027. Cast Hiruno Hizashi: Reiji Kawashima (Fumetsu no Anata e) Rei Kuromiya: Hikaru Tono (Make Heroine ga Oosugiru) Sakura Akai: Iori Noguchi (=LOVE) (Hashiri Tsuzukete Yokatta tte.) S...",
-      "pubDate": "2026-09-28T03:49:54.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790567314-c180cada59cc88a7b9e12cfdb9cebeba.jpeg"
-    },
-    {
-      "id": "cr-dWFsLWNhc3Q",
-      "title": "Everyone's Darling Has a Secret Anime Announced for April 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/everyones-darling-has-a-secret-anime-announced-april-2027-teaser-visual-cast",
-      "description": "A teaser visual was also shared, along with cast and staff details",
-      "pubDate": "2026-09-28T03:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/fed7f8a89e/everyones-darling-has-a-secret-header.jpg"
     }
   ]
 };
