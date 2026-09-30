@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-30T11:26:45.544Z",
+  "lastUpdated": "2026-09-30T17:03:38.828Z",
   "items": [
+    {
+      "id": "cr-bnRlcnZpZXc",
+      "title": "Toshio Furukawa and His Legacy as Piccolo in Dragon Ball",
+      "link": "https://crunchyroll.com/news/interviews/2026/9/30/toshio-furukawa-piccolo-dragon-ball-interview",
+      "description": "He also examines his other roles such as Ataru Moroboshi and Portgas D. Ace",
+      "pubDate": "2026-09-30T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/1231x721/7aae49cddf/toshio-furukawa-piccolo.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4 Anime Reveals Epilogue Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/re-zero-starting-life-in-another-world-season-4-anime-epilogue-visual",
+      "description": "“The Recapture Arc” concludes with a 45-minute long season finale",
+      "pubDate": "2026-09-30T16:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/94edae755c/rezero.jpg"
+    },
+    {
+      "id": "cr-Z2EtZ3VpZGU",
+      "title": "Watch It/Read It: The Apothecary Diaries Anime & Manga Guide",
+      "link": "https://crunchyroll.com/news/guides/2026/9/30/the-apothecary-diaries-anime-manga-guide",
+      "description": "Want to know how manga chapters of The Apothecary Diaries line up with the anime? We've got you covered!",
+      "pubDate": "2026-09-30T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Guides",
+      "image": "https://a.storyblok.com/f/178900/960x540/170f7dcfb5/the-apothecary-diaries.jpg"
+    },
+    {
+      "id": "ann-LjI0MTkxNA",
+      "title": "Horror Collector Volumes 2-4 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/horror-collector/volumes-2-4/.241914",
+      "description": "That’s part of what makes for successful children’s horror fiction: not even the grown-ups can keep you safe.",
+      "pubDate": "2026-09-30T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/herald/201593/horror-collector-3-2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzNDU",
+      "title": "Red River ‒ Episode 13",
+      "link": "https://www.animenewsnetwork.com/review/red-river/episode-13/.242345",
+      "description": "True crime fans, this episode of Red River is for you.",
+      "pubDate": "2026-09-30T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKL/cms/episode-review.5/242345/red-river-13.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Jaku-Chara Tomozaki-kun' Concludes with 12th Volume",
+      "link": "https://myanimelist.net/news/74776197?_location=rss",
+      "description": "The official X account for author Yuuki Yaku announced on Wednesday that the Jaku-Chara Tomozaki-kun (Bottom-Tier Character Tomozaki) light novel series will end with its 12th volume, scheduled to be released on October 16. Yaku originally began the romantic comedy series after winning the Excellence Award at the 10th Shogakukan Light Novel Award with the title Manten Kazari no Ganbariron! in March 2016. Shogakukan later published the light novel under its Gagaga Bunko imprint in May 2016, featu...",
+      "pubDate": "2026-09-30T15:11:06.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790781035-b0c35bb527b30336c1742733758efce4.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjM0NA",
+      "title": "Seirei Gensouki - Spirit Chronicles Anime Gets 3rd Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/seirei-gensouki-spirit-chronicles-anime-gets-3rd-season/.242344",
+      "description": "2nd season aired in October 2024",
+      "pubDate": "2026-09-30T15:08:08.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMB/cms/news.10/242344/seirei-gensouki-season-3.jpg"
+    },
+    {
+      "id": "cr-aG9zcGhvcg",
+      "title": "My Hero Ultra Rumble Adds Playable Shoto Todoroki (Phosphor) and More in Season 19",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/my-hero-ultra-rumble-season-19-playable-shoto-todoroki-phosphor",
+      "description": "New season trailer arrives along with third anniversary celebrations",
+      "pubDate": "2026-09-30T14:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x541/61154f6594/my-hero-ultra-rumble-season19.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Seirei Gensouki' Receives Third Anime Season",
+      "link": "https://myanimelist.net/news/74776019?_location=rss",
+      "description": "The official website of the television anime adaptation of Yuri Kitayama's Seirei Gensouki (Seirei Gensouki: Spirit Chronicles) light novel announced a third season on Wednesday. Produced by TMS Entertainment, the first season aired in 12 episodes in Summer 2021. A 12 episodes second season aired in Fall 2024. Crunchyroll simulcast the anime with subtitles, and later with English dub. Kitayama launched the adventure fantasy novel on the Shousetsuka ni Narou website in February 2014 and also...",
+      "pubDate": "2026-09-30T14:04:05.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg"
+    },
+    {
+      "id": "cr-YS1kZWxheWVk",
+      "title": "Fairy Princess Minky Momo Anime New OVA Delayed",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/fairy-princess-minky-momo-anime-new-ova-delayed",
+      "description": "The official social media account will offer news as it is available",
+      "pubDate": "2026-09-30T14:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1164x720/b75fac1dbe/minky-momo-ova-hero.png"
+    },
+    {
+      "id": "ann-by8uMjM5Njk5",
+      "title": "New Magic Knight Rayearth's Rie Takahashi and Saori Hayami Share the World of Cefiro",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/new-magic-knight-rayearth-rie-takahashi-and-saori-hayami-share-the-world-of-cefiro/.239699",
+      "description": "We caught up with voice actors Rie Takahashi and Saori Hayami to discuss their roles as the Magic Knight Fū and Princess Emeraude from CLAMP's beloved series.",
+      "pubDate": "2026-09-30T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/convention/239699/mkr5.jpg"
+    },
+    {
+      "id": "ann-LjI0MjMyNg",
+      "title": "One Piece (2026-) ‒ Episode 1180",
+      "link": "https://www.animenewsnetwork.com/review/one-piece/episode-1180/.242326",
+      "description": "The deep shadows and lighting changes alongside shocked expression work from the onlookers all do a great job selling the sheer terror of the events on display.",
+      "pubDate": "2026-09-30T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUG/cms/episode-review.5/242326/op1180.png.jpg"
+    },
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "Aoki Densho Welsh & Shedar Anime Adds 3 New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/aoki-densho-welsh-shedar-anime-adds-3-new-cast-members",
+      "description": "French / Japanese co-production broadcasts beginning October 2",
+      "pubDate": "2026-09-30T12:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/3331ec90db/aoki_densho_welsh_and_shedar_mama_caroni_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM0Mg",
+      "title": "Witch on the Holy Night Film's Final Trailer Unveils Staff, Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/witch-on-the-holy-night-film-final-trailer-unveils-staff-theme-song/.242342",
+      "description": "supercell performs \"Yoru to Ao\" theme",
+      "pubDate": "2026-09-30T12:13:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/youtube/k1jyM2kSBzA.jpg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "Seirei Gensouki: Spirit Chronicles Season 3 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/seirei-gensouki-spirit-chronicles-season-3-anime-announced",
+      "description": "The first two seasons are available on Crunchyroll",
+      "pubDate": "2026-09-30T12:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/635cff725c/seirei-gensouki-spirit-chronicles-season-2.png"
+    },
+    {
+      "id": "ann-dS8uMjQyMzQx",
+      "title": "Aoki Denshō Welsh & Shedar Anime Casts Risa Hayamizu",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/aoki-densho-welsh-and-shedar-anime-casts-risa-hayamizu/.242341",
+      "description": "Hayamizu voices Welsh's adoptive mother Mama Caroni in October 2 anime",
+      "pubDate": "2026-09-30T11:34:51.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
+    },
+    {
+      "id": "cr-dWFsLXN0YWZm",
+      "title": "Witch on the Holy Night Anime Film Unveils Final Trailer, Main Staff",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/witch-on-the-holy-night-anime-film-final-trailer-character-visual-staff",
+      "description": "Studio ufotable's latest TYPE-MOON adaptation premieres on November 20",
+      "pubDate": "2026-09-30T11:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e200f721b2/witch-on-the-holy-night.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Mahoutsukai no Yoru' Reveals Production Staff, Final Trailer, Theme Song",
@@ -360,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8I/cms/news.9/242055/20260911-164025.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI2MA",
@@ -370,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/this-week-in-anime/242260/lucas-21.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDE4NzE",
@@ -380,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g83/cms/convention/241871/miyutomita2.jpg"
+      "image": null
     },
     {
       "id": "cr-eS12aXN1YWw",
@@ -400,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T10:28:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/240046/nia.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjMwMw",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T09:57:03.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.9/241641/vermilion-mask-visual.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -430,177 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T07:31:58.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/cms/news.10/242292/outlander.webp"
-    },
-    {
-      "id": "ann-Zy8uMjQyMjkw",
-      "title": "Tomohiro Hata Performs Live-Action Ao no Hana Utsuwa no Mori Series' Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/tomohiro-hata-performs-live-action-ao-no-hana-utsuwa-no-mori-series-theme-song/.242290",
-      "description": "October 26 series also presents new visual",
-      "pubDate": "2026-09-29T05:46:14.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/news.10/242290/aonohanakv.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Sekai Saikyou no Majo, Hajimemashita' Ends with 6th Volume",
-      "link": "https://myanimelist.net/news/74772660?_location=rss",
-      "description": "Publishing company Square Enix announced on Wednesday that Mochimaru Sakaki's Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu (The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide) light novel will end with its sixth volume on October 7. Sakaki began penning the fantasy adventure series on both the Shousetsuka ni Narou and Kakuyomu websites simultaneously in...",
-      "pubDate": "2026-09-29T05:04:25.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790658079-b58a58515b6e33280942d9255907c016.jpeg"
-    },
-    {
-      "id": "cr-MTAtbnljYw",
-      "title": "Naruto Anime Reveals What’s Next for TV Series on October 10",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/new-naruto-tv-anime-limited-series-announcement-october-10-nycc",
-      "description": "A global livestream will be held from NYCC",
-      "pubDate": "2026-09-29T03:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/c805853af7/e6b2cd29a5ff62f4591d3b299007e24e.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQyMjg5",
-      "title": "Naruto Gets New 'Limited' TV Anime Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289",
-      "description": "Franchise to reveal more details at NYCC panel on October 10",
-      "pubDate": "2026-09-29T03:22:57.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MjI3Mg",
-      "title": "Uma Musume Anime Aims for Guinness World Record with New Series",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-28/uma-musume-anime-aims-for-guinness-world-record-with-new-series/.242272",
-      "description": "Will the horse girls achieve Most Speaking Characters in a Short-form Animation Series Based on a Video Game?",
-      "pubDate": "2026-09-29T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQyMjg1",
-      "title": "One Piece Anime Confirms New Episodes to Return in 2027",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-09-28/one-piece-anime-confirms-new-episodes-to-return-in-2027/.242285",
-      "description": "The last episode of the anime for this year aired on Fuji TV on Sunday, with the anime continuing next year. The Dragon Ball Super: Beerus anime will take...",
-      "pubDate": "2026-09-29T02:55:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LWtpdGF5YW1h",
-      "title": "Hiromitsu Kitayama Shares TOUGEN ANKI: Nikko Kegon Falls Arc Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/tougen-anki-nikko-kegon-falls-arc-anime-opening-song-music-video-hiromitsu-kitayama",
-      "description": "Crunchyroll will stream the anime's new arc as it airs",
-      "pubDate": "2026-09-29T01:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e28c57469f/hiromitsu-kitayama-backlash-mv.png"
-    },
-    {
-      "id": "cr-dmlkZW8tc2lt",
-      "title": "SiM Releases BLACK TORCH Opening Song Anime Special Version Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/black-torch-opening-song-anime-special-version-music-video-sim",
-      "description": "The supernatural action series is available on Crunchyroll",
-      "pubDate": "2026-09-29T01:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/be8c675e72/sim-freeze-me-up-anime-mv.jpg"
-    },
-    {
-      "id": "cr-aWNlLWNhc3Q",
-      "title": "Hirayasumi Anime Unveils New Teaser Trailer, Main Visual, and Voice Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/hirayasumi-anime-new-teaser-trailer-main-visual-voice-cast",
-      "description": "The adaptation of Keigo Shinzo's slice-of-life manga will premiere in January 2027",
-      "pubDate": "2026-09-29T00:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/02c083a7ab/hirayasumi-teaser-trailer.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hirayasumi' Unveils Main Cast, Second Teaser Promo",
-      "link": "https://myanimelist.net/news/74772034?_location=rss",
-      "description": "The official website for the television anime adaptation of Keigo Shinzou's Hirayasumi manga revealed the main cast, a key visual (pictured), and a second teaser promotional video on Tuesday. The anime is scheduled to premiere on NHK-G in January 2027. Cast Hiroto Ikuta: Yuuma Uchida (Fruits Basket 1st Season) Natsumi Kobayashi: Mayu Takahashi (Long Zu II: Daowangzhe Zhi Tong) Hanae Wada: Rikako Aikawa (Pokemon Sun &amp; Moon) Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...",
-      "pubDate": "2026-09-28T23:57:54.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790640305-fc29b416fd4e3933bc4dcaa4747d4956.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDIyODQ",
-      "title": "Hirayasumi Anime Unveils Teaser, Key Visual, Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284",
-      "description": "Yuma Uchida, Mayu Takahashi, Rikako Aikawa star in October 7 human drama anime",
-      "pubDate": "2026-09-28T23:42:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQyMjgw",
-      "title": "Amata Games' Shinjuku Anomaly Game Reveals September 30 Launch in Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/amata-games-shinjuku-anomaly-game-reveals-september-30-launch-in-trailer/.242280",
-      "description": "Horror visual novel features anomaly photography gameplay for PC",
-      "pubDate": "2026-09-28T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI4Mg",
-      "title": "You and I Are Polar Opposites Season 2 ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-12/.242282",
-      "description": "This might not technically be the finale, but you sure could have fooled me into thinking otherwise.",
-      "pubDate": "2026-09-28T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIyNzQ",
-      "title": "Smile Up President Noriyuki Higashiyama Steps Down",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/smile-up-president-noriyuki-higashiyama-steps-down/.242274",
-      "description": "Smile Up continues to handle compensation measures for sexual abuse victims of Johnny Kitagawa",
-      "pubDate": "2026-09-28T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-YS8uMjQyMjc5",
-      "title": "Cells at Work! Gets Dental Spinoff Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
-      "description": "Hataraku Saibō Dental debuts on October 26",
-      "pubDate": "2026-09-28T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQyMjc3",
-      "title": "Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277",
-      "description": "Series entered hiatus after 100th chapter in May",
-      "pubDate": "2026-09-28T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-bmctdmlkZW8",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Shares Creditless Ending Video",
-      "link": "https://crunchyroll.com/news/latest/2026/9/28/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-creditless-ending-video",
-      "description": "New episodes are now streaming on Crunchyroll",
-      "pubDate": "2026-09-28T18:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/dd28dd493b/as-a-reincarnated-aristocrat-s3-ending-hero.png"
     }
   ]
 };
