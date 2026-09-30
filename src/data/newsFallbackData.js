@@ -1,11 +1,81 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-29T21:33:57.652Z",
+  "lastUpdated": "2026-09-30T02:35:05.083Z",
   "items": [
+    {
+      "id": "cr-aG9zaGlrYXdh",
+      "title": "HoneyWorks feat. Sara Hoshikawa Shares The Salty Koharu Has a Soft Spot for Me Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/the-salty-koharu-has-a-soft-spot-for-me-anime-ending-song-music-video-honeyworks-sara-hoshikawa",
+      "description": "The new romantic comedy series will premiere on October 6",
+      "pubDate": "2026-09-30T02:04:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0079118347/honeyworks-hatsukoi-reply-mv.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyMzI1",
+      "title": "Marvel, Kadokawa Unveil More Art, Story Details for Spider-Man, Spider-Gwen Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/marvel-kadokawa-unveil-more-art-story-details-for-spider-man-spider-gwen-manga/.242325",
+      "description": "Manga will launch in Kadocomi before end of year",
+      "pubDate": "2026-09-30T01:50:37.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD0/cms/news.10/242325/spidergwen01.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzMDI",
+      "title": "Kuri Hime Ayakashi Yobanashi Manga Ends on October 28",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/kuri-hime-ayakashi-yobanashi-manga-ends-on-october-28/.242302",
+      "description": "Adaptation of The Apothecary Diaries creator Hyuganatsu's novel launched in 2024",
+      "pubDate": "2026-09-30T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g19/cms/news.10/242302/kurihime.jpg"
+    },
+    {
+      "id": "cr-by1oaXRzdWpp",
+      "title": "Akuruyo no Hitsuji Releases As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/9/30/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-ending-song-music-video-akuruyo-no-hitsuji",
+      "description": "Crunchyroll is currently streaming the fantasy anime's new season",
+      "pubDate": "2026-09-30T00:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/cdb9662466/akuruyo-no-hitsuji-hibi-wo-koete-mv.png"
+    },
+    {
+      "id": "ann-Ly4yNDIzMjI",
+      "title": "Manga Plus Adds Digimon Eggs Manga on October 2",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/manga-plus-adds-digimon-eggs-manga-on-october-2/.242322",
+      "description": "Simulpub title launches on October 2",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g98/cms/news.10/242322/hmm94vhbyaaoeyv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyOTY",
+      "title": "Dungeon Farm Manga Artist Mozukuzu Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/dungeon-farm-manga-artist-mozukuzu-launches-new-manga/.242296",
+      "description": "Manga adaptation of Mizuho Itsuki's Kemomimi Miko no Isekai Jinja Saikō-ki novel launched on Monday",
+      "pubDate": "2026-09-29T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g09/cms/news.10/242296/kemo.jpg"
+    },
+    {
+      "id": "ann-LjI0MjI4Ng",
+      "title": "Katsuwo Launches Manga Adaptation of Renren Ii's Ōja no Ban Kuruwase Shōgi Novels",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/katsuwo-launches-manga-adaptation-of-renren-ii-oja-no-ban-kuruwase-shogi-novels/.242286",
+      "description": "Manga launched on Monday",
+      "pubDate": "2026-09-29T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/news.10/242286/daiohgnovember2026.jpg"
+    },
     {
       "id": "ann-LjI0MjI2Nw",
       "title": "Now That I Can Control Reality With A Mouse Cursor Anime's English Dub Debuts on October 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/now-that-i-can-control-reality-with-a-mouse-cursor-anime-english-dub-debuts-on-october-4/.242267",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-29/now-that-i-can-control-reality-with-a-mouse-cursor-anime-english-dub-debuts-on-october-4/.242267",
       "description": "Dub stars Ty Wilkins, Roo Ryder, Alexandria Loverro, more on Sunday",
       "pubDate": "2026-09-29T21:00:00.000Z",
       "source": "Anime News Network",
@@ -410,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g35/cms/news.10/242273/despera-manga.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyNTA",
@@ -420,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/242250/sparks-of-tomorrow-ep-13-review-image.png.jpg"
+      "image": null
     },
     {
       "id": "cr-aW5nLXZpZGVv",
@@ -440,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T16:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.9/236871/akr20260427128151005-01-i-p4.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI3NQ",
@@ -450,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T16:14:27.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.10/242275/liar-game-season-2.jpg"
+      "image": null
     },
     {
       "id": "cr-bm5vdW5jZWQ",
@@ -490,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-28T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/cms/review.2/242075/image006.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyNDk",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/b756b6e74e/psyren.jpg"
-    },
-    {
-      "id": "cr-ZXMtdm9sLTc0",
-      "title": "Crunchyroll News Puzzles Vol. 74: Hungry Howl and Gun 'n' Ball Gamer",
-      "link": "https://crunchyroll.com/news/quizzes/2026/9/28/anime-crosswords-puzzles-vol-74",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-09-28T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-Ly4yNDIwNDI",
-      "title": "Manga Up! Global Adds 25 Years in a Dungeon, Wolf Boy's Secret, 6 More Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/manga-up-global-adds-25-years-in-a-dungeon-wolf-boy-secret-6-more-manga/.242042",
-      "description": "A Defeated Saint's Gonna Topple a Kingdom!, Bloody Cross, The After-School Bullying Trial is Now in Session!, Blood Addict, more manga added",
-      "pubDate": "2026-09-28T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Bleach: Sennen Kessen-hen - Kashin-tan' Announces Additional Cast Pair",
-      "link": "https://myanimelist.net/news/74770224?_location=rss",
-      "description": "The official website of the Bleach: Sennen Kessen-hen - Kashin-tan (Bleach: Thousand-Year Blood War - The Calamity) television anime announced an additional pair of cast on Monday. The anime series premiered on July 25 at 11.00 p.m. on TV Tokyo and its affiliates. The final two episodes of the series will air on October 20 and October 27 at 12:00 a.m. on TV Tokyo Network, respectively. Voice actresses Azusa Tachibana (Kuroneko to Majo no Kyoushitsu) and Ayaka Ohashi (Jishou Akuyaku Reijou na Kon...",
-      "pubDate": "2026-09-28T14:57:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790607432-fa7699ce6e91962be0862c2bc7cf1dca.jpeg"
-    },
-    {
-      "id": "ann-MS8uMjQyMjI0",
-      "title": "The Elusive Samurai Season 2 ‒ Episode 11",
-      "link": "https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-11/.242224",
-      "description": "It's fascinating to see Shokan become a genuinely reformed man who is so haunted by his former life as a merciless and cruel bandit.",
-      "pubDate": "2026-09-28T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI1NA",
-      "title": "Topco Media Rebrands as Ankey AX, Expanding Webtoon IP Business Into AI",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-28/topco-media-rebrands-as-ankey-ax-expanding-webtoon-ip-business-into-ai/.242254",
-      "description": "Company stated it plans to further expand its IP × AI business by developing its existing webtoon properties into various forms of AI-generated content",
-      "pubDate": "2026-09-28T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDIwMDk",
-      "title": "The Most Anticipated Anime of Fall 2026",
-      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.242009",
-      "description": "This season has two highly anticipated adaptations: the remake of CLAMP's beloved Magic Knight Rayearth and Kyoko Hikawa's From Far Away, both \"isekai\" before the term was tied to an entire genre.",
-      "pubDate": "2026-09-28T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQyMjQ4",
-      "title": "Mushoku Tensei: Jobless Reincarnation III ‒ Episode 14",
-      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-14/.242248",
-      "description": "If last season marked the end of the beginning, this episode marks the beginning of the end.",
-      "pubDate": "2026-09-28T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
