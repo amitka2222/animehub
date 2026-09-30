@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-30T17:03:38.828Z",
+  "lastUpdated": "2026-09-30T21:34:26.932Z",
   "items": [
+    {
+      "id": "ann-Ny8uMjQyMzU3",
+      "title": "Obocchama-kun Manga Gets New Anime in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/obocchama-kun-manga-gets-new-anime-in-2027/.242357",
+      "description": "Chie Kōjiro reprises role of Obocchama-kun from original 1989 anime",
+      "pubDate": "2026-09-30T20:48:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/LvKnlZxiVow.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzNTg",
+      "title": "Thunder 3 ‒ Episode 12",
+      "link": "https://www.animenewsnetwork.com/review/thunder-3/episode-12/.242358",
+      "description": "For any other poor souls who endured this first season with me to the end, I'm sure they're just as dissatisfied with the lack of an actual conclusion.",
+      "pubDate": "2026-09-30T20:32:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIL/cms/episode-review.5/242358/thunder-3-12.1.png.jpg"
+    },
+    {
+      "id": "ann-eS8uMjQyMzU1",
+      "title": "Idea Factory Announces New Adventure Game Brand, 1st Project ICONOLOGY",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/idea-factory-announces-new-adventure-game-brand-1st-project-iconology/.242355",
+      "description": "IFChronicle's ICONOLOGY game in development for Switch, PC via Steam",
+      "pubDate": "2026-09-30T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/news.10/242355/80401-1098-ce4aec52e1d64d435bff7e59d87cfa9e-1498x2101.webp"
+    },
+    {
+      "id": "ann-eS8uMjQyMzIz",
+      "title": "Kanojo wa Uso o Ai Shisugiteru Manga Gets New Story",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/kanojo-wa-uso-o-ai-shisugiteru-manga-gets-new-story/.242323",
+      "description": "New work commemorates 10th anniversary of Kotomi Aoki's manga",
+      "pubDate": "2026-09-30T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB4/cms/news.10/242323/kanojo.png.jpg"
+    },
+    {
+      "id": "cr-Y2h5cm9sbA",
+      "title": "Here’s the Exact Release Date and Time The Apothecary Diaries Season 3 Premieres on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/9/30/the-apothecary-diaries-season-3-anime-release-date-crunchyroll",
+      "description": "The anime adaptation of Natsu Hyuuga and Touko Shino's light novel premieres on October 2",
+      "pubDate": "2026-09-30T18:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ebf431befd/the-apothecary-diaries-season-3.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Thunder 3' Second Season Announced for 2027",
+      "link": "https://myanimelist.net/news/74776633?_location=rss",
+      "description": "The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Yuuki Ikeda's supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Ikeda serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volu...",
+      "pubDate": "2026-09-30T17:28:28.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790789167-afd00879ed6a6337c5bd2a12c5058385.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDIzNDc",
+      "title": "Crunchyroll to Stream Super Psychic Policeman Chojo, Dandivine, Full Clearing Another World Under a Goddess with Zero Believers, More Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347",
+      "description": "Also: TOUGEN ANKI: Nikko Kegon Falls Arc, The Cold Sato-san is Only Sweet to Me, more",
+      "pubDate": "2026-09-30T17:20:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.9/238639/chojo.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Fall 2026 Simulcast List",
+      "link": "https://myanimelist.net/news/74776601?_location=rss",
+      "description": "In this thread, you'll find a comprehensive list of television anime acquired for simulcast release during the Fall 2026 season. Anime series licensed for home video release can be found here. This post will be continuously updated as more simulcasts are announced. Feel free to post in this thread if you find a series that we are missing. Akiba Pass TV (German-speaking Europe) Mahou Shoujo Ikusei Keikaku: Restart Tensei shitara Ken deshita II (Reincarnated as a Sword Season 2) Ani-One Asia...",
+      "pubDate": "2026-09-30T17:18:51.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790788702-c2e22902fd35fbfd64292b3c9350e17e.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Q4 2026 Anime & Manga Licenses",
+      "link": "https://myanimelist.net/news/74776596?_location=rss",
+      "description": "In this thread, you'll find a comprehensive list of anime and manga licensed in the fourth quarter (Oct-Dec) of 2026. Fall 2026 anime which were licensed before the quarter began will also be carried over for convenience. Please note that the anime licenses are for home video release; simulcast acquisitions for Fall 2026 can be found here. Digital releases are noted with an asterisk (*). This post will be continuously updated as more licenses are announced. If you have a license that we are...",
+      "pubDate": "2026-09-30T17:17:45.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790788615-4bf5d71c585d8bcef0d6ab316f13bd44.jpeg"
+    },
     {
       "id": "cr-bnRlcnZpZXc",
       "title": "Toshio Furukawa and His Legacy as Piccolo in Dragon Ball",
@@ -11,6 +101,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Interviews",
       "image": "https://a.storyblok.com/f/178900/1231x721/7aae49cddf/toshio-furukawa-piccolo.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjM0Ng",
+      "title": "Shonen Jump+ Cuts Ties With Chainsaw Man Editor Shihei Lin, His Company Mix Green",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/shonen-jump-cuts-ties-with-chainsaw-man-editor-shihei-lin-his-company-mix-green/.242346",
+      "description": "Lin states that Mix Green will still handle editorial duties for SPY×FAMILY, Dandadan, Centuria, WITCHRIV",
+      "pubDate": "2026-09-30T16:24:32.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.10/242346/chainsaw-man-manga.jpg"
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -410,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.10/242320/chiruran-shinsengumi-requiem-1-vol1-2-3-cover.jpg"
+      "image": null
     },
     {
       "id": "ann-My8uMjQyMjkz",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/VTRVLnzhl90.jpg"
+      "image": null
     },
     {
       "id": "ann-bi8uMjQyMzEz",
@@ -430,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T18:06:33.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHO/youtube/FvRaYwGW0k4.jpg"
+      "image": null
     },
     {
       "id": "cr-LTEwLWZpbG1z",
@@ -470,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/review.2/241598/en-volume-7.webp"
+      "image": null
     },
     {
       "id": "ann-LjI0MjMxMQ",
@@ -480,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/241386/shy-snow-woman-visual.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjMxMA",
@@ -490,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T15:01:07.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g51/cms/news.10/242310/salami-studios.jpg"
+      "image": null
     },
     {
       "id": "cr-bnJvbi1nb2t1",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1200x800/130610461f/dragon-ball-lego7.jpg"
-    },
-    {
-      "id": "cr-aWNlLWNhc3Q",
-      "title": "The Vermilion Mask Anime Welcomes T.N.T. Vocalist Yuya Tegoshi to Voice Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/the-vermilion-mask-anime-tnt-vocalist-yuya-tegoshi-voice-cast",
-      "description": "The series will premiere October 10 on Crunchyroll",
-      "pubDate": "2026-09-29T14:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/346bdd6570/the-vermilion-mask-hero.png"
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "Nia Liston: The Merciless Maiden Anime Introduces Four New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/nia-liston-the-merciless-maiden-anime-introduces-four-new-cast-members",
-      "description": "The light novel adaptation premieres in Japan on October 6",
-      "pubDate": "2026-09-29T14:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/848e765d0e/nia-liston-riculvitar-hero.png"
-    },
-    {
-      "id": "ann-cy8uMjQyMDU1",
-      "title": "When Webtoons Step Out of the Screen: A Visit to K-Comics Origin Los Angeles",
-      "link": "https://www.animenewsnetwork.com/feature/2026-09-29/when-webtoons-step-out-of-the-screen-a-visit-to-k-comics-origin-los-angeles/.242055",
-      "description": "The exhibition explores the 100-year history of Korean comics, the evolution of webtoons as a distinct format, and their growing role as an IP source for Korean content.",
-      "pubDate": "2026-09-29T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjI2MA",
-      "title": "This Week in Anime - 1 in 100 (GFs)",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-09-29/.242260",
-      "description": "They really, really, really, really, really love you, but which of them is your favorite?",
-      "pubDate": "2026-09-29T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDE4NzE",
-      "title": "Interview: Miyu Tomita Becomes Cute Mascot PAGTARO in Uncle's Obsession with Cute Things Anime",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/interview-miyu-tomita-becomes-cute-mascot-pagtaro-in-uncle-obsession-with-cute-things-anime/.241871",
-      "description": "From Made in Abyss to an impossibly adorable pug mascot, Miyu Tomita is putting her all into every \"Paguuu!\"",
-      "pubDate": "2026-09-29T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-eS12aXN1YWw",
-      "title": "Mercedes and the Waning Moon Anime Reveals Action-Packed Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/mercedes-and-the-waning-moon-anime-1st-key-visual",
-      "description": "The isekai series premieres in January 2027",
-      "pubDate": "2026-09-29T12:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/ee67810ac5/mercedes-and-the-waning-moon-anime-teaser-hand.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDIzMDQ",
-      "title": "Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304",
-      "description": "Saeko Kamijō, Hitomi Ueda, Azusa Tadokoro, Ayaka Ōhashi join cast of October 6 series",
-      "pubDate": "2026-09-29T10:28:41.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjMwMw",
-      "title": "The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303",
-      "description": "Tegoshi to appear in upcoming anime's 12th episode",
-      "pubDate": "2026-09-29T09:57:03.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kyouran Reijou Nia Liston' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74773120?_location=rss",
-      "description": "The official website for the television anime adaptation of Umikaze Minamino's Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel announced additional cast Tuesday. The anime series will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. Cast Essera Blanket: Saeko Kamijou (Enen no Shouboutai) Raffine Silver: Hitomi Ueda (Uma Musum...",
-      "pubDate": "2026-09-29T09:23:01.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790673735-01f6d45eef93d3a7b2e4e3a21503afce.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDIyOTI",
-      "title": "Monster Hunter Outlanders Game Launches on October 29",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/monster-hunter-outlanders-game-launches-on-october-29/.242292",
-      "description": "Game's mainland China version slated for 2027",
-      "pubDate": "2026-09-29T07:31:58.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
     }
   ]
 };
