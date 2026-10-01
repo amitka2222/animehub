@@ -1,7 +1,207 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-01T11:54:09.324Z",
+  "lastUpdated": "2026-10-01T17:34:08.738Z",
   "items": [
+    {
+      "id": "cr-b3ItdmlzdWFs",
+      "title": "Dark Gathering Season 2 Anime Reveals New Horror Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/dark-gathering-season-2-anime-new-horror-visual",
+      "description": "Ongoing adaptation based on Kenichi Kondo's manga returns to Japanese TV in 2027",
+      "pubDate": "2026-10-01T16:58:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/c489ae0a6d/dark-gathering-titelbild.png"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "FX Fighter Kurumi-chan Anime Celebrates Premiere with Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/fx-fighter-kurumi-chan-anime-creditless-opening-ending-videos",
+      "description": "The series streams on Crunchyroll starting today",
+      "pubDate": "2026-10-01T16:56:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/8a9ca72087/fx-fighter-kurumi-chan-creditless-op-hero.png"
+    },
+    {
+      "id": "cr-YWItdmlzdWFs",
+      "title": "Witch on the Holy Night Anime Film Collabs with Fate/Zero in New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/witch-on-the-holy-night-fate-zero-collab-visual",
+      "description": "The film premieres in Japan on November 20",
+      "pubDate": "2026-10-01T16:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1918x1200/e621656aed/witch_on_the_holy_night_hero.jpg"
+    },
+    {
+      "id": "cr-aS1hcy1tbQ",
+      "title": "Bless Anime Casts Kentaro Kumagai as MM",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/bless-anime-casts-kentaro-kumagai-as-mm",
+      "description": "The makeup drama series premieres in January 2027",
+      "pubDate": "2026-10-01T16:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/eb10005596/bless-mm-hero.png"
+    },
+    {
+      "id": "ann-Ly4yNDIzODY",
+      "title": "The Ramparts of Ice Season 2 Anime Streams English Dub Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/the-ramparts-of-ice-season-2-anime-streams-english-dub-trailer/.242386",
+      "description": "2nd season debuted on Thursday",
+      "pubDate": "2026-10-01T16:22:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIO/youtube/51iP14FiFLo.jpg"
+    },
+    {
+      "id": "cr-ZW4tMjAyNg",
+      "title": "10 Horror Manga Perfect for Spooky Season",
+      "link": "https://crunchyroll.com/news/guides/2026/10/1/horror-manga-halloween-2026",
+      "description": "All of these horror titles are available on Crunchyroll Manga!",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Guides",
+      "image": "https://a.storyblok.com/f/178900/960x540/44f14e174b/the-summer-hikaru-died.jpg"
+    },
+    {
+      "id": "ann-LjI0MjA3NA",
+      "title": "Hell Mode Season 1 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/hell-mode-season-1-anime-series/.242074",
+      "description": "Nothing says thrilling like watching someone throw rocks at trees while they think about their stats.",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g6B/cms/review.2/242074/hellmodefull.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM4Mg",
+      "title": "GlobalComix Adds Tomb Raider King, Overgeared, Love Tattoo, The Insipid Prince's Furtive Grab for The Throne, More Titles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/globalcomix-adds-tomb-raider-king-overgeared-love-tattoo-the-insipid-prince-furtive-grab-for-the-/.242382",
+      "description": "Also: To Sir, Without Love: I'm Divorcing You, The Return of the Disaster-Class Hero",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g30/cms/news.10/242382/tomb-raider-hero-3x2.png.jpg"
+    },
+    {
+      "id": "ann-bS8uMjQyMzU5",
+      "title": "Hideki Arai's SPUNK! Manga Gets Live-Action Film",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/hideki-arai-spunk-manga-gets-live-action-film/.242359",
+      "description": "Crowdfunding project also launched for film",
+      "pubDate": "2026-10-01T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242359/htdliosbqaac9pq.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjMzNQ",
+      "title": "This Week in Anime - Unhappy with Endings",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-01/.242335",
+      "description": "In the wake of Goodbye, Lara 's finale, Sylvia and Coop discuss anime endings that left viewers wanting.",
+      "pubDate": "2026-10-01T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIK/cms/this-week-in-anime/242335/sylvia12.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Sound! Euphonium, The Final Movie Part 2 Shares Emotional Final Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/sound-euphonium-the-final-movie-part-2-final-trailer",
+      "description": "The anime adaptation's finale is now showing in Japan",
+      "pubDate": "2026-10-01T13:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/cfac40a5f0/sound-euphonium-movie-final-trailer-hero.png"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "From Far Away Anime Spotlights Noriko in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/from-far-away-anime-spotlights-noriko-in-new-character-trailer",
+      "description": "The series premieres on Crunchyroll October 4",
+      "pubDate": "2026-10-01T13:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/a5271c3d80/from-far-away-noriko-hero.png"
+    },
+    {
+      "id": "ann-LjI0MjM2MQ",
+      "title": "A Bride's Story Manga Gets New Volume Under New Publisher This Winter",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361",
+      "description": "New Otoyomegatari Zoku no 1 volume will have 3 chapters, about 80 pages, larger A4 size, with planned 16th volume",
+      "pubDate": "2026-10-01T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.8/221561/a-bride-story-volume-1.jpg"
+    },
+    {
+      "id": "ann-LjI0MTI0OA",
+      "title": "The Fall 2026 Anime Preview Guide",
+      "link": "https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248",
+      "description": "The season's just started, and we have nine featured shows! Read our reviews for STEEL BALL RUN, Firefly Wedding, Overgeared, Vermilion Mask, Reincarnated as a Sword, and more!",
+      "pubDate": "2026-10-01T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gVE/cms/preview-guide/241248/crbrand-us-en-staticdisplay-fallpreviewguide-animenewsnetwork-ua-2250x875-2.png.jpg"
+    },
+    {
+      "id": "cr-b3ItMjAyNw",
+      "title": "Obocchama-kun REBORN Anime Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/obocchama-kun-reborn-anime-announced-for-2027",
+      "description": "Teaser trailer and art revealed for adaptation based on children's gag manga",
+      "pubDate": "2026-10-01T12:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/643700949b/obocchamakun_header.jpg"
+    },
+    {
+      "id": "ann-aS8uMjQyMzgw",
+      "title": "Bless TV Anime Casts Kentarō Kumagai",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380",
+      "description": "Kumagai as MM in January 2027 anime",
+      "pubDate": "2026-10-01T12:12:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLI/youtube/shCRCv0t2n8.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Pan Dorobo Anime Publishes Protagonist Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/pan-dorobo-anime-protagonist-character-trailer",
+      "description": "Adaptation based on Keiko Shibata's picture books broadcasts beginning October 2",
+      "pubDate": "2026-10-01T12:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1286x754/22e1fe26f6/pan_dorobo_header4.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzNjI",
+      "title": "Grandgear Film by Godzilla Minus One's Takashi Yamazaki Opens in January 2028",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362",
+      "description": "Sony Pictures announced on Wednesday that Godzilla Minus One director Takashi Yamazaki's first English-language film Grandgear has moved up its release...",
+      "pubDate": "2026-10-01T11:38:32.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/news.6/200167/godzilla-minus-one.jpg"
+    },
+    {
+      "id": "ann-LjI0MjMzMg",
+      "title": "Seiji Ebisu's Bishōjo shika Inai Seitokai no Gidai ga Itsumo Ore na Ken Novel Gets Manga Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332",
+      "description": "Manga adaptation by Tarara launched on Monday",
+      "pubDate": "2026-10-01T11:33:17.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.10/242332/seitokai.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM2NQ",
+      "title": "I Want to Love You Till Your Dying Day ‒ Episode 13",
+      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365",
+      "description": "The show could've ended last week, and that probably would've been more fitting.",
+      "pubDate": "2026-10-01T11:30:38.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9E/cms/episode-review.5/242365/vlcsnap-2026-09-30-23h42m55s494.png.jpg"
+    },
     {
       "id": "cr-Zy10aGVtZQ",
       "title": "Super Psychic Policeman Chojo Anime Unveils New Trailer Featuring Ending Theme",
@@ -380,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKL/cms/episode-review.5/242345/red-river-13.png.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -400,207 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T15:08:08.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMB/cms/news.10/242344/seirei-gensouki-season-3.jpg"
-    },
-    {
-      "id": "cr-aG9zcGhvcg",
-      "title": "My Hero Ultra Rumble Adds Playable Shoto Todoroki (Phosphor) and More in Season 19",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/my-hero-ultra-rumble-season-19-playable-shoto-todoroki-phosphor",
-      "description": "New season trailer arrives along with third anniversary celebrations",
-      "pubDate": "2026-09-30T14:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/61154f6594/my-hero-ultra-rumble-season19.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Seirei Gensouki' Receives Third Anime Season",
-      "link": "https://myanimelist.net/news/74776019?_location=rss",
-      "description": "The official website of the television anime adaptation of Yuri Kitayama's Seirei Gensouki (Seirei Gensouki: Spirit Chronicles) light novel announced a third season on Wednesday. Produced by TMS Entertainment, the first season aired in 12 episodes in Summer 2021. A 12 episodes second season aired in Fall 2024. Crunchyroll simulcast the anime with subtitles, and later with English dub. Kitayama launched the adventure fantasy novel on the Shousetsuka ni Narou website in February 2014 and also...",
-      "pubDate": "2026-09-30T14:04:05.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790776873-95586a52ca4a306d8a1ee31d733e1e0a.jpeg"
-    },
-    {
-      "id": "cr-YS1kZWxheWVk",
-      "title": "Fairy Princess Minky Momo Anime New OVA Delayed",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/fairy-princess-minky-momo-anime-new-ova-delayed",
-      "description": "The official social media account will offer news as it is available",
-      "pubDate": "2026-09-30T14:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1164x720/b75fac1dbe/minky-momo-ova-hero.png"
-    },
-    {
-      "id": "ann-by8uMjM5Njk5",
-      "title": "New Magic Knight Rayearth's Rie Takahashi and Saori Hayami Share the World of Cefiro",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/new-magic-knight-rayearth-rie-takahashi-and-saori-hayami-share-the-world-of-cefiro/.239699",
-      "description": "We caught up with voice actors Rie Takahashi and Saori Hayami to discuss their roles as the Magic Knight Fū and Princess Emeraude from CLAMP's beloved series.",
-      "pubDate": "2026-09-30T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/convention/239699/mkr5.jpg"
-    },
-    {
-      "id": "ann-LjI0MjMyNg",
-      "title": "One Piece (2026-) ‒ Episode 1180",
-      "link": "https://www.animenewsnetwork.com/review/one-piece/episode-1180/.242326",
-      "description": "The deep shadows and lighting changes alongside shocked expression work from the onlookers all do a great job selling the sheer terror of the events on display.",
-      "pubDate": "2026-09-30T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUG/cms/episode-review.5/242326/op1180.png.jpg"
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "Aoki Densho Welsh & Shedar Anime Adds 3 New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/aoki-densho-welsh-shedar-anime-adds-3-new-cast-members",
-      "description": "French / Japanese co-production broadcasts beginning October 2",
-      "pubDate": "2026-09-30T12:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/3331ec90db/aoki_densho_welsh_and_shedar_mama_caroni_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM0Mg",
-      "title": "Witch on the Holy Night Film's Final Trailer Unveils Staff, Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/witch-on-the-holy-night-film-final-trailer-unveils-staff-theme-song/.242342",
-      "description": "supercell performs \"Yoru to Ao\" theme",
-      "pubDate": "2026-09-30T12:13:50.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/youtube/k1jyM2kSBzA.jpg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "Seirei Gensouki: Spirit Chronicles Season 3 Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/seirei-gensouki-spirit-chronicles-season-3-anime-announced",
-      "description": "The first two seasons are available on Crunchyroll",
-      "pubDate": "2026-09-30T12:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/635cff725c/seirei-gensouki-spirit-chronicles-season-2.png"
-    },
-    {
-      "id": "ann-dS8uMjQyMzQx",
-      "title": "Aoki Denshō Welsh & Shedar Anime Casts Risa Hayamizu",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/aoki-densho-welsh-and-shedar-anime-casts-risa-hayamizu/.242341",
-      "description": "Hayamizu voices Welsh's adoptive mother Mama Caroni in October 2 anime",
-      "pubDate": "2026-09-30T11:34:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
-    },
-    {
-      "id": "cr-dWFsLXN0YWZm",
-      "title": "Witch on the Holy Night Anime Film Unveils Final Trailer, Main Staff",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/witch-on-the-holy-night-anime-film-final-trailer-character-visual-staff",
-      "description": "Studio ufotable's latest TYPE-MOON adaptation premieres on November 20",
-      "pubDate": "2026-09-30T11:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e200f721b2/witch-on-the-holy-night.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Mahoutsukai no Yoru' Reveals Production Staff, Final Trailer, Theme Song",
-      "link": "https://myanimelist.net/news/74775734?_location=rss",
-      "description": "The special livestream presentation for the anime movie adaptation of Type-Moon's Mahoutsukai no Yoru (Witch on the Holy Night) visual novel reveals production staff, theme song, and final promotional video on Wednesday. Produced by ufotable, the film is scheduled to open in Japanese theaters on November 20. Staff Director: Masashi Takeuchi (Kimetsu no Yaiba Movie: Mugen Ressha-hen episode director) Chief Director: Hikaru Kondou (Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai) Script...",
-      "pubDate": "2026-09-30T10:58:43.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790765849-3cd95efdb76e0e2654666123d42f69d6.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjMzOQ",
-      "title": "The World's Strongest Witch Anime Casts Nana Mizuki",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/the-world-strongest-witch-anime-casts-nana-mizuki/.242339",
-      "description": "Mizuki voices world tree spirit Yggdrasil in episode 1 on October 7",
-      "pubDate": "2026-09-30T10:38:21.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFI/cms/news.10/242339/witch.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo' Theatrical Release Postponed",
-      "link": "https://myanimelist.net/news/74775666?_location=rss",
-      "description": "The official website for the Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo (Fairy Princess Minky Momo) original video anime announced on Wednesday that its theatrical release has been postponed due to production circumstances. The OVA was originally scheduled to open in Japan on November 13. A new release date will be announced at a later time. The production committee apologized to viewers and related parties for the postponement. Advance tickets that have already been purch...",
-      "pubDate": "2026-09-30T09:58:34.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790762144-4f2c72f6ec9c82f8cc5d4151a7d2af37.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu' Reveals Additional Cast, Staff, First Promo, Winter 2027 Premiere",
-      "link": "https://myanimelist.net/news/74775638?_location=rss",
-      "description": "The official website for the television anime adaptation of Kotoko and Kaname Hanamiya's Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu (The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me) web manga revealed additional cast, staff, a first key visual (pictured), and the first promotional video on Wednesday. The anime will premiere on Tokyo MX, BS Nippon, AT-X, CBC TV, and other stations in January 2027. Voice actors Shuni...",
-      "pubDate": "2026-09-30T09:39:21.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790761024-2fe44218934ff0b65047263fea6d69dd.jpeg"
-    },
-    {
-      "id": "cr-c3VhbC1jYXN0",
-      "title": "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime Trailer Reveals January 2027 Broadcast",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-january-2027-release-date-trailer-key-visual-cast",
-      "description": "A new visual and more cast were also unveiled",
-      "pubDate": "2026-09-30T09:37:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/8c3288afc1/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me.jpg"
-    },
-    {
-      "id": "ann-LjI0MjMzOA",
-      "title": "New Fairy Princess Minky Momo Original Video Anime Delayed",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/new-fairy-princess-minky-momo-original-video-anime-delayed/.242338",
-      "description": "Production issues cited for delay on anime originally slated for November 13",
-      "pubDate": "2026-09-30T09:33:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/encyc/A38814-1273248778.1785033925.jpg"
-    },
-    {
-      "id": "ann-bC8uMjQyMzM0",
-      "title": "Voice Actor Kenjirō Tsuda's TikTok Lawsuit Dismissed After AI-Voiced Videos' Removal",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/voice-actor-kenjiro-tsuda-tiktok-lawsuit-dismissed-after-ai-voiced-videos-removal/.242334",
-      "description": "Ministry of Justice expert panel had indicated right of publicity protects voices",
-      "pubDate": "2026-09-30T09:08:24.000Z",
-      "source": "Anime News Network",
-      "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.9/237748/tsuda.jpg"
-    },
-    {
-      "id": "ann-LjI0MjMzMw",
-      "title": "Lego Unveils Dragon Ball's Shenron Set",
-      "link": "https://www.animenewsnetwork.com/interest/2026-09-30/lego-unveils-dragon-ball-shenron-set/.242333",
-      "description": "Complete with 7 Dragon Balls & Son Goku riding his Kintoun cloud",
-      "pubDate": "2026-09-30T07:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR7/cms/interest.3/242333/11390-boxprod-v29-sha.jpeg"
-    },
-    {
-      "id": "ann-YS8uMjQyMzI5",
-      "title": "Mazenchu Anime Posts Opening Video Narrated by Actress First Summer Uika",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/mazenchu-anime-posts-opening-video-narrated-by-actress-first-summer-uika/.242329",
-      "description": "Anime set in school for food ingredients debuts on October 7 within Kansai TV's Yoidon! morning program",
-      "pubDate": "2026-09-30T05:20:47.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-LXJlbGVhc2U",
-      "title": "5th Sumikko Gurashi Anime Film Announced for 2027 Release",
-      "link": "https://crunchyroll.com/news/latest/2026/9/30/5th-sumikko-gurashi-anime-film-2027-release",
-      "description": "The 2021 second film's revival screening is also planned",
-      "pubDate": "2026-09-30T05:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/a792f0d6b6/sumikko-gurashi-5th-film-header.jpg"
     }
   ]
 };
