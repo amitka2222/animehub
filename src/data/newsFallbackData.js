@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-01T17:34:08.738Z",
+  "lastUpdated": "2026-10-01T22:03:15.831Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDIzODQ",
+      "title": "Tapas to End Service in March 2027, Leaving Readers Without Access to Purchased Content",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/tapas-to-end-service-in-march-2027-leaving-readers-without-access-to-purchased-content/.242384",
+      "description": "Starting on October 1, users can no longer acquire additional Ink through app",
+      "pubDate": "2026-10-01T21:03:37.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/news.10/242384/tapas.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM5MQ",
+      "title": "'More Than a Married Couple, But Not Lovers' Manga Resumes from Hiatus",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/more-than-a-married-couple-but-not-lovers-manga-resumes-from-hiatus/.242391",
+      "description": "Manga went on hiatus in March 2025",
+      "pubDate": "2026-10-01T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g04/cms/news.10/242391/more-than-a-married-couple-but-not-lovers-resumes.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzODg",
+      "title": "Topo Gigio's Voice Actor Peppino Mazzullo Dies",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/topo-gigio-voice-actor-peppino-mazzullo-dies/.242388",
+      "description": "Mazzullo voiced mouse character Topo Gigio in puppet appearances, 1988 anime",
+      "pubDate": "2026-10-01T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYO/cms/news.10/242388/topo-gigio.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzOTA",
+      "title": "Evangelion: Δ Cross Reflections Extended Reality Game Streams Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/evangelion-cross-reflections-extended-reality-game-streams-teaser-video/.242390",
+      "description": "1st game launches in 2027 following delay from 2026",
+      "pubDate": "2026-10-01T18:34:21.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.8/228465/evacr_logo_copyrtight_black.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyMzg1",
+      "title": "Tasokare Hotel -Tsubomi- Smartphone Game Ends Service",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/tasokare-hotel-tsubomi-smartphone-game-ends-service/.242385",
+      "description": "Sequel game ends service on November 30",
+      "pubDate": "2026-10-01T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/242385/tasokare-hotel-tsubomi.jpg"
+    },
     {
       "id": "cr-b3ItdmlzdWFs",
       "title": "Dark Gathering Season 2 Anime Reveals New Horror Visual",
@@ -460,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/news.10/242355/80401-1098-ce4aec52e1d64d435bff7e59d87cfa9e-1498x2101.webp"
+      "image": null
     },
     {
       "id": "ann-eS8uMjQyMzIz",
@@ -470,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB4/cms/news.10/242323/kanojo.png.jpg"
+      "image": null
     },
     {
       "id": "cr-Y2h5cm9sbA",
@@ -500,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T17:20:56.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.9/238639/chojo.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -540,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-30T16:24:32.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.10/242346/chainsaw-man-manga.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/94edae755c/rezero.jpg"
-    },
-    {
-      "id": "cr-Z2EtZ3VpZGU",
-      "title": "Watch It/Read It: The Apothecary Diaries Anime & Manga Guide",
-      "link": "https://crunchyroll.com/news/guides/2026/9/30/the-apothecary-diaries-anime-manga-guide",
-      "description": "Want to know how manga chapters of The Apothecary Diaries line up with the anime? We've got you covered!",
-      "pubDate": "2026-09-30T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Guides",
-      "image": "https://a.storyblok.com/f/178900/960x540/170f7dcfb5/the-apothecary-diaries.jpg"
-    },
-    {
-      "id": "ann-LjI0MTkxNA",
-      "title": "Horror Collector Volumes 2-4 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/horror-collector/volumes-2-4/.241914",
-      "description": "That’s part of what makes for successful children’s horror fiction: not even the grown-ups can keep you safe.",
-      "pubDate": "2026-09-30T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/herald/201593/horror-collector-3-2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIzNDU",
-      "title": "Red River ‒ Episode 13",
-      "link": "https://www.animenewsnetwork.com/review/red-river/episode-13/.242345",
-      "description": "True crime fans, this episode of Red River is for you.",
-      "pubDate": "2026-09-30T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Jaku-Chara Tomozaki-kun' Concludes with 12th Volume",
-      "link": "https://myanimelist.net/news/74776197?_location=rss",
-      "description": "The official X account for author Yuuki Yaku announced on Wednesday that the Jaku-Chara Tomozaki-kun (Bottom-Tier Character Tomozaki) light novel series will end with its 12th volume, scheduled to be released on October 16. Yaku originally began the romantic comedy series after winning the Excellence Award at the 10th Shogakukan Light Novel Award with the title Manten Kazari no Ganbariron! in March 2016. Shogakukan later published the light novel under its Gagaga Bunko imprint in May 2016, featu...",
-      "pubDate": "2026-09-30T15:11:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790781035-b0c35bb527b30336c1742733758efce4.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjM0NA",
-      "title": "Seirei Gensouki - Spirit Chronicles Anime Gets 3rd Season",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/seirei-gensouki-spirit-chronicles-anime-gets-3rd-season/.242344",
-      "description": "2nd season aired in October 2024",
-      "pubDate": "2026-09-30T15:08:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
