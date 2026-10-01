@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-09-30T21:34:26.932Z",
+  "lastUpdated": "2026-10-01T02:38:10.562Z",
   "items": [
+    {
+      "id": "cr-dmUtdmlkZW8",
+      "title": "BanG Dream! YUME∞MITA Anime Opening Song Release Commemorative Video Streamed",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/bang-dream-yume-mita-anime-opening-song-release-commemorative-video",
+      "description": "Mugendai Mewtype's 5th single ranks at No. 8 on the daily chart",
+      "pubDate": "2026-10-01T01:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/184c24d59a/mugendai-mewtype-our-survival-mv.jpg"
+    },
+    {
+      "id": "cr-LXNvcGhpbGlh",
+      "title": "LiSA Releases New Music Video \"Sophilia\"",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/lisa-new-music-video-sophilia",
+      "description": "The song ranks at number 20 on the weekly digital singles chart",
+      "pubDate": "2026-10-01T01:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/d58fc5f3c6/lisa-sophilia-mv.jpg"
+    },
+    {
+      "id": "cr-aWVyZS0yMDI3",
+      "title": "Thunder 3 Season 2 Anime Set to Air in 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/1/thunder-3-season-2-anime-premiere-2027",
+      "description": "The manga's author is confirmed to be Hiroya Oku (GANTZ) under a pseudonym",
+      "pubDate": "2026-10-01T00:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/5c10ba4fbf/thunder-3-season-2-header.png"
+    },
+    {
+      "id": "ann-Ly4yNDIzMjQ",
+      "title": "Smells Like Green Spirit's Saburō Nagai Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/smells-like-green-spirit-saburo-nagai-launches-new-manga/.242324",
+      "description": "Iei ga Nai! BL manga debuted on September 29",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.10/242324/iei.png.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyMzYw",
+      "title": "Thunder 3 Anime Gets 2nd Season in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/thunder-3-anime-gets-2nd-season-in-2027/.242360",
+      "description": "Season 1 from Gantz creator Hiroya Oku (as Yuki Ikeda) ended on Wednesday",
+      "pubDate": "2026-09-30T23:16:23.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/youtube/tetOkbnhcgo.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM1Ng",
+      "title": "Bottom-Tier Character Tomozaki Novels End with 12th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/bottom-tier-character-tomozaki-novels-end-with-12th-volume/.242356",
+      "description": "Final novel ships on October 16",
+      "pubDate": "2026-09-30T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN3/cms/news.10/242356/htda-t4a4aadxpf.jpg"
+    },
+    {
+      "id": "ann-My8uMjQyMzA1",
+      "title": "Chiikawa Anime Film Drops to #2, Star Detective Precure! Film Stays at #3",
+      "link": "https://www.animenewsnetwork.com/news/2026-09-30/chiikawa-anime-film-drops-to-no.2-star-detective-precure-film-stays-at-no.3/.242305",
+      "description": "Cosmic Princess Kaguya! drops to #10",
+      "pubDate": "2026-09-30T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/news.9/231350/chiikawa.webp"
+    },
     {
       "id": "ann-Ny8uMjQyMzU3",
       "title": "Obocchama-kun Manga Gets New Anime in 2027",
@@ -470,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g09/cms/news.10/242296/kemo.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI4Ng",
@@ -480,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/news.10/242286/daiohgnovember2026.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjI2Nw",
@@ -490,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEC/cms/news.9/241034/oclick.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDIyODM",
@@ -500,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-09-29T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/news.10/242283/htt7ejaakaeymt.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQyMzIw",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Music",
       "image": null
-    },
-    {
-      "id": "cr-LTEwLWZpbG1z",
-      "title": "ANIAFF 2026 Celebrates Director Osamu Dezaki with Screening of 10 Films and Series",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/aniaff-2026-celebrates-director-osamu-dezaki-with-screening-of-10-films",
-      "description": "This year's event will take place November 13-18",
-      "pubDate": "2026-09-29T16:39:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/daf567bc6b/aniaff-aim-for-the-ace.png"
-    },
-    {
-      "id": "cr-bGwtMjAyNg",
-      "title": "Crunchyroll Store to Launch Exclusive Gachiakuta and Solo Leveling Collections This Fall",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/29/crunchyroll-store-exclusive-gachiakuta-solo-leveling-collections-fall-2026",
-      "description": "Gachiakuta launches October 13, Solo Leveling follows on November 4",
-      "pubDate": "2026-09-29T16:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/998x452/aa4e9d1caa/gachiakuta-sl.png"
-    },
-    {
-      "id": "cr-OS10aWNrZXRz",
-      "title": "Yuri!!! on ICE Anime Celebrates 10th Anniversary in North American Theaters on October 19",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/29/yuri-on-ice-anime-nights-north-american-theaters-october-19-tickets",
-      "description": "One-night-only screenings head to U.S. and Canada as part of Crunchyroll Anime Nights",
-      "pubDate": "2026-09-29T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1040/348d7a130a/yuri-on-ice-anime-nights1.png"
-    },
-    {
-      "id": "ann-LjI0MTU5OA",
-      "title": "The Summer Hikaru Died Volumes 2-7 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/the-summer-hikaru-died/volumes-2-7/.241598",
-      "description": "As The Summer Hikaru Died approaches its conclusion, who can say where it will take \"Hikaru\" and Yoshiki? The monster already ripped his heart out; will Yoshiki be next?",
-      "pubDate": "2026-09-29T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjMxMQ",
-      "title": "The Shy Snow Woman And The Cursed Ring Anime Gets English Dub",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/the-shy-snow-woman-and-the-cursed-ring-anime-gets-english-dub/.242311",
-      "description": "OceanVeil debuts dub starring Jordan Woollen, Leah Booth, CottontailVA on October 4",
-      "pubDate": "2026-09-29T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjMxMA",
-      "title": "A/V Post-Production Company Salami Studios Closes",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-29/a-v-post-production-company-salami-studios-closes/.242310",
-      "description": "Salami Studios worked on recording for Cyberpunk 2077: Edgerunners 2 anime",
-      "pubDate": "2026-09-29T15:01:07.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "cr-bnJvbi1nb2t1",
-      "title": "First Dragon Ball LEGO Set Revealed, Features Shenron and Goku",
-      "link": "https://crunchyroll.com/news/latest/2026/9/29/dragon-ball-lego-shenron-goku",
-      "description": "Lego Icons Dragon Ball set is due out this November",
-      "pubDate": "2026-09-29T14:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x800/130610461f/dragon-ball-lego7.jpg"
     }
   ]
 };
