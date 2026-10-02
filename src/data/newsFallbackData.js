@@ -1,7 +1,217 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-02T11:26:14.652Z",
+  "lastUpdated": "2026-10-02T16:53:05.222Z",
   "items": [
+    {
+      "id": "cr-c3QtY3Jldw",
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! English Dub Reveals Same-Day Release, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/2/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode launches on Crunchyroll this Sunday",
+      "pubDate": "2026-10-02T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1460x821/6295b83aea/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship.jpg"
+    },
+    {
+      "id": "cr-cGVyZm9ybWVy",
+      "title": "Star Blazers: Space Battleship Yamato 3199 Chapter 7 Anime Reveals Ending Theme Song Performer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/star-blazers-space-battleship-yamato-3199-chapter-7-anime-ending-theme-performer",
+      "description": "Music video debuts for Junko Yagami’s “Haruka e, Eien e”",
+      "pubDate": "2026-10-02T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/db396f948f/yamato-3199-ending-song-mv.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyMDA0",
+      "title": "HimaNatsu: Of Churches, Sunflowers, and Long Summers Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/pc/himanatsu/of-churches-sunflowers-and-long-summers/.242004",
+      "description": "There’s a fine line between a piece of media feeling nostalgic or dated and, unfortunately, HimaNatsu falls into the latter category.",
+      "pubDate": "2026-10-02T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/game-review/242004/himanatsu-girls.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0MjE",
+      "title": "Viz Media Licenses The Seven Knights of the Marronnier Kingdom Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/viz-media-licenses-the-seven-knights-of-the-marronnier-kingdom-manga/.242421",
+      "description": "Manga's anime adaptation debuts on Saturday",
+      "pubDate": "2026-10-02T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN0/cms/news.10/242421/seven-knights-of-marronnier-kingdom.jpg"
+    },
+    {
+      "id": "ann-LjI0MjM5OA",
+      "title": "Hikari Launches Manga of Mashimesa Emoto Story",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/hikari-launches-manga-of-mashimesa-emoto-story/.242398",
+      "description": "\"Dansō o Shiirare Otoko to Shite Ikitekita Kōshaku Reijo wa, 2-kaime no Jinsei wa Dress o Kite, Reijō Life o Ōka Shitai\" manga launches on November 5",
+      "pubDate": "2026-10-02T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g09/cms/news.10/242398/championbuzz-yokoku38.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlbw",
+      "title": "Reincarnated as a Sword Season 2 Anime Returns with Creditless Opening Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/reincarnated-as-a-sword-season-2-anime-creditless-opening-video",
+      "description": "The isekai adaptation is live ahead of its broadcast",
+      "pubDate": "2026-10-02T14:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1119x630/13f515982e/reincarnated-as-a-sword2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0MTc",
+      "title": "7th Be Forever Yamato: Rebel 3199 Film Reveals Ending Theme Song With Music Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/7th-be-forever-yamato-rebel-3199-film-reveals-ending-theme-song-with-music-video/.242417",
+      "description": "Junko Yagami performs song for film opening in Japan on October 30",
+      "pubDate": "2026-10-02T14:21:57.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP2/cms/news.10/242417/yamato-3199-rainbow.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIzOTc",
+      "title": "Keishi Ayasato's Seijo Seisen Novels Get Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/keishi-ayasato-seijo-seisen-novels-get-manga/.242397",
+      "description": "Sasami Kamone draws manga",
+      "pubDate": "2026-10-02T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.10/242397/seijoseisen-manga.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW8",
+      "title": "The Ramparts of Ice Season 2 Anime Thaws out in Creditless Ending Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-ramparts-of-ice-season-2-anime-creditless-ending-video",
+      "description": "The romance series is now back for its second season",
+      "pubDate": "2026-10-02T14:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a27c64cde4/ramparts-ed.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIyNTk",
+      "title": "This Week in Games - Armed Sakura",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-10-02/armed-sakura/.242259",
+      "description": "Could a new Sakura Wars game be on the horizon?",
+      "pubDate": "2026-10-02T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/La5SvNbViKE.jpg"
+    },
+    {
+      "id": "cr-bmctZW5kaW5n",
+      "title": "The Exiled Heavy Knight Knows How to Game the System Cour 2 Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-exiled-heavy-knight-cour-2-creditless-opening-ending",
+      "description": "Crunchyroll streams the GoHands-animated series as it airs",
+      "pubDate": "2026-10-02T13:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/5e9772d213/exiled-heavy-knight-cour-2-op.png"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "From Far Away Anime Releases Izark Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/from-far-away-anime-izark-character-trailer",
+      "description": "The series premieres on Crunchyroll October 4",
+      "pubDate": "2026-10-02T13:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/506ea36434/from-far-away-izark-hero.png"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "The Eccentric Doctor of the Moon Flower Kingdom Anime Introduces Shiei in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-eccentric-doctor-of-the-moon-flower-kingdom-anime-shiei-character-trailer",
+      "description": "Koichiro Kuroda directs the drama series at Studio Elle",
+      "pubDate": "2026-10-02T13:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/00c633a98b/the-eccentric-doctor-of-the-moon-flower-kingdom-shiei-hero.png"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Magical Explorer Anime is Maid to Order in Nanami Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/magical-explorer-anime-nanami-character-trailer",
+      "description": "Crunchyroll streams light novel adaptation beginning on October 3",
+      "pubDate": "2026-10-02T13:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/3aa2ca1ac7/magical_explorer_nanami_header.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyNDAx",
+      "title": "Kuma Miko's Masume Yoshimoto Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/kuma-miko-masume-yoshimoto-launches-new-manga/.242401",
+      "description": "Kyō wa Kawabe de Sugoshitai manga launches on November 5",
+      "pubDate": "2026-10-02T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g09/cms/news.10/242398/championbuzz-yokoku38.jpg"
+    },
+    {
+      "id": "cr-aW1hdGlvbg",
+      "title": "The Apothecary Diaries Season 3 Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-apothecary-diaries-season-3-anime-creditless-opening-animation",
+      "description": "Crunchyroll streams ongoing adaptation based on light novel series",
+      "pubDate": "2026-10-02T13:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/56bd5ff551/the_apothecary_diaries_season3_creditless_op_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDEwMjk",
+      "title": "Tetsuro Araki and Tetsuya Nakatake Look Back on the “Miracle” of Attack on Titan",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/tetsuro-araki-and-tetsuya-nakatake-look-back-on-the-miracle-of-attack-on-titan/.241029",
+      "description": "\"When it ended, everyone said, 'Just because the work was successful doesn't mean we should decide that everything was fine.' They said, “This must never happen again.”",
+      "pubDate": "2026-10-02T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/herald/201155/eren-inside-the-titan-s-mouth.webp"
+    },
+    {
+      "id": "ann-Ly4yNDIzOTY",
+      "title": "Clevatess Season 2 ‒ Episode 13",
+      "link": "https://www.animenewsnetwork.com/review/clevatess-season-2/episode-13/.242396",
+      "description": "The finale of Clevatess II represents some of the most go-for-broke, bugnuts fantasy storytelling I've seen in some time, and I simply cannot help but respect the hell out of it.",
+      "pubDate": "2026-10-02T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/episode-review.5/242396/clevatess-ii-14.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0MDM",
+      "title": "New Saga's Jun Miura Launches New Manga on October 8",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/new-saga-jun-miura-launches-new-manga-on-october-8/.242403",
+      "description": "Manga is titled Moto Shinryū, Chippoke na Ningen ni Tensei Shita Kedo Musō Shimasu",
+      "pubDate": "2026-10-02T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/242403/motoshinryuu.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Tokyo Ravens' Ends with 18th Volumes",
+      "link": "https://myanimelist.net/news/74782445?_location=rss",
+      "description": "The official X for the Tokyo Ravens light novel series announced on Friday that the series will end with its 18th volume, scheduled for release this Winter. Kouhei Azano (Black Blood Brothers) originally began the school supernatural series under Fujimi Fantasia Bunko imprint in May 2010, featuring illustrations by Sumihei. Kadokawa published the 17th volume in March 2025. The series has a cumulative 1 million copies of its volumes in circulation in September 2013. A side-story light novel serie...",
+      "pubDate": "2026-10-02T11:42:31.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790941269-3f96722e614a58452b41530c5b628a1b.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI0MTE",
+      "title": "Devils' Crest TV Anime Reveals More Cast, Ending Theme in 2nd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/devils-crest-tv-anime-reveals-more-cast-ending-theme-in-2nd-promo-video/.242411",
+      "description": "Soala performs ending theme \"ReaL\" for series debuting worldwide on Amazon Prime Video on November 6",
+      "pubDate": "2026-10-02T11:21:51.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/youtube/z_aHrTag3Ig.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Steel Ball Run: JoJo no Kimyou na Bouken' Announces Supporting Cast",
@@ -391,216 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1286x754/22e1fe26f6/pan_dorobo_header4.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIzNjI",
-      "title": "Grandgear Film by Godzilla Minus One's Takashi Yamazaki Opens in January 2028",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362",
-      "description": "Sony Pictures announced on Wednesday that Godzilla Minus One director Takashi Yamazaki's first English-language film Grandgear has moved up its release...",
-      "pubDate": "2026-10-01T11:38:32.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/news.6/200167/godzilla-minus-one.jpg"
-    },
-    {
-      "id": "ann-LjI0MjMzMg",
-      "title": "Seiji Ebisu's Bishōjo shika Inai Seitokai no Gidai ga Itsumo Ore na Ken Novel Gets Manga Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332",
-      "description": "Manga adaptation by Tarara launched on Monday",
-      "pubDate": "2026-10-01T11:33:17.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.10/242332/seitokai.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM2NQ",
-      "title": "I Want to Love You Till Your Dying Day ‒ Episode 13",
-      "link": "https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365",
-      "description": "The show could've ended last week, and that probably would've been more fitting.",
-      "pubDate": "2026-10-01T11:30:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9E/cms/episode-review.5/242365/vlcsnap-2026-09-30-23h42m55s494.png.jpg"
-    },
-    {
-      "id": "cr-Zy10aGVtZQ",
-      "title": "Super Psychic Policeman Chojo Anime Unveils New Trailer Featuring Ending Theme",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/super-psychic-policeman-chojo-anime-unveils-new-trailer-featuring-ending-theme",
-      "description": "Crunchyroll streams adaptation of Shun Numa's manga beginning October 6",
-      "pubDate": "2026-10-01T11:12:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/b5e240a988/super_psychic_policeman_chojo_header2.jpg"
-    },
-    {
-      "id": "ann-Zy8uMjQyMzc4",
-      "title": "Super Psychic Policeman Chojo Anime's New Video Previews Ending Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/super-psychic-policeman-chojo-anime-new-video-previews-ending-song/.242378",
-      "description": "Shifuku Poncho performs \"Mata Ashita\" ending song for October 6 series",
-      "pubDate": "2026-10-01T11:08:05.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMV/youtube/oIvGIBRbpWU.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMzYz",
-      "title": "Battle in 5 Seconds Manga Resumes",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/battle-in-5-seconds-manga-resumes/.242363",
-      "description": "Manga went on hiatus due to author's poor health",
-      "pubDate": "2026-10-01T10:55:50.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY7/cms/news.8/219856/battle.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyMzc0",
-      "title": "OceanVeil Announces Simulcast Stream of My Girlfriend's Friend Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/oceanveil-announces-simulcast-stream-of-my-girlfriend-friend-anime/.242374",
-      "description": "Anime debuts on October 4",
-      "pubDate": "2026-10-01T10:18:49.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY1/cms/news.10/242374/friend.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM3Nw",
-      "title": "Shin Oishinbo TV Anime Streams Teaser Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/shin-oishinbo-tv-anime-streams-teaser-video/.242377",
-      "description": "New anime starring Yōhei Azakami as protagonist Shirō Yamaoka debuts next year",
-      "pubDate": "2026-10-01T09:57:19.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAB/cms/news.10/242377/screenshot-2026-10-01-185448.png.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "New Oishinbo TV Anime Releases Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/new-oishinbo-tv-anime-teaser-trailer",
-      "description": "The original series aired in 1988",
-      "pubDate": "2026-10-01T09:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/16ad30b383/new-oishinbo.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyMzY5",
-      "title": "Netflix to Stream Dragon Ball Super: Beerus Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/netflix-to-stream-dragon-ball-super-beerus-anime/.242369",
-      "description": "Anime starts streaming in U.S. on October 17, in selected areas on October 14",
-      "pubDate": "2026-10-01T09:17:05.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB1/cms/news.9/241278/dbsbe-surgekv-en.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIzNzY",
-      "title": "Yasuaki Mikami's Looks like a Job for a Maid! Light Novels Get TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/yasuaki-mikami-looks-like-a-job-for-a-maid-light-novels-get-tv-anime/.242376",
-      "description": "Story of falsely accused then dismissed supermaid launched in 2021",
-      "pubDate": "2026-10-01T09:03:15.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/youtube/M11fgMU9kD8.jpg"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "Looks like a Job for a Maid! The Tales of a Dismissed Supermaid Anime Adaptation Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid-anime-adaptation-announced",
-      "description": "\"Because when this supermaid is on the job, no mess can stand in her way!\"",
-      "pubDate": "2026-10-01T05:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/230db8c323/looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita' Gets TV Anime",
-      "link": "https://myanimelist.net/news/74778514?_location=rss",
-      "description": "Publishing company Earth Star Entertainment announced a television anime adaptation of Yasuaki Mikami's Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita (Looks Like a Job for a Maid! The Tales of a Dismissed Supermaid) light novel on Thursday, revealing an announcement promo. Mikami began penning the fantasy adventure story on the Shousetsuka ni Narou website in September 2021. Earth Star Entertainment began publishing the light novel under it...",
-      "pubDate": "2026-10-01T04:58:24.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790830664-0c9af6f852f575d5edab435aa0494794.jpeg"
-    },
-    {
-      "id": "cr-by1yZW9uYQ",
-      "title": "ReoNa Releases I Want to Love You Till Your Dying Day Opening Song Anime Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/i-want-to-love-you-till-your-dying-day-opening-song-anime-music-video-reona",
-      "description": "The yuri series is available on Crunchyroll",
-      "pubDate": "2026-10-01T04:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/68fb2fe3ee/reona-amore-anime-mv.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQyMzA5",
-      "title": "Twice's TZUYU Sings for DAN DA DAN's Atlassian Williams F1 Racing Team Collaboration",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-01/twice-tzuyu-sings-for-dan-da-dan-atlassian-williams-f1-racing-team-collaboration/.242309",
-      "description": "Atlassian Williams: “Speed Meets Supernatural ... and now, it has a voice🔥”",
-      "pubDate": "2026-10-01T04:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE7/cms/interest.3/242309/tsuyu-atlassian-williams-dan-da-dan.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyMzY0",
-      "title": "Glasses With a Chance of Delinquent Anime's Teaser Reveals Cast, April 2027 TV Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-cast-april-2027-tv-debut/.242364",
-      "description": "Hiroto Shimizu, Suzuko Hara, Yuma Tomochika join cast",
-      "pubDate": "2026-10-01T03:45:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/youtube/_NDtGmyPz1w.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Megane, Tokidoki, Yankee-kun' Unveils Main Cast, Second Teaser Promo for Spring 2027",
-      "link": "https://myanimelist.net/news/74778320?_location=rss",
-      "description": "The official website for the television anime adaptation of Naruki&rsquo;s Megane, Tokidoki, Yankee-kun (Glasses with a chance of Delinquent) manga unveiled the main cast and a second teaser promotional video on Thursday. The anime is scheduled to premiere in April 2027 on ABC TV and TV Asahi's nationwide network including the ANiMAZiNG!!! program. It will also stream on ABEMA and air on BS11. Cast Dan Ichikura: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Hiro Momose: Suzuko hara (Barakamon...",
-      "pubDate": "2026-10-01T03:35:01.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790825522-7afb146c2caeb1c97eb6676ad2379e03.jpeg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Glasses With a Chance of Delinquent Anime Teaser Trailer Reveals Main Cast, April 2027 Release",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/glasses-with-a-chance-of-delinquent-anime-april-2027-release-date-main-cast-teaser-trailer",
-      "description": "The rom-com series centers on a clumsy girl and an ex-delinquent",
-      "pubDate": "2026-10-01T03:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/19f5a858f4/glasses-with-a-chance-of-delinquent.jpg"
-    },
-    {
-      "id": "cr-YWthLWRlbW8",
-      "title": "Eir Aoi Shares New Music Video \"Arashi no Naka demo\"",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/eir-aoi-new-music-video-arashi-no-naka-demo",
-      "description": "Aoi's 6th album \"UNBOUND\" ranks No. 25 on the daily chart",
-      "pubDate": "2026-10-01T02:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/3840d82c51/eir-aoi-arashi-no-naka-demo-mv.png"
-    },
-    {
-      "id": "cr-dmUtdmlkZW8",
-      "title": "BanG Dream! YUME∞MITA Anime Opening Song Release Commemorative Video Streamed",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/bang-dream-yume-mita-anime-opening-song-release-commemorative-video",
-      "description": "Mugendai Mewtype's 5th single ranks at No. 8 on the daily chart",
-      "pubDate": "2026-10-01T01:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/184c24d59a/mugendai-mewtype-our-survival-mv.jpg"
-    },
-    {
-      "id": "cr-LXNvcGhpbGlh",
-      "title": "LiSA Releases New Music Video \"Sophilia\"",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/lisa-new-music-video-sophilia",
-      "description": "The song ranks at number 20 on the weekly digital singles chart",
-      "pubDate": "2026-10-01T01:09:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/d58fc5f3c6/lisa-sophilia-mv.jpg"
     }
   ]
 };
