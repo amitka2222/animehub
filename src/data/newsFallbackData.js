@@ -1,7 +1,137 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-02T02:42:56.374Z",
+  "lastUpdated": "2026-10-02T11:26:14.652Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Steel Ball Run: JoJo no Kimyou na Bouken' Announces Supporting Cast",
+      "link": "https://myanimelist.net/news/74782320?_location=rss",
+      "description": "The official X (formerly Twitter) account for the JoJo no Kimyou na Bouken (JoJo's Bizarre Adventure) announced the supporting cast for its seventh part, Steel Ball Run, on Friday. The second and third stages of the anime, which adapt the seventh part of Hirohiko Araki's JoJo's Bizarre Adventure manga, began streaming exclusively worldwide on Netflix on September 25, with new episodes released weekly. Cast L. A. Boom Boom: Fumiyoshi Shioya (Shangri-La Frontier: Kusoge Hunter, Kami...",
+      "pubDate": "2026-10-02T10:50:29.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790938069-162b64803cb744bfeeb480cb514dd5eb.jpeg"
+    },
+    {
+      "id": "cr-dmVyc2lvbg",
+      "title": "Fungus and Iron Anime Unveils Complete Teaser Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/fungus-and-iron-anime-teaser-visual-full-version",
+      "description": "The series takes place in a world where humanity is ruled by fungi",
+      "pubDate": "2026-10-02T10:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/640x368/17472a578f/fungus-and-iron-manga-header.png"
+    },
+    {
+      "id": "cr-YWwtY2FzdA",
+      "title": "Devils' Crest Anime Ending Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/devils-crest-anime-trailer-ending-theme-song-additional-cast",
+      "description": "The sci-fi series debuts on November 6",
+      "pubDate": "2026-10-02T09:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/bc8c406697/devils-crest.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Demons' Crest' Unveils Additional Cast Pair, Ending Theme, Second Promo",
+      "link": "https://myanimelist.net/news/74782123?_location=rss",
+      "description": "The official website for the original net anime adaptation of Reki Kawahara's Demons' Crest light novel unveiled a pair of additional cast, the theme songs, and second promotional video on Friday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Voice actors Atsushi Tamaru (Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken) and Ayumu Murase (Yomi no Tsugai) are joining the cast as Shin Haizaki and Kakeru Niki, respectively. Singer-songwriter So...",
+      "pubDate": "2026-10-02T09:21:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790932849-89156ba610c579ac4ee20532130e935a.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjQwNg",
+      "title": "WEBTOON Entertainment Names 2 Co-CEOs for Naver Webtoon",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/webtoon-entertainment-names-2-co-ceos-for-naver-webtoon/.242406",
+      "description": "Founder of WEBTOON Junkoo Kim will step down as Naver Webtoon's CEO",
+      "pubDate": "2026-10-02T08:54:33.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM1/cms/news.10/242406/.jpg.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjQwNA",
+      "title": "Voice Actor Naoki Bandō Dies at 69",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/voice-actor-naoki-bando-dies-at-69/.242404",
+      "description": "Career spanned more than 4 decades; voiced Robonyan in Yo-kai Watch, Minovsky in Gundam: The Origin",
+      "pubDate": "2026-10-02T05:22:11.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.10/242404/naokibando.jpg"
+    },
+    {
+      "id": "cr-ZXItMjAyNg",
+      "title": "LiSA to Release New Best Album This December",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/lisa-new-best-album-december-2026",
+      "description": "The two-disc album packs in LiSA's 15-year career",
+      "pubDate": "2026-10-02T04:59:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b34cdd2640/lisa-best-album-header.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyNDAy",
+      "title": "Kagurabachi Anime Casts Yūichi Nakamura",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/kagurabachi-anime-casts-yuichi-nakamura/.242402",
+      "description": "Nakamura plays Soshiro Azami",
+      "pubDate": "2026-10-02T03:59:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/youtube/O7A5d4obyyo.jpg"
+    },
+    {
+      "id": "ann-ZC8uMjQyMzY2",
+      "title": "Bandai Namco Cross Store & The Gundam Base's Openings at Mall of America Delayed",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-01/bandai-namco-cross-store-and-the-gundam-base-openings-at-mall-of-america-delayed/.242366",
+      "description": "The new opening date at Minneapolis is “to be determined”",
+      "pubDate": "2026-10-02T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/press-release.2/241892/bandai-namco-cross-store-2.jpeg"
+    },
+    {
+      "id": "cr-bmFrYW11cmE",
+      "title": "Kagurabachi Anime Announces Cast for Soshiro Azami",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/kagurabachi-anime-soshiro-azami-cast-yuichi-nakamura",
+      "description": "The hotly anticipated adaptation is slated for April 2027",
+      "pubDate": "2026-10-02T03:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0087ec7e59/kagurabachi-soshiro-azami.jpg"
+    },
+    {
+      "id": "cr-bmctc29uZw",
+      "title": "My Happy Marriage Anime Special Episodes Unveil Main Trailer Featuring Opening Song",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/my-happy-marriage-anime-special-episodes-main-trailer-opening-song",
+      "description": "The three-episode special edition will premiere on October 25",
+      "pubDate": "2026-10-02T03:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/293ea30707/my-happy-marriage-special-edition-main-trailer.png"
+    },
+    {
+      "id": "ann-Zy8uMjQyMzgx",
+      "title": "My Happy Marriage Anime Special's Main Promo Video Reveals Opening Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-01/my-happy-marriage-anime-special-main-promo-video-reveals-opening-theme-song/.242381",
+      "description": "Riria. performs opening theme song for 3-episode special on October 25",
+      "pubDate": "2026-10-02T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNC/cms/news.9/231270/mini_kv.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Giant Ojo-sama Anime Introduces Oriko Fujido in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/2/giant-ojo-sama-anime-oriko-fujido-character-trailer",
+      "description": "The comedy series is slated for January 2027",
+      "pubDate": "2026-10-02T02:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/326cb7db47/giant-ojo-sama.jpg"
+    },
     {
       "id": "cr-YXN0LWNyZXc",
       "title": "FX Fighter Kurumi-chan English Dub Now Streaming on Crunchyroll",
@@ -471,136 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/d58fc5f3c6/lisa-sophilia-mv.jpg"
-    },
-    {
-      "id": "cr-aWVyZS0yMDI3",
-      "title": "Thunder 3 Season 2 Anime Set to Air in 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/thunder-3-season-2-anime-premiere-2027",
-      "description": "The manga's author is confirmed to be Hiroya Oku (GANTZ) under a pseudonym",
-      "pubDate": "2026-10-01T00:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/5c10ba4fbf/thunder-3-season-2-header.png"
-    },
-    {
-      "id": "ann-Ly4yNDIzMjQ",
-      "title": "Smells Like Green Spirit's Saburō Nagai Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/smells-like-green-spirit-saburo-nagai-launches-new-manga/.242324",
-      "description": "Iei ga Nai! BL manga debuted on September 29",
-      "pubDate": "2026-10-01T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.10/242324/iei.png.jpg"
-    },
-    {
-      "id": "ann-Ny8uMjQyMzYw",
-      "title": "Thunder 3 Anime Gets 2nd Season in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/thunder-3-anime-gets-2nd-season-in-2027/.242360",
-      "description": "Season 1 from Gantz creator Hiroya Oku (as Yuki Ikeda) ended on Wednesday",
-      "pubDate": "2026-09-30T23:16:23.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/youtube/tetOkbnhcgo.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM1Ng",
-      "title": "Bottom-Tier Character Tomozaki Novels End with 12th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/bottom-tier-character-tomozaki-novels-end-with-12th-volume/.242356",
-      "description": "Final novel ships on October 16",
-      "pubDate": "2026-09-30T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN3/cms/news.10/242356/htda-t4a4aadxpf.jpg"
-    },
-    {
-      "id": "ann-My8uMjQyMzA1",
-      "title": "Chiikawa Anime Film Drops to #2, Star Detective Precure! Film Stays at #3",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/chiikawa-anime-film-drops-to-no.2-star-detective-precure-film-stays-at-no.3/.242305",
-      "description": "Cosmic Princess Kaguya! drops to #10",
-      "pubDate": "2026-09-30T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/news.9/231350/chiikawa.webp"
-    },
-    {
-      "id": "ann-Ny8uMjQyMzU3",
-      "title": "New Obocchama-kun Anime Airs on TV in Japan in 2027 (Updated)",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/new-obocchama-kun-anime-airs-on-tv-in-japan-in-2027/.242357",
-      "description": "Chie Kōjiro reprises role of Obocchama-kun from original 1989 anime",
-      "pubDate": "2026-09-30T20:48:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/LvKnlZxiVow.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIzNTg",
-      "title": "Thunder 3 ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/thunder-3/episode-12/.242358",
-      "description": "For any other poor souls who endured this first season with me to the end, I'm sure they're just as dissatisfied with the lack of an actual conclusion.",
-      "pubDate": "2026-09-30T20:32:40.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIL/cms/episode-review.5/242358/thunder-3-12.1.png.jpg"
-    },
-    {
-      "id": "ann-eS8uMjQyMzU1",
-      "title": "Idea Factory Announces New Adventure Game Brand, 1st Project ICONOLOGY",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/idea-factory-announces-new-adventure-game-brand-1st-project-iconology/.242355",
-      "description": "IFChronicle's ICONOLOGY game in development for Switch, PC via Steam",
-      "pubDate": "2026-09-30T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-eS8uMjQyMzIz",
-      "title": "Kanojo wa Uso o Ai Shisugiteru Manga Gets New Story",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/kanojo-wa-uso-o-ai-shisugiteru-manga-gets-new-story/.242323",
-      "description": "New work commemorates 10th anniversary of Kotomi Aoki's manga",
-      "pubDate": "2026-09-30T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "Here’s the Exact Release Date and Time The Apothecary Diaries Season 3 Premieres on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/9/30/the-apothecary-diaries-season-3-anime-release-date-crunchyroll",
-      "description": "The anime adaptation of Natsu Hyuuga and Touko Shino's light novel premieres on October 2",
-      "pubDate": "2026-09-30T18:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/ebf431befd/the-apothecary-diaries-season-3.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Thunder 3' Second Season Announced for 2027",
-      "link": "https://myanimelist.net/news/74776633?_location=rss",
-      "description": "The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Hiroya Oku's supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Oku serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volume...",
-      "pubDate": "2026-09-30T17:28:28.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790789167-afd00879ed6a6337c5bd2a12c5058385.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDIzNDc",
-      "title": "Crunchyroll to Stream Super Psychic Policeman Chojo, Dandivine, Full Clearing Another World Under a Goddess with Zero Believers, More Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347",
-      "description": "Also: TOUGEN ANKI: Nikko Kegon Falls Arc, The Cold Sato-san is Only Sweet to Me, more",
-      "pubDate": "2026-09-30T17:20:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Fall 2026 Simulcast List",
-      "link": "https://myanimelist.net/news/74776601?_location=rss",
-      "description": "In this thread, you'll find a comprehensive list of television anime acquired for simulcast release during the Fall 2026 season. Anime series licensed for home video release can be found here. This post will be continuously updated as more simulcasts are announced. Feel free to post in this thread if you find a series that we are missing. Akiba Pass TV (German-speaking Europe) Mahou Shoujo Ikusei Keikaku: Restart Tensei shitara Ken deshita II (Reincarnated as a Sword Season 2) Ani-One Asia...",
-      "pubDate": "2026-09-30T17:18:51.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790788702-c2e22902fd35fbfd64292b3c9350e17e.jpeg"
     }
   ]
 };
