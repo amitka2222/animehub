@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-02T16:53:05.222Z",
+  "lastUpdated": "2026-10-02T21:28:48.904Z",
   "items": [
+    {
+      "id": "ann-LjI0MjI4MQ",
+      "title": "North American Anime, Manga Releases, September 27-October 3",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/north-american-anime-manga-releases-september-27-october-3/.242281",
+      "description": "Spirited Away anime; The Lord-Magear's Apprentice, Can You Kiss Me First?, Even the Student Council Has Its Holes! manga ship",
+      "pubDate": "2026-10-02T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.10/242281/spirited-away-bd.jpg"
+    },
+    {
+      "id": "cr-dW5jaHlyb2xs",
+      "title": "Here’s the Exact Release Date and Time Black Clover Season 2 Premieres on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/2/black-clover-season-2-anime-release-date-crunchyroll",
+      "description": "Watch the newest episode of Black Clover starting October 3",
+      "pubDate": "2026-10-02T20:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/3840x2160/db3110ad4a/black-clover-season-2-kv-16x9.png"
+    },
+    {
+      "id": "ann-ZS8uMjQyNDI4",
+      "title": "Live-Action Street Fighter Film's Trailer Features Cast's Comments About Franchise",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/live-action-street-fighter-film-trailer-features-cast-comments-about-franchise/.242428",
+      "description": "Film opens on October 16",
+      "pubDate": "2026-10-02T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/youtube/8gLm4rc_Rn4.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0MjQ",
+      "title": "Welsh & Shedar Anime Streams on YouTube in November",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424",
+      "description": "1st 2 episodes stream in English, Japanese, French in early November",
+      "pubDate": "2026-10-02T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
+    },
+    {
+      "id": "cr-dW5jaHlyb2xs",
+      "title": "Here’s the Exact Release Date and Time PSYREN Premieres on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/2/psyren-anime-release-date-crunchyroll",
+      "description": "The anime adaptation of Toshiaki Iwashiro’s manga kicks off on October 5",
+      "pubDate": "2026-10-02T18:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1321x743/7b32c71aeb/psyren.png"
+    },
+    {
+      "id": "ann-LjI0MjQyNQ",
+      "title": "FX Fighter Kurumi-chan, #I'm Looking For Zombie, Reborn as a Space Mercenary Anime Get Same-Day English Dubs",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425",
+      "description": "All 3 reveal English dub casts",
+      "pubDate": "2026-10-02T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241722/zom.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyNDI2",
+      "title": "Toonami Airs Wind Breaker, Gachiakuta Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426",
+      "description": "Adult Swim's programming block adds Wind Breaker on October 10, Gachiakuta on October 17",
+      "pubDate": "2026-10-02T17:08:13.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/encyc/A32808-856042614.1741930725.jpg"
+    },
+    {
+      "id": "cr-Y2FzdC1jcmV3",
+      "title": "#I'm Looking For a Zombie English Dub Reveals Same-Day Release, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/2/im-looking-for-a-zombie-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode shuffles onto Crunchyroll this Saturday",
+      "pubDate": "2026-10-02T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/03ac69cb08/im-looking-for-a-zombie.jpg"
+    },
+    {
+      "id": "cr-Y2FzdC1tb3Jl",
+      "title": "The Apothecary Diaries Season 3: Where to Watch, Trailers, Voice Actors, Characters and More",
+      "link": "https://crunchyroll.com/news/guides/2026/10/2/the-apothecary-diaries-season-3-where-to-watch-trailers-cast-more",
+      "description": "Maomao returns with more intrigue today!",
+      "pubDate": "2026-10-02T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Guides",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/93e02821f5/the-apothecary-diaries-season-3-key-art.png"
+    },
+    {
+      "id": "ann-LjI0MDE3OQ",
+      "title": "Your Anime Rankings - Best of Summer 2026",
+      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240179",
+      "description": "Tanya the Evil claims the final weekly top spot, with Draw This, Then Die! close behind. In the cumulative, The Cat and the Dragon and Dara-san of Reiwa both edge up four places to close out the season.",
+      "pubDate": "2026-10-02T16:55:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCE/cms/weekly-ranking/240179/summer2026-montage-w14.jpeg"
+    },
     {
       "id": "cr-c3QtY3Jldw",
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! English Dub Reveals Same-Day Release, Cast and Crew",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g6B/cms/review.2/242074/hellmodefull.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM4Mg",
-      "title": "GlobalComix Adds Tomb Raider King, Overgeared, Love Tattoo, The Insipid Prince's Furtive Grab for The Throne, More Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/globalcomix-adds-tomb-raider-king-overgeared-love-tattoo-the-insipid-prince-furtive-grab-for-the-/.242382",
-      "description": "Also: To Sir, Without Love: I'm Divorcing You, The Return of the Disaster-Class Hero",
-      "pubDate": "2026-10-01T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g30/cms/news.10/242382/tomb-raider-hero-3x2.png.jpg"
-    },
-    {
-      "id": "ann-bS8uMjQyMzU5",
-      "title": "Hideki Arai's SPUNK! Manga Gets Live-Action Film",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/hideki-arai-spunk-manga-gets-live-action-film/.242359",
-      "description": "Crowdfunding project also launched for film",
-      "pubDate": "2026-10-01T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242359/htdliosbqaac9pq.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjMzNQ",
-      "title": "This Week in Anime - Unhappy with Endings",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-01/.242335",
-      "description": "In the wake of Goodbye, Lara 's finale, Sylvia and Coop discuss anime endings that left viewers wanting.",
-      "pubDate": "2026-10-01T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIK/cms/this-week-in-anime/242335/sylvia12.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Sound! Euphonium, The Final Movie Part 2 Shares Emotional Final Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/sound-euphonium-the-final-movie-part-2-final-trailer",
-      "description": "The anime adaptation's finale is now showing in Japan",
-      "pubDate": "2026-10-01T13:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/cfac40a5f0/sound-euphonium-movie-final-trailer-hero.png"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "From Far Away Anime Spotlights Noriko in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/from-far-away-anime-spotlights-noriko-in-new-character-trailer",
-      "description": "The series premieres on Crunchyroll October 4",
-      "pubDate": "2026-10-01T13:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a5271c3d80/from-far-away-noriko-hero.png"
-    },
-    {
-      "id": "ann-LjI0MjM2MQ",
-      "title": "A Bride's Story Manga Gets New Volume Under New Publisher This Winter",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361",
-      "description": "New Otoyomegatari Zoku no 1 volume will have 3 chapters, about 80 pages, larger A4 size, with planned 16th volume",
-      "pubDate": "2026-10-01T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.8/221561/a-bride-story-volume-1.jpg"
-    },
-    {
-      "id": "ann-LjI0MTI0OA",
-      "title": "The Fall 2026 Anime Preview Guide",
-      "link": "https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248",
-      "description": "The season's just started, and we have nine featured shows! Read our reviews for STEEL BALL RUN, Firefly Wedding, Overgeared, Vermilion Mask, Reincarnated as a Sword, and more!",
-      "pubDate": "2026-10-01T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gVE/cms/preview-guide/241248/crbrand-us-en-staticdisplay-fallpreviewguide-animenewsnetwork-ua-2250x875-2.png.jpg"
-    },
-    {
-      "id": "cr-b3ItMjAyNw",
-      "title": "Obocchama-kun REBORN Anime Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/obocchama-kun-reborn-anime-announced-for-2027",
-      "description": "Teaser trailer and art revealed for adaptation based on children's gag manga",
-      "pubDate": "2026-10-01T12:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/643700949b/obocchamakun_header.jpg"
-    },
-    {
-      "id": "ann-aS8uMjQyMzgw",
-      "title": "Bless TV Anime Casts Kentarō Kumagai",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380",
-      "description": "Kumagai as MM in January 2027 anime",
-      "pubDate": "2026-10-01T12:12:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLI/youtube/shCRCv0t2n8.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Pan Dorobo Anime Publishes Protagonist Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/1/pan-dorobo-anime-protagonist-character-trailer",
-      "description": "Adaptation based on Keiko Shibata's picture books broadcasts beginning October 2",
-      "pubDate": "2026-10-01T12:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1286x754/22e1fe26f6/pan_dorobo_header4.jpg"
     }
   ]
 };
