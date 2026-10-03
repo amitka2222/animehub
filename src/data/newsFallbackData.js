@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-02T21:28:48.904Z",
+  "lastUpdated": "2026-10-03T02:29:29.349Z",
   "items": [
+    {
+      "id": "cr-aWRlby1haWtv",
+      "title": "Aiko Shares Blue Box Season 2 Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/3/blue-box-season-2-anime-opening-song-music-video-aiko",
+      "description": "The song will be included in her 17th album",
+      "pubDate": "2026-10-03T02:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/95fb9fcada/aiko-anata-no-hana-mv.jpg"
+    },
+    {
+      "id": "cr-c2ljLXZpZGVv",
+      "title": "FX Fighter Kurumi-chan Anime Streams Live-Action Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/3/fx-fighter-kurumi-chan-anime-live-action-opening-song-music-video",
+      "description": "The anime's Episode 1 is now available on Crunchyroll",
+      "pubDate": "2026-10-03T01:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f9c7961b0a/kurumi-chan-opening-song-mv.jpg"
+    },
+    {
+      "id": "cr-dmlkZW8tbXY",
+      "title": "Eve Releases The Apothecary Diaries Season 3 Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/3/the-apothecary-diaries-season-3-anime-ending-song-music-video-mv",
+      "description": "The new season's 1st episode is now available on Crunchyroll",
+      "pubDate": "2026-10-03T00:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/dfe247b0d2/eve-aiyou-mv.jpg"
+    },
     {
       "id": "ann-LjI0MjI4MQ",
       "title": "North American Anime, Manga Releases, September 27-October 3",
@@ -294,7 +324,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Tokyo Ravens' Ends with 18th Volumes",
+      "title": "Light Novel 'Tokyo Ravens' Ends with 18th Volume",
       "link": "https://myanimelist.net/news/74782445?_location=rss",
       "description": "The official X for the Tokyo Ravens light novel series announced on Friday that the series will end with its 18th volume, scheduled for release this Winter. Kouhei Azano (Black Blood Brothers) originally began the school supernatural series under Fujimi Fantasia Bunko imprint in May 2010, featuring illustrations by Sumihei. Kadokawa published the 17th volume in March 2025. The series has a cumulative 1 million copies of its volumes in circulation in September 2013. A side-story light novel serie...",
       "pubDate": "2026-10-02T11:42:31.000Z",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1280x720/eb10005596/bless-mm-hero.png"
-    },
-    {
-      "id": "ann-Ly4yNDIzODY",
-      "title": "The Ramparts of Ice Season 2 Anime Streams English Dub Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-01/the-ramparts-of-ice-season-2-anime-streams-english-dub-trailer/.242386",
-      "description": "2nd season debuted on Thursday",
-      "pubDate": "2026-10-01T16:22:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIO/youtube/51iP14FiFLo.jpg"
-    },
-    {
-      "id": "cr-ZW4tMjAyNg",
-      "title": "10 Horror Manga Perfect for Spooky Season",
-      "link": "https://crunchyroll.com/news/guides/2026/10/1/horror-manga-halloween-2026",
-      "description": "All of these horror titles are available on Crunchyroll Manga!",
-      "pubDate": "2026-10-01T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Guides",
-      "image": "https://a.storyblok.com/f/178900/960x540/44f14e174b/the-summer-hikaru-died.jpg"
-    },
-    {
-      "id": "ann-LjI0MjA3NA",
-      "title": "Hell Mode Season 1 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/hell-mode-season-1-anime-series/.242074",
-      "description": "Nothing says thrilling like watching someone throw rocks at trees while they think about their stats.",
-      "pubDate": "2026-10-01T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g6B/cms/review.2/242074/hellmodefull.jpg"
     }
   ]
 };
