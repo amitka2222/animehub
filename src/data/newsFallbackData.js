@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-03T15:17:25.301Z",
+  "lastUpdated": "2026-10-03T20:15:40.018Z",
   "items": [
+    {
+      "id": "cr-ci12aXN1YWw",
+      "title": "SABIKUI BISCO Season 2 Anime Shares Teaser Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/3/sabikui-bisco-season-2-anime-shares-teaser-visual",
+      "description": "The new image was unveiled at the Dengeki Bunko Autumn Festival",
+      "pubDate": "2026-10-03T20:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/768x432/c0646a0391/sabikui-bisco-header.jpg"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "Kochira, Shuumatsu Teitai Iinkai Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/3/kochira-shuumatsu-teitai-iinkai-anime-announced",
+      "description": "Teaser trailer revealed for adaptation based on light novel series by Kien Aien and Ogipote",
+      "pubDate": "2026-10-03T19:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x709/79524ccd40/kochira_shuumatsu_teitai_iinkai_banner.jpg"
+    },
+    {
+      "id": "ann-LjI0MjAwMg",
+      "title": "Uncanny Counter Season 2 Live-Action Series Review",
+      "link": "https://www.animenewsnetwork.com/review/uncanny-counter-season-2/live-action-series/.242002",
+      "description": "Evil spirits are taking the fight directly to the Afterlife by attacking the Counters who protect the world.",
+      "pubDate": "2026-10-03T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIW/cms/review.2/242002/the-uncanny-counter-season-2-counter-punch-title-image.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0NDg",
+      "title": "The Science Notes by Delta and Gamma Light Novels Get Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-03/the-science-notes-by-delta-and-gamma-light-novels-get-anime/.242448",
+      "description": "Kanna Nakamura voices announcement of anime of high school science club dealing with life's mysteries",
+      "pubDate": "2026-10-03T15:51:12.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g99/youtube/u2Ro35DnBc0.jpg"
+    },
     {
       "id": "ann-LjI0MjQ0OQ",
       "title": "This Is the End Stagnation Committee Light Novels Have Anime in the Works",
@@ -36,11 +76,11 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "Light Novel 'Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga' Gets TV Anime Adaptation",
       "link": "https://myanimelist.net/news/74786099?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event announced a television anime adaptation of Maware Isogawa and Heirou's Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga (I Can't Exploit it Because of the Expectations and Evaluation from Slaves) light novel on Saturday, revealing an announcement visual (pictured above) and a celebratory illustration (pictured right) by Heirou. Isogawa began publishing the fantasy isekai light novel under the Dengeki no Shi...",
+      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event announced a television anime adaptation of Maware Isogawa and Heirou's Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga (I Can't Exploit it Because of the Expectations and Evaluation from Slaves) light novel on Saturday, revealing an announcement visual (pictured above). Isogawa began publishing the fantasy isekai light novel under the Dengeki no Shin Bungei imprint in March 2023, featuring illustrations by...",
       "pubDate": "2026-10-03T14:59:06.000Z",
       "source": "MyAnimeList",
       "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791039452-e405734f8c0b042d4dbd7731a26234e0.jpeg"
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791039446-a1d8a29a3f1e23fd5ed61fc4438adbab.jpeg"
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -54,7 +94,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Kochira, Shuumatsu Teitai Iinkai' Gets TV Anime",
+      "title": "Light Novel 'Kochira, Shuumatsu Teitai Iinkai' Receives Anime Adaptation",
       "link": "https://myanimelist.net/news/74786020?_location=rss",
       "description": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Kien Aien's Kochira, Shuumatsu Teitai Iinkai (This Is the End Stagnation Committee.) light novel on Saturday, revealing an announcement promo. Kadokawa began publishing the fantasy romance novel under its Dengeki Bunko imprint in July 2024, featuring illustrations by Ogipote. The sixth volume was released on July 10. A manga adaptation by Yutaka Sakurai began on Shounen Ace Plus on April 2025. Kadokawa...",
       "pubDate": "2026-10-03T14:35:11.000Z",
@@ -84,9 +124,9 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Delta to Gamma no Rigakubu Note' Gets TV Anime",
+      "title": "Light Novel 'Delta to Gamma no Rigakubu Note' Gets Anime Adaptation",
       "link": "https://myanimelist.net/news/74785962?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Takuma Sakai's Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai (Buta no Liver wa Kanetsu Shiro) began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrati...",
+      "description": "The Dengeki Bunko Autumn Festival Online 2026 announced an anime adaptation of Takuma Sakai's Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai (Buta no Liver wa Kanetsu Shiro) began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrations by Asa...",
       "pubDate": "2026-10-03T14:12:14.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -156,7 +196,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'Biblia Koshodou no Jiken Techou' Reveals Additional Cast, Staff, First Promo, Spring 2027 Premiere",
       "link": "https://myanimelist.net/news/74785893?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami's Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Ayaka Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Shida: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuge: Saeko Kamijou (Gekai E...",
+      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami's Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Ayaka Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Shida: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuga: Saeko Kamijou (Gekai E...",
       "pubDate": "2026-10-03T13:51:27.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -294,7 +334,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "'Himekishi-sama no Himo' Unveils Additional Cast, Theme Songs, First Promo for Winter 2027",
+      "title": "'Himekishi-sama no Himo' Unveils Additional Cast, Theme Songs, First Promo",
       "link": "https://myanimelist.net/news/74785238?_location=rss",
       "description": "The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promotional video for the television anime adaptation of Tooru Shirogane's Himekishi-sama no Himo (The Kept Man of the Princess Knight). The anime series will premiere in January 2027. Cast April: Rika Nagae (Sentai Daishikkaku) Vanessa: Rie Takahashi (Isekai Quartet 3) Dez: Tetsu Inada (Vigilante: Boku no Hero Academia Illegals 2nd Season) Chihiro Kumano (U...",
       "pubDate": "2026-10-03T08:02:34.000Z",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/La5SvNbViKE.jpg"
-    },
-    {
-      "id": "cr-bmctZW5kaW5n",
-      "title": "The Exiled Heavy Knight Knows How to Game the System Cour 2 Anime Shares Creditless Opening and Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-exiled-heavy-knight-cour-2-creditless-opening-ending",
-      "description": "Crunchyroll streams the GoHands-animated series as it airs",
-      "pubDate": "2026-10-02T13:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/5e9772d213/exiled-heavy-knight-cour-2-op.png"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "From Far Away Anime Releases Izark Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/from-far-away-anime-izark-character-trailer",
-      "description": "The series premieres on Crunchyroll October 4",
-      "pubDate": "2026-10-02T13:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/506ea36434/from-far-away-izark-hero.png"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "The Eccentric Doctor of the Moon Flower Kingdom Anime Introduces Shiei in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/the-eccentric-doctor-of-the-moon-flower-kingdom-anime-shiei-character-trailer",
-      "description": "Koichiro Kuroda directs the drama series at Studio Elle",
-      "pubDate": "2026-10-02T13:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/00c633a98b/the-eccentric-doctor-of-the-moon-flower-kingdom-shiei-hero.png"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Magical Explorer Anime is Maid to Order in Nanami Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/magical-explorer-anime-nanami-character-trailer",
-      "description": "Crunchyroll streams light novel adaptation beginning on October 3",
-      "pubDate": "2026-10-02T13:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/3aa2ca1ac7/magical_explorer_nanami_header.jpg"
     }
   ]
 };
