@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-04T11:23:27.636Z",
+  "lastUpdated": "2026-10-04T16:01:48.817Z",
   "items": [
+    {
+      "id": "cr-c2Vhc29uLTI",
+      "title": "Everything You Need to Know Before Aoashi Season 2",
+      "link": "https://crunchyroll.com/news/features/2026/10/4/everything-you-need-to-know-before-aoashi-season-2",
+      "description": "Ashito is back for more and we’re here to get you up to speed",
+      "pubDate": "2026-10-04T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/940x529/1abd8b0169/aoashi-s2-ashito-and-co.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxMTA",
+      "title": "Bungo Stray Dogs Wan! 2 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/bungo-stray-dogs-wan-2/anime-series/.242110",
+      "description": "Sometimes you just need to see Akutagawa skipping along the waterfront or watch Dazai try to wrangle the rest of the cast as preschoolers.",
+      "pubDate": "2026-10-04T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/review.2/242110/bsd-wan-2.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Manshuu Ahen Squad' Gets Anime Adaptation",
+      "link": "https://myanimelist.net/news/74790204?_location=rss",
+      "description": "Publishing company Kodansha opened an official website for an anime adaptation of Tsukasa Monma and Shikako's Manshuu Ahen Squad (Manchuria Opium Squad) manga on Monday. Monma and Shikako began serializing the historical crime manga on the Comic Days platform in April 2020. It was transferred to Weekly Young Magazine in September 2021. The series went on hiatus following the death of Shikako in November 2025, but resumed its serialization as per their wishes on October 5, with Tsurushima se...",
+      "pubDate": "2026-10-04T15:24:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791127380-8a9cf69f0a96cc33aba0d103a977dcc4.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI0NjQ",
+      "title": "Manchuria Opium Squad Manga Gets Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/manchuria-opium-squad-manga-gets-anime/.242464",
+      "description": "Manga also resumes serialization with new artist Tsurushima on Monday",
+      "pubDate": "2026-10-04T15:05:23.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW2/cms/news.6/203075/91hfh9p2gkl._sl1500_.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "Tokyo Revengers: War of the Three Titans Arc Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/tokyo-revengers-war-of-the-three-titans-arc-anime-creditless-opening-ending-videos",
+      "description": "The new arc is now underway",
+      "pubDate": "2026-10-04T13:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/1630031ff1/tokyo-revengers-ending-hero.png"
+    },
+    {
+      "id": "cr-bmctdmlkZW9z",
+      "title": "Ranma 1/2 Season 3 Anime Splashes Down with Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/ranma-season-3-anime-creditless-opening-ending-videos",
+      "description": "The third season kicked off on October 3",
+      "pubDate": "2026-10-04T13:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/df7369d077/ranma-1-2-season-3-opening-hero.png"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Charisma Anime Opens Its Doors with New Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/charisma-anime-opens-its-doors-with-new-key-visual",
+      "description": "The media mix adaptation premieres in January 2027",
+      "pubDate": "2026-10-04T13:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6214883a69/charisma_hero.png"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "Magic Repo Man Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/magic-repo-man-creditless-opening-and-ending-videos",
+      "description": "Crunchyroll streams adaptation based on fantasy web novel series",
+      "pubDate": "2026-10-04T13:17:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1560x878/07da37be29/magic_repo_man_header.jpg"
+    },
+    {
+      "id": "cr-b24tdmlkZW8",
+      "title": "#I'm Looking For a Zombie Anime Shares Creditless Opening Animation Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/im-looking-for-a-zombie-anime-creditless-opening-animation-video",
+      "description": "Crunchyroll streams adaptation based on Katsuwo's manga",
+      "pubDate": "2026-10-04T13:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1560x878/53937afddc/im_looking_for_a_zombie_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Charisma' Announces Additional Staff",
+      "link": "https://myanimelist.net/news/74789712?_location=rss",
+      "description": "The special livestream presentation for the television anime adaptation of the Charisma House mixed-media project revealed additional staff and a key visual (pictured) on Sunday. The anime series will premiere on TBS affiliate networks in January 2027. Staff Character Design: Haru Watanabe (Kawagoe Boys Sing) Chief Animation Director: Haru Watanabe, Seung-ah Han (ēlDLIVE) Art Director: Seiki Tamura (Nippon Sangoku) Color Design: Yukiko Kakita (Ranma &frac12; (2024)) Director of Photography: Susu...",
+      "pubDate": "2026-10-04T12:46:56.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791117981-0817c046b8a2a857537d7fc4fb35e292.jpeg"
+    },
+    {
+      "id": "cr-dWFsLXZpZGVv",
+      "title": "Rascal Does Not Dream of a Dear Friend Anime Film Shares New Visual & Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/4/rascal-does-not-dream-of-a-dear-friend-anime-film-visual-video",
+      "description": "Latest entry in anime adaptation of light novel series premieres in Japan on October 16",
+      "pubDate": "2026-10-04T12:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1199x663/93d0303755/rascal_does_not_dream_of_a_dear_friend_finale_visual.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ2Ng",
+      "title": "Darkroom Streams Angel Densetsu Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/darkroom-streams-angel-densetsu-anime/.242466",
+      "description": "2-part OAV released in September 1996",
+      "pubDate": "2026-10-04T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.10/242466/angel-densetsu.jpg"
+    },
     {
       "id": "ann-Ly4yNDI0NzE",
       "title": "Rascal Does Not Dream of a Dear Friend Film Streams 1st 4 Minutes",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1790997484-0f4a3d68a814f04079338e666afe3557.jpeg"
-    },
-    {
-      "id": "cr-aWRlby1haWtv",
-      "title": "Aiko Shares Blue Box Season 2 Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/blue-box-season-2-anime-opening-song-music-video-aiko",
-      "description": "The song will be included in her 17th album",
-      "pubDate": "2026-10-03T02:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/95fb9fcada/aiko-anata-no-hana-mv.jpg"
-    },
-    {
-      "id": "cr-c2ljLXZpZGVv",
-      "title": "FX Fighter Kurumi-chan Anime Streams Live-Action Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/fx-fighter-kurumi-chan-anime-live-action-opening-song-music-video",
-      "description": "The anime's Episode 1 is now available on Crunchyroll",
-      "pubDate": "2026-10-03T01:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f9c7961b0a/kurumi-chan-opening-song-mv.jpg"
-    },
-    {
-      "id": "cr-dmlkZW8tbXY",
-      "title": "Eve Releases The Apothecary Diaries Season 3 Anime Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/the-apothecary-diaries-season-3-anime-ending-song-music-video-mv",
-      "description": "The new season's 1st episode is now available on Crunchyroll",
-      "pubDate": "2026-10-03T00:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/dfe247b0d2/eve-aiyou-mv.jpg"
-    },
-    {
-      "id": "ann-LjI0MjI4MQ",
-      "title": "North American Anime, Manga Releases, September 27-October 3",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/north-american-anime-manga-releases-september-27-october-3/.242281",
-      "description": "Spirited Away anime; The Lord-Magear's Apprentice, Can You Kiss Me First?, Even the Student Council Has Its Holes! manga ship",
-      "pubDate": "2026-10-02T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.10/242281/spirited-away-bd.jpg"
-    },
-    {
-      "id": "cr-dW5jaHlyb2xs",
-      "title": "Here’s the Exact Release Date and Time Black Clover Season 2 Premieres on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/2/black-clover-season-2-anime-release-date-crunchyroll",
-      "description": "Watch the newest episode of Black Clover starting October 3",
-      "pubDate": "2026-10-02T20:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/3840x2160/db3110ad4a/black-clover-season-2-kv-16x9.png"
-    },
-    {
-      "id": "ann-ZS8uMjQyNDI4",
-      "title": "Live-Action Street Fighter Film's Trailer Features Cast's Comments About Franchise",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/live-action-street-fighter-film-trailer-features-cast-comments-about-franchise/.242428",
-      "description": "Film opens on October 16",
-      "pubDate": "2026-10-02T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/youtube/8gLm4rc_Rn4.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0MjQ",
-      "title": "Welsh & Shedar Anime Streams on YouTube in November",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424",
-      "description": "1st 2 episodes stream in English, Japanese, French in early November",
-      "pubDate": "2026-10-02T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/news.9/241847/welsh.jpg"
-    },
-    {
-      "id": "cr-dW5jaHlyb2xs",
-      "title": "Here’s the Exact Release Date and Time PSYREN Premieres on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/2/psyren-anime-release-date-crunchyroll",
-      "description": "The anime adaptation of Toshiaki Iwashiro’s manga kicks off on October 5",
-      "pubDate": "2026-10-02T18:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1321x743/7b32c71aeb/psyren.png"
-    },
-    {
-      "id": "ann-LjI0MjQyNQ",
-      "title": "FX Fighter Kurumi-chan, #I'm Looking For Zombie, Reborn as a Space Mercenary Anime Get Same-Day English Dubs",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425",
-      "description": "All 3 reveal English dub casts",
-      "pubDate": "2026-10-02T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.9/241722/zom.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNDI2",
-      "title": "Toonami Airs Wind Breaker, Gachiakuta Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426",
-      "description": "Adult Swim's programming block adds Wind Breaker on October 10, Gachiakuta on October 17",
-      "pubDate": "2026-10-02T17:08:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/encyc/A32808-856042614.1741930725.jpg"
-    },
-    {
-      "id": "cr-Y2FzdC1jcmV3",
-      "title": "#I'm Looking For a Zombie English Dub Reveals Same-Day Release, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/2/im-looking-for-a-zombie-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode shuffles onto Crunchyroll this Saturday",
-      "pubDate": "2026-10-02T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/03ac69cb08/im-looking-for-a-zombie.jpg"
-    },
-    {
-      "id": "cr-Y2FzdC1tb3Jl",
-      "title": "The Apothecary Diaries Season 3: Where to Watch, Trailers, Voice Actors, Characters and More",
-      "link": "https://crunchyroll.com/news/guides/2026/10/2/the-apothecary-diaries-season-3-where-to-watch-trailers-cast-more",
-      "description": "Maomao returns with more intrigue today!",
-      "pubDate": "2026-10-02T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Guides",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/93e02821f5/the-apothecary-diaries-season-3-key-art.png"
     }
   ]
 };
