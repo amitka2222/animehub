@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-04T02:59:19.167Z",
+  "lastUpdated": "2026-10-04T11:23:27.636Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI0NzE",
+      "title": "Rascal Does Not Dream of a Dear Friend Film Streams 1st 4 Minutes",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-streams-1st-4-minutes/.242471",
+      "description": "\"Finale visual\" of film opening on October 16 also revealed",
+      "pubDate": "2026-10-04T10:35:52.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/news.10/242471/rascal.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyNDY3",
+      "title": "Zoids Franchise Announces New Zoids: Chaotic Century Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/zoids-franchise-announces-new-zoids-chaotic-century-manga/.242467",
+      "description": "New manga announced with tentative title Zoids: Chaotic Century Kanketsu-hen",
+      "pubDate": "2026-10-04T10:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPE/cms/news.10/242467/zoids.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyNDUw",
+      "title": "Rascal Does Not Dream of a Dear Friend Film Announces Text Story Bonus Item for Moviegoers",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-announces-text-story-bonus-item-for-moviegoers/.242450",
+      "description": "Hajime Kamoshida to pen Seishun Buta Yarō wa Tea Garden no Yume o Miru story with illustrations by Keeji Mizoguchi",
+      "pubDate": "2026-10-04T08:31:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY1/cms/news.10/242450/htsjml2akaaeya2.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ0NQ",
+      "title": "The Apothecary Diaries Anime Returns to Universal Studios Japan",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-03/the-apothecary-diaries-anime-returns-to-universal-studios-japan/.242445",
+      "description": "Join Maomao & Jinshi for an all-new attraction at the theme park",
+      "pubDate": "2026-10-04T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/interest.3/242445/apothecary-diaries-usj-2027.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ1MQ",
+      "title": "Suikoden Anime to Stream on YouTube with English Subtitles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451",
+      "description": "Series launches on YouTube on October 6",
+      "pubDate": "2026-10-04T03:47:03.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/TklDUjsKzSo.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQyNDUy",
+      "title": "Amazon Prime Video Streams The Seven Knights of the Marronnier Kingdom Anime With Same-Day English Dub",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-03/amazon-prime-video-streams-the-seven-knights-of-the-marronnier-kingdom-anime-with-same-day-english-/.242452",
+      "description": "Anime debuted on October 3",
+      "pubDate": "2026-10-04T03:01:24.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK5/cms/news.9/240441/knights.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI0NTM",
+      "title": "Crunchyroll Streams New Sgt. Frog TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-03/crunchyroll-streams-new-sgt-frog-tv-anime/.242453",
+      "description": "Series debuted on October 3",
+      "pubDate": "2026-10-04T02:39:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.9/241485/sgt-frog-star.jfif.jpeg"
+    },
     {
       "id": "ann-LjI0MjQxNQ",
       "title": "Haruhi 20th Anniversary Watches' Day Counter Relives Endless Eight's Trauma",
@@ -74,7 +144,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LjI0MjQ0OQ",
-      "title": "This Is the End Stagnation Committee Light Novels Have Anime in the Works",
+      "title": "This Is the End Stagnation Committee Light Novels Have Anime in the Works (Updated)",
       "link": "https://www.animenewsnetwork.com/news/2026-10-03/this-is-the-end-stagnation-committee-light-novels-have-anime-in-the-works/.242449",
       "description": "Kien Aien's story of youths taking on the coming apocalypse",
       "pubDate": "2026-10-03T15:11:58.000Z",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Guides",
       "image": "https://a.storyblok.com/f/178900/1920x1080/93e02821f5/the-apothecary-diaries-season-3-key-art.png"
-    },
-    {
-      "id": "ann-LjI0MDE3OQ",
-      "title": "Your Anime Rankings - Best of Summer 2026",
-      "link": "https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240179",
-      "description": "Tanya the Evil claims the final weekly top spot, with Draw This, Then Die! close behind. In the cumulative, The Cat and the Dragon and Dara-san of Reiwa both edge up four places to close out the season.",
-      "pubDate": "2026-10-02T16:55:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCE/cms/weekly-ranking/240179/summer2026-montage-w14.jpeg"
-    },
-    {
-      "id": "cr-c3QtY3Jldw",
-      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! English Dub Reveals Same-Day Release, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/2/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode launches on Crunchyroll this Sunday",
-      "pubDate": "2026-10-02T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1460x821/6295b83aea/reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship.jpg"
-    },
-    {
-      "id": "cr-cGVyZm9ybWVy",
-      "title": "Star Blazers: Space Battleship Yamato 3199 Chapter 7 Anime Reveals Ending Theme Song Performer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/star-blazers-space-battleship-yamato-3199-chapter-7-anime-ending-theme-performer",
-      "description": "Music video debuts for Junko Yagami’s “Haruka e, Eien e”",
-      "pubDate": "2026-10-02T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/db396f948f/yamato-3199-ending-song-mv.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyMDA0",
-      "title": "HimaNatsu: Of Churches, Sunflowers, and Long Summers Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/pc/himanatsu/of-churches-sunflowers-and-long-summers/.242004",
-      "description": "There’s a fine line between a piece of media feeling nostalgic or dated and, unfortunately, HimaNatsu falls into the latter category.",
-      "pubDate": "2026-10-02T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/game-review/242004/himanatsu-girls.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0MjE",
-      "title": "Viz Media Licenses The Seven Knights of the Marronnier Kingdom Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/viz-media-licenses-the-seven-knights-of-the-marronnier-kingdom-manga/.242421",
-      "description": "Manga's anime adaptation debuts on Saturday",
-      "pubDate": "2026-10-02T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN0/cms/news.10/242421/seven-knights-of-marronnier-kingdom.jpg"
-    },
-    {
-      "id": "ann-LjI0MjM5OA",
-      "title": "Hikari Launches Manga of Mashimesa Emoto Story",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-02/hikari-launches-manga-of-mashimesa-emoto-story/.242398",
-      "description": "\"Dansō o Shiirare Otoko to Shite Ikitekita Kōshaku Reijo wa, 2-kaime no Jinsei wa Dress o Kite, Reijō Life o Ōka Shitai\" manga launches on November 5",
-      "pubDate": "2026-10-02T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g09/cms/news.10/242398/championbuzz-yokoku38.jpg"
-    },
-    {
-      "id": "cr-Zy12aWRlbw",
-      "title": "Reincarnated as a Sword Season 2 Anime Returns with Creditless Opening Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/2/reincarnated-as-a-sword-season-2-anime-creditless-opening-video",
-      "description": "The isekai adaptation is live ahead of its broadcast",
-      "pubDate": "2026-10-02T14:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1119x630/13f515982e/reincarnated-as-a-sword2.jpg"
     }
   ]
 };
