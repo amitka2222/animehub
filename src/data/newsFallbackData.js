@@ -1,7 +1,217 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-05T02:33:29.169Z",
+  "lastUpdated": "2026-10-05T12:47:22.741Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI0ODc",
+      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 24",
+      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-24/.242487",
+      "description": "The abruptness of the setup factors into the feelings it's supposed to elicit. The audience barely has time to grasp the situation.",
+      "pubDate": "2026-10-05T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/episode-review.5/242487/aobw4241.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Akazukin, Tabi no Tochuu de Shitai to Deau.' Reveals Additional Cast, Staff, First Promo for Winter 2027",
+      "link": "https://myanimelist.net/news/74793294?_location=rss",
+      "description": "The official website for the television anime adaptation of Aito Aoyagi's Akazukin, Tabi no Tochuu de Shitai to Deau. (Red Riding Hood: A Detective Story) novel revealed additional cast, staff, first key visual (pictured), and first promotional video on Monday. The anime is scheduled to premiere in January 2027 on Tokyo MX, BS-NTV, and Yomiuri TV. Cast Jill: Takuya Satou (Super no Ura de Yani Suu Futari) Antonio: Atsushi Tamaru (Nanatsu no Maken ga Shihai suru) Rodrigo: Motoko Kumai (Cardca...",
+      "pubDate": "2026-10-05T12:26:10.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791203159-fd2c39b8765059c981402480113b9f98.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI1MDk",
+      "title": "Red Riding Hood: A Detective Story Anime Reveals 1st Trailer, More Cast & Staff, January 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/red-riding-hood-a-detective-story-anime-reveals-1st-trailer-more-cast-and-staff-january-2027-debut/.242509",
+      "description": "Takuya Satō, Atsushi Tamaru, Motoko Kumai, more join anime's cast",
+      "pubDate": "2026-10-05T12:07:11.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/youtube/dRYjeN1IDcA.jpg"
+    },
+    {
+      "id": "cr-ZWFzZS1kYXRl",
+      "title": "Red Riding Hood: A Detective Story Anime Premieres in January 2027, Will Stream on Crunchyroll",
+      "link": "https://crunchyroll.com/news/latest/2026/10/5/red-riding-hood-a-detective-story-anime-main-trailer-key-visual-january-2027-release-date",
+      "description": "Check out the new main trailer and key visual!",
+      "pubDate": "2026-10-05T11:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/486f4a11ec/red-riding-hood-a-detective-story.jpg"
+    },
+    {
+      "id": "ann-LjI0MjUwNg",
+      "title": "The Record of a Fallen Vampire Manga Gets TV Anime in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/the-record-of-a-fallen-vampire-manga-gets-tv-anime-in-2027/.242506",
+      "description": "Yūma Uchida, Aino Shimada star in Zero-G x Liber anime",
+      "pubDate": "2026-10-05T10:41:17.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/youtube/qbfo4EyFeNw.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Vampire Juujikai' Gets TV Anime For 2027",
+      "link": "https://myanimelist.net/news/74793032?_location=rss",
+      "description": "Production company Pony Canyon opened an official website for the television anime adaptation of Kyou Shirodaira's Vampire Juujikai (The Record of a Fallen Vampire) on Monday revealing the main cast pair, staff, a teaser visual (pictured), and a teaser promo. The anime is scheduled to premiere in 2027. Voice actors Yuuma Uchida (Jujutsu Kaisen) and Aino Shimada (Kakkou no Iinazuke) will be joining the cast as Akabara Strauss and Bridget Irving Frostheart, respectively. Staff Director, Serie...",
+      "pubDate": "2026-10-05T09:48:43.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791193378-7885fbacabf72465c0ee1482a193bda8.jpeg"
+    },
+    {
+      "id": "cr-Ny1yZWxlYXNl",
+      "title": "The Record of a Fallen Vampire Manga Gets Anime in 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/5/the-record-of-a-fallen-vampire-anime-announced-2027-release",
+      "description": "Yuma Uchida and Aino Shimada to stars as leads",
+      "pubDate": "2026-10-05T09:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/f981c84516/the-record-of-a-fallen-vampire-anime-teaser-trailer-sparks.png"
+    },
+    {
+      "id": "ann-LjI0MjUwNA",
+      "title": "Psikyo Memories Collection Reveals Full List of Games, February 18 Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/psikyo-memories-collection-reveals-full-list-of-games-february-18-release/.242504",
+      "description": "Collection includes Strikers 1945, Gunbird, Gunbarich, Zero Gunner 2, Dragon Blaze, more",
+      "pubDate": "2026-10-05T09:37:15.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.10/242504/psikyo.jpg"
+    },
+    {
+      "id": "cr-eS12aXN1YWw",
+      "title": "The Detective Is Already Dead Season 2 Anime Unveils New Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/5/the-detective-is-already-dead-season-2-anime-key-visual",
+      "description": "The series returns on Crunchyroll on October 7",
+      "pubDate": "2026-10-05T09:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9ee892cc21/the-detective-is-already-dead-season-2.jpg"
+    },
+    {
+      "id": "ann-OS8uMjQyNDk1",
+      "title": "Macross 7, Synduality: Noir Animator Kenichirō Katsura Dies at 59",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/macross-7-synduality-noir-animator-kenichiro-katsura-dies-at-59/.242495",
+      "description": "Katsura died on September 30 while recovering from an illness",
+      "pubDate": "2026-10-05T08:37:20.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP9/cms/news.9/232292/gintama.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Hirayasumi' Ends in Two Chapters",
+      "link": "https://myanimelist.net/news/74792787?_location=rss",
+      "description": "The official X (formerly Twitter) account for author Keigo Shinzou announced on Monday that the Hirayasumi manga will end in two more chapters. Shinzou began drawing the manga in Big Comic Spirits in April 2021. Shogakukan published the tenth volume on April 30. VIZ Media licensed the manga in English in October 2023, with the latest ninth volume released on May 19. Hirayasumi was nominated for the 15th and 17th Manga Taisho. The manga also placed among the top 20 titles in the male readers cate...",
+      "pubDate": "2026-10-05T07:17:43.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791184605-3466c0515f79f06bfc96eec739fff3c0.jpeg"
+    },
+    {
+      "id": "ann-bi8uMjQyNDc3",
+      "title": "Mikito Chinen's Horror Novel Gets Manga Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/mikito-chinen-horror-novel-gets-manga-adaptation/.242477",
+      "description": "Etsuran Genkin Ryōki Satsujin-han no Seishin Kantei Hōkoku-sho manga launched on September 25",
+      "pubDate": "2026-10-05T06:44:56.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC8/cms/news.10/242477/bizarre-murders.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0ODU",
+      "title": "Yuki Kure's Ayame-san Chi no Geshuku-nin Manga Ends in Next Chapter",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/yuki-kure-ayame-san-chi-no-geshuku-nin-manga-ends-in-next-chapter/.242485",
+      "description": "Manga launched in June 2025",
+      "pubDate": "2026-10-05T06:35:15.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBA/cms/news.10/242485/ayamesan.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0ODM",
+      "title": "Chanta Launches Noro-Noro Puku-Puku Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/chanta-launches-noro-noro-puku-puku-manga/.242483",
+      "description": "Sachi's Records: Sachi's Book of Revelation creator's comedy of shrine maiden with black cat possessing her head",
+      "pubDate": "2026-10-05T04:04:17.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA5/cms/news.10/242483/noronoro.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyNDkx",
+      "title": "Hirayasumi Manga to End in 2 More Chapters",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/hirayasumi-manga-to-end-in-2-more-chapters/.242491",
+      "description": "Manga launched in 2021, inspired live-action series in 2025, upcoming TV anime in January 2027",
+      "pubDate": "2026-10-05T03:56:59.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCI/cms/news.10/242491/hirayasumi.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0ODE",
+      "title": "Naoki Shigeno to End Sanada Damashii Manga in 6th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/naoki-shigeno-to-end-sanada-damashii-manga-in-6th-volume/.242481",
+      "description": "Ninja Girl & Samurai Master creator launched series in 2015",
+      "pubDate": "2026-10-05T03:52:20.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/cms/news.10/242481/91j01ik-e-l.sl1500.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ3OQ",
+      "title": "Nijū-Mensō no Musume's Shinji Ohara Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/niju-menso-no-musume-shinji-ohara-launches-new-manga/.242479",
+      "description": "Moto-Shojo Tantei, Yamada Chizuko follows former girl-detective whose past returns to haunt her decades later",
+      "pubDate": "2026-10-05T03:44:31.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPA/cms/news.10/242479/cover.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0NzM",
+      "title": "K Manga Offers Adachitoka's The Wolf at Memory's End Manga in English",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/k-manga-offers-adachitoka-the-wolf-at-memory-end-manga-in-english/.242473",
+      "description": "Noragami: Stray God creator to launch manga in Monthly Shonen Magazine on October 6",
+      "pubDate": "2026-10-05T03:28:48.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/news.10/242473/htusju6aoaar0ec.jpg"
+    },
+    {
+      "id": "ann-aC8uMjQyNDcy",
+      "title": "Chained Soldier Manga Goes on Hiatus Due to Artist Yōhei Takemura's Health",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/chained-soldier-manga-goes-on-hiatus-due-to-artist-yohei-takemura-health/.242472",
+      "description": "Takemura injures right wrist in June",
+      "pubDate": "2026-10-05T03:19:31.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.5/179701/matomanga.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ3MA",
+      "title": "BookWalker Adds 18 Ecomix Media Company Titles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-04/bookwalker-adds-18-ecomix-media-company-titles/.242470",
+      "description": "BookWalker: Creators impacted by Tapas closure can reach out to digital service",
+      "pubDate": "2026-10-05T02:59:50.000Z",
+      "source": "Anime News Network",
+      "category": "Comics",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/news.10/242470/unnamed-3.png.jpg"
+    },
+    {
+      "id": "cr-LXNhc2FraQ",
+      "title": "Rico Sasaki Drops As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/5/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-opening-song-muisc-video-rico-sasaki",
+      "description": "The anime's new season is now available on Crunchyroll",
+      "pubDate": "2026-10-05T02:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a9bc3c1fb2/rico-sasaki-still-water-mv.jpg"
+    },
     {
       "id": "ann-Ly4yNDI0Nzg",
       "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams New English-Subtitled Trailer",
@@ -110,7 +320,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T16:04:31.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.10/242476/htyceftaqaas2ry.jpg"
+      "image": null
     },
     {
       "id": "cr-c2Vhc29uLTI",
@@ -150,7 +360,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T15:05:23.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW2/cms/news.6/203075/91hfh9p2gkl._sl1500_.jpg"
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFY/cms/news.10/242464/manchuria-opium-squadfirst-anime-adaptation-visual.jpg"
     },
     {
       "id": "cr-Zy12aWRlb3M",
@@ -240,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T10:35:52.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/news.10/242471/rascal.jpg"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQyNDY3",
@@ -260,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T08:31:50.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY1/cms/news.10/242450/htsjml2akaaeya2.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjQ0NQ",
@@ -280,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T03:47:03.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/TklDUjsKzSo.jpg"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQyNDUy",
@@ -290,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T03:01:24.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK5/cms/news.9/240441/knights.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI0NTM",
@@ -310,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-03T23:40:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/interest.3/242415/haruhi-watches-2026.jpg"
+      "image": null
     },
     {
       "id": "cr-eS12aXN1YWw",
@@ -360,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-03T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIW/cms/review.2/242002/the-uncanny-counter-season-2-counter-punch-title-image.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI0NDg",
@@ -370,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-03T15:51:12.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g99/youtube/u2Ro35DnBc0.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjQ0OQ",
@@ -380,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-03T15:11:58.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/herald/201887/81nqabhzhrl.ac-uf1000-1000-ql80-b.jpeg"
+      "image": null
     },
     {
       "id": "cr-cmlsLTIwMjc",
@@ -391,216 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x542/2b2e322f98/the_case_files_of_biblia_bookstore_header.jpg"
-    },
-    {
-      "id": "cr-bnRlcnZpZXc",
-      "title": "The Art of Manga Brooklyn Museum Curators Feel That Manga Deserves a Spot in All Museums",
-      "link": "https://crunchyroll.com/news/interviews/2026/10/3/art-of-manga-exhibit-interview",
-      "description": "Nicole Rousmaniere and Joan Cummins delve into manga’s place in the world of art",
-      "pubDate": "2026-10-03T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/00c2240fbd/the-art-of-manga.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga' Gets TV Anime Adaptation",
-      "link": "https://myanimelist.net/news/74786099?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event announced a television anime adaptation of Maware Isogawa and Heirou's Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga (I Can't Exploit it Because of the Expectations and Evaluation from Slaves) light novel on Saturday, revealing an announcement visual (pictured above). Isogawa began publishing the fantasy isekai light novel under the Dengeki no Shin Bungei imprint in March 2023, featuring illustrations by...",
-      "pubDate": "2026-10-03T14:59:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791039446-a1d8a29a3f1e23fd5ed61fc4438adbab.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Soshiki no Shukuteki to Kekkon shitara Mecha Amai' Gets TV Anime",
-      "link": "https://myanimelist.net/news/74786056?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Toshimichi Uzou's Soshiki no Shukuteki to Kekkon shitara Mecha Amai (My Sweet Marriage to My Ex-Nemesis) light novel on Saturday and revealed the main staff. An illustration (pictured) drawn by the light novel illustrator, Kewi Hayashi, was also shown to commemorate the announcement. Staff Director: Atsushi Nigorikawa (Aru Majo ga Shinu Made) Series Composition: Keiichirou Oochi (Class de 2-banme ni Ka...",
-      "pubDate": "2026-10-03T14:46:45.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791038668-380deecc0482404353ad0431e8ae8318.jpeg"
-    },
-    {
-      "id": "cr-Zy12aWRlb3M",
-      "title": "Red River Cour 2 Anime Goes into Battle in Creditless Opening and Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/red-river-cour-2-anime-goes-into-battle-in-creditless-opening-and-ending-videos",
-      "description": "New episodes are now streaming on Crunchyroll",
-      "pubDate": "2026-10-03T14:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/4861774212/red-river-cour-2-op-hero.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Kochira, Shuumatsu Teitai Iinkai' Receives Anime Adaptation",
-      "link": "https://myanimelist.net/news/74786020?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Kien Aien's Kochira, Shuumatsu Teitai Iinkai (This Is the End Stagnation Committee.) light novel on Saturday, revealing an announcement promo. Kadokawa began publishing the fantasy romance novel under its Dengeki Bunko imprint in July 2024, featuring illustrations by Ogipote. The sixth volume was released on July 10. A manga adaptation by Yutaka Sakurai began on Shounen Ace Plus on April 2025. Kadokawa...",
-      "pubDate": "2026-10-03T14:35:11.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791037956-81ecc4a2264e2448cdbce0ff5d5e3bc2.jpeg"
-    },
-    {
-      "id": "ann-Mi8uMjQyNDMw",
-      "title": "The Elusive Samurai Season 2 ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-12/.242430",
-      "description": "If this really is the last we'll see of The Elusive Samurai, then it is a shockingly disappointing and cynical ending.",
-      "pubDate": "2026-10-03T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/episode-review.5/242430/elusive-samurai-s2-ep-12.png.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNDQ3",
-      "title": "Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga Novels Get Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-03/dorei-kara-no-kitai-to-hyoka-no-sei-de-sakushu-dekinai-nodaga-novels-get-anime/.242447",
-      "description": "Maware Isogawa's story of boy reincarnated with cheat power that is too good",
-      "pubDate": "2026-10-03T14:24:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDA/cms/news.10/242447/322207000025.webp"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Delta to Gamma no Rigakubu Note' Gets Anime Adaptation",
-      "link": "https://myanimelist.net/news/74785962?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 announced an anime adaptation of Takuma Sakai's Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai (Buta no Liver wa Kanetsu Shiro) began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrations by Asa...",
-      "pubDate": "2026-10-03T14:12:14.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791036653-bc1997a8225141b1c39b115f560b8c49.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Rebuild World' Reveals Main Staff",
-      "link": "https://myanimelist.net/news/74785950?_location=rss",
-      "description": "Production company Kadokawa opened an official website for the television anime adaptation of Nahuse's Rebuild World light novel on Saturday, revealing the main staff and the first key visual (pictured). Staff Chief Director: Tsukasa Sakurai (Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu animation producer) Director: Shingo Uchida (Rokudenashi Majutsu Koushi to Akashic Records episode director) Series Composition: Naoki Tozuka (Meiji Gekken: 1874) Character Design:...",
-      "pubDate": "2026-10-03T14:08:24.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791036469-874f2ab0dac542809c6909cf3d437411.jpeg"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "Delta to Gamma no Rigakubu Note Anime Adaptation Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/delta-to-gamma-no-rigakubu-note-anime-adaptation-announced",
-      "description": "The series is a rom-com centered on a high school's science club",
-      "pubDate": "2026-10-03T14:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1400x612/6d8663256e/delta-to-gamma-no-rigakubu-note.png"
-    },
-    {
-      "id": "cr-bm5vdW5jZWQ",
-      "title": "My Sweet Marriage to My Ex-Nemesis Anime Adaptation Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/my-sweet-marriage-to-my-ex-nemesis-anime-adaptation-announced",
-      "description": "Studio EMT Squared produces the romantic comedy series",
-      "pubDate": "2026-10-03T14:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/cb7e8b17d5/my-sweet-marriage-to-my-ex-nemesis.jpg"
-    },
-    {
-      "id": "cr-YWluLXN0YWZm",
-      "title": "Rebuild World Anime Unveils Main Staff, Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/rebuild-world-anime-key-visual-main-staff",
-      "description": "The sci-fi series was first announced in 2023",
-      "pubDate": "2026-10-03T14:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x670/a382ae8cde/rebuild-world-titelbild.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0MzU",
-      "title": "Rebuild World TV Anime Reveals Main Staff, 1st Key Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-03/rebuild-world-tv-anime-reveals-main-staff-1st-key-visual/.242435",
-      "description": "Anime was initially announced in July 2023",
-      "pubDate": "2026-10-03T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/cms/news.10/242435/rebuild-world-kv.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNDM2",
-      "title": "Toshimichi Uzō's My Sweet Marriage to My Ex-Nemesis Light Novels Get TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-03/toshimichi-uzo-my-sweet-marriage-to-my-ex-nemesis-light-novels-get-tv-anime/.242436",
-      "description": "Atsushi Nigorikawa directs anime at Ankichi Kobo",
-      "pubDate": "2026-10-03T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM6/cms/news.10/242436/tv-anime-thumbnail.webp"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Biblia Koshodou no Jiken Techou' Reveals Additional Cast, Staff, First Promo, Spring 2027 Premiere",
-      "link": "https://myanimelist.net/news/74785893?_location=rss",
-      "description": "The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami's Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Ayaka Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Shida: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuga: Saeko Kamijou (Gekai E...",
-      "pubDate": "2026-10-03T13:51:27.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791035438-f23931cc2fdd6f7d63a2376e30fb11e2.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjQ0Ng",
-      "title": "Antiquarian Bookshop Biblia's Case Files Anime's New Video Unveils More Cast & Staff, April Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-03/antiquarian-bookshop-biblia-case-files-anime-new-video-unveils-more-cast-and-staff-april-debut/.242446",
-      "description": "Reo Osanai, Wataru Takagi, Yōhei Azakami, Saeko Kamijō join cast",
-      "pubDate": "2026-10-03T13:35:32.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKG/youtube/RZwFB0BJCtw.jpg"
-    },
-    {
-      "id": "ann-Mi8uMjQyNDMz",
-      "title": "Tomb Raider King ‒ Episode 12",
-      "link": "https://www.animenewsnetwork.com/review/tomb-raider-king/episode-12/.242433",
-      "description": "There are even a few genuinely incredible shots, like Clark watching her Itano circus of blood red magic bolts chase Irene through an airborne battlefield full of debris.",
-      "pubDate": "2026-10-03T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/cms/episode-review.5/242433/tomraid12.png.jpg"
-    },
-    {
-      "id": "cr-a2V5LWFydA",
-      "title": "Devils' Crest Anime Gets Ready to Strike with Battle Key Art",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/devils-crest-anime-battle-key-art",
-      "description": "The sci-fi series debuts on November 6",
-      "pubDate": "2026-10-03T13:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/220002cb18/devils-crest.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Romelia Senki' Announces Supporting Cast",
-      "link": "https://myanimelist.net/news/74785812?_location=rss",
-      "description": "The official website for the Romelia Senki (Romelia War Chronicle) television anime announced supporting cast on Saturday. The anime series adapting Ryou Ariyama's action fantasy light novel will air for two cours on Tokyo MX, BS11, Sun TV, and KBS Kyoto starting October 5, with domestic streaming exclusively on Anime Times, U-NEXT, and Netflix beginning October 3 at 9:00 p.m. Cast Kairo: Mika Kanda (Migi to Dali) Zaria: Kenji Hamada (Yuusha-kei ni Shosu) Farmaine: Youji Ueda (Tenmaku no J...",
-      "pubDate": "2026-10-03T13:13:20.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791033103-4bad504351db42bd634d6d850fb90df6.jpeg"
-    },
-    {
-      "id": "cr-Zy12aWRlbw",
-      "title": "Magical Sisters Lulutto Lilly Cour 2 Anime Is Back Onstage with Creditless Ending Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/3/magical-sisters-lulutto-lilly-cour-2-anime-is-back-onstage-with-creditless-ending-video",
-      "description": "The magical girl series returns October 4",
-      "pubDate": "2026-10-03T12:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/949ade6faa/magical-sisters-lulutto-lilly-ending-cour-2-hero.png"
-    },
-    {
-      "id": "ann-LjI0MjQzNw",
-      "title": "Sentenced to Be a Hero Smartphone Game Unveils 2nd Visual, 2nd Teaser, Original Characters",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-03/sentenced-to-be-a-hero-smartphone-game-unveils-2nd-visual-2nd-teaser-original-characters/.242437",
-      "description": "VIC GAME STUDIOS develops smartphone game",
-      "pubDate": "2026-10-03T11:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE9/cms/news.10/242437/yushakeigoddess-teaserkv2-yoko.png.jpg"
     }
   ]
 };
