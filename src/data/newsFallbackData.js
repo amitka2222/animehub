@@ -1,7 +1,237 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-06T12:17:12.268Z",
+  "lastUpdated": "2026-10-06T21:56:01.875Z",
   "items": [
+    {
+      "id": "ann-LjI0MjUzNA",
+      "title": "Toshiaki Yamada's Tokyo Duel Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/toshiaki-yamada-tokyo-duel-manga-ends/.242534",
+      "description": "Action manga launched in 2020",
+      "pubDate": "2026-10-06T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.10/242534/tokyo.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU0Nw",
+      "title": "Monster Hunter Rise Game Sells 20 Million Copies Worldwide",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/monster-hunter-rise-game-sells-20-million-copies-worldwide/.242547",
+      "description": "Game launched in March 2021",
+      "pubDate": "2026-10-06T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242547/monster-hunter-rise-20-mil.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1NTM",
+      "title": "Crunchyroll Streams New Battle Spirits TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/crunchyroll-streams-new-battle-spirits-tv-anime/.242553",
+      "description": "Anime premiered on Tuesday",
+      "pubDate": "2026-10-06T19:30:42.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.9/240969/battle-spirits.jpg"
+    },
+    {
+      "id": "ann-LjI0MjUwMQ",
+      "title": "Kingdom Hearts I-III Collection Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x-s-and-nintendo-switch-2/kingdom-hearts-i-iii-collection/.242501",
+      "description": "Our clown-shoe-wearing Chosen One is back with a staggeringly packed bundle of his epic adventures with Goofy and Squall Leonhart.",
+      "pubDate": "2026-10-06T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/cms/game-review/242501/kingdom-hearts-i-iii-collection-ann-review-key-art-for-review.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1NTA",
+      "title": "K Manga Adds Sen Sen Senki Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/k-manga-adds-sen-sen-senki-manga/.242550",
+      "description": "A-10, Ryūga Kawasaki debuted dark fantasy manga on June 10",
+      "pubDate": "2026-10-06T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/cms/news.10/242550/sen-sen-senki.jpg"
+    },
+    {
+      "id": "cr-dW5jaHlyb2xs",
+      "title": "Here’s the Exact Release Date and Time Firefly Wedding Premieres on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/6/firefly-wedding-anime-release-date-crunchyroll",
+      "description": "Takahiro Kamei directs the series, which kicks off on October 9",
+      "pubDate": "2026-10-06T18:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/31aadc8159/firefly-wedding-pv-still.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1NTE",
+      "title": "A Returner's Magic Should Be Special Season 2 Anime Reveals Same-Day Dub Release, Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/a-returner-magic-should-be-special-season-2-anime-reveals-same-day-dub-release-cast/.242551",
+      "description": "Season debuts on Wednesday",
+      "pubDate": "2026-10-06T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.9/241801/return.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "GROTESQQQUE Anthology Anime Film Previews 3rd Part in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/grotesqqque-anthology-anime-film-3rd-part-nocturne-trailer",
+      "description": "\"Nocturne: On This Grotesque Night\" will feature a new theme song by Kairi Yagi",
+      "pubDate": "2026-10-06T17:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/764e6d6745/grotesqqque-trailer-hero.png"
+    },
+    {
+      "id": "cr-aC10cmFpbGVy",
+      "title": "Gundam Rogue Orbit Trailer Covers Combat and Customization Features",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/gundam-rogue-orbit-gameplay-walkthrough-trailer",
+      "description": "Latest Gundam game launches on March 5, 2027",
+      "pubDate": "2026-10-06T16:57:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x536/e6fa51062b/gundam-rogue-orbit-walkthrough.jpg"
+    },
+    {
+      "id": "cr-dXJhaS1xdWl6",
+      "title": "Which of Tokiyuki's Allies Are You in The Elusive Samurai?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/10/6/tokiyuki-allies-the-elusive-samurai-quiz",
+      "description": "Which one of the current Elusive Warriors resembles you the most?",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/940x529/770f37dcb8/theelusivewarriors-010.jpg"
+    },
+    {
+      "id": "cr-Y2FzdC1jcmV3",
+      "title": "A Returner's Magic Should Be Special Season 2 English Dub Reveals Same-Day Release, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/6/a-returners-magic-should-be-special-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode drops on Crunchyroll tomorrow",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/a80f9d0bd5/a-returners-magic-should-be-special-season-2.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW8",
+      "title": "Aoashi Season 2 Cour 1 Anime Kicks Off with Creditless Ending Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/aoashi-season-2-cour-1-anime-creditless-ending-video",
+      "description": "The new season is currently streaming on Crunchyroll",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/6150dc621c/aoashi-season-2-cour-1-ed-hero.png"
+    },
+    {
+      "id": "ann-LjI0MjA2Mw",
+      "title": "Hyakusho Kizoku-the farmer's days (Seasons 1-3) Anime Review",
+      "link": "https://www.animenewsnetwork.com/review/hyakusho-kizoku-the-farmer-days/anime/.242063",
+      "description": "It's refreshing and sweet to hear about what influenced Arakawa.",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/review.2/242063/filters-quality-95-format-webp-1.webp"
+    },
+    {
+      "id": "ann-ci8uMjQyNTQ4",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Previews 'Nocturne' in New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/cloverworks-omnibus-anime-film-grotesqqque-previews-nocturne-in-new-trailer/.242548",
+      "description": "Video features Kairi Yagi's insert song \"Tiny Luck\"",
+      "pubDate": "2026-10-06T15:39:29.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/youtube/6yOCpx1XKxU.jpg"
+    },
+    {
+      "id": "cr-ZWdpbm5pbmc",
+      "title": "You and I Are Polar Opposites' Ending Brings it Back to the Beginning",
+      "link": "https://crunchyroll.com/news/features/2026/10/6/you-and-i-are-polar-opposites-ending-brings-it-back-to-the-beginning",
+      "description": "It really is the friends we made along the way",
+      "pubDate": "2026-10-06T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/6703b23d9b/you-and-i-are-polar-opposites-season-2-episode-13.png"
+    },
+    {
+      "id": "ann-LjI0MjU0Ng",
+      "title": "Gundam: Rogue Orbit Game's Walkthrough Trailer Previews Combat, Customization",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/gundam-rogue-orbit-game-walkthrough-trailer-previews-combat-customization/.242546",
+      "description": "Game launches for PS5, Xbox X|S, PC on March 5, 2027",
+      "pubDate": "2026-10-06T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTM/youtube/0SdEiVX1e2g.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "Tank Chair Anime Rolls out Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/tank-chair-anime-creditless-opening-ending-videos",
+      "description": "The sci-fi adaptation is now airing",
+      "pubDate": "2026-10-06T14:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/c5d0842ebe/tank-chair-opening-hero.png"
+    },
+    {
+      "id": "cr-Zy1lbmRpbmc",
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Anime Shares Creditless Opening & Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-creditless-opening-ending",
+      "description": "Crunchyroll streams adaptation based on fantasy romantic comedy light novel series",
+      "pubDate": "2026-10-06T13:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/ca7db22f86/hello_i_am_a_witch_and_my_crush_wants_me_to_make_a_love_potion_header2.jpg"
+    },
+    {
+      "id": "ann-LjI0MjUyNw",
+      "title": "Our Blood Oath's Kazu Kakazu Launches Yosuga Tagurite Manga Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/our-blood-oath-kazu-kakazu-launches-yosuga-tagurite-manga-series/.242527",
+      "description": "Manga about half-yōkai boy launches on vertical Jump Toon service on Friday",
+      "pubDate": "2026-10-06T13:03:06.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242527/on1uu4zltlqhohsw0rrmwq.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI0Njg",
+      "title": "emaqi Service Adds Streaming Under My Control, The Soldier Groom and the Daikon Bride, Shin Ikki Tousen, 8 More Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/emaqi-service-adds-streaming-under-my-control-the-soldier-groom-and-the-daikon-bride-shin-ikki-/.242468",
+      "description": "Service also adds Kill Me Baby, Song of the Thirty-Year-Olds' Blues, Time Traveler's Disease, A Meal by Moonlight, more",
+      "pubDate": "2026-10-06T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC5/cms/news.10/242468/e4.jpeg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime Reveals Modified Main Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/the-laid-off-cheat-granting-mage-anime-modified-main-trailer",
+      "description": "Crunchyroll streams adaptation, first episode broadcasts October 6",
+      "pubDate": "2026-10-06T12:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/ef3f9aab10/the_laid_off_cheat_granting_mage_mother_of_assassins_header.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyNTQy",
+      "title": "Short Net Anime Studio Plott to Start Producing Over-the-Air TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-06/short-net-anime-studio-plott-to-start-producing-over-the-air-tv-anime/.242542",
+      "description": "Company launched YouTube short anime Rakuraku Hanten on September 18",
+      "pubDate": "2026-10-06T12:37:04.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/242542/plott.webp"
+    },
+    {
+      "id": "ann-LjI0MjUyOA",
+      "title": "Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 19",
+      "link": "https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-19/.242528",
+      "description": "I could go on at length about Emilia beating up an elderly Alzheimer's patient in the most creative fight scene that Re:Zero has ever had but let's talk about Flugel instead.",
+      "pubDate": "2026-10-06T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPH/cms/episode-review.5/242528/rezero4-19.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Sudachi no Maoujou' Unveils Main Cast Member, Second Teaser Promo",
@@ -46,7 +276,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'Otome Game no Heroine de Saikyou Survival' Unveils Main Staff, Cast for Summer 2027",
       "link": "https://myanimelist.net/news/74795171?_location=rss",
-      "description": "Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine's Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), special promo, and its television format. The anime series adapting Biyori Harunohi's adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starrin...",
+      "description": "Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine's Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), teaser promo, and its television format. The anime series adapting Biyori Harunohi's adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starring...",
       "pubDate": "2026-10-06T09:00:02.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -201,16 +431,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Industry",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/cms/news.8/227477/alternative.jpg"
-    },
-    {
-      "id": "cr-Y2FzdC1jcmV3",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life English Dub Reveals Same-Day Release, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/5/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode gears up on Crunchyroll this Tuesday",
-      "pubDate": "2026-10-05T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1460x821/b55e392e5c/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life.jpg"
     },
     {
       "id": "cr-LXZpZGVvcw",
@@ -381,226 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/interview/241719/villion-code-key-art.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIzOTk",
-      "title": "This Week in Mobile Games - Battle of the Blue Archives",
-      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-10-05/.242399",
-      "description": "Josh wraps up the TGS news and recounts a social media stumble from LADS. Plus an unexpected cross over!",
-      "pubDate": "2026-10-05T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/youtube/BBLV2BWdUdk.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0ODc",
-      "title": "Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 24",
-      "link": "https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-24/.242487",
-      "description": "The abruptness of the setup factors into the feelings it's supposed to elicit. The audience barely has time to grasp the situation.",
-      "pubDate": "2026-10-05T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/episode-review.5/242487/aobw4241.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Akazukin, Tabi no Tochuu de Shitai to Deau.' Reveals Additional Cast, Staff, First Promo for Winter 2027",
-      "link": "https://myanimelist.net/news/74793294?_location=rss",
-      "description": "The official website for the television anime adaptation of Aito Aoyagi's Akazukin, Tabi no Tochuu de Shitai to Deau. (Red Riding Hood: A Detective Story) novel revealed additional cast, staff, first key visual (pictured), and first promotional video on Monday. The anime is scheduled to premiere in January 2027 on Tokyo MX, BS-NTV, and Yomiuri TV. Cast Jill: Takuya Satou (Super no Ura de Yani Suu Futari) Antonio: Atsushi Tamaru (Nanatsu no Maken ga Shihai suru) Rodrigo: Motoko Kumai (Cardca...",
-      "pubDate": "2026-10-05T12:26:10.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791203159-fd2c39b8765059c981402480113b9f98.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI1MDk",
-      "title": "Red Riding Hood: A Detective Story Anime Reveals 1st Trailer, More Cast & Staff, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/red-riding-hood-a-detective-story-anime-reveals-1st-trailer-more-cast-and-staff-january-2027-debut/.242509",
-      "description": "Takuya Satō, Atsushi Tamaru, Motoko Kumai, more join anime's cast",
-      "pubDate": "2026-10-05T12:07:11.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/youtube/dRYjeN1IDcA.jpg"
-    },
-    {
-      "id": "cr-ZWFzZS1kYXRl",
-      "title": "Red Riding Hood: A Detective Story Anime Premieres in January 2027, Will Stream on Crunchyroll",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/red-riding-hood-a-detective-story-anime-main-trailer-key-visual-january-2027-release-date",
-      "description": "Check out the new main trailer and key visual!",
-      "pubDate": "2026-10-05T11:09:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/486f4a11ec/red-riding-hood-a-detective-story.jpg"
-    },
-    {
-      "id": "ann-LjI0MjUwNg",
-      "title": "The Record of a Fallen Vampire Manga Gets TV Anime in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/the-record-of-a-fallen-vampire-manga-gets-tv-anime-in-2027/.242506",
-      "description": "Yūma Uchida, Aino Shimada star in Zero-G x Liber anime",
-      "pubDate": "2026-10-05T10:41:17.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/youtube/qbfo4EyFeNw.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Vampire Juujikai' Gets TV Anime For 2027",
-      "link": "https://myanimelist.net/news/74793032?_location=rss",
-      "description": "Production company Pony Canyon opened an official website for the television anime adaptation of Kyou Shirodaira's Vampire Juujikai (The Record of a Fallen Vampire) on Monday revealing the main cast pair, staff, a teaser visual (pictured), and a teaser promo. The anime is scheduled to premiere in 2027. Voice actors Yuuma Uchida (Jujutsu Kaisen) and Aino Shimada (Kakkou no Iinazuke) are starring as Akabara Strauss and Bridget Irving Frostheart, respectively. Staff Director, Series Compositio...",
-      "pubDate": "2026-10-05T09:48:43.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791193378-7885fbacabf72465c0ee1482a193bda8.jpeg"
-    },
-    {
-      "id": "cr-Ny1yZWxlYXNl",
-      "title": "The Record of a Fallen Vampire Manga Gets Anime in 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/the-record-of-a-fallen-vampire-anime-announced-2027-release",
-      "description": "Yuma Uchida and Aino Shimada to stars as leads",
-      "pubDate": "2026-10-05T09:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/f981c84516/the-record-of-a-fallen-vampire-anime-teaser-trailer-sparks.png"
-    },
-    {
-      "id": "ann-LjI0MjUwNA",
-      "title": "Psikyo Memories Collection Reveals Full List of Games, February 18 Release",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/psikyo-memories-collection-reveals-full-list-of-games-february-18-release/.242504",
-      "description": "Collection includes Strikers 1945, Gunbird, Gunbarich, Zero Gunner 2, Dragon Blaze, more",
-      "pubDate": "2026-10-05T09:37:15.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.10/242504/psikyo.jpg"
-    },
-    {
-      "id": "cr-eS12aXN1YWw",
-      "title": "The Detective Is Already Dead Season 2 Anime Unveils New Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/the-detective-is-already-dead-season-2-anime-key-visual",
-      "description": "The series returns on Crunchyroll on October 7",
-      "pubDate": "2026-10-05T09:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/9ee892cc21/the-detective-is-already-dead-season-2.jpg"
-    },
-    {
-      "id": "ann-OS8uMjQyNDk1",
-      "title": "Macross 7, Synduality: Noir Animator Kenichirō Katsura Dies at 59",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/macross-7-synduality-noir-animator-kenichiro-katsura-dies-at-59/.242495",
-      "description": "Katsura died on September 30 while recovering from an illness",
-      "pubDate": "2026-10-05T08:37:20.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP9/cms/news.9/232292/gintama.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Hirayasumi' Ends in Two Chapters",
-      "link": "https://myanimelist.net/news/74792787?_location=rss",
-      "description": "The official X (formerly Twitter) account for author Keigo Shinzou announced on Monday that the Hirayasumi manga will end in two more chapters. Shinzou began drawing the manga in Big Comic Spirits in April 2021. Shogakukan published the tenth volume on April 30. VIZ Media licensed the manga in English in October 2023, with the latest ninth volume released on May 19. Hirayasumi was nominated for the 15th and 17th Manga Taisho. The manga also placed among the top 20 titles in the male readers cate...",
-      "pubDate": "2026-10-05T07:17:43.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791184605-3466c0515f79f06bfc96eec739fff3c0.jpeg"
-    },
-    {
-      "id": "ann-bi8uMjQyNDc3",
-      "title": "Mikito Chinen's Horror Novel Gets Manga Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/mikito-chinen-horror-novel-gets-manga-adaptation/.242477",
-      "description": "Etsuran Genkin Ryōki Satsujin-han no Seishin Kantei Hōkoku-sho manga launched on September 25",
-      "pubDate": "2026-10-05T06:44:56.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC8/cms/news.10/242477/bizarre-murders.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0ODU",
-      "title": "Yuki Kure's Ayame-san Chi no Geshuku-nin Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/yuki-kure-ayame-san-chi-no-geshuku-nin-manga-ends-in-next-chapter/.242485",
-      "description": "Manga launched in June 2025",
-      "pubDate": "2026-10-05T06:35:15.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBA/cms/news.10/242485/ayamesan.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0ODM",
-      "title": "Chanta Launches Noro-Noro Puku-Puku Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/chanta-launches-noro-noro-puku-puku-manga/.242483",
-      "description": "Sachi's Records: Sachi's Book of Revelation creator's comedy of shrine maiden with black cat possessing her head",
-      "pubDate": "2026-10-05T04:04:17.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA5/cms/news.10/242483/noronoro.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyNDkx",
-      "title": "Hirayasumi Manga to End in 2 More Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/hirayasumi-manga-to-end-in-2-more-chapters/.242491",
-      "description": "Manga launched in 2021, inspired live-action series in 2025, upcoming TV anime in January 2027",
-      "pubDate": "2026-10-05T03:56:59.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCI/cms/news.10/242491/hirayasumi.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0ODE",
-      "title": "Naoki Shigeno to End Sanada Damashii Manga in 6th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/naoki-shigeno-to-end-sanada-damashii-manga-in-6th-volume/.242481",
-      "description": "Ninja Girl & Samurai Master creator launched series in 2015",
-      "pubDate": "2026-10-05T03:52:20.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/cms/news.10/242481/91j01ik-e-l.sl1500.jpg"
-    },
-    {
-      "id": "ann-LjI0MjQ3OQ",
-      "title": "Nijū-Mensō no Musume's Shinji Ohara Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/niju-menso-no-musume-shinji-ohara-launches-new-manga/.242479",
-      "description": "Moto-Shojo Tantei, Yamada Chizuko follows former girl-detective whose past returns to haunt her decades later",
-      "pubDate": "2026-10-05T03:44:31.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPA/cms/news.10/242479/cover.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI0NzM",
-      "title": "K Manga Offers Adachitoka's The Wolf at Memory's End Manga in English",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/k-manga-offers-adachitoka-the-wolf-at-memory-end-manga-in-english/.242473",
-      "description": "Noragami: Stray God creator to launch manga in Monthly Shonen Magazine on October 6",
-      "pubDate": "2026-10-05T03:28:48.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/news.10/242473/htusju6aoaar0ec.jpg"
-    },
-    {
-      "id": "ann-aC8uMjQyNDcy",
-      "title": "Chained Soldier Manga Goes on Hiatus Due to Artist Yōhei Takemura's Health",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/chained-soldier-manga-goes-on-hiatus-due-to-artist-yohei-takemura-health/.242472",
-      "description": "Takemura injures right wrist in June",
-      "pubDate": "2026-10-05T03:19:31.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.5/179701/matomanga.jpg"
-    },
-    {
-      "id": "ann-LjI0MjQ3MA",
-      "title": "BookWalker Adds 18 Ecomix Media Company Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/bookwalker-adds-18-ecomix-media-company-titles/.242470",
-      "description": "BookWalker: Creators impacted by Tapas closure can reach out to digital service",
-      "pubDate": "2026-10-05T02:59:50.000Z",
-      "source": "Anime News Network",
-      "category": "Comics",
-      "image": null
-    },
-    {
-      "id": "cr-LXNhc2FraQ",
-      "title": "Rico Sasaki Drops As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-opening-song-muisc-video-rico-sasaki",
-      "description": "The anime's new season is now available on Crunchyroll",
-      "pubDate": "2026-10-05T02:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a9bc3c1fb2/rico-sasaki-still-water-mv.jpg"
     }
   ]
 };
