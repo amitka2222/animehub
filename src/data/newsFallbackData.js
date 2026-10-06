@@ -1,7 +1,67 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-05T23:24:02.972Z",
+  "lastUpdated": "2026-10-06T03:27:34.553Z",
   "items": [
+    {
+      "id": "cr-ZW8tZmxvdw",
+      "title": "FLOW Shares Reborn as a Space Mercenary Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/reborn-as-a-space-mercenary-anime-opening-song-music-video-flow",
+      "description": "The new sci-fi series is available on Crunchyroll",
+      "pubDate": "2026-10-06T02:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/fe388aa457/flow-unstoppable-mv.jpg"
+    },
+    {
+      "id": "cr-LTEwLWZlZXQ",
+      "title": "10-FEET Releases Aoashi Season 2 Part 1 Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/aoashi-season-2-part-1-anime-opening-song-music-video-10-feet",
+      "description": "The soccer anime's new season is available on Crunchyroll",
+      "pubDate": "2026-10-06T01:37:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6c70b02096/10-feet-fortress-defense-mv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Hideaki Anno, Yutaka Izubuchi Co-Direct 'Uchuu Senkan Yamato √2199' Anime Movie",
+      "link": "https://myanimelist.net/news/74794971?_location=rss",
+      "description": "An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yamato) anime project on Tuesday, revealing its official title, main staff, and a teaser visual (pictured). Titled Uchuu Senkan Yamato &radic;2199 (Cosmoship Yamato &radic;2199), the project will be a feature-length anime movie. A premiere date has yet to be announced. Staff Original Work: Yoshinobu Nishizaki (Uchuu Senkan Yamato original co-creator) Director, Design Works: Hideaki Anno (Shinseiki Evangelion), Yutaka Iz...",
+      "pubDate": "2026-10-06T01:33:39.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791250260-dbc9415d1dfb458d66081f1e96b73795.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI1MTE",
+      "title": "Voice Actor Haruka Fukuhara Announces Marriage",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-05/voice-actor-haruka-fukuhara-announces-marriage/.242511",
+      "description": "Voice of Kaguya-sama: Love is War's Tsubame Koyasu married professional soccer player Takefusa Kubo",
+      "pubDate": "2026-10-06T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/interest.3/242511/fukuhara-haruka-kubo-takefusa-marriage.jpeg"
+    },
+    {
+      "id": "cr-dXJlLWZpbG0",
+      "title": "Cosmoship Yamato √2199 Anime Feature Film Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/6/cosmoship-yamato-roots-2199-anime-feature-film",
+      "description": "Hideaki Anno serves as co-director alongside Yutaka Izubuchi",
+      "pubDate": "2026-10-06T00:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/c34e3f30b3/yamato-roots-2199-header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1MjQ",
+      "title": "Hideaki Anno, Yutaka Izubuchi Co-Direct Yamato √2199 Film at I.G, Khara",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-05/hideaki-anno-yutaka-izubuchi-co-direct-yamato-2199-film-at-i.g-khara/.242524",
+      "description": "Production I.G founder Mitsuhisa Ishikawa also credited with planning with Anno",
+      "pubDate": "2026-10-05T23:51:08.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIW/cms/news.10/242524/hero-1600.webp"
+    },
     {
       "id": "cr-LTEtcmVjYXA",
       "title": "The Apothecary Diaries Season 3 Episode 1 Recap, “Locusts”",
@@ -520,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T20:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOC/cms/news.10/242463/htlsnssxwaejkby.jfif.jpeg"
+      "image": null
     },
     {
       "id": "ann-dS8uMjQyNDYy",
@@ -530,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-04T18:15:00.000Z",
       "source": "Anime News Network",
       "category": "Comics",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWI/cms/news.8/227973/6landingpage_mobile.jpg"
+      "image": null
     },
     {
       "id": "cr-Zy12aWRlbw",
@@ -541,66 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1920x1080/f35832bfdf/magical-sisters-lulutto-lilly-op-hero.png"
-    },
-    {
-      "id": "cr-bmctdmlkZW9z",
-      "title": "Blue Box Season 2 Anime Returns to the Court with Creditless Opening and Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/4/blue-box-season-2-anime-returns-to-the-court-with-creditless-opening-and-ending-videos",
-      "description": "Taiki and Chinatsu are back for more sports and more teen romance",
-      "pubDate": "2026-10-04T16:50:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/83a42a6601/blue-box-season-2-op-ed-hero.png"
-    },
-    {
-      "id": "cr-ZGFwdGF0aW9u",
-      "title": "Manchuria Opium Squad Anime Adaptation Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/4/manchuria-opium-squad-anime-adaptation",
-      "description": "Seinen crime drama story resumes serialization in Kodansha's Weekly Young Magazine",
-      "pubDate": "2026-10-04T16:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/cbeb265328/manchuria-anime.jpg"
-    },
-    {
-      "id": "ann-LjI0MjQ2MQ",
-      "title": "Web Novel-Based Live-Action Series Take Charge of My Heart Unveils Main Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/web-novel-based-live-action-series-take-charge-of-my-heart-unveils-main-trailer/.242461",
-      "description": "Newly released trailer follows Bo-bae as she meets Ho-rang, the only person immune to her electrical powers",
-      "pubDate": "2026-10-04T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI0NzY",
-      "title": "Charisma TV Anime Unveils More Staff, Key Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-04/charisma-tv-anime-unveils-more-staff-key-visual/.242476",
-      "description": "The staff for the television anime of Evil Line Records label (Hypnosis Mic) and the intellectual property company Dazed's Chōjin-teki Share House...",
-      "pubDate": "2026-10-04T16:04:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c2Vhc29uLTI",
-      "title": "Everything You Need to Know Before Aoashi Season 2",
-      "link": "https://crunchyroll.com/news/features/2026/10/4/everything-you-need-to-know-before-aoashi-season-2",
-      "description": "Ashito is back for more and we’re here to get you up to speed",
-      "pubDate": "2026-10-04T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/940x529/1abd8b0169/aoashi-s2-ashito-and-co.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxMTA",
-      "title": "Bungo Stray Dogs Wan! 2 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/bungo-stray-dogs-wan-2/anime-series/.242110",
-      "description": "Sometimes you just need to see Akutagawa skipping along the waterfront or watch Dazai try to wrangle the rest of the cast as preschoolers.",
-      "pubDate": "2026-10-04T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
