@@ -1,7 +1,237 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-07T12:08:27.108Z",
+  "lastUpdated": "2026-10-07T22:20:19.977Z",
   "items": [
+    {
+      "id": "cr-cGFuc2lvbg",
+      "title": "Crunchyroll Manga Announces International Expansion Across Hundreds of Titles",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/7/crunchyroll-manga-international-expansion",
+      "description": "Manga now available to fans in the UK, Ireland, India, Australia and New Zealand",
+      "pubDate": "2026-10-07T21:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/20219091f9/crmanga_16x9.png"
+    },
+    {
+      "id": "ann-LjI0MjU5NQ",
+      "title": "Seven Seas Licenses Living With My New Cat, Zukyun x Bakyun, More Manga/Novels",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/seven-seas-licenses-living-with-my-new-cat-zukyun-x-bakyun-more-manga-novels/.242595",
+      "description": "Also: 3 new audiobooks",
+      "pubDate": "2026-10-07T20:40:02.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.10/242595/living-with-new-cat.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU4OQ",
+      "title": "'I Don't Want to Be Killed by You, My Crown Prince!' Manga Enters Final Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/i-dont-want-to-be-killed-by-you-my-crown-prince-manga-enters-final-arc/.242589",
+      "description": "Nao Oshiba debuted manga of Ema Okadachi's story in December 2021",
+      "pubDate": "2026-10-07T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.10/242589/crown-prince.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU5NA",
+      "title": "The Last Blossom Film Rescreens in Theaters on October 13 After Previous Screenings Had Incorrectly Timed Subtitles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/the-last-blossom-film-rescreens-in-theaters-on-october-13-after-previous-screenings-had-incorrectly-/.242594",
+      "description": "Film rescreens on same day film launches digitally on home video",
+      "pubDate": "2026-10-07T20:17:49.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.9/238340/bafkreicbrlpixi2pyzhmgzd5e6pasx5pwqad5ew4ng5xs3fhxpaqjuk3wa.webp"
+    },
+    {
+      "id": "ann-LjI0MjU5Mw",
+      "title": "Sony Pictures Entertainment Launches Crunchyroll Storyworks Division for Anime, Live-Action Adaptations",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593",
+      "description": "Crunchyroll's new division to work with Japanese creators, provide projects for HAYATE venture",
+      "pubDate": "2026-10-07T19:54:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyNTky",
+      "title": "GKIDS Releases 100 Meters Anime Film on Blu-ray Disc on December 1",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592",
+      "description": "Collector's Edition includes 5 art cards, mini-poster",
+      "pubDate": "2026-10-07T19:02:47.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMB/youtube/kQ9_B2JascQ.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU4OA",
+      "title": "Overlord [Shin] Sekai-hen Manga Goes on Hiatus Due to Artist Matsuki's Hospitalization",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/overlord-shin-sekai-hen-manga-goes-on-hiatus-due-to-artist-matsuki-hospitalization/.242588",
+      "description": "Matsuki debuted sequel manga in April 2024",
+      "pubDate": "2026-10-07T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/news.10/242588/overlord-new-world.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlbw",
+      "title": "Super Psychic Policeman Chojo Anime is On the Case in Creditless Opening Animation Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/7/super-psychic-policeman-chojo-anime-creditless-opening-video",
+      "description": "Crunchyroll streams adaptation based on Shun Numa's manga this fall",
+      "pubDate": "2026-10-07T17:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/79f64adab8/super_psychic_policeman_chojo_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU5MQ",
+      "title": "Marvel Tōkon: Fighting Souls Game's Trailer Reveals November 2 Release for Phoenix Cyclops DLC",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/marvel-tokon-fighting-souls-game-trailer-reveals-november-2-release-for-phoenix-cyclops-dlc/.242591",
+      "description": "X-Men '97 Cyclops' voice actor Ray Chase voices DLC character",
+      "pubDate": "2026-10-07T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR3/youtube/3y9_kwKo3Fs.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "The Cold Sato-san is Only Sweet to Me Anime Shares Creditless Opening & Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/7/the-cold-sato-san-is-only-sweet-to-me-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams adaptation based on romantic comedy light novel series",
+      "pubDate": "2026-10-07T17:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/5747b0d02b/the-salty-koharu-has-a-soft-spot-for-me-hero.png"
+    },
+    {
+      "id": "ann-bi8uMjQyNTg1",
+      "title": "Love Through a Prism Anime Gets Novel Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/love-through-a-prism-anime-gets-novel-adaptation/.242585",
+      "description": "Both volumes ship on December 4",
+      "pubDate": "2026-10-07T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.10/242585/love-through-a-prism-novel-2.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyMzMw",
+      "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/dragon-quest-xi-s/echoes-of-an-elusive-age-definitive-edition/.242330",
+      "description": "An already beautiful game and a spectacular RPG... hobbled by Square Enix's bad business decisions.",
+      "pubDate": "2026-10-07T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT4/cms/game-review/242330/dq11sde.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU3Ng",
+      "title": "MediaOCD Announces Deal to Sell Select Aniplex of America Anime on Blu-ray Disc",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/mediaocd-announces-deal-to-sell-select-aniplex-of-america-anime-on-blu-ray-disc/.242576",
+      "description": "Gurren Lagann, Mashle: Magic and Muscles BDs now available on MediaOCD's website",
+      "pubDate": "2026-10-07T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.10/242576/gurren-lagann-complete-blu-ray-disc-box.jpg"
+    },
+    {
+      "id": "cr-ZGVjZW1iZXI",
+      "title": "Code Geass: Lost Stories Game to Shut Down This December",
+      "link": "https://crunchyroll.com/news/latest/2026/10/7/code-geass-lost-stories-game-to-shut-down-this-december",
+      "description": "English version of the mobile outing was live from 2023 to 2024",
+      "pubDate": "2026-10-07T15:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/f0cee96cfd/4a0cf837eab990ae271f3676fab232c01637162329_main.jpg"
+    },
+    {
+      "id": "cr-cm9tLXplcm8",
+      "title": "Code Geass' Lelouch vi Britannia: The King from Zero",
+      "link": "https://crunchyroll.com/news/features/2026/10/7/code-geass-lelouch-vi-britannia-the-king-from-zero",
+      "description": "Always two steps ahead",
+      "pubDate": "2026-10-07T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/526f1da97d/code-geass.png"
+    },
+    {
+      "id": "ann-LjI0MjUwNw",
+      "title": "Manga Up! Global Adds Magical Girl Recruiter Puicho!, Bitter Knight in My Sweet Café, 3 More Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/manga-up-global-adds-magical-girl-recruiter-puicho-bitter-knight-in-my-sweet-cafe-3-more-manga/.242507",
+      "description": "Service also adds VAMPXIA, 100 Things the Sheltered Lady and This Commoner Want to Do, We Are All D***",
+      "pubDate": "2026-10-07T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.10/242507/1341b.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1ODQ",
+      "title": "Red River ‒ Episode 14",
+      "link": "https://www.animenewsnetwork.com/review/red-river/episode-14/.242584",
+      "description": "Ramses may be a great Pharoah later, but as of right now, he’s just some cocky bastard who, of course, is fascinated by Yuri.",
+      "pubDate": "2026-10-07T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g78/cms/episode-review.5/242584/red-river-14.png.jpg"
+    },
+    {
+      "id": "cr-Ni1kZXRhaWxz",
+      "title": "Tokyo Anime Next Details Program for Special October Event",
+      "link": "https://crunchyroll.com/news/latest/2026/10/7/tokyo-anime-next-2026-details",
+      "description": "Ikebukuro to host a four-day-long anime festival",
+      "pubDate": "2026-10-07T13:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1081/0066b057fa/tokyo-anime-next-visual.png"
+    },
+    {
+      "id": "ann-LjI0MjU3NA",
+      "title": "Exclusive: Viz Hosts Signing Tour for GalaXic Baseball League Comic Artist Acky Bright",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/exclusive-viz-hosts-signing-tour-for-galaxic-baseball-league-comic-artist-acky-bright/.242574",
+      "description": "Tour for interplanetary baseball series featuring real-life baseball players begins on October 13 in New York",
+      "pubDate": "2026-10-07T13:15:30.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.10/242574/acky.jpg"
+    },
+    {
+      "id": "ann-Ly4yMzk1ODE",
+      "title": "INTERVIEW: Tokyo Revengers Voice Cast",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-tokyo-revengers-voice-cast/.239581",
+      "description": "We had the opportunity to interview the intense yet jovial Yūki Shin, Yuu Hayashi, and Masaya Fukunishi and explore how their understanding of their characters has evolved after spending so much time with them.",
+      "pubDate": "2026-10-07T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ0/youtube/y9upjHcae3A.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQxNTA3",
+      "title": "Interview with Takako Shimura, Creator of the Scenes of AWAJIMA Manga",
+      "link": "https://www.animenewsnetwork.com/interview/2026-10-07/with-takako-shimura-creator-of-the-scenes-of-awajima-manga/.241507",
+      "description": "This past spring, Scenes From Awajima anime explored a kaleidoscope of perspectives as they filtered through the hallowed and haunted halls of its titular school. We asked manga author Takako Shimura (Sweet Blue Flowers, Wandering Son) about the series' origins, influences, and how it relates to her other works.",
+      "pubDate": "2026-10-07T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/herald/201555/scenes01.png.jpg"
+    },
+    {
+      "id": "cr-aWwtMjAyNw",
+      "title": "Walking Home with You Anime Premieres in April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/7/walking-home-with-you-anime-premieres-in-april-2027",
+      "description": "Teaser art revealed for upcoming adaptation based on Mai Matsuda's romcom manga",
+      "pubDate": "2026-10-07T12:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x1029/8985b7a899/walking_home_with_you_mai_matsuda_art.jpg"
+    },
+    {
+      "id": "ann-LjI0MjU4MQ",
+      "title": "Walking Home with You Anime Unveils April 2027 TV Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/walking-home-with-you-anime-unveils-april-2027-tv-debut/.242581",
+      "description": "Anime of Mai Matsuda's romantic comedy manga announced in March 2025",
+      "pubDate": "2026-10-07T12:00:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKJ/cms/news.10/242581/hokago1.jpg"
+    },
     {
       "id": "ann-Ny8uMjQyNTc5",
       "title": "Code Geass: Lost Stories Game to End Service on December 7",
@@ -33,10 +263,10 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.9/235965/babanba-banban-vampire-v1-cover.jpg"
     },
     {
-      "id": "ann-ZS8uMjQyNTYz",
-      "title": "You Are a Four Leaf Clover Romantic Suspense Manga to End in 12th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/you-are-a-four-leaf-clover-romantic-suspense-manga-to-end-in-12th-volume/.242563",
-      "description": "Volume 12 ships on December 8",
+      "id": "ann-NS8uMjQyNTYz",
+      "title": "You Are a Four Leaf Clover Romantic Suspense Manga Ends on October 15 (Updated)",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-07/you-are-a-four-leaf-clover-romantic-suspense-manga-ends-on-october-15/.242563",
+      "description": "12th, final volume ships on December 8",
       "pubDate": "2026-10-07T06:50:10.000Z",
       "source": "Anime News Network",
       "category": "Manga",
@@ -190,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/cms/news.10/242550/sen-sen-senki.jpg"
+      "image": null
     },
     {
       "id": "cr-dW5jaHlyb2xs",
@@ -210,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.9/241801/return.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -270,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/review.2/242063/filters-quality-95-format-webp-1.webp"
+      "image": null
     },
     {
       "id": "ann-ci8uMjQyNTQ4",
@@ -280,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T15:39:29.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/youtube/6yOCpx1XKxU.jpg"
+      "image": null
     },
     {
       "id": "cr-ZWdpbm5pbmc",
@@ -300,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTM/youtube/0SdEiVX1e2g.jpg"
+      "image": null
     },
     {
       "id": "cr-Zy12aWRlb3M",
@@ -330,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T13:03:06.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/news.10/242527/on1uu4zltlqhohsw0rrmwq.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI0Njg",
@@ -340,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC5/cms/news.10/242468/e4.jpeg"
+      "image": null
     },
     {
       "id": "cr-dHJhaWxlcg",
@@ -360,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T12:37:04.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/242542/plott.webp"
+      "image": null
     },
     {
       "id": "ann-LjI0MjUyOA",
@@ -368,236 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-19/.242528",
       "description": "I could go on at length about Emilia beating up an elderly Alzheimer's patient in the most creative fight scene that Re:Zero has ever had but let's talk about Flugel instead.",
       "pubDate": "2026-10-06T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPH/cms/episode-review.5/242528/rezero4-19.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Sudachi no Maoujou' Unveils Main Cast Member, Second Teaser Promo",
-      "link": "https://myanimelist.net/news/74795794?_location=rss",
-      "description": "The official website for the television anime adaptation of Makoto Morishita's Sudachi no Maoujou (The Fledgling Demon Lord's Starter Shop) manga unveiled an additional main cast member, key visual (pictured), and second teaser promotional video on Tuesday. The anime is scheduled to premiere in January 2027 on TOKYO MX, MBS, BS11 and other stations. Youhei Azakami (Kamonohashi Ron no Kindan Suiri 2nd Season) is joining the cast as Ash. Jun Taira is directing the television anime at Pro...",
-      "pubDate": "2026-10-06T11:12:36.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791285060-2885138912caf84394746201501470c8.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI1NDE",
-      "title": "The Fledgling Demon Lord's Starter Shop Anime's 2nd Teaser Reveals More Cast, January Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-06/the-fledgling-demon-lord-starter-shop-anime-2nd-teaser-reveals-more-cast-january-debut/.242541",
-      "description": "Yōhei Azakami joins cast as hero Ash",
-      "pubDate": "2026-10-06T09:35:18.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.10/242541/sudachi2.png.jpg"
-    },
-    {
-      "id": "cr-bC10cmFpbGVy",
-      "title": "The Otome Heroine's Fight for Survival Anime Trailer Reveals July 2027 Debut, Main Cast and Staff",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/the-otome-heroines-fight-for-survival-anime-july-2027-release-date-main-cast-staff-teaser-visual-trailer",
-      "description": "A teaser visual was also unveiled",
-      "pubDate": "2026-10-06T09:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a2e7548fcf/the-otome-heroines-fight-for-survival.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyNTI1",
-      "title": "The Otome Heroine's Fight for Survival Anime's Teaser Unveils Staff, Cast, July 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-06/the-otome-heroine-fight-for-survival-anime-teaser-unveils-staff-cast-july-2027-debut/.242525",
-      "description": "Fūka Izumi plays Alicia in TV anime by Noriyoshi Sasaki, Studio Clutch, Seven",
-      "pubDate": "2026-10-06T09:03:05.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/youtube/DGPf04O404Y.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Otome Game no Heroine de Saikyou Survival' Unveils Main Staff, Cast for Summer 2027",
-      "link": "https://myanimelist.net/news/74795171?_location=rss",
-      "description": "Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine's Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), teaser promo, and its television format. The anime series adapting Biyori Harunohi's adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starring...",
-      "pubDate": "2026-10-06T09:00:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791257346-fd2632892e9ae37d9bca1971b0f38354.jpeg"
-    },
-    {
-      "id": "cr-YXNoLWNhc3Q",
-      "title": "The Fledgling Demon Lord's Starter Shop Anime Welcomes Customers with New Trailer, Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/the-fledgling-demon-lords-starter-shop-anime-teaser-trailer-key-visual-ash-cast",
-      "description": "Yohei Azakami also joins the cast as Ash",
-      "pubDate": "2026-10-06T08:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/4aa58a6378/the-fledgling-demon-lords-starter-shop.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxNDI",
-      "title": "Metal Gear's Hideo Kojima Likens Current Japan to Nation Just Before World War II",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-06/metal-gear-hideo-kojima-likens-current-japan-to-nation-just-before-world-war-ii/.242142",
-      "description": "Kojima: “It looks like Japan might get pulled into a war too … It's like [pre-WWII] Japan”",
-      "pubDate": "2026-10-06T05:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/youtube/u92_xL2V9iI.jpg"
-    },
-    {
-      "id": "cr-ZW8tZmxvdw",
-      "title": "FLOW Shares Reborn as a Space Mercenary Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/reborn-as-a-space-mercenary-anime-opening-song-music-video-flow",
-      "description": "The new sci-fi series is available on Crunchyroll",
-      "pubDate": "2026-10-06T02:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/fe388aa457/flow-unstoppable-mv.jpg"
-    },
-    {
-      "id": "cr-LTEwLWZlZXQ",
-      "title": "10-FEET Releases Aoashi Season 2 Part 1 Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/aoashi-season-2-part-1-anime-opening-song-music-video-10-feet",
-      "description": "The soccer anime's new season is available on Crunchyroll",
-      "pubDate": "2026-10-06T01:37:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6c70b02096/10-feet-fortress-defense-mv.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Hideaki Anno, Yutaka Izubuchi Co-Direct 'Uchuu Senkan Yamato √2199' Anime Movie",
-      "link": "https://myanimelist.net/news/74794971?_location=rss",
-      "description": "An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yamato) anime project on Tuesday, revealing its official title, main staff, and a teaser visual (pictured). Titled Uchuu Senkan Yamato &radic;2199 (Cosmoship Yamato &radic;2199), the project will be a feature-length anime movie. A premiere date has yet to be announced. Staff Original Work: Yoshinobu Nishizaki (Uchuu Senkan Yamato original co-creator) Director, Design Works: Hideaki Anno (Shinseiki Evangelion), Yutaka Iz...",
-      "pubDate": "2026-10-06T01:33:39.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791250260-dbc9415d1dfb458d66081f1e96b73795.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI1MTE",
-      "title": "Voice Actor Haruka Fukuhara Announces Marriage",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-05/voice-actor-haruka-fukuhara-announces-marriage/.242511",
-      "description": "Voice of Kaguya-sama: Love is War's Tsubame Koyasu married professional soccer player Takefusa Kubo",
-      "pubDate": "2026-10-06T01:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/interest.3/242511/fukuhara-haruka-kubo-takefusa-marriage.jpeg"
-    },
-    {
-      "id": "cr-dXJlLWZpbG0",
-      "title": "Cosmoship Yamato √2199 Anime Feature Film Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/cosmoship-yamato-roots-2199-anime-feature-film",
-      "description": "Hideaki Anno serves as co-director alongside Yutaka Izubuchi",
-      "pubDate": "2026-10-06T00:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/c34e3f30b3/yamato-roots-2199-header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI1MjQ",
-      "title": "Hideaki Anno, Yutaka Izubuchi Co-Direct Yamato √2199 Film at I.G, Khara",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/hideaki-anno-yutaka-izubuchi-co-direct-yamato-2199-film-at-i.g-khara/.242524",
-      "description": "Production I.G founder Mitsuhisa Ishikawa also credited with planning with Anno",
-      "pubDate": "2026-10-05T23:51:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIW/cms/news.10/242524/hero-1600.webp"
-    },
-    {
-      "id": "cr-LTEtcmVjYXA",
-      "title": "The Apothecary Diaries Season 3 Episode 1 Recap, “Locusts”",
-      "link": "https://crunchyroll.com/news/features/2026/10/5/the-apothecary-diaries-season-3-episode-1-recap",
-      "description": "Maomao and Jinshi are so back, baby!",
-      "pubDate": "2026-10-05T21:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/62b5489179/the-apothecary-diaries-season-3-episode-1.jpg"
-    },
-    {
-      "id": "ann-LjI0MjUxNg",
-      "title": "The New Denpa Men Game Ends Service on December 7",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/the-new-denpa-men-game-ends-service-on-december-7/.242516",
-      "description": "Free-to-play game launched in July 2024",
-      "pubDate": "2026-10-05T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.10/242516/new-denpa-men.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI1MTc",
-      "title": "Hunter X Hunter Manga Creator Yoshihiro Togashi to Limit Work Due to Physical/Mental Health Issues",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/hunter-x-hunter-manga-creator-yoshihiro-togashi-to-limit-work-due-to-physical-mental-health-issues/.242517",
-      "description": "Togashi to decline future work requests with deadlines in order to focus on his own manuscripts",
-      "pubDate": "2026-10-05T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/news.9/239123/hunter.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "North American Anime & Manga Releases for October",
-      "link": "https://myanimelist.net/news/74794281?_location=rss",
-      "description": "Here are the North American anime, manga, and light novel releases for October. Week 1: October 6 - 12 Anime Releases Devil Survivor 2 The Animation Blu-ray Manga Releases Boku ga Watashi ni Naru Tame ni (My Journey to Her) Boruto: Two Blue Vortex Vol.6 Dandadan Vol.21 Dekiru Neko wa Kyou mo Yuuutsu (The Masterful Cat Is Depressed Again Today) Vol.12 Dororo to Hyakkimaru Den (The Legend of Dororo and Hyakkimaru) Vol.12 Endan Yobanashi (Grim Night Tales) Vol.3 Fushigi Yuugi: Byakko Senki (Fushigi...",
-      "pubDate": "2026-10-05T19:41:35.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791228470-cac25ed644e5415d259ec43e47b70c9e.jpeg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNTE4",
-      "title": "OceanVeil Streams Magical Girl Raising Project restart Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/oceanveil-streams-magical-girl-raising-project-restart-anime/.242518",
-      "description": "Series debuted on Monday",
-      "pubDate": "2026-10-05T19:33:06.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI1MTI",
-      "title": "Young Magazine USA Special Gets 2nd Issue",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/young-magazine-usa-special-gets-2nd-issue/.242512",
-      "description": "2nd issue looks for more Japanese creators who want their story published overseas",
-      "pubDate": "2026-10-05T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI1MTQ",
-      "title": "MediaOCD Announces Deal to Sell Physical Editions of Manga from Manga Mavericks Books, Mahjong Pros",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/mediaocd-announces-deal-to-sell-physical-editions-of-manga-from-manga-mavericks-books-mahjong-pros/.242514",
-      "description": "Manga available on MediaOCD's website include ALTERNATIVE[SELF LINER NOTE], more",
-      "pubDate": "2026-10-05T17:12:04.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpZGVvcw",
-      "title": "PSYREN Anime Shares Creditless Opening & Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/psyren-anime-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams adaptation based on Toshiaki Iwashiro's psychic battle manga",
-      "pubDate": "2026-10-05T16:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x563/59d5dddbc0/psyren_header2.jpg"
-    },
-    {
-      "id": "cr-bmctdmlkZW8",
-      "title": "From Far Away Anime Crosses Dimensions in Creditless Ending Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/5/from-far-away-anime-creditless-ending-video",
-      "description": "The shoujo fantasy series is now streaming on Crunchyroll",
-      "pubDate": "2026-10-05T16:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/1415f14e63/from-far-away-ending-hero.png"
-    },
-    {
-      "id": "ann-MS8uMjQyNTAz",
-      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime Starting on October 11",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-starting-on-october-11/.242503",
-      "description": "Series also streams in Canada, Latin America, Australia, New Zealand, South Africa, India, Southeast Asia, Europe",
-      "pubDate": "2026-10-05T16:10:16.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
