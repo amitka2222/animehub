@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-07T22:20:19.977Z",
+  "lastUpdated": "2026-10-08T03:09:16.103Z",
   "items": [
+    {
+      "id": "ann-ZS8uMjQyNTY3",
+      "title": "Toyota Demos Initial D's Drifting Without Spilling Water Cup in Real Life",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-07/toyota-demos-initial-d-drifting-without-spilling-water-cup-in-real-life/.242567",
+      "description": "Can a Toyota driver pilot an AE86 without spilling a drop of water?",
+      "pubDate": "2026-10-08T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/qfbhfCJ_id0.jpg"
+    },
+    {
+      "id": "cr-aS1vaXNoaQ",
+      "title": "Masayoshi Oishi Releases The Cold Sato-san is Only Sweet to Me Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-cold-sato-san-is-only-sweet-to-me-anime-opening-song-music-video-masayoshi-oishi",
+      "description": "Crunchyroll streams the new romantic comedy series",
+      "pubDate": "2026-10-08T02:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0f4a16ad53/masayoshi-oishi-sugar-salt-mv.jpg"
+    },
+    {
+      "id": "cr-bi12aXN1YWw",
+      "title": "Chiikawa the Movie: The Secret of the Mermaid Island Releases New Main Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/chiikawa-the-movie-the-secret-of-the-mermaid-island-new-main-visual",
+      "description": "The film's total box office revenue has now reached 17.2 billion yen",
+      "pubDate": "2026-10-08T01:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x519/09bc7895f2/chiikawa-the-movie.jpg"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "KERORO☆ Anime Streams Opening, Ending Song Music Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/keroro-anime-opening-ending-song-music-videos",
+      "description": "The first episode is currently available on Crunchyroll",
+      "pubDate": "2026-10-08T00:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/248bfccd01/ano-keroro-opening-mv.jpg"
+    },
     {
       "id": "cr-cGFuc2lvbg",
       "title": "Crunchyroll Manga Announces International Expansion Across Hundreds of Titles",
@@ -410,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/cms/game-review/242501/kingdom-hearts-i-iii-collection-ann-review-key-art-for-review.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI1NTA",
@@ -560,46 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-06T13:03:06.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI0Njg",
-      "title": "emaqi Service Adds Streaming Under My Control, The Soldier Groom and the Daikon Bride, Shin Ikki Tousen, 8 More Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-06/emaqi-service-adds-streaming-under-my-control-the-soldier-groom-and-the-daikon-bride-shin-ikki-/.242468",
-      "description": "Service also adds Kill Me Baby, Song of the Thirty-Year-Olds' Blues, Time Traveler's Disease, A Meal by Moonlight, more",
-      "pubDate": "2026-10-06T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime Reveals Modified Main Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/6/the-laid-off-cheat-granting-mage-anime-modified-main-trailer",
-      "description": "Crunchyroll streams adaptation, first episode broadcasts October 6",
-      "pubDate": "2026-10-06T12:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/ef3f9aab10/the_laid_off_cheat_granting_mage_mother_of_assassins_header.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNTQy",
-      "title": "Short Net Anime Studio Plott to Start Producing Over-the-Air TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-06/short-net-anime-studio-plott-to-start-producing-over-the-air-tv-anime/.242542",
-      "description": "Company launched YouTube short anime Rakuraku Hanten on September 18",
-      "pubDate": "2026-10-06T12:37:04.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjUyOA",
-      "title": "Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 19",
-      "link": "https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-19/.242528",
-      "description": "I could go on at length about Emilia beating up an elderly Alzheimer's patient in the most creative fight scene that Re:Zero has ever had but let's talk about Flugel instead.",
-      "pubDate": "2026-10-06T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
