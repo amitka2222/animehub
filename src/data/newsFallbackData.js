@@ -1,7 +1,197 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-08T22:32:15.816Z",
+  "lastUpdated": "2026-10-09T03:15:25.557Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Animator Kenichirou Katsura Dies at 59",
+      "link": "https://myanimelist.net/news/74803941?_location=rss",
+      "description": "Kenichirou Katsura, known for his character designs for Macross 7 and Knight's &amp; Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating that Katsura died while undergoing medical treatment. \"Animator Kenichirou Katsura died on September 30 while receiving medical treatment. We offer our deepest gratitude to the fans who loved the works and...",
+      "pubDate": "2026-10-09T02:45:15.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png"
+    },
+    {
+      "id": "cr-LWtvdGFuaQ",
+      "title": "Kotani Releases Magic Repo Man Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/magic-repo-man-anime-ending-song-music-video-kotani",
+      "description": "Crunchyroll streams the SynergySP-animated new fantasy series",
+      "pubDate": "2026-10-09T01:56:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x581/e0db3d93aa/kotani-iremono-mv.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQyNjQ4",
+      "title": "Everyone's Darling Has a Secret Anime's 1st Teaser Previews Voice Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/everyone-darling-has-a-secret-anime-1st-teaser-previews-voice-cast/.242648",
+      "description": "Crunchyroll streams April 2027 anime",
+      "pubDate": "2026-10-09T01:28:52.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/youtube/rzzXtu4QMCY.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Unveils Additional Cast, Opening Theme, Second Promo",
+      "link": "https://myanimelist.net/news/74803756?_location=rss",
+      "description": "The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation of Haka Tokura and Shin Arakawa's Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga on Thursday. The anime series will be broadcast on Tokyo MX, MBS, and BS11 on January 4, 2027. Cast Abel: Haruki Ishiya (Marriaget...",
+      "pubDate": "2026-10-09T01:27:39.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791509221-878adf917b7adb21e51b8f4e8762cae0.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI2NDc",
+      "title": "Magical Buffs Anime's Trailer Unveils More Cast, LiSA's Opening Song, Early Netflix Streaming, January 4 TV Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/magical-buffs-anime-trailer-unveils-more-cast-lisa-opening-song-early-netflix-streaming-january-4-/.242647",
+      "description": "TK (Ling Tosite Sigure) pens \"Ecstatic Buffer\" song",
+      "pubDate": "2026-10-09T01:17:31.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gML/youtube/yqvAv5li9Pw.jpg"
+    },
+    {
+      "id": "cr-LXNoYWxsbQ",
+      "title": "Shallm to Perform Now That We Draw Anime Opening Song",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/now-that-we-draw-anime-opening-song-shallm",
+      "description": "The anime series is set to premiere in January 2027",
+      "pubDate": "2026-10-09T01:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/5c6fe8528a/now-that-we-draw-opening-announcement.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Ghost of Tsushima Kuroudo Kitan' Announces Additional Cast, Staff, 2028 Delay",
+      "link": "https://myanimelist.net/news/74803695?_location=rss",
+      "description": "The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions' Ghost of Tsushima video game on Thursday. The anime has been delayed to 2028 from its originally planned 2027 premiere. Mayumi Saco (Vinland Saga Season 2) and Shinya Fukumatsu (Tondemo Skill de Isekai Hourou Meshi) are joining the cast. Their respective characters have yet to be revealed. Staff Script: Satoshi Maejima (Renji Ooki) (Bubble) Character D...",
+      "pubDate": "2026-10-09T00:55:31.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507546-84f6958ab1663bfaa47fe5eb007cb601.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Teenage Mercenary' Reveals Main Staff, 2027 Debut",
+      "link": "https://myanimelist.net/news/74803693?_location=rss",
+      "description": "The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC's Teenage Mercenary (Nyuugaku Youhei) webtoon on Thursday. The anime series will premiere in 2027. Staff Director, Series Composition: Manabu Ono (Dead Mount Death Play) Character Design, Chief Animation Director: Kouji Haneda (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Music: Hiroyuki Sawano (Shingeki no Kyoji...",
+      "pubDate": "2026-10-09T00:55:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507244-4f70bcfac3a3b20df86b55650dc1fe4f.jpeg"
+    },
+    {
+      "id": "cr-aW9uLTIwMjc",
+      "title": "The Remarried Empress Anime Adaptation Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/the-remarried-empress-anime-adaptation-2027",
+      "description": "Crunchyroll will stream the anime when it premieres next year",
+      "pubDate": "2026-10-09T00:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1519x727/804e1e5dc2/the-remarried-empress.png"
+    },
+    {
+      "id": "ann-dC8uMjQyNjQ2",
+      "title": "J.C. Staff Animates Teenage Mercenary Webtoon for 2027 Broadcast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/j.c-staff-animates-teenage-mercenary-webtoon-for-2027-broadcast/.242646",
+      "description": "SAO: Alicization's Manabu Ono helms, writes anime with music by Hiroyuki Sawano",
+      "pubDate": "2026-10-09T00:39:51.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/FB0yqIHGWSs.jpg"
+    },
+    {
+      "id": "cr-OC1yZWxlYXNl",
+      "title": "Ghost of Tsushima Legends Anime Reveals 2028 Release",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/ghost-of-tsushima-legends-anime-2028-release",
+      "description": "More staff and cast for the anime was also announced",
+      "pubDate": "2026-10-09T00:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1232x848/b46b84ebc7/ghost-of-tsushima-legends.png"
+    },
+    {
+      "id": "ann-Ny8uMjQyNjQ1",
+      "title": "The Remarried Empress Webtoon Gets TV Anime From TROYCA in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/the-remarried-empress-webtoon-gets-tv-anime-from-troyca-in-2027/.242645",
+      "description": "Yoko Hikasa, Ryōhei Kimura, Tomoaki Maeno, Reina Ueda star in Alphatart, HereLee, SUMPUL's romantic fantasy",
+      "pubDate": "2026-10-09T00:01:36.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/cms/news.10/242645/hero-navier-pc.webp"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kininatteru Hito ga Otoko ja Nakatta' Reveals Additional Cast, Staff, First Promo",
+      "link": "https://myanimelist.net/news/74803545?_location=rss",
+      "description": "The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adaptation of Sumiko Arai's Kininatteru Hito ga Otoko ja Nakatta (The Guy She Was Interested in Wasn't a Guy at All) manga on Thursday. The anime is scheduled to premiere on January 8 at 11:00 p.m. on NTV's Friday Anime Night timeslot. Cast Joe: Kenjirou Tsuda (Gokushufudou) Narita: Tasuku Hatanaka (Boku no Hero Academia) Chizuru: Yurina Amami (Mika...",
+      "pubDate": "2026-10-09T00:00:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791504017-6a963be00373ccc0140d65a21cf2508c.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Webtoon 'The Boxer' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74803494?_location=rss",
+      "description": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong's The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray Dogs) K: Tomokazu Seki (Jujutsu Kaisen) Ryu Baeksan: Kensho Ono (Vinland Saga) Staff Director: Takehiro Kubota (Watashi no Shiawase na Kekkon), Won-yeong Kang (Cardfight!! Vanguard: overDress main animation) Charac...",
+      "pubDate": "2026-10-08T23:43:05.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Webtoon 'The Remarried Empress' Gets TV Anime in 2027",
+      "link": "https://myanimelist.net/news/74803489?_location=rss",
+      "description": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul's The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and special promotional video. The anime series will premiere in 2027. Cast Navier: Youko Hikasa (High School DxD) Heinrey: Ryouhei Kimura (Grand Blue) Sovieshu: Tomoaki Maeno (Akatsuki no Yona) Rashta: Reina Ueda (Chainsaw...",
+      "pubDate": "2026-10-08T23:41:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg"
+    },
+    {
+      "id": "cr-YWZmLWNhc3Q",
+      "title": "The Boxer Anime Adaptation Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-boxer-anime-adaptation-announced-trailer-staff-cast",
+      "description": "Crunchyroll will stream the anime when it premieres in the future",
+      "pubDate": "2026-10-08T23:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/461e6ec336/the-boxer.jpg"
+    },
+    {
+      "id": "ann-eS8uMjQyNjI5",
+      "title": "Ghost of Tsushima: Legends Anime Announces 2 Cast, Additional Staff Members, 2028 Delay",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/ghost-of-tsushima-legends-anime-announces-2-cast-additional-staff-members-2028-delay/.242629",
+      "description": "Mayumi Sako, Shinya Fukumatsu star; anime first announced to debut in 2027",
+      "pubDate": "2026-10-08T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLD/cms/news.9/239316/group.jpg"
+    },
+    {
+      "id": "cr-bC1zdGFmZg",
+      "title": "Teenage Mercenary Anime Trailer Reveals 2027 Broadcast, Main Staff",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/teenage-mercenary-anime-2027-release-date-teaser-trailer-visual-staff",
+      "description": "Manabu Ono will direct the series at J.C.Staff",
+      "pubDate": "2026-10-08T22:57:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/735657b352/teenage-mercenary.jpg"
+    },
+    {
+      "id": "cr-cmVsZWFzZQ",
+      "title": "Puella Magi Madoka Magica -Walpurgisnacht: Rising- Anime Film Releases in the United States January 16-19, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/8/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-united-states-january-2027-release",
+      "description": "The Madoka Magica movie trilogy series also streams on Crunchyroll Novemeber 8",
+      "pubDate": "2026-10-08T22:49:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/c3af98b486/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising.jpeg"
+    },
     {
       "id": "cr-dHJhaWxlcg",
       "title": "Mobile Suit Gundam SEED FREEDOM ZERO Anime Film Premieres in Japan on January 15, 2027",
@@ -411,196 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/b0f3ebf17f/tsunomaki-watame-respawn-mv.png"
-    },
-    {
-      "id": "cr-b24tdmlld3M",
-      "title": "Chainsaw Man - The Movie: Reze Arc Ending Song Music Video Surpasses 100 Million Views",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/chainsaw-man-the-movie-reze-arc-ending-song-music-video-100-million-views",
-      "description": "The anime film is available on Crunchyroll worldwide",
-      "pubDate": "2026-10-08T04:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/64f47767c0/jane-doe-mv.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI2MDg",
-      "title": "Crunchyroll Manga App Expands to U.K., Ireland, South Asia, ANZ",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-manga-app-expands-to-u.k-ireland-south-asia-anz/.242608",
-      "description": "Crunchyroll also to be \"easily accessible\" in new dedicated anime hub on PS5 launching in spring",
-      "pubDate": "2026-10-08T04:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
-    },
-    {
-      "id": "ann-ci8uMjQyMTYy",
-      "title": "Muramasa: Revenant Blades is the Definitive Remaster You've Been Waiting For",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/muramasa-revenant-blades-is-the-definitive-remaster-youve-been-waiting-for/.242162",
-      "description": "Muramasa is back and looking better than ever—literally.",
-      "pubDate": "2026-10-08T04:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCG/cms/convention/242162/vlcsnap-2026-09-25-12h08m34s619.png.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNTY3",
-      "title": "Toyota Demos Initial D's Drifting Without Spilling Water Cup in Real Life",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-07/toyota-demos-initial-d-drifting-without-spilling-water-cup-in-real-life/.242567",
-      "description": "Can a Toyota driver pilot an AE86 without spilling a drop of water?",
-      "pubDate": "2026-10-08T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/youtube/qfbhfCJ_id0.jpg"
-    },
-    {
-      "id": "cr-aS1vaXNoaQ",
-      "title": "Masayoshi Oishi Releases The Cold Sato-san is Only Sweet to Me Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-cold-sato-san-is-only-sweet-to-me-anime-opening-song-music-video-masayoshi-oishi",
-      "description": "Crunchyroll streams the new romantic comedy series",
-      "pubDate": "2026-10-08T02:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0f4a16ad53/masayoshi-oishi-sugar-salt-mv.jpg"
-    },
-    {
-      "id": "cr-bi12aXN1YWw",
-      "title": "Chiikawa the Movie: The Secret of the Mermaid Island Releases New Main Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/chiikawa-the-movie-the-secret-of-the-mermaid-island-new-main-visual",
-      "description": "The film's total box office revenue has now reached 17.2 billion yen",
-      "pubDate": "2026-10-08T01:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x519/09bc7895f2/chiikawa-the-movie.jpg"
-    },
-    {
-      "id": "cr-LXZpZGVvcw",
-      "title": "KERORO☆ Anime Streams Opening, Ending Song Music Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/keroro-anime-opening-ending-song-music-videos",
-      "description": "The first episode is currently available on Crunchyroll",
-      "pubDate": "2026-10-08T00:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/248bfccd01/ano-keroro-opening-mv.jpg"
-    },
-    {
-      "id": "cr-cGFuc2lvbg",
-      "title": "Crunchyroll Manga Announces International Expansion Across Hundreds of Titles",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/7/crunchyroll-manga-international-expansion",
-      "description": "Manga now available to fans in the UK, Ireland, India, Australia and New Zealand",
-      "pubDate": "2026-10-07T21:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/20219091f9/crmanga_16x9.png"
-    },
-    {
-      "id": "ann-LjI0MjU5NQ",
-      "title": "Seven Seas Licenses Living With My New Cat, Zukyun x Bakyun, More Manga/Novels",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/seven-seas-licenses-living-with-my-new-cat-zukyun-x-bakyun-more-manga-novels/.242595",
-      "description": "Also: 3 new audiobooks",
-      "pubDate": "2026-10-07T20:40:02.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.10/242595/living-with-new-cat.jpg"
-    },
-    {
-      "id": "ann-LjI0MjU4OQ",
-      "title": "'I Don't Want to Be Killed by You, My Crown Prince!' Manga Enters Final Arc",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/i-dont-want-to-be-killed-by-you-my-crown-prince-manga-enters-final-arc/.242589",
-      "description": "Nao Oshiba debuted manga of Ema Okadachi's story in December 2021",
-      "pubDate": "2026-10-07T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/news.10/242589/crown-prince.jpg"
-    },
-    {
-      "id": "ann-LjI0MjU5NA",
-      "title": "The Last Blossom Film Rescreens in Theaters on October 13 After Previous Screenings Had Incorrectly Timed Subtitles",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/the-last-blossom-film-rescreens-in-theaters-on-october-13-after-previous-screenings-had-incorrectly-/.242594",
-      "description": "Film rescreens on same day film launches digitally on home video",
-      "pubDate": "2026-10-07T20:17:49.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.9/238340/bafkreicbrlpixi2pyzhmgzd5e6pasx5pwqad5ew4ng5xs3fhxpaqjuk3wa.webp"
-    },
-    {
-      "id": "ann-LjI0MjU5Mw",
-      "title": "Sony Pictures Entertainment Launches Crunchyroll Storyworks Division for Anime, Live-Action Adaptations",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593",
-      "description": "Crunchyroll's new division to work with Japanese creators, provide projects for HAYATE venture",
-      "pubDate": "2026-10-07T19:54:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
-    },
-    {
-      "id": "ann-MS8uMjQyNTky",
-      "title": "GKIDS Releases 100 Meters Anime Film on Blu-ray Disc on December 1",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592",
-      "description": "Collector's Edition includes 5 art cards, mini-poster",
-      "pubDate": "2026-10-07T19:02:47.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMB/youtube/kQ9_B2JascQ.jpg"
-    },
-    {
-      "id": "ann-LjI0MjU4OA",
-      "title": "Overlord [Shin] Sekai-hen Manga Goes on Hiatus Due to Artist Matsuki's Hospitalization",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/overlord-shin-sekai-hen-manga-goes-on-hiatus-due-to-artist-matsuki-hospitalization/.242588",
-      "description": "Matsuki debuted sequel manga in April 2024",
-      "pubDate": "2026-10-07T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/news.10/242588/overlord-new-world.jpg"
-    },
-    {
-      "id": "cr-Zy12aWRlbw",
-      "title": "Super Psychic Policeman Chojo Anime is On the Case in Creditless Opening Animation Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/7/super-psychic-policeman-chojo-anime-creditless-opening-video",
-      "description": "Crunchyroll streams adaptation based on Shun Numa's manga this fall",
-      "pubDate": "2026-10-07T17:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/79f64adab8/super_psychic_policeman_chojo_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MjU5MQ",
-      "title": "Marvel Tōkon: Fighting Souls Game's Trailer Reveals November 2 Release for Phoenix Cyclops DLC",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/marvel-tokon-fighting-souls-game-trailer-reveals-november-2-release-for-phoenix-cyclops-dlc/.242591",
-      "description": "X-Men '97 Cyclops' voice actor Ray Chase voices DLC character",
-      "pubDate": "2026-10-07T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR3/youtube/3y9_kwKo3Fs.jpg"
-    },
-    {
-      "id": "cr-Zy12aWRlb3M",
-      "title": "The Cold Sato-san is Only Sweet to Me Anime Shares Creditless Opening & Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/7/the-cold-sato-san-is-only-sweet-to-me-anime-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams adaptation based on romantic comedy light novel series",
-      "pubDate": "2026-10-07T17:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/5747b0d02b/the-salty-koharu-has-a-soft-spot-for-me-hero.png"
-    },
-    {
-      "id": "ann-bi8uMjQyNTg1",
-      "title": "Love Through a Prism Anime Gets Novel Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-07/love-through-a-prism-anime-gets-novel-adaptation/.242585",
-      "description": "Both volumes ship on December 4",
-      "pubDate": "2026-10-07T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.10/242585/love-through-a-prism-novel-2.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQyMzMw",
-      "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/dragon-quest-xi-s/echoes-of-an-elusive-age-definitive-edition/.242330",
-      "description": "An already beautiful game and a spectacular RPG... hobbled by Square Enix's bad business decisions.",
-      "pubDate": "2026-10-07T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT4/cms/game-review/242330/dq11sde.png.jpg"
     }
   ]
 };
