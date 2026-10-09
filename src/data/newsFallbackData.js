@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-09T03:15:25.557Z",
+  "lastUpdated": "2026-10-09T12:09:44.068Z",
   "items": [
+    {
+      "id": "ann-ci8uMjQyNjE3",
+      "title": "WEBTOON to Launch New Marvel Comics App in November",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/webtoon-to-launch-new-marvel-comics-app-in-november/.242617",
+      "description": "New app comes as Marvel Unlimited shuts down after 19 years in December",
+      "pubDate": "2026-10-09T11:23:19.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/news.10/242617/marvel-comics-app.jfif.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyNjIw",
+      "title": "The Ghost of Bongcheon-Dong Horror Webtoon Gets Live-Action Film Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620",
+      "description": "Series follows young woman who begins experiencing strange phenomena at an apartment complex in Seoul",
+      "pubDate": "2026-10-09T10:24:44.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/cms/news.10/242620/ht8apofayaavgir.jfif.jpeg"
+    },
+    {
+      "id": "ann-bi8uMjQyNTA4",
+      "title": "Chiikawa Anime Film Drops to #4, Star Detective Precure! Film to #5 in Japan",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/chiikawa-anime-film-drops-to-no.4-star-detective-precure-film-to-no.5-in-japan/.242508",
+      "description": "Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising rejoins top 10 at #7",
+      "pubDate": "2026-10-09T10:02:18.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.8/226689/madoka-magica-walpurgisnacht-rising-.jpg"
+    },
+    {
+      "id": "cr-Zm9yLTIwMjc",
+      "title": "How I Became King by Eating Monsters Anime Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/how-i-became-king-by-eating-monsters-anime-announced-for-2027",
+      "description": "Re:ZERO studio WHITE FOX produces the animation",
+      "pubDate": "2026-10-09T09:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/a192ca0169/how-i-became-king-by-eating-monsters-teaser-visual-horizontal.png"
+    },
+    {
+      "id": "ann-Ly4yNDI2Njg",
+      "title": "How I Became King by Eating Monsters Novels Get TV Anime by White Fox in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/how-i-became-king-by-eating-monsters-novels-get-tv-anime-by-white-fox-in-2027/.242668",
+      "description": "Series centers on prince who secretly hunts, eats monsters to avoid assassination",
+      "pubDate": "2026-10-09T09:41:12.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/news.10/242668/monster-kv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "White Fox Produces 'Monster no Niku wo Kutte Itara Oui ni Tsuita Ken' TV Anime Adaptation for 2027",
+      "link": "https://myanimelist.net/news/74804055?_location=rss",
+      "description": "Production company King Records opened an official website for a television anime adaptation of Daken's Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) light novel on Friday, revealing a teaser visual (pictured). The anime series is being produced by White Fox for a 2027 broadcast. Daken originally penned the adventure fantasy series on the Shoutsetsuka ni Narou website from January 2022 to January 2023. Micro Magazine began publishing the light novel...",
+      "pubDate": "2026-10-09T09:00:02.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791517737-ee34417371d7288d4bf8cadad0ee0e65.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjY2NQ",
+      "title": "Girls und Panzer Franchise Gets 2 New Games",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/girls-und-panzer-franchise-gets-2-new-games/.242665",
+      "description": "GuP: All-Star Tank Carnival releases on Switch in 2027; GuP: Bokosuka Rush releases on smartphones",
+      "pubDate": "2026-10-09T08:46:59.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJI/youtube/suBJu6dIiB8.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyNjY2",
+      "title": "All the News and Reviews from New York Comic Con 2026",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/.242666",
+      "description": "Thursday, October 8 News Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection Macross Frontier Anime's Blu-ray Disc Ships...",
+      "pubDate": "2026-10-09T08:27:50.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/convention/242666/nycc-temp.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyNjY3",
+      "title": "Crunchyroll, HAYATE, LINE Digital Frontier Partner to Produce Anime of 'Around' 15 Webtoons",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/crunchyroll-hayate-line-digital-frontier-partner-to-produce-anime-of-around-15-webtoons/.242667",
+      "description": "Crunchyroll to exclusively stream produced anime",
+      "pubDate": "2026-10-09T08:23:05.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MjY1MA",
+      "title": "Comisma Enters Agreement With Akili International to Produce Live-Action Film of Zukyun x Bakyun Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/comisma-enters-agreement-with-akili-international-to-produce-live-action-film-of-zukyun-x-bakyun-/.242650",
+      "description": "Robby Monroe to direct, script film based on Teito Yuzuriha's manga",
+      "pubDate": "2026-10-09T07:34:53.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.10/242595/zukyun-x-bakyun.jpg"
+    },
+    {
+      "id": "cr-NXRoLWFsYnVt",
+      "title": "Voice Actor Miku Ito Shares New Music Video \"Rotate\" from 5th Album \"39rpm\"",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/voice-actor-miku-ito-new-music-video-rotate-5th-album",
+      "description": "Ito's new album ranks No. 9 on the daily chart",
+      "pubDate": "2026-10-09T05:06:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1024x576/b77cb5c5b6/miku-ito-rotate-mv.png"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "The Exiled Heavy Knight Knows How to Game the System Cour 2 Anime Opening and Ending Song Music Videos Streamed",
+      "link": "https://crunchyroll.com/news/latest/2026/10/9/the-exiled-heavy-knight-knows-how-to-game-the-system-cour-2-anime-opening-and-ending-song-music-videos",
+      "description": "The GoHands-animated fantasy is available on Crunchyroll",
+      "pubDate": "2026-10-09T04:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6b29315d0e/tokoyami-towa-rewrite-mv.png"
+    },
+    {
+      "id": "ann-ZS8uMjQyNjMy",
+      "title": "Giant Street Fighter Arcade Cabinet Appears in New York's Times Square",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-08/giant-street-fighter-arcade-cabinet-appears-in-new-york-times-square/.242632",
+      "description": "Ken Masters actor Noah Centineo performs real-life Hell Wheel",
+      "pubDate": "2026-10-09T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/herald/202045/hudnwnzwkaao-vb.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI2NTE",
+      "title": "My Sword Saint Master Is Too Cute to Live With! Anime's Teaser Unveils Cast, January Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-08/my-sword-saint-master-is-too-cute-to-live-with-anime-teaser-unveils-cast-january-debut/.242651",
+      "description": "Ai Kakuma, Seena Hoshiki, Hitomi Ueda, Azusa Tsujimori, Tomoyo Takayanagi, Miyu Tomita join cast",
+      "pubDate": "2026-10-09T03:48:13.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/Bh4XDVDUZKc.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Reveals Main Cast, Teaser Promo for Winter 2027",
+      "link": "https://myanimelist.net/news/74804034?_location=rss",
+      "description": "The official website for the television anime adaptation of Kennoji and R_ringo's Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga unveiled the main cast and a teaser promotional video on Friday. The anime series will premiere in 2027 Cast Lisa Balsandra: Ai Kakuma (Mushoku Tensei: Isekai Ittara Honki Dasu) Eugene Dawson: Seena Hoshiki (Super no Ura de Yani Suu Futari) Cordelia Dawson: Hitomi Ueda (Uma Musum...",
+      "pubDate": "2026-10-09T03:36:00.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791516935-1124e9fa281d5ec1376f12ce269cdf19.jpeg"
+    },
+    {
+      "id": "ann-bS8uMjQyNjMw",
+      "title": "James Gunn, Big Sean Catch Up at Crunchyroll Anime Future Forum",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-08/james-gunn-big-sean-catch-up-at-crunchyroll-anime-future-forum/.242630",
+      "description": "Guardians of the Galaxy director, rapper were one-time neighbors",
+      "pubDate": "2026-10-09T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/interest.3/242630/james-gunn-crunchyroll-anime-future-forum.jpeg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "Animator Kenichirou Katsura Dies at 59",
@@ -186,7 +346,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "cr-cmVsZWFzZQ",
       "title": "Puella Magi Madoka Magica -Walpurgisnacht: Rising- Anime Film Releases in the United States January 16-19, 2027",
       "link": "https://crunchyroll.com/news/latest/2026/10/8/puella-magi-madoka-magica-walpurgisnacht-rising-anime-film-united-states-january-2027-release",
-      "description": "The Madoka Magica movie trilogy series also streams on Crunchyroll Novemeber 8",
+      "description": "The Madoka Magica movie trilogy series also streams on Crunchyroll November 8",
       "pubDate": "2026-10-08T22:49:00.000Z",
       "source": "Crunchyroll News",
       "category": "Latest News",
@@ -441,166 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKA/cms/news.9/239226/the-apothecary-diaries-movie.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Kimi wa Yotsuba no Clover' Ends in Next Chapter",
-      "link": "https://myanimelist.net/news/74802040?_location=rss",
-      "description": "The official X account for author Koushi announced on Thursday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga will end with its next chapter. The 106th and final chapter is scheduled to be released on Weekly Shounen Champion issue 2026 No.46 on October 15. The final chapter will have page count of two chapters. Koushi launched the romantic suspense manga in Weekly Shounen Champion magazine in July 2024. Akita Shoten published the 11th volume on October 7, with the 12th and...",
-      "pubDate": "2026-10-08T13:43:58.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791466876-9f2919a0025e1a73696c31d0063250e0.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Additional Cast for 'Marronnier Oukoku no Shichinin no Kishi' Announced",
-      "link": "https://myanimelist.net/news/74801996?_location=rss",
-      "description": "The official website for the television anime adaptation of Nao Iwamoto's Marronnier Oukoku no Shichinin no Kishi (The Seven Knights of the Marronnier Kingdom) manga announced the additional cast on Thursday. The anime premiered on October 3 at 6.25 p.m. on NHK E-Tele. Cast Justice: Natsuki Hanae (Oni no Hanayome) Zoe: Mitsuki Saiga (Tongari Boushi no Atelier) Colette: Miyuri Shimabukuro (Yomi no Tsugai) Kiyoko Sayama (Fumetsu no Anata e Season 2) is directing the anime at J.C.Staff, with...",
-      "pubDate": "2026-10-08T13:19:31.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791465598-4cdf88b26c55fc037317b128b0c05fe2.jpeg"
-    },
-    {
-      "id": "cr-am9lLW9zYWtp",
-      "title": "Bless Anime Casts Yoshiki Nakajima as Joe Osaki",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/bless-anime-casts-yoshiki-nakajima-as-joe-osaki",
-      "description": "New character trailer published for upcoming series based on Yukino Sonoyama's manga",
-      "pubDate": "2026-10-08T13:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/654c1c489c/bless_joe_osaki_header.jpg"
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Adds Three More Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-seven-knights-of-the-marronnier-kingdom-anime-new-cast-members",
-      "description": "Adaptation based on josei manga by Nao Iwamoto is currently broadcasting in Japan",
-      "pubDate": "2026-10-08T13:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/4370f52345/the_seven_knights_of_the_marronnier_kingdom_header.jpg"
-    },
-    {
-      "id": "cr-LXJlbGVhc2U",
-      "title": "Crunchyroll to Bring The Apothecary Diaries: The Late Lady’s Treasure Anime Film to Theaters",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/8/the-apothecary-diaries-the-late-ladys-treasure-anime-film-crunchyroll-worldwide-release",
-      "description": "Crunchyroll announces release for North America and international regions",
-      "pubDate": "2026-10-08T13:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1950x1096/8c6570a11e/the-apothecary-diaries-anime-movie.png"
-    },
-    {
-      "id": "cr-dC1tZW1iZXJz",
-      "title": "HORROR COLLECTOR Anime Reveals Three New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/horror-collector-anime-three-cast-members",
-      "description": "Crunchyroll streams adaptation based on novel series beginning October 10",
-      "pubDate": "2026-10-08T12:59:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/3d58655d21/horror-collector.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Firefly Wedding Anime Introduces Shinpei Goto in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/firefly-wedding-shinpei-goto-character-trailer",
-      "description": "Crunchyroll streams adaptation of Oreco Tachibana's manga beginning October 9",
-      "pubDate": "2026-10-08T12:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e3b870ebfd/firefly_wedding_shinpei_goto_header.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kyoufu Collector' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74801885?_location=rss",
-      "description": "The official website for the television anime adaptation of Midori Satou's Kyoufu Collector (Horror Collector) novel announced three additional cast members on Thursday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Momo: Sae Hiratsuka (Osananajimi to wa Love Comedy ni Naranai) Raita: Ryouta Oosaka (Hataraku Maou-sama!) Sachiko Konno: Hana Hishikawa (Sayonara Lara) Yuki Inaba (Kaminaki Sekai no Kamisama Katsudou) is directing the anime and composing th...",
-      "pubDate": "2026-10-08T11:35:42.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791459289-63c5bfbe8b206a38aa5ad46158f42be5.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjYzNA",
-      "title": "Bless TV Anime Casts Yoshiki Nakajima",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/bless-tv-anime-casts-yoshiki-nakajima/.242634",
-      "description": "Nakajima vioces Joe Osaki in series debuting in January 2027",
-      "pubDate": "2026-10-08T11:18:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gME/youtube/z9lYb0lBwko.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hone Dragon no Mana Musume' Reveals Main Cast, First Promo, 2027 Debut",
-      "link": "https://myanimelist.net/news/74801849?_location=rss",
-      "description": "The official website for the television anime adaptation of Ichi Yukishiro's Hone Dragon no Mana Musume (The Skull Dragon's Precious Daughter) web manga revealed the main cast, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere in 2027. Voice actors Kana Hanazawa (Angel Beats!) and Kazuhiko Inoue (Natsume Yuujinchou) are starring as Eve and Nemu, respectively. Kuniyasu Nishina (Isekai Ojisan episode director) is helming the anime at Dog...",
-      "pubDate": "2026-10-08T11:04:04.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791457372-5a2661d4fec789ae7951d9f069779d9c.jpeg"
-    },
-    {
-      "id": "ann-Ny8uMjQyNjMx",
-      "title": "The Vermilion Mask Anime's 2nd Part Debuts in April 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631",
-      "description": "Anime's 1st part premieres on Saturday",
-      "pubDate": "2026-10-08T10:42:34.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.9/241641/vermilion-mask-visual.jpg"
-    },
-    {
-      "id": "cr-cmlsLTIwMjc",
-      "title": "The Vermilion Mask Anime Confirms Cour 2 Broadcast in April 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-vermilion-mask-anime-confirms-cour-2-broadcast-in-april-2027",
-      "description": "The first cour begins streaming on Crunchyroll this week",
-      "pubDate": "2026-10-08T10:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/dc6ad15b1f/the-vermilion-mask.jpg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "The Skull Dragon's Precious Daughter Anime Trailer Reveals 2027 Release Date, Main Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/the-skull-dragons-precious-daughter-anime-2027-release-date-main-trailer-visual-cast",
-      "description": "A main visual was also unveiled today",
-      "pubDate": "2026-10-08T10:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/d091fb2d47/the-skull-dragons-precious-daughter.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyNjIy",
-      "title": "Skull Dragon's Precious Daughter Anime Unveils 1st Promo Video, Main Cast, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/skull-dragon-precious-daughter-anime-unveils-1st-promo-video-main-cast-2027-debut/.242622",
-      "description": "Kana Hanazawa, Kazuhiko Inoue star in Dōga Kōbō anime",
-      "pubDate": "2026-10-08T10:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.10/242622/honethumb.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyNjEy",
-      "title": "Horror Collector Anime Adds 3 Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/horror-collector-anime-adds-3-cast-members/.242612",
-      "description": "Sae Hiratsuka, Ryōta Ōsaka, Hana Hishikawa join cast",
-      "pubDate": "2026-10-08T07:09:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI1/cms/news.10/242612/raita.png.jpg"
-    },
-    {
-      "id": "cr-aS13YXRhbWU",
-      "title": "Tsunomaki Watame Shares Nia Liston: The Merciless Maiden Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/nia-liston-the-merciless-maiden-anime-opening-song-music-video-tsunomaki-watame",
-      "description": "The CD single will be available on December 23",
-      "pubDate": "2026-10-08T05:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b0f3ebf17f/tsunomaki-watame-respawn-mv.png"
     }
   ]
 };
