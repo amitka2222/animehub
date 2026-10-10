@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-10-10T16:26:18.204Z",
+  "lastUpdated": "2026-10-10T20:46:00.902Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI2MTA",
+      "title": "Japan's Video Game Rankings, September 21-27",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japan-video-game-rankings-september-21-27/.242610",
+      "description": "Derby Stallion 2 debuts at #1",
+      "pubDate": "2026-10-10T19:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYH/cms/news.10/242610/derbystallion2.jpg"
+    },
+    {
+      "id": "cr-ci1rZXktYXJ0",
+      "title": "One-Punch Man Season 3 Part 2 Anime Premieres in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/one-punch-man-season-3-part-2-anime-january-2027-premiere-trailer-key-art",
+      "description": "A new trailer and key are were also revealed for the continuation of Season 3",
+      "pubDate": "2026-10-10T18:58:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/7e2159d517/onepunch_man_saitama_flashy_flash_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1Mzk",
+      "title": "Japan's Video Game Rankings, September 14-20",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japan-video-game-rankings-september-14-20/.242539",
+      "description": "Fire Emblem: Fortune's Weave Switch 2 game debuts at #1",
+      "pubDate": "2026-10-10T17:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIA/cms/news.10/242539/fortune.jpg"
+    },
     {
       "id": "ann-cy8uMjQyMTkx",
       "title": "The Ogre's Bride Anime Series Review",
@@ -519,7 +549,7 @@
       "pubDate": "2026-10-09T03:48:13.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/Bh4XDVDUZKc.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -539,7 +569,7 @@
       "pubDate": "2026-10-09T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/interest.3/242630/james-gunn-crunchyroll-anime-future-forum.jpeg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -570,36 +600,6 @@
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Unveils Additional Cast, Opening Theme, Second Promo",
-      "link": "https://myanimelist.net/news/74803756?_location=rss",
-      "description": "The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation of Haka Tokura and Shin Arakawa's Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga on Thursday. The anime series will be broadcast on Tokyo MX, MBS, and BS11 on January 4, 2027. Cast Abel: Haruki Ishiya (Marriaget...",
-      "pubDate": "2026-10-09T01:27:39.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791509221-878adf917b7adb21e51b8f4e8762cae0.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI2NDc",
-      "title": "Magical Buffs Anime's Trailer Unveils More Cast, LiSA's Opening Song, Early Netflix Streaming, January 4 TV Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/magical-buffs-anime-trailer-unveils-more-cast-lisa-opening-song-early-netflix-streaming-january-4-/.242647",
-      "description": "TK (Ling Tosite Sigure) pens \"Ecstatic Buffer\" song",
-      "pubDate": "2026-10-09T01:17:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXNoYWxsbQ",
-      "title": "Shallm to Perform Now That We Draw Anime Opening Song",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/now-that-we-draw-anime-opening-song-shallm",
-      "description": "The anime series is set to premiere in January 2027",
-      "pubDate": "2026-10-09T01:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/5c6fe8528a/now-that-we-draw-opening-announcement.jpg"
     }
   ]
 }
