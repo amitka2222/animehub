@@ -1,11 +1,61 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-09T21:54:58.746Z",
+  "lastUpdated": "2026-10-10T02:54:57.038Z",
   "items": [
+    {
+      "id": "ann-ZC8uMjQyNjgx",
+      "title": "Billy Bat Manga Wins Harvey Award",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
+      "description": "Series had competed against Land, My Gorilla Family, Miss Ruki, more works for Best Manga award",
+      "pubDate": "2026-10-10T02:51:40.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRB/cms/news.9/237914/billy-bat-1-cover.jpg"
+    },
+    {
+      "id": "cr-ZGVvLWFzYWth",
+      "title": "Asaka Drops Laid-Back Camp Anime Opening Song's Self Cover Version Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/laid-back-camp-anime-opening-song-self-cover-version-music-video-asaka",
+      "description": "The original version was released in 2018",
+      "pubDate": "2026-10-10T02:12:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9238840bfa/asaka-shiny-days-remake-mv.jpg"
+    },
+    {
+      "id": "cr-ZGVvLXRvdGE",
+      "title": "Tota Shares To You in the Beyond Anime Film Theme Song Collab Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/to-you-in-the-beyond-anime-film-theme-song-collab-music-video-tota",
+      "description": "The To You in the Beyond anime film opened in Japan on Friday",
+      "pubDate": "2026-10-10T01:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b3c714861b/tota-olive-collab-mv.png"
+    },
+    {
+      "id": "cr-bml3YWxpbHk",
+      "title": "HoneyWorks feat. Hakoniwalily Releases The World's Strongest Witch Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/the-worlds-strongest-witch-anime-opening-song-music-video-honeyworks-hakoniwalily",
+      "description": "The new fantasy series is available on Crunchyroll",
+      "pubDate": "2026-10-10T00:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/06f15514cd/hakoniwalily-eikyouryoku-idol-mv.jpg"
+    },
+    {
+      "id": "ann-LjI0MjY3Nw",
+      "title": "GROTESQQQUE Anime Film Review",
+      "link": "https://www.animenewsnetwork.com/review/grotesqqque/anime-film/.242677",
+      "description": "Atsushi Nishigori’s three-part anthology film crams all his otaku obsessions into a feast of wild eye candy.",
+      "pubDate": "2026-10-09T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCH/cms/review.2/242677/grotesqqque.png.jpg"
+    },
     {
       "id": "ann-MC8uMjQyNTE5",
       "title": "North American Anime, Manga Releases, October 4-10",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-05/north-american-anime-manga-releases-october-4-10/.242519",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519",
       "description": "Devil Survivor 2: The Animation anime; The Apothecary Diaries: Xiaolan's Story, My Journey to Her, Blue Lock Full Color Selection manga ship",
       "pubDate": "2026-10-09T21:00:00.000Z",
       "source": "Anime News Network",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x539/0b2d79d9cc/eat-man_the_over_order_header2.jpg"
-    },
-    {
-      "id": "ann-LjI0MjYyOA",
-      "title": "JH's The Boxer Webtoon Gets TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/jh-the-boxer-webtoon-gets-tv-anime/.242628",
-      "description": "New Japanese anime studio breccia, Korean animation studio Studio Jemi to animated series",
-      "pubDate": "2026-10-08T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/news.10/242628/theboxer-1009-thumbnail.png.jpg"
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! Anime Premieres January 4, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/magical-buffs-anime-january-4-2027-premiere-trailer-visual",
-      "description": "A new trailer and visual was released during NYCC",
-      "pubDate": "2026-10-08T21:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1517x854/e9c5d4fa3b/magical-buffs.png"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Everyone's Darling Has a Secret Anime Releases Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/everyones-darling-has-a-secret-anime-teaser-trailer",
-      "description": "Crunchyroll will stream the anime when it premieres in April 2027",
-      "pubDate": "2026-10-08T21:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1519x854/0358560053/everyones-darling-has-a-secret-teaser-trailer.png"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Berserk of Gluttony Season 2 Anime Releases Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/8/berserk-of-gluttony-season-2-anime-teaser-trailer",
-      "description": "The newest season of Berserk of Gluttony premieres in 2027",
-      "pubDate": "2026-10-08T21:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/759f275339/berserk_of_gluttony_season2_header.jpg"
-    },
-    {
-      "id": "ann-OS8uMjQyNjA3",
-      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Screens in N. America on January 16-19",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/madoka-magica-walpurgisnacht-rising-anime-film-screens-in-n-america-on-january-16-19/.242607",
-      "description": "Madoka Magica recap films, Rebellion also get new single UHD BD release on October 15",
-      "pubDate": "2026-10-08T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/youtube/rSe4mqP1Mj0.jpg"
     }
   ]
 };
