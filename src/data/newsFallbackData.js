@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-10T11:27:00.797Z",
+  "lastUpdated": "2026-10-10T16:26:18.204Z",
   "items": [
+    {
+      "id": "ann-cy8uMjQyMTkx",
+      "title": "The Ogre's Bride Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/the-ogre-bride/anime-series/.242191",
+      "description": "Yuzu seems passive, but she's really a survivor stumbling her way into the light.",
+      "pubDate": "2026-10-10T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP4/cms/review.2/242191/ogre-s-bride-anime.png.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyNjg0",
+      "title": "Japanese Animation TV Ranking, September 21-27",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684",
+      "description": "Detective Conan: The Counterfeit Crime Case of Ultra 30 special earns 8.6% rating",
+      "pubDate": "2026-10-10T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY8/encyc/A38196-2030294674.1789213930.jpg"
+    },
+    {
+      "id": "cr-YS10by1jYXN0",
+      "title": "Millennium Family Anime Adds Taihi Kimura to Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/millennium-family-anime-adds-taihi-kimura-to-cast",
+      "description": "Kimura will voice Benfield family’s third son, Noel",
+      "pubDate": "2026-10-10T14:51:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/44e7c06c44/mill-fam-noel.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "Firefly Wedding Anime Shows Off Creditless Opening, Ending",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/firefly-wedding-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams adaptation based on Oreco Tachibana's manga",
+      "pubDate": "2026-10-10T13:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/36c1f6e3ce/firefly_wedding_satoko_header.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW9z",
+      "title": "Overgeared Anime Shares Creditless Opening & Ending Animation Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/overgeared-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams adaption based on Saenal's web novel series",
+      "pubDate": "2026-10-10T13:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a0c60c1411/overgeared_header.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQyNDA1",
+      "title": "Japanese Animation TV Ranking, September 14-20",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-14-20/.242405",
+      "description": "That Time I Got Reincarnated as a Slime season 4 earns 3.1% rating",
+      "pubDate": "2026-10-10T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/encyc/A33626-804666185.1772502151.jpg"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "Dr. STONE TERRAFORMING Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/dr-stone-terraforming-anime-announced",
+      "description": "The new anime will adapt the manga's epilogue chapter",
+      "pubDate": "2026-10-10T13:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/fbef32f676/dr-stone-science-future.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "New 'Dr. Stone' Anime Announced",
+      "link": "https://myanimelist.net/news/74808029?_location=rss",
+      "description": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an illustrations to commemorate the announcement (pictured right). The new anime will adapt the Terraforming one-shot episode included on volume 27 of the original manga. The story is set after the conclusion of the main ser...",
+      "pubDate": "2026-10-10T13:05:30.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg"
+    },
+    {
+      "id": "ann-bC8uMjQyNjkw",
+      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+      "description": "Based on story in 27th manga volume",
+      "pubDate": "2026-10-10T12:57:58.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/herald/202075/news-2.jpg"
+    },
     {
       "id": "ann-YS8uMjQyNjgz",
       "title": "Millennium Family TV Anime Casts Taihi Kimura",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T01:28:52.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/youtube/rzzXtu4QMCY.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -500,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T01:17:31.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gML/youtube/yqvAv5li9Pw.jpg"
+      "image": null
     },
     {
       "id": "cr-LXNoYWxsbQ",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/5c6fe8528a/now-that-we-draw-opening-announcement.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Ghost of Tsushima Kuroudo Kitan' Announces Additional Cast, Staff, 2028 Delay",
-      "link": "https://myanimelist.net/news/74803695?_location=rss",
-      "description": "The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions' Ghost of Tsushima video game on Thursday. The anime has been delayed to 2028 from its originally planned 2027 premiere. Mayumi Saco (Vinland Saga Season 2) and Shinya Fukumatsu (Tondemo Skill de Isekai Hourou Meshi) are joining the cast. Their respective characters have yet to be revealed. Staff Script: Satoshi Maejima (Renji Ooki) (Bubble) Character D...",
-      "pubDate": "2026-10-09T00:55:31.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507546-84f6958ab1663bfaa47fe5eb007cb601.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Teenage Mercenary' Reveals Main Staff, 2027 Debut",
-      "link": "https://myanimelist.net/news/74803693?_location=rss",
-      "description": "The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC's Teenage Mercenary (Nyuugaku Youhei) webtoon on Thursday. The anime series will premiere in 2027. Staff Director, Series Composition: Manabu Ono (Dead Mount Death Play) Character Design, Chief Animation Director: Kouji Haneda (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Music: Hiroyuki Sawano (Shingeki no Kyoji...",
-      "pubDate": "2026-10-09T00:55:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791507244-4f70bcfac3a3b20df86b55650dc1fe4f.jpeg"
-    },
-    {
-      "id": "cr-aW9uLTIwMjc",
-      "title": "The Remarried Empress Anime Adaptation Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/the-remarried-empress-anime-adaptation-2027",
-      "description": "Crunchyroll will stream the anime when it premieres next year",
-      "pubDate": "2026-10-09T00:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1519x727/804e1e5dc2/the-remarried-empress.png"
-    },
-    {
-      "id": "ann-dC8uMjQyNjQ2",
-      "title": "J.C. Staff Animates Teenage Mercenary Webtoon for 2027 Broadcast",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/j.c-staff-animates-teenage-mercenary-webtoon-for-2027-broadcast/.242646",
-      "description": "SAO: Alicization's Manabu Ono helms, writes anime with music by Hiroyuki Sawano",
-      "pubDate": "2026-10-09T00:39:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/FB0yqIHGWSs.jpg"
-    },
-    {
-      "id": "cr-OC1yZWxlYXNl",
-      "title": "Ghost of Tsushima Legends Anime Reveals 2028 Release",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/ghost-of-tsushima-legends-anime-2028-release",
-      "description": "More staff and cast for the anime was also announced",
-      "pubDate": "2026-10-09T00:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1232x848/b46b84ebc7/ghost-of-tsushima-legends.png"
-    },
-    {
-      "id": "ann-Ny8uMjQyNjQ1",
-      "title": "The Remarried Empress Webtoon Gets TV Anime From TROYCA in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/the-remarried-empress-webtoon-gets-tv-anime-from-troyca-in-2027/.242645",
-      "description": "Yoko Hikasa, Ryōhei Kimura, Tomoaki Maeno, Reina Ueda star in Alphatart, HereLee, SUMPUL's romantic fantasy",
-      "pubDate": "2026-10-09T00:01:36.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/cms/news.10/242645/hero-navier-pc.webp"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kininatteru Hito ga Otoko ja Nakatta' Reveals Additional Cast, Staff, First Promo",
-      "link": "https://myanimelist.net/news/74803545?_location=rss",
-      "description": "The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adaptation of Sumiko Arai's Kininatteru Hito ga Otoko ja Nakatta (The Guy She Was Interested in Wasn't a Guy at All) manga on Thursday. The anime is scheduled to premiere on January 8 at 11:00 p.m. on NTV's Friday Anime Night timeslot. Cast Joe: Kenjirou Tsuda (Gokushufudou) Narita: Tasuku Hatanaka (Boku no Hero Academia) Chizuru: Yurina Amami (Mika...",
-      "pubDate": "2026-10-09T00:00:35.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791504017-6a963be00373ccc0140d65a21cf2508c.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Webtoon 'The Boxer' Gets TV Anime",
-      "link": "https://myanimelist.net/news/74803494?_location=rss",
-      "description": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong's The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray Dogs) K: Tomokazu Seki (Jujutsu Kaisen) Ryu Baeksan: Kensho Ono (Vinland Saga) Staff Director: Takehiro Kubota (Watashi no Shiawase na Kekkon), Won-yeong Kang (Cardfight!! Vanguard: overDress main animation) Charac...",
-      "pubDate": "2026-10-08T23:43:05.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502423-7eaf732e83edf476ff060386472e9aaa.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Webtoon 'The Remarried Empress' Gets TV Anime in 2027",
-      "link": "https://myanimelist.net/news/74803489?_location=rss",
-      "description": "The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul's The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and special promotional video. The anime series will premiere in 2027. Cast Navier: Youko Hikasa (High School DxD) Heinrey: Ryouhei Kimura (Grand Blue) Sovieshu: Tomoaki Maeno (Akatsuki no Yona) Rashta: Reina Ueda (Chainsaw...",
-      "pubDate": "2026-10-08T23:41:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791502829-d725b283515855700a2a341f7d6ac536.jpeg"
     }
   ]
 };
