@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-10T20:46:00.902Z",
+  "lastUpdated": "2026-10-11T02:24:03.823Z",
   "items": [
+    {
+      "id": "ann-MS8uMjQyNjg4",
+      "title": "Dragon Ball Super: Beerus Also Streams on Hulu in U.S. on October 11",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/dragon-ball-super-beerus-also-streams-on-hulu-in-u.s-on-october-11/.242688",
+      "description": "Crunchyroll to stream anime on October 11, Netflix on October 17",
+      "pubDate": "2026-10-11T01:59:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB1/cms/news.9/241278/dbsbe-surgekv-en.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQyNjk5",
+      "title": "Blazblue: CentralFiction Fighting Game Gets Release on PS5",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/blazblue-centralfiction-fighting-game-gets-release-on-ps5/.242699",
+      "description": "PS5 version will have rollback netcode, cross-play with PC, 4 new text languages",
+      "pubDate": "2026-10-11T01:46:17.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.10/242699/bbcf-ps5.jfif.jpeg"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "SSS-Class Revival Hunter Anime Unveils Teaser Trailer, More Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/11/sss-class-revival-hunter-anime-teaser-trailer-additional-cast-ending-theme-song",
+      "description": "Crunchyroll will stream the series as it airs",
+      "pubDate": "2026-10-11T01:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b2dc634921/sss-class-revival-hunter.jpg"
+    },
+    {
+      "id": "ann-LjI0MjY5Nw",
+      "title": "Japanese Studio Creative Freaks to Lead Production on Sentinel 6 Anime Executive Produced by NBA, NFL Players Michael Carter-Williams, Jamaal Williams",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-studio-creative-freaks-to-lead-production-on-sentinel-6-anime-executive-produced-by-nba-/.242697",
+      "description": "\"Afro-futurist sci-fi adventure\" series planned to have 11-12 episodes",
+      "pubDate": "2026-10-11T01:05:04.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/youtube/0GvvZ9p_eEQ.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "The Apothecary Diaries: The Late Lady's Treasure Anime Film Pairs Maomao and Jinshi in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/11/the-apothecary-diaries-the-late-ladys-treasure-anime-film-maomao-jinshi-character-trailer",
+      "description": "Crunchyroll will release the film in theaters worldwide",
+      "pubDate": "2026-10-11T00:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/7635ea51ba/the-apothecary-diaries-the-late-ladys-treasure.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "New 'Naruto' Manga 'Shadow Rising' Announced",
+      "link": "https://myanimelist.net/news/74809691?_location=rss",
+      "description": "The Naruto: What's Next? panel at New York Comic Con 2026 announced on Saturday that Masashi Kishimoto will launch a new Naruto manga titled Naruto: Shadow Rising, revealing a super teaser announcement video. The new series is part of Project Rasengan, a three-year timeline of upcoming releases within the Naruto franchise. Currently announced projects include a crossover anime series, a mobile game, and a card game. More information on the new manga will be revealed at Jump Festa 2027. Kis...",
+      "pubDate": "2026-10-11T00:20:07.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791677791-8328da60ba359484b8c2ee6cd5e69ae8.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Naruto x Ninkuu' Crossover Anime Announced",
+      "link": "https://myanimelist.net/news/74809610?_location=rss",
+      "description": "The \"Naruto: What's Next?\" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto's Naruto manga and Kouji Kiriyama's Ninkuu manga on Saturday. The Naruto franchise's official website opened a new page, revealing the main cast, staff, theme songs, a teaser visual (pictured above), and teaser promotional video. Cast Naruto Uzumaki: Junko Takeuchi (Hunter x Hunter) Fuusuke: Rica Matsumoto (Pokemon) Sasuke Uchiha...",
+      "pubDate": "2026-10-10T23:37:52.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791675406-01b0957a6de16edb8c843d07ffc9281d.jpeg"
+    },
+    {
+      "id": "ann-LjI0MjY5Ng",
+      "title": "One-Punch Man Season 3 Anime's 2nd Part Reveals January 2027 Debut in Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/one-punch-man-season-3-anime-2nd-part-reveals-january-2027-debut-in-video/.242696",
+      "description": "JAM Project returns to perform new opening theme",
+      "pubDate": "2026-10-10T23:32:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS9/youtube/iOFHoZWeEw4.jpg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "New \"Naruto Shadow Rising\" Manga, \"Naruto x Ninku\" Limited Anime Series Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/10/naruto-shadow-rising-manga-ninku-tv-anime-limited-series-announced",
+      "description": "The announcements followed at the Naruto New York Comic Con 2026 panel",
+      "pubDate": "2026-10-10T23:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1519x851/7e5201991d/naruto-shadow-rising-manga.png"
+    },
+    {
+      "id": "ann-cy8uMjQyNjk0",
+      "title": "Naruto Mobile Game to Get Worldwide Release; Naruto Card Game Reveals Demo, Release Dates",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-mobile-game-to-get-worldwide-release-naruto-card-game-reveals-demo-release-dates/.242694",
+      "description": "Studio Pierrot produces trailer for card game, launching officially in June 2027",
+      "pubDate": "2026-10-10T22:37:38.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/youtube/JbceQaDgeKU.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI2OTU",
+      "title": "Masashi Kishimoto to Launch New Naruto Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/masashi-kishimoto-to-launch-new-naruto-manga/.242695",
+      "description": "More details to be revealed at Jump Festa '27 event on December 19-20",
+      "pubDate": "2026-10-10T22:25:07.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/youtube/B5QJZFYQ2Qs.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyNjkz",
+      "title": "Naruto Gets Crossover Anime With Ninku Franchise",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-gets-crossover-anime-with-ninku-franchise/.242693",
+      "description": "Boruto, Ninku director Noriyuki Abe directs crossover series",
+      "pubDate": "2026-10-10T22:15:19.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/cms/news.10/242693/naruto-ninku-visual.jfif.jpeg"
+    },
     {
       "id": "ann-Ly4yNDI2MTA",
       "title": "Japan's Video Game Rankings, September 21-27",
@@ -440,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T10:02:18.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.8/226689/madoka-magica-walpurgisnacht-rising-.jpg"
+      "image": null
     },
     {
       "id": "cr-Zm9yLTIwMjc",
@@ -460,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T09:41:12.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/news.10/242668/monster-kv.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -480,126 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T08:46:59.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJI/youtube/suBJu6dIiB8.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQyNjY2",
-      "title": "All the News and Reviews from New York Comic Con 2026",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/.242666",
-      "description": "Thursday, October 8 News Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection Macross Frontier Anime's Blu-ray Disc Ships...",
-      "pubDate": "2026-10-09T08:27:50.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/convention/242666/nycc-temp.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyNjY3",
-      "title": "Crunchyroll, HAYATE, LINE Digital Frontier Partner to Produce Anime of 'Around' 15 Webtoons",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/crunchyroll-hayate-line-digital-frontier-partner-to-produce-anime-of-around-15-webtoons/.242667",
-      "description": "Crunchyroll to exclusively stream produced anime",
-      "pubDate": "2026-10-09T08:23:05.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjY1MA",
-      "title": "Comisma Enters Agreement With Akili International to Produce Live-Action Film of Zukyun x Bakyun Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/comisma-enters-agreement-with-akili-international-to-produce-live-action-film-of-zukyun-x-bakyun-/.242650",
-      "description": "Robby Monroe to direct, script film based on Teito Yuzuriha's manga",
-      "pubDate": "2026-10-09T07:34:53.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.10/242595/zukyun-x-bakyun.jpg"
-    },
-    {
-      "id": "cr-NXRoLWFsYnVt",
-      "title": "Voice Actor Miku Ito Shares New Music Video \"Rotate\" from 5th Album \"39rpm\"",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/voice-actor-miku-ito-new-music-video-rotate-5th-album",
-      "description": "Ito's new album ranks No. 9 on the daily chart",
-      "pubDate": "2026-10-09T05:06:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x576/b77cb5c5b6/miku-ito-rotate-mv.png"
-    },
-    {
-      "id": "cr-LXZpZGVvcw",
-      "title": "The Exiled Heavy Knight Knows How to Game the System Cour 2 Anime Opening and Ending Song Music Videos Streamed",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/the-exiled-heavy-knight-knows-how-to-game-the-system-cour-2-anime-opening-and-ending-song-music-videos",
-      "description": "The GoHands-animated fantasy is available on Crunchyroll",
-      "pubDate": "2026-10-09T04:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6b29315d0e/tokoyami-towa-rewrite-mv.png"
-    },
-    {
-      "id": "ann-ZS8uMjQyNjMy",
-      "title": "Giant Street Fighter Arcade Cabinet Appears in New York's Times Square",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-08/giant-street-fighter-arcade-cabinet-appears-in-new-york-times-square/.242632",
-      "description": "Ken Masters actor Noah Centineo performs real-life Hell Wheel",
-      "pubDate": "2026-10-09T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDH/herald/202045/hudnwnzwkaao-vb.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI2NTE",
-      "title": "My Sword Saint Master Is Too Cute to Live With! Anime's Teaser Unveils Cast, January Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/my-sword-saint-master-is-too-cute-to-live-with-anime-teaser-unveils-cast-january-debut/.242651",
-      "description": "Ai Kakuma, Seena Hoshiki, Hitomi Ueda, Azusa Tsujimori, Tomoyo Takayanagi, Miyu Tomita join cast",
-      "pubDate": "2026-10-09T03:48:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu' Reveals Main Cast, Teaser Promo for Winter 2027",
-      "link": "https://myanimelist.net/news/74804034?_location=rss",
-      "description": "The official website for the television anime adaptation of Kennoji and R_ringo's Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga unveiled the main cast and a teaser promotional video on Friday. The anime series will premiere in 2027 Cast Lisa Balsandra: Ai Kakuma (Mushoku Tensei: Isekai Ittara Honki Dasu) Eugene Dawson: Seena Hoshiki (Super no Ura de Yani Suu Futari) Cordelia Dawson: Hitomi Ueda (Uma Musum...",
-      "pubDate": "2026-10-09T03:36:00.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791516935-1124e9fa281d5ec1376f12ce269cdf19.jpeg"
-    },
-    {
-      "id": "ann-bS8uMjQyNjMw",
-      "title": "James Gunn, Big Sean Catch Up at Crunchyroll Anime Future Forum",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-08/james-gunn-big-sean-catch-up-at-crunchyroll-anime-future-forum/.242630",
-      "description": "Guardians of the Galaxy director, rapper were one-time neighbors",
-      "pubDate": "2026-10-09T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Animator Kenichirou Katsura Dies at 59",
-      "link": "https://myanimelist.net/news/74803941?_location=rss",
-      "description": "Kenichirou Katsura, known for his character designs for Macross 7 and Knight's &amp; Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating that Katsura died while undergoing medical treatment. \"Animator Kenichirou Katsura died on September 30 while receiving medical treatment. We offer our deepest gratitude to the fans who loved the works and...",
-      "pubDate": "2026-10-09T02:45:15.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791513856-c6ddbaa843da3644d08a11a8f2e502e2.png"
-    },
-    {
-      "id": "cr-LWtvdGFuaQ",
-      "title": "Kotani Releases Magic Repo Man Anime Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/magic-repo-man-anime-ending-song-music-video-kotani",
-      "description": "Crunchyroll streams the SynergySP-animated new fantasy series",
-      "pubDate": "2026-10-09T01:56:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x581/e0db3d93aa/kotani-iremono-mv.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyNjQ4",
-      "title": "Everyone's Darling Has a Secret Anime's 1st Teaser Previews Voice Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-08/everyone-darling-has-a-secret-anime-1st-teaser-previews-voice-cast/.242648",
-      "description": "Crunchyroll streams April 2027 anime",
-      "pubDate": "2026-10-09T01:28:52.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
