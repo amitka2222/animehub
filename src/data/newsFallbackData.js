@@ -1,7 +1,217 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-12T02:48:31.446Z",
+  "lastUpdated": "2026-10-12T13:38:18.571Z",
   "items": [
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Tekken 8 Kicks Off Roger Jr. DLC Early Access on November 11",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/tekken-8-roger-jr-dlc-release-date-gameplay-trailer",
+      "description": "Full release for everyone else follows on November 16",
+      "pubDate": "2026-10-12T13:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1024x576/01cba89d14/tekken-8-roger-jr.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQyNzIy",
+      "title": "Spy×Family, Jujutsu Kaisen, Witch Hat Atelier Manga Rank on NYT October Bestseller List",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-12/spy-family-jujutsu-kaisen-witch-hat-atelier-manga-rank-on-nyt-october-bestseller-list/.242722",
+      "description": "The 16th volume of Tatsuya Endo's Spy x Family manga ranked at #6 on The New York Times' monthly Graphic Books and Manga bestseller list released in early...",
+      "pubDate": "2026-10-12T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/daily-briefs/242722/81mtacgclfl.sl1500.jpg"
+    },
+    {
+      "id": "ann-ZC8uMjQxODEy",
+      "title": "Part of Her World: Anime and Manga Visions of The Little Mermaid",
+      "link": "https://www.animenewsnetwork.com/feature/2026-10-12/part-of-her-world-anime-and-manga-visions-of-the-little-mermaid/.241812",
+      "description": "Rebecca swims through anime and manga history to reach the depths of its mermaid fascination.",
+      "pubDate": "2026-10-12T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/cms/feature/241812/mermaid-melody.jpg"
+    },
+    {
+      "id": "cr-Zy12aWRlb3M",
+      "title": "Dragon Ball Super: Beerus Anime Shares Creditless Opening & Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/dragon-ball-super-beerus-anime-creditless-opening-ending-videos",
+      "description": "Latest Dragon Ball TV anime now streaming on Crunchyroll",
+      "pubDate": "2026-10-12T12:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8946532182/db-super-beerus-pv.jpg"
+    },
+    {
+      "id": "cr-aW5nLXZpZGVv",
+      "title": "A Wild Last Boss Appeared! Season 2 Anime Celebrates the Team in Creditless Ending Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/a-wild-last-boss-appeared-season-2-anime-creditless-ending-video",
+      "description": "The continuation of the isekai adventure is now streaming on Crunchyroll",
+      "pubDate": "2026-10-12T12:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2360x1341/b24f87e291/a-wild-last-boss-appeared-season-2-ending.jpeg"
+    },
+    {
+      "id": "cr-cy1vcGVuaW5n",
+      "title": "Mission: Yozakura Family Season 2 Part 2 Anime Starts Its Latest Mission with Creditless Opening Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/mission-yozakura-family-season-2-part-2-anime-creditless-opening",
+      "description": "The action-comedy is now streaming",
+      "pubDate": "2026-10-12T12:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2360x1333/ed73f4525e/mission-yozakura-family-season-2-op-hero.jpeg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "The Apothecary Diaries: The Late Lady's Treasure Anime Film Introduces More Cast in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/the-apothecary-diaries-the-late-ladys-treasure-anime-film-more-cast-new-character-trailer",
+      "description": "Film hits Japanese theaters on December 11",
+      "pubDate": "2026-10-12T12:17:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e7d45f5e95/apothecary-diaries-late-lady-pv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Nue no Onmyouji' Gets TV Anime in Summer 2027",
+      "link": "https://myanimelist.net/news/74814550?_location=rss",
+      "description": "The sixth Jump Press livestream event announced a television anime adaptation of Kouta Kawae's Nue no Onmyouji (Nue's Exorcist) manga on Monday, revealing the main cast, staff, a teaser visual (pictured), and an announcement promotional video. The anime is scheduled to premiere on TV Asahi in Summer 2027. Cast Nue: Saori Oonishi (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka) Gakurou Yajima: Kaito Miura (Tougen Anki) Kazusa Suou: Sayumi Suzushiro (Megami no Caf&eacute; Terr...",
+      "pubDate": "2026-10-12T11:54:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791806165-83f3cba0d7f65b64697ef6aee334e0fd.jpeg"
+    },
+    {
+      "id": "ann-LjI0Mjc0Nw",
+      "title": "Kōta Kawae's Nue's Exorcist Manga Gets TV Anime in Summer 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/kota-kawae-nue-exorcist-manga-gets-tv-anime-in-summer-2027/.242747",
+      "description": "Kaito Miura, Saori Ōnishi, Sayumi Suzushiro star in Studio Hibari anime",
+      "pubDate": "2026-10-12T11:54:03.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD2/cms/news.10/242747/nue.jpg"
+    },
+    {
+      "id": "cr-bW1lci0yMDI3",
+      "title": "Nue's Exorcist Anime Announced for Summer 2027, Staff and Cast Revealed",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/nues-exorcist-anime-adaptation-announced-summer-2027",
+      "description": "A teaser visual and a trailer were also unveiled during Jump Press",
+      "pubDate": "2026-10-12T11:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c9d067c8b3/nues-exorcist.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI2ODk",
+      "title": "Sonic Racing CrossWorlds Game Reveals Year 2 Roadmap; Sonic the Hedgehog: Memories and Beyond Short Film Reveals Debut Date",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/sonic-racing-crossworlds-game-reveals-year-2-roadmap-sonic-the-hedgehog-memories-and-beyond-short-/.242689",
+      "description": "Sonic the Hedgehog: Memories and Beyond 35th anniversary short film's trailer reveals November 12 debut",
+      "pubDate": "2026-10-12T10:10:32.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/youtube/O0TSwHOJ7Xw.jpg"
+    },
+    {
+      "id": "ann-LjI0MjczNw",
+      "title": "Tekken 8 Game Reveals Roger Jr.'s November 11 Early Access Release in Gameplay Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/tekken-8-game-reveals-roger-jr.s-november-11-early-access-release-in-gameplay-trailer/.242737",
+      "description": "Video also previews Season 3 character Yūjirō Hanma",
+      "pubDate": "2026-10-12T09:05:10.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/youtube/fehoyeYVOtE.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI3MzU",
+      "title": "5th Girls und Panzer das Finale Film Streams 10-Minute Opening Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/5th-girls-und-panzer-das-finale-film-streams-10-minute-opening-video/.242735",
+      "description": "Film opened in Japan on Friday",
+      "pubDate": "2026-10-12T08:47:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/youtube/qfDQeore3kI.jpg"
+    },
+    {
+      "id": "ann-LjI0MjczMw",
+      "title": "Marvel Tōkon: Fighting Souls Game Reveals Full Roster for Year 1 DLC",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/marvel-tokon-fighting-souls-game-reveals-full-roster-for-year-1-dlc/.242733",
+      "description": "DLC includes Thor (Jane Foster), Venom, Jubilee, previously announced Phoenix Cyclops",
+      "pubDate": "2026-10-12T07:54:45.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ9/cms/news.10/242733/marvel.jpg"
+    },
+    {
+      "id": "ann-LjI0MjcyMA",
+      "title": "Fatal Fury City of the Wolves Game Streams Trailer for Tekken 8 DLC Character Reina Joining Game in December",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/fatal-fury-city-of-the-wolves-game-streams-trailer-for-tekken-8-dlc-character-reina-joining-game-in-/.242720",
+      "description": "SNK also streams trailers for Tokyo Revengers DLC characters Mikey, Draken joining on October 22",
+      "pubDate": "2026-10-12T07:00:50.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/6ywoVjl07Rc.jpg"
+    },
+    {
+      "id": "ann-LjI0MjcyNA",
+      "title": "Inori's Homunculus Tears Yuri Novel Gets Manga by Ayster, Dokico",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/inori-homunculus-tears-yuri-novel-gets-manga-by-ayster-dokico/.242724",
+      "description": "Manga gets simultaneous release in German, English, Japanese in January 2027",
+      "pubDate": "2026-10-12T06:48:04.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/herald/202108/hom-tears.jfif.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQyNzI1",
+      "title": "Live-Action Renai Rubi no Tadashii Furikata Season 2 Reveals More Cast, October 29 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-12/live-action-renai-rubi-no-tadashii-furikata-season-2-reveals-more-cast-october-29-debut/.242725",
+      "description": "Rina Komiyama, Takumi Bandō, Tamami Sakaguchi join cast",
+      "pubDate": "2026-10-12T06:01:16.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/news.10/242725/renairubi-season2.jpg"
+    },
+    {
+      "id": "cr-ZW8tdG9vYm9l",
+      "title": "TOOBOE Shares Firefly Wedding Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/firefly-wedding-anime-ending-song-music-video-tooboe",
+      "description": "Crunchyroll streams the David Production-animated series",
+      "pubDate": "2026-10-12T05:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/22ec81fbc4/tooboe-yumegokochi-mv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kino no Tabi' Creator Duo Begins New Light Novel",
+      "link": "https://myanimelist.net/news/74813800?_location=rss",
+      "description": "Publishing company Kadokawa announced on Friday that author Keiichi Sigsawa and illustrator Kouhaku Kuroboshi, the duo behind the Kino no Tabi: The Beautiful World (Kino's Journey: The Beautiful World) light novel, will launch a new light novel titled Drifted: John Smith no Edo Hyouryuu Kitan. Mobile online game developer coly is credited for the original concept. The first volume will be published under the Dengeki Bunko imprint on November 10. Sigsawa began penning Kino no Tabi: The Beaut...",
+      "pubDate": "2026-10-12T04:17:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791778558-4de299e25e515e9b8aaf6aee692a5d07.jpeg"
+    },
+    {
+      "id": "cr-LW1pbnV0ZXM",
+      "title": "First 10 Minutes of GIRLS und PANZER das Finale Chapter 5 Anime Streamed",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/girls-und-panzer-das-finale-chapter-5-anime-first-10-minutes",
+      "description": "The latest chapter opened in Japan on October 9",
+      "pubDate": "2026-10-12T04:12:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/55a2123eca/girls-und-panzer-das-finale-chapter-5.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Idol Group i☆Ris to End Activities in 2027",
+      "link": "https://myanimelist.net/news/74813653?_location=rss",
+      "description": "Voice actress idol unit i☆Ris announced on Sunday on their official website that they will end their activities at the end of 2027, coinciding with the group's 15th anniversary and marking the conclusion of their 15-year journey. In a statement, the staff apologized for the sudden announcement and thanked the fans and everyone involved with the group. They said the five members and staff have been talking it over since last year after the group's 10th anniversary in 2022.\"We will...",
+      "pubDate": "2026-10-12T03:22:20.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791775254-9743b753082275cb32e6ba57ca9558f1.jpeg"
+    },
     {
       "id": "cr-Yy12aWRlb3M",
       "title": "#I'm Looking For a Zombie Anime Streams Opening and Ending Song Music Videos",
@@ -263,16 +473,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/youtube/0GvvZ9p_eEQ.jpg"
     },
     {
-      "id": "cr-dHJhaWxlcg",
-      "title": "The Apothecary Diaries: The Late Lady's Treasure Anime Film Pairs Maomao and Jinshi in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/11/the-apothecary-diaries-the-late-ladys-treasure-anime-film-maomao-jinshi-character-trailer",
-      "description": "Crunchyroll will release the film in theaters worldwide",
-      "pubDate": "2026-10-11T00:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/7635ea51ba/the-apothecary-diaries-the-late-ladys-treasure.jpg"
-    },
-    {
       "id": "mal-YXRpb249cnNz",
       "title": "New 'Naruto' Manga 'Shadow Rising' Announced",
       "link": "https://myanimelist.net/news/74809691?_location=rss",
@@ -350,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-10T19:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYH/cms/news.10/242610/derbystallion2.jpg"
+      "image": null
     },
     {
       "id": "cr-ci1rZXktYXJ0",
@@ -370,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-10T17:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIA/cms/news.10/242539/fortune.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQyMTkx",
@@ -380,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-10T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP4/cms/review.2/242191/ogre-s-bride-anime.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQyNjg0",
@@ -390,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-10T15:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY8/encyc/A38196-2030294674.1789213930.jpg"
+      "image": null
     },
     {
       "id": "cr-YS10by1jYXN0",
@@ -401,206 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/44e7c06c44/mill-fam-noel.jpg"
-    },
-    {
-      "id": "cr-Zy12aWRlb3M",
-      "title": "Firefly Wedding Anime Shows Off Creditless Opening, Ending",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/firefly-wedding-anime-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams adaptation based on Oreco Tachibana's manga",
-      "pubDate": "2026-10-10T13:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/36c1f6e3ce/firefly_wedding_satoko_header.jpg"
-    },
-    {
-      "id": "cr-bmctdmlkZW9z",
-      "title": "Overgeared Anime Shares Creditless Opening & Ending Animation Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/overgeared-anime-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams adaption based on Saenal's web novel series",
-      "pubDate": "2026-10-10T13:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a0c60c1411/overgeared_header.jpg"
-    },
-    {
-      "id": "ann-MC8uMjQyNDA1",
-      "title": "Japanese Animation TV Ranking, September 14-20",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-14-20/.242405",
-      "description": "That Time I Got Reincarnated as a Slime season 4 earns 3.1% rating",
-      "pubDate": "2026-10-10T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/encyc/A33626-804666185.1772502151.jpg"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "Dr. STONE TERRAFORMING Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/dr-stone-terraforming-anime-announced",
-      "description": "The new anime will adapt the manga's epilogue chapter",
-      "pubDate": "2026-10-10T13:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/fbef32f676/dr-stone-science-future.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "New 'Dr. Stone' Anime Announced",
-      "link": "https://myanimelist.net/news/74808029?_location=rss",
-      "description": "The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an illustrations to commemorate the announcement (pictured right). The new anime will adapt the Terraforming one-shot episode included on volume 27 of the original manga. The story is set after the conclusion of the main ser...",
-      "pubDate": "2026-10-10T13:05:30.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791637455-20c271e328750627d3eb7b4c1d4cb911.jpeg"
-    },
-    {
-      "id": "ann-bC8uMjQyNjkw",
-      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
-      "description": "Based on story in 27th manga volume",
-      "pubDate": "2026-10-10T12:57:58.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/herald/202075/news-2.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQyNjgz",
-      "title": "Millennium Family TV Anime Casts Taihi Kimura",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/millennium-family-tv-anime-casts-taihi-kimura/.242683",
-      "description": "Kimura voices 3rd son Noel",
-      "pubDate": "2026-10-10T09:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK6/cms/news.10/242683/noel.jpg"
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked Anime Unveils Main Trailer, Visual, Theme Song Artists, New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-main-trailer-visual-theme-song-artists-new-cast-members",
-      "description": "The new zombie apocalypse series will premiere in January 2027",
-      "pubDate": "2026-10-10T04:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/495e074018/in-a-world-full-of-zombies-main-trailer.jpg"
-    },
-    {
-      "id": "ann-LjI0MjY4Mg",
-      "title": "'I am the only one who is not attacked in the world filled with zombies' TV Anime's Main Promo Video Previews Theme Songs",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682",
-      "description": "Rikako Ito, Marie Miyake join cast; RetBear, Itsuka▶ perform theme songs",
-      "pubDate": "2026-10-10T04:09:11.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE9/youtube/ky1EjKvGMrA.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Unveils Additional Cast, Staff, Theme Songs, First Promo",
-      "link": "https://myanimelist.net/news/74807103?_location=rss",
-      "description": "The official website for the television anime adaptation of Rokuro Uraji's Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) light novel unveiled additional cast, staff, a key visual (pictured), the theme songs, and first promotional video on Saturday. The anime series will premiere on AT-X in January 2027. Voice actresses Rikako Itou (Mushoku no Eiyuu) and Marie Miyake (Gin no Saji) are joining the casts as To...",
-      "pubDate": "2026-10-10T04:04:54.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791605055-036817d4b6e996f720ede1436e2502f5.jpeg"
-    },
-    {
-      "id": "ann-ZS8uMjQyNTM2",
-      "title": "To Love-ru's Kentaro Yabuki Draws Nami Card for One Piece Card Game",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-09/to-love-ru-kentaro-yabuki-draws-nami-card-for-one-piece-card-game/.242536",
-      "description": "Nami gets that slightly lewd Yabuki touch",
-      "pubDate": "2026-10-10T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/interest.3/242536/yabuki-kentaro-op-card-02.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI2NzU",
-      "title": "Tom Cruise, Alejandro González Iñárritu Enjoy MAPPA Anniversary Exhibit",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-09/tom-cruise-alejandro-gonzalez-inarritu-enjoy-mappa-anniversary-exhibit/.242675",
-      "description": "Jujutsu Kaisen/Yuri!!! on Ice designer presents Digger star & director with art of Cruise",
-      "pubDate": "2026-10-10T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE6/cms/interest.3/242675/hugitmmbqaak3nv.jpeg"
-    },
-    {
-      "id": "ann-ZC8uMjQyNjgx",
-      "title": "Billy Bat Manga Wins Harvey Award",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
-      "description": "Series had competed against Land, My Gorilla Family, Miss Ruki, more works for Best Manga award",
-      "pubDate": "2026-10-10T02:51:40.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRB/cms/news.9/237914/billy-bat-1-cover.jpg"
-    },
-    {
-      "id": "cr-ZGVvLWFzYWth",
-      "title": "Asaka Drops Laid-Back Camp Anime Opening Song's Self Cover Version Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/laid-back-camp-anime-opening-song-self-cover-version-music-video-asaka",
-      "description": "The original version was released in 2018",
-      "pubDate": "2026-10-10T02:12:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/9238840bfa/asaka-shiny-days-remake-mv.jpg"
-    },
-    {
-      "id": "cr-ZGVvLXRvdGE",
-      "title": "Tota Shares To You in the Beyond Anime Film Theme Song Collab Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/to-you-in-the-beyond-anime-film-theme-song-collab-music-video-tota",
-      "description": "The To You in the Beyond anime film opened in Japan on Friday",
-      "pubDate": "2026-10-10T01:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b3c714861b/tota-olive-collab-mv.png"
-    },
-    {
-      "id": "cr-bml3YWxpbHk",
-      "title": "HoneyWorks feat. Hakoniwalily Releases The World's Strongest Witch Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/10/the-worlds-strongest-witch-anime-opening-song-music-video-honeyworks-hakoniwalily",
-      "description": "The new fantasy series is available on Crunchyroll",
-      "pubDate": "2026-10-10T00:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/06f15514cd/hakoniwalily-eikyouryoku-idol-mv.jpg"
-    },
-    {
-      "id": "ann-LjI0MjY3Nw",
-      "title": "GROTESQQQUE Anime Film Review",
-      "link": "https://www.animenewsnetwork.com/review/grotesqqque/anime-film/.242677",
-      "description": "Atsushi Nishigori’s three-part anthology film crams all his otaku obsessions into a feast of wild eye candy.",
-      "pubDate": "2026-10-09T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-MC8uMjQyNTE5",
-      "title": "North American Anime, Manga Releases, October 4-10",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519",
-      "description": "Devil Survivor 2: The Animation anime; The Apothecary Diaries: Xiaolan's Story, My Journey to Her, Blue Lock Full Color Selection manga ship",
-      "pubDate": "2026-10-09T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZXNzLW55Y2M",
-      "title": "Fate/strange Fake, Kino’s Journey Light Novels and More Coming from Yen Press",
-      "link": "https://crunchyroll.com/news/latest/2026/10/9/fate-strange-fake-kinos-journey-light-novels-more-yen-press-nycc",
-      "description": "NA publisher made a bunch of announcements at NYCC",
-      "pubDate": "2026-10-09T20:06:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/800x450/643ae0bf71/kino-s-journey-the-beautiful-world-the-animated-series.jpg"
-    },
-    {
-      "id": "ann-LjI0MjYxNA",
-      "title": "Ize Press Announces Print Editions of Regas, Eat Before You Go Webtoons",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/ize-press-announces-print-editions-of-regas-eat-before-you-go-webtoons/.242614",
-      "description": "Regas BL series centers on crown prince whose power comes at the cost of his sanity; Eat Before You Go follows hero who returns to earth after defeating demon lord",
-      "pubDate": "2026-10-09T18:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
     }
   ]
 };
