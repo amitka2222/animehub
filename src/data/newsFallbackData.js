@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-11T21:07:17.843Z",
+  "lastUpdated": "2026-10-12T02:48:31.446Z",
   "items": [
+    {
+      "id": "cr-Yy12aWRlb3M",
+      "title": "#I'm Looking For a Zombie Anime Streams Opening and Ending Song Music Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/im-looking-for-a-zombie-anime-opening-and-ending-song-music-videos",
+      "description": "The Studio Comet-animated series is available on Crunchyroll",
+      "pubDate": "2026-10-12T02:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/45dceb445c/three-lakilaki-mv.jpg"
+    },
+    {
+      "id": "cr-bWUtc29uZw",
+      "title": "Star Detective Precure! Anime Film Releases Special Video Featuring Ending Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/star-detective-precure-anime-film-special-video-ending-theme-song",
+      "description": "The 35th Precure film has reached the 1 billion yen mark",
+      "pubDate": "2026-10-12T01:37:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e4673955bc/star-detective-precure-movie.jpg"
+    },
+    {
+      "id": "cr-aWVzLTIwMjc",
+      "title": "Voice Actor Idol Unit i☆Ris to Conclude Activities at the End of 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/12/voice-actor-idol-unit-iris-conclude-activities-2027",
+      "description": "i☆Ris made their debut in November 2012",
+      "pubDate": "2026-10-12T00:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/2e4b9336f9/iris-artist-photo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI3MTU",
+      "title": "Kino's Journey Light Novel Duo Launch New Supernatural Novel Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-11/kino-journey-light-novel-duo-launch-new-supernatural-novel-series/.242715",
+      "description": "Writer Keiichi Sigsawa, illustrator Kouhaku Kuroboshi to launch Drifted ~John Smith no Edo Hyōryū Kitan~ on November 10",
+      "pubDate": "2026-10-12T00:30:52.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA6/cms/news.10/242715/drifted.jpg"
+    },
     {
       "id": "cr-aGFyYWN0ZXJz",
       "title": "MARVEL Tokon: Fighting Souls Reveals Thor (Jane Foster), Venom and Jubilee DLC Characters",
@@ -530,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCH/cms/review.2/242677/grotesqqque.png.jpg"
+      "image": null
     },
     {
       "id": "ann-MC8uMjQyNTE5",
@@ -560,46 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-09T18:45:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-LS8uMjQyNjQw",
-      "title": "Yen Press Licenses Fate/strange Fake, Kino's Journey, Spice and Wolf Diner: Gourmet Exploration, More Manga/Novels",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640",
-      "description": "Also: The Girls Adrift Among the Stars, Dungeon Master: Creating a Hot Spring Dungeon, more",
-      "pubDate": "2026-10-09T18:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Hotaru no Yomeiri' Gets Live-Action Adaptation in 2027",
-      "link": "https://myanimelist.net/news/74805426?_location=rss",
-      "description": "Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana's Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video. The live-action series is scheduled to premiere on Fuji TV in 2027. Tachibana began drawing the historical romance manga on the MangaONE platform in January 2023. The 12th volume was released on June 19, with the 13th and final volume scheduled for release on October 19. The television anime is pr...",
-      "pubDate": "2026-10-09T16:15:28.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791562442-7e99d4bfb2da7214012b166fd99ad5d4.jpeg"
-    },
-    {
-      "id": "cr-cGxhaW5lZA",
-      "title": "What is Firefly Wedding? The Historical Romance Anime, Explained",
-      "link": "https://crunchyroll.com/news/features/2026/10/9/firefly-wedding-explained",
-      "description": "That moment when a noblewoman proposes to an assassin...",
-      "pubDate": "2026-10-09T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/906f146e41/firefly-wedding.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDIxNjQ",
-      "title": "Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD Switch 2 Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-pc/steam-playstation-5-xbox-series-x/s/dragon-quest-heroes/torneko-mystery-dungeon-/.242164",
-      "description": "Torneko's Mystery Dungeon is not a game that is a roguelike; it is a game that is like Rogue - and that distinction is more than mere semantics.",
-      "pubDate": "2026-10-09T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
