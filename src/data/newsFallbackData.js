@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-13T04:04:50.479Z",
+  "lastUpdated": "2026-10-13T13:01:07.524Z",
   "items": [
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Inherit the Winds Anime Celebrates Theatrical Screenings With New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/13/inherit-the-winds-anime-theatrical-premiere-visual",
+      "description": "The theatrical version releases in one month in Japan",
+      "pubDate": "2026-10-13T12:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/fd5115d4b4/inherit_the_winds_header5.jpg"
+    },
+    {
+      "id": "cr-dC1tZW1iZXJz",
+      "title": "Hirayasumi Anime Reveals Five New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/13/hirayasumi-anime-reveals-five-new-cast-members",
+      "description": "Adaptation based on Keigo Shinzo's manga broadcasts in January 2027",
+      "pubDate": "2026-10-13T12:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1407x848/b223dc56a4/hirayasumi_cast_additions.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjc1OA",
+      "title": "SSS-Class Revival Hunter Was The Worst Premire I Saw at NYCC 2026",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/sss-class-revival-hunter-was-the-worst-premire-i-saw-at-nycc/.242758",
+      "description": "There is a right way to do edgy, over-the-top power fantasies but this definitely isn't it.",
+      "pubDate": "2026-10-13T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAF/cms/news.9/241578/sss-class-revival-hunter.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI3MDc",
+      "title": "Dragon Ball Super's NYCC Pannel Brings the Show's Voice Actors and a (Not Exactly) New Episode",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/dragon-ball-super-nycc-pannel-brings-the-show-voice-actors-and-a-new-episode/.242707",
+      "description": "Dragon Ball Super: Beerus is basically a recut of the original Dragon Ball Super series with better animation.",
+      "pubDate": "2026-10-13T11:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/convention/242707/img-5114.jpeg"
+    },
+    {
+      "id": "ann-ZC8uMjQyNzgx",
+      "title": "Voice Actor Manaka Iwami Announces Marriage, Birth of 1st Child",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-13/voice-actor-manaka-iwami-announces-marriage-birth-of-1st-child/.242781",
+      "description": "Voice of Oshi no Ko's Akane Kurokawa married partner outside industry",
+      "pubDate": "2026-10-13T11:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/interest.3/242781/iwami-manaka2.jpeg"
+    },
+    {
+      "id": "ann-bS8uMjQyNzc3",
+      "title": "Junji Itō's 'The Hanging Balloons' Short Manga Gets Thai Film",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-13/junji-ito-the-hanging-balloons-short-manga-gets-thai-film/.242777",
+      "description": "Toei, Thailand's 13 Studio to co-produce film by Thai director Taweewat Wantha",
+      "pubDate": "2026-10-13T10:32:40.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/cms/news.10/242777/balloon.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjc3Ng",
+      "title": "Hirayasumi Anime Announces 5 More Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-13/hirayasumi-anime-announces-5-more-cast-members/.242776",
+      "description": "Daisuke Namikawa, Yōko Hikasa, Yume Miyamoto, Yūichirō Umehara join cast with TV announcer Yūko Naitō narrating",
+      "pubDate": "2026-10-13T09:04:01.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/news.10/242776/hirayasumi.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hirayasumi' Announces Additional Cast",
+      "link": "https://myanimelist.net/news/74817329?_location=rss",
+      "description": "The official website for the television anime adaptation of Keigo Shinzou's Hirayasumi manga announced five additional cast members on Tuesday. The anime series will premiere on NHK-G in January 2027. Cast Hideki Noguchi: Daisuke Namikawa (Hunter x Hunter (2011)) Yomogi Tachibana: Youko Hikasa (High School DxD) Akari Yokoyama: Yume Miyamoto (SSSS.Gridman) Ryou Ishikawa: Yuuichirou Umehara (Goblin Slayer) Narrator: Yuuko Naitou Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...",
+      "pubDate": "2026-10-13T08:39:58.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791880730-1c0e05a8e77bb133fb9174fc07370b5c.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI3NjM",
+      "title": "Attack on Titan Musical Starts World Tour in Singapore Next April",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-13/attack-on-titan-musical-starts-world-tour-in-singapore-next-april/.242763",
+      "description": "Musical last ran in Tokyo, Osaka in January 2023, as well as in New York in October 2024",
+      "pubDate": "2026-10-13T08:25:38.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/242763/attackontitanworldtour.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Voice Actress Manaka Iwami Announces Marriage",
+      "link": "https://myanimelist.net/news/74817108?_location=rss",
+      "description": "Voice actress Manaka Iwami announced her marriage to a man outside of the industry and the birth of her first child on her official radio program on Tuesday. \"It's been a while, everyone. This is Manaka Iwami. I'd like to take a moment at the beginning of the program to share something important with all of you who have supported me. This is a personal matter, but I have gotten married and given birth to my first child. My partner is not affiliated with the entertainment industry,...",
+      "pubDate": "2026-10-13T06:00:05.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791871040-0d3faf2990239f23cb642a93668d4766.jpeg"
+    },
     {
       "id": "ann-Ly4yNDI3NTM",
       "title": "Happy Sports Day From Around the Anime World, Part II",
@@ -450,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-11T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/review.2/242251/pokepart4.png.jpg"
+      "image": null
     },
     {
       "id": "cr-bmctdmlkZW9z",
@@ -490,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-11T11:55:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/youtube/We3rt2uQpoY.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791713753-684272201e881400d9c608311ba31ab7.jpeg"
-    },
-    {
-      "id": "cr-aW4tY2FzdA",
-      "title": "Noa-senpai wa Tomodachi. Anime Reveals 2027 Release Date, Main Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/10/11/noa-senpai-wa-tomodachi-anime-2027-release-date-key-visual-main-cast",
-      "description": "Studio feel. produces the workplace rom-com series",
-      "pubDate": "2026-10-11T10:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/7499718b68/noa-senpai-wa-tomodachi.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI3MTc",
-      "title": "Noa Is My Senior, and My Friend TV Anime Unveils Main Cast, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-11/noa-is-my-senior-and-my-friend-tv-anime-unveils-main-cast-2027-debut/.242717",
-      "description": "Rina Kawaguchi, Tomoya Itō star in series from feel. animation studio",
-      "pubDate": "2026-10-11T10:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/news.10/242717/noa.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjcxNg",
-      "title": "i☆Ris Voice Actress Idol Unit to Disband at End of 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-11/i-ris-voice-actress-idol-unit-to-disband-at-end-of-2027/.242716",
-      "description": "Group also marks 15th anniversary next year",
-      "pubDate": "2026-10-11T08:13:58.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/herald/202101/0d1ac0029bae8744c2639b0d172eb23a.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI3MDg",
-      "title": "Naruto's Penultimate Villain Madara Inspires Song by Rapper Eminem",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-11/naruto-penultimate-villain-madara-inspires-song-by-rapper-eminem/.242708",
-      "description": "There is no Divine Tree involved with the new collab with EZ Mil, Hideyoshi, Madara's voice Neil Kaplan",
-      "pubDate": "2026-10-11T05:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/youtube/9KVsSUFW5Bk.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI3MTA",
-      "title": "Yasuki Tanaka's Ghost Fixers Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-11/yasuki-tanaka-ghost-fixers-manga-ends-in-next-chapter/.242710",
-      "description": "Manga from Summer Time Rendering author launched in March 2024.",
-      "pubDate": "2026-10-11T05:06:53.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g54/cms/news.10/242710/ghost-fixers.jpg"
-    },
-    {
-      "id": "ann-Ni8uMjQyNzA5",
-      "title": "Boichi's The Marshal King Manga Ends on October 16",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
-      "description": "Manga resumed after 9-month hiatus on September 4",
-      "pubDate": "2026-10-11T04:24:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cC8uMjQyNzA0",
-      "title": "Marvel, Kadokawa Launch 5 New Manga as Part of Partnership",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-11/marvel-kadokawa-launch-5-new-manga-as-part-of-partnership/.242704",
-      "description": "Manga about Iron Man, Spider-Man, Spider-Gwen, Deadpool, Venom launched on Sunday",
-      "pubDate": "2026-10-11T04:05:18.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjY5OA",
-      "title": "Yuriten Exhibit Cancels 10th Anniversary Event After Artists Criticize Its AI Use",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
-      "description": "Organizers: Contractor used AI-generated imagery for planned Tokyo event",
-      "pubDate": "2026-10-11T03:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "AI",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shishite Ikiru SSS-kyuu Hunter' Reveals Additional Cast, Ending Theme, Second Promo",
-      "link": "https://myanimelist.net/news/74810180?_location=rss",
-      "description": "The official website of the television anime adaptation of Sinnoa and Bill K's SSS-Class Revival Hunter webtoon revealed additional cast members, ending theme artists, and a second promotional video on Sunday. The anime is scheduled to premiere in January 2027 on Fuji TV's +Ultra programming block. Cast Flame Emperor: Toshiki Masuda (Shingeki no Kyojin: The Final Season) Black Witch: Megumi Han ([Oshi no Ko]) Paladin: Sayaka Kinoshita (Boku no Hero Academia) Countess: Risa Shimizu (Sh...",
-      "pubDate": "2026-10-11T02:43:49.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791686582-c84ae40025b0662bdba28045cf8bf854.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQyNzAx",
-      "title": "SSS-Class Revival Hunter Anime Reveals 8 More Cast, 2nd Promo Video, Ending Theme Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/sss-class-revival-hunter-anime-reveals-8-more-cast-2nd-promo-video-ending-theme-artists/.242701",
-      "description": "Toshiki Masuda, Megumi Han, Shunsuke Sakuya, more join cast for January series",
-      "pubDate": "2026-10-11T02:34:28.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
