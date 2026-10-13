@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-12T23:51:43.061Z",
+  "lastUpdated": "2026-10-13T04:04:50.479Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI3NTM",
+      "title": "Happy Sports Day From Around the Anime World, Part II",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-12/happy-sports-day-from-around-the-anime-world-part-ii/.242753",
+      "description": "Featuring Jujutsu Kaisen, Frieren: Beyond Journey's End, Resident Evil, Slam Dunk, Square Enix, Doraemon, Jōji Nakata, & more!",
+      "pubDate": "2026-10-13T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/herald/202131/idolmaster-sports.jpg"
+    },
+    {
+      "id": "cr-YW4tcXVlZW4",
+      "title": "CLAN QUEEN Drops PSYREN Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/13/psyren-anime-opening-song-music-video-clan-queen",
+      "description": "Crunchyroll is streaming the suspense-action series",
+      "pubDate": "2026-10-13T02:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e44c216a68/clan-queen-warning-mv.jpg"
+    },
+    {
+      "id": "cr-dG9tLXNpaXRh",
+      "title": "Phantom Siita Releases HOTEL INHUMANS Season 2 Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/13/hotel-inhumans-season-2-anime-ending-song-music-video-phantom-siita",
+      "description": "The new season is currently available on Crunchyroll",
+      "pubDate": "2026-10-13T01:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e0b0927375/phantom-siita-sweet-pea-mv.png"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "The Apothecary Diaries: The Late Lady's Treasure Anime Film Shares New Trailer Introducing the Kaja-dan",
+      "link": "https://crunchyroll.com/news/latest/2026/10/13/the-apothecary-diaries-the-late-ladys-treasure-anime-film-kaja-dan-trailer",
+      "description": "The movie opens in Japan on December 11",
+      "pubDate": "2026-10-13T00:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/01b71e5722/the-apothecary-diaries-movie-character-trailer-3.png"
+    },
     {
       "id": "ann-LjI0Mjc1NQ",
       "title": "Killing Bites Manga Publishes 1st Part of Final Chapter",
@@ -201,16 +241,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/2360x1333/ed73f4525e/mission-yozakura-family-season-2-op-hero.jpeg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "The Apothecary Diaries: The Late Lady's Treasure Anime Film Introduces More Cast in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/12/the-apothecary-diaries-the-late-ladys-treasure-anime-film-more-cast-new-character-trailer",
-      "description": "Film hits Japanese theaters on December 11",
-      "pubDate": "2026-10-12T12:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e7d45f5e95/apothecary-diaries-late-lady-pv.jpg"
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -530,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-11T04:24:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO8/cms/news.9/230045/the-marshal-king.jpg"
+      "image": null
     },
     {
       "id": "ann-cC8uMjQyNzA0",
@@ -540,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-11T04:05:18.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ0/cms/news.10/242704/spider-man.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjY5OA",
@@ -550,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-11T03:15:00.000Z",
       "source": "Anime News Network",
       "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/herald/202094/hulzsykboaapk7p2.jpeg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-MS8uMjQyNjg4",
-      "title": "Dragon Ball Super: Beerus Also Streams on Hulu in U.S. on October 11",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/dragon-ball-super-beerus-also-streams-on-hulu-in-u.s-on-october-11/.242688",
-      "description": "Crunchyroll to stream anime on October 11, Netflix on October 17",
-      "pubDate": "2026-10-11T01:59:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NS8uMjQyNjk5",
-      "title": "Blazblue: CentralFiction Fighting Game Gets Release on PS5",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-10/blazblue-centralfiction-fighting-game-gets-release-on-ps5/.242699",
-      "description": "PS5 version will have rollback netcode, cross-play with PC, 4 new text languages",
-      "pubDate": "2026-10-11T01:46:17.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-aGVtZS1zb25n",
-      "title": "SSS-Class Revival Hunter Anime Unveils Teaser Trailer, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/10/11/sss-class-revival-hunter-anime-teaser-trailer-additional-cast-ending-theme-song",
-      "description": "Crunchyroll will stream the series as it airs",
-      "pubDate": "2026-10-11T01:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b2dc634921/sss-class-revival-hunter.jpg"
     }
   ]
 };
