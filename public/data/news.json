@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-10-14T16:01:45.016Z",
+  "lastUpdated": "2026-10-14T21:01:38.200Z",
   "items": [
+    {
+      "id": "ann-LjI0Mjc1Nw",
+      "title": "North American Anime, Manga Releases, October 11-17",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/north-american-anime-manga-releases-october-11-17/.242757",
+      "description": "The Rising of the Shield Hero Season 4 anime; Badducks, GalaXic Baseball League, Are You a Landmine, Chihara-san? manga ship",
+      "pubDate": "2026-10-14T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/herald/202201/rising-of-shield-hero-s4.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyODE3",
+      "title": "Seven Seas Licenses Ushiyama-san, Mouse Royale, This World Is Worth Fighting For, More Manga/Novels",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/seven-seas-licenses-ushiyama-san-mouse-royale-this-world-is-worth-fighting-for-more-manga-novels/.242817",
+      "description": "Also: My House Cat Became the World's Strongest?!, The Duke is Obsessed with the Vicious Omega, Alice, All the Way to Outer Space",
+      "pubDate": "2026-10-14T20:22:32.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY2/cms/news.10/242817/ushiyama-san.jpg"
+    },
+    {
+      "id": "ann-LjI0MjgwMg",
+      "title": "Ei Ohitsuji's Ochibure Zeus to Dorei no Ko Manga Changes Publisher",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/ei-ohitsuji-ochibure-zeus-to-dorei-no-ko-manga-changes-publisher/.242802",
+      "description": "Manga moves from Nemuki+ magazine to Ichijinsha's Zero-Sum Online website in spring 2027",
+      "pubDate": "2026-10-14T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK9/cms/news.10/242802/zeus1.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyODE2",
+      "title": "Zero Escape Writer Kōtarō Uchikoshi Announces Crash Keys Company With Cryptic Website, 'Canceled' Game",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/zero-escape-writer-kotaro-uchikoshi-announces-crash-keys-company-with-cryptic-website-canceled-game/.242816",
+      "description": "Uchikoshi stated that he had been working on new game that \"was suddenly canceled\"",
+      "pubDate": "2026-10-14T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAA/cms/news.10/242816/crash-keys.png.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQyODE1",
+      "title": "Tezuka: God of Manga Documentary Film Launches Kickstarter Campaign",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/tezuka-god-of-manga-documentary-film-launches-kickstarter-campaign/.242815",
+      "description": "Film scheduled for completion in 2028 with backer rewards slated for July 2028 distribution",
+      "pubDate": "2026-10-14T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People. Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/WC-1HUq7d-Q.jpg"
+    },
+    {
+      "id": "cr-YWRpc2UtZ2Jh",
+      "title": "Nintendo Classics Adds Monster Rancher Advance and More to GBA Lineup",
+      "link": "https://crunchyroll.com/news/latest/2026/10/14/nintendo-classics-monster-rancher-advance-metal-slug-kururin-paradise-gba",
+      "description": "Other titles joining include Metal Slug Advance, Kururin Paradise",
+      "pubDate": "2026-10-14T17:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x535/c33eba1a09/monster-rancher-advance.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjc5Ng",
+      "title": "Kadokawa Apologizes After Using Character Design Reference Without Permission for Pitch-Black Infatuation Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/kadokawa-apologizes-after-using-character-design-reference-without-permission-for-pitch-black-/.242796",
+      "description": "Pitch-Black Infatuation used character designs, backgrounds from Ieri Komen's Festival of Heresies manga",
+      "pubDate": "2026-10-14T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g5A/cms/news.10/242796/shikkokunobojo.jpg"
+    },
+    {
+      "id": "ann-LjI0MjQ2MA",
+      "title": "Fired? But I Maintain All the Software! Volume 1 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/fired-but-i-maintain-all-the-software-volume-1-light-novel/.242460",
+      "description": "Corporate revenge meets cosplay coding lessons in this back-to-basics critique of modern working culture.",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/review.2/242460/fired-ln-volume-1-cover.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyODE0",
+      "title": "Shueisha's Manga Million Adds Hiromasa Okujima's Together with Serial-san Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/shueisha-manga-million-adds-hiromasa-okujima-together-with-serial-san-manga/.242814",
+      "description": "Okujima debuted manga on February 25",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBA/cms/news.10/242814/together-with-serial-san.jpg"
+    },
     {
       "id": "cr-dy10cmFpbGVy",
       "title": "See More of The Legend of Zelda: Ocarina of Time Remake in Overview Trailer",
@@ -419,7 +509,7 @@
       "pubDate": "2026-10-13T14:35:24.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJG/youtube/gdqs6y-6R3g.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjczMg",
@@ -429,7 +519,7 @@
       "pubDate": "2026-10-13T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY2/cms/news.9/241961/dengeki-daisy-kv.jpeg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -449,7 +539,7 @@
       "pubDate": "2026-10-13T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.10/242785/intention.jpg"
+      "image": null
     },
     {
       "id": "cr-Zy12aWRlbw",
@@ -489,7 +579,7 @@
       "pubDate": "2026-10-13T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/convention/242703/img-5171.webp"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjc2MA",
@@ -499,7 +589,7 @@
       "pubDate": "2026-10-13T12:57:08.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.10/242760/the-coppersmith-bride-vol-1-manga2.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI3NTk",
@@ -509,96 +599,6 @@
       "pubDate": "2026-10-13T12:42:09.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMA/cms/news.10/242759/saijakumaou.jpg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Inherit the Winds Anime Celebrates Theatrical Screenings With New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/13/inherit-the-winds-anime-theatrical-premiere-visual",
-      "description": "The theatrical version releases in one month in Japan",
-      "pubDate": "2026-10-13T12:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/fd5115d4b4/inherit_the_winds_header5.jpg"
-    },
-    {
-      "id": "cr-dC1tZW1iZXJz",
-      "title": "Hirayasumi Anime Reveals Five New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/13/hirayasumi-anime-reveals-five-new-cast-members",
-      "description": "Adaptation based on Keigo Shinzo's manga broadcasts in January 2027",
-      "pubDate": "2026-10-13T12:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1407x848/b223dc56a4/hirayasumi_cast_additions.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI3NTg",
-      "title": "SSS-Class Revival Hunter Was The Worst Premiere I Saw at NYCC 2026",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/sss-class-revival-hunter-was-the-worst-premiere-i-saw-at-nycc/.242758",
-      "description": "There is a right way to do edgy, over-the-top power fantasies but this definitely isn't it.",
-      "pubDate": "2026-10-13T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAF/cms/news.9/241578/sss-class-revival-hunter.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjcwNw",
-      "title": "Dragon Ball Super's NYCC Panel Brings the Show's Voice Actors and a (Not Exactly) New Episode",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/dragon-ball-super-nycc-panel-brings-the-show-voice-actors-and-a-new-episode/.242707",
-      "description": "Dragon Ball Super: Beerus is basically a recut of the original Dragon Ball Super series with better animation.",
-      "pubDate": "2026-10-13T11:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/convention/242707/img-5114.jpeg"
-    },
-    {
-      "id": "ann-ZC8uMjQyNzgx",
-      "title": "Voice Actor Manaka Iwami Announces Marriage, Birth of 1st Child",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-13/voice-actor-manaka-iwami-announces-marriage-birth-of-1st-child/.242781",
-      "description": "Voice of Oshi no Ko's Akane Kurokawa married partner outside industry",
-      "pubDate": "2026-10-13T11:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-bS8uMjQyNzc3",
-      "title": "Junji Itō's 'The Hanging Balloons' Short Manga Gets Thai Film",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-13/junji-ito-the-hanging-balloons-short-manga-gets-thai-film/.242777",
-      "description": "Toei, Thailand's 13 Studio to co-produce film by Thai director Taweewat Wantha",
-      "pubDate": "2026-10-13T10:32:40.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mjc3Ng",
-      "title": "Hirayasumi Anime Announces 5 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-13/hirayasumi-anime-announces-5-more-cast-members/.242776",
-      "description": "Daisuke Namikawa, Yōko Hikasa, Yume Miyamoto, Yūichirō Umehara join cast with TV announcer Yūko Naitō narrating",
-      "pubDate": "2026-10-13T09:04:01.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hirayasumi' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74817329?_location=rss",
-      "description": "The official website for the television anime adaptation of Keigo Shinzou's Hirayasumi manga announced five additional cast members on Tuesday. The anime series will premiere on NHK-G in January 2027. Cast Hideki Noguchi: Daisuke Namikawa (Hunter x Hunter (2011)) Yomogi Tachibana: Youko Hikasa (High School DxD) Akari Yokoyama: Yume Miyamoto (SSSS.Gridman) Ryou Ishikawa: Yuuichirou Umehara (Goblin Slayer) Narrator: Yuuko Naitou Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...",
-      "pubDate": "2026-10-13T08:39:58.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791880730-1c0e05a8e77bb133fb9174fc07370b5c.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI3NjM",
-      "title": "Attack on Titan Musical Starts World Tour in Singapore Next April",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-13/attack-on-titan-musical-starts-world-tour-in-singapore-next-april/.242763",
-      "description": "Musical last ran in Tokyo, Osaka in January 2023, as well as in New York in October 2024",
-      "pubDate": "2026-10-13T08:25:38.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
       "image": null
     }
   ]
