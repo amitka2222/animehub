@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-14T02:18:54.156Z",
+  "lastUpdated": "2026-10-14T10:42:10.353Z",
   "items": [
+    {
+      "id": "ann-LjI0MjgwNg",
+      "title": "CloverWorks' Anime Film Grotesqqque to Feature Mika Ichinose Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/cloverworks-anime-film-grotesqqque-to-feature-mika-ichinose-song/.242806",
+      "description": "Omnibus film streams music video for \"TERASE\" song, used in \"A(E)liens\" story",
+      "pubDate": "2026-10-14T09:55:03.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/youtube/fPqknbrbhMs.jpg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "Yumene Connect Raunchy Comedy Manga Gets Anime Series",
+      "link": "https://crunchyroll.com/news/latest/2026/10/14/yumene-connect-anime-announced",
+      "description": "A NSFW teaser trailer and visual were revealed",
+      "pubDate": "2026-10-14T08:59:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ee992c06e6/yumene-connect-anime-teaser-trailer-heart.png"
+    },
+    {
+      "id": "cr-ZS12aXN1YWw",
+      "title": "Cyberpunk: Edgerunners 2 Anime Deploys New Characters in Latest Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/14/cyberpunk-edgerunners-2-anime-visual",
+      "description": "Kai Ikarashi directs a new standalone story at studio TRIGGER",
+      "pubDate": "2026-10-14T08:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/d8270996ea/cyberpunk-edgerunners-2.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjc5OA",
+      "title": "Kou Sawada's Risque Comedy Manga Yumeneconnect Gets TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/kou-sawada-risque-comedy-manga-yumeneconnect-gets-tv-anime/.242798",
+      "description": "Yūsuke Kobayashi, Yū Sasahara star in anime by Sōta Yokote, Studio Massket",
+      "pubDate": "2026-10-14T04:39:12.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/LCAL2iL5vLc.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Kimi to Koete Koi ni Naru' Ends Serialization",
+      "link": "https://myanimelist.net/news/74820139?_location=rss",
+      "description": "Chihiro Yuzuki's Kimi to Koete Koi ni Naru (With You, Our Love Will Make It Through) manga ended its serialization on Wednesday. The 133th and final chapter marked the end of its five-year run. Yuzuki began serializing the supernatural romance manga, also abbreviated as Kimikoe, on the Manga Mee service in May 2021. Shueisha published the 12th volume on September 26. The 13th volume will be the final volume. Kimikoe has a cumulative 1.8 million copies of its volumes in print. Yen Press lice...",
+      "pubDate": "2026-10-14T04:18:42.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791951381-2219812cfaa11eb0026771214b2b7f05.jpeg"
+    },
+    {
+      "id": "ann-ci8uMjQyNjc0",
+      "title": "Dan Doh!! Artist Daichi Banjou Discusses Struggle with Cancer",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-13/dan-doh-artist-daichi-banjou-discusses-struggle-with-cancer/.242674",
+      "description": "Gundam Aggressor creator: “My PET scan detected several cancerous recurrences after my surgery (T^T)”",
+      "pubDate": "2026-10-14T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/herald/202182/71ddo4xth1l.uf1000-1000-ql80.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Yumene Connect' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74820023?_location=rss",
+      "description": "Production company Shochiku opened an official website for a television anime adaptation of Kou Sawada's Yumene Connect manga on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. Voice actors Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) and Yuu Sasahara (Shadows House) are starring as Yuuhi Takamiya and Nano, respectively. Staff Director: Souta Yokote (Fumetsu no Anata e Season 3) Series Composition, Script: Gigaemon Ichikawa (...",
+      "pubDate": "2026-10-14T03:44:24.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1791949417-c857ab3305403612e1bbbc3a502d6e0b.jpeg"
+    },
+    {
+      "id": "cr-c3Nlcy1hd2F5",
+      "title": "Manga Artist Masako Watanabe Passes Away at 97",
+      "link": "https://crunchyroll.com/news/latest/2026/10/14/manga-artist-masako-watanabe-passes-away",
+      "description": "Watanabe made her debut as a manga artist in 1952",
+      "pubDate": "2026-10-14T02:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1500x500/c66d429296/masako-watanabe.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI3OTc",
+      "title": "The Apothecary Diaries Film's New Video Unveils Miyuki Sawashiro, Ai Mikami in Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-13/the-apothecary-diaries-film-new-video-unveils-miyuki-sawashiro-ai-mikami-in-cast/.242797",
+      "description": "Sawashiro, Mikami join cast as Ruoqing, Yinshan",
+      "pubDate": "2026-10-14T02:21:58.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ8/youtube/dipjaCmYris.jpg"
+    },
     {
       "id": "cr-eC1vZmZpY2U",
       "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Climbs Back to No. 1 in 12th Weekend",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-12T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN7/cms/news.6/194936/killing_bites_pr.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjc1NA",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-12T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/news.10/242754/lovebites-band.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI3NTI",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Manga",
       "image": null
-    },
-    {
-      "id": "cr-c29uZy1saXN0",
-      "title": "10CM on His Creative Process, Loving Junji Ito and Which of His Songs You Should Check Out",
-      "link": "https://crunchyroll.com/news/interviews/2026/10/12/10cm-interview-song-list",
-      "description": "10CM says he was \"more excited than usual\" to work on a song for Strange: Junji Ito’s Tales for Sleepless Nights",
-      "pubDate": "2026-10-12T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/497f3d56fe/10cm-credit-cam.jpg"
-    },
-    {
-      "id": "ann-LjI0MjIzMA",
-      "title": "Dramatic Road: the origin of wind Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/pc/dramatic-road/the-origin-of-wind/.242230",
-      "description": "Dramatic Road isn't just a modern-day Fire Emblem. It's specifically a high school delinquent saga inspired by classics like Bari Bari Densetsu.",
-      "pubDate": "2026-10-12T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjcxOA",
-      "title": "Blue Thermal's Kana Ozawa Announces New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-12/blue-thermal-kana-ozawa-announces-new-manga/.242718",
-      "description": "Ozawa to launch new manga Ao Sansan in December",
-      "pubDate": "2026-10-12T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LXZvbC03Ng",
-      "title": "Crunchyroll News Puzzles Vol. 76: Special Individual and Crafting Jobs",
-      "link": "https://crunchyroll.com/news/quizzes/2026/10/12/anime-crosswords-puzzles-vol-76",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-10-12T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-NC8uMjQyNzIx",
-      "title": "Japan's Video Game Rankings, September 28-October 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-12/japan-video-game-rankings-september-28-october-4/.242721",
-      "description": "Ace Combat 8: Wings of Theve debuts at #1",
-      "pubDate": "2026-10-12T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Tekken 8 Kicks Off Roger Jr. DLC Early Access on November 11",
-      "link": "https://crunchyroll.com/news/latest/2026/10/12/tekken-8-roger-jr-dlc-release-date-gameplay-trailer",
-      "description": "Full release for everyone else follows on November 16",
-      "pubDate": "2026-10-12T13:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x576/01cba89d14/tekken-8-roger-jr.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQyNzIy",
-      "title": "Spy×Family, Jujutsu Kaisen, Witch Hat Atelier Manga Rank on NYT October Bestseller List",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-12/spy-family-jujutsu-kaisen-witch-hat-atelier-manga-rank-on-nyt-october-bestseller-list/.242722",
-      "description": "The 16th volume of Tatsuya Endo's Spy x Family manga ranked at #6 on The New York Times' monthly Graphic Books and Manga bestseller list released in early...",
-      "pubDate": "2026-10-12T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ZC8uMjQxODEy",
-      "title": "Part of Her World: Anime and Manga Visions of The Little Mermaid",
-      "link": "https://www.animenewsnetwork.com/feature/2026-10-12/part-of-her-world-anime-and-manga-visions-of-the-little-mermaid/.241812",
-      "description": "Rebecca swims through anime and manga history to reach the depths of its mermaid fascination.",
-      "pubDate": "2026-10-12T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Zy12aWRlb3M",
-      "title": "Dragon Ball Super: Beerus Anime Shares Creditless Opening & Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/12/dragon-ball-super-beerus-anime-creditless-opening-ending-videos",
-      "description": "Latest Dragon Ball TV anime now streaming on Crunchyroll",
-      "pubDate": "2026-10-12T12:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/8946532182/db-super-beerus-pv.jpg"
     }
   ]
 };
