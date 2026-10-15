@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-14T21:01:38.200Z",
+  "lastUpdated": "2026-10-15T01:59:46.810Z",
   "items": [
+    {
+      "id": "cr-dC1kYXlyZQ",
+      "title": "Voice Actor Unit DayRe: Drops Dandivine Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/15/dandivine-anime-ending-song-music-video-voice-actor-unit-dayre",
+      "description": "Crunchyroll streams the original robot anime series",
+      "pubDate": "2026-10-15T01:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/01c6d0ceb2/dayre-mikansei-ordinary-mv.jpg"
+    },
+    {
+      "id": "cr-YXdhZ3VjaGk",
+      "title": "Yurina Kawaguchi Releases New Magic Knight Rayearth Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/15/new-magic-knight-rayearth-anime-ending-song-music-video-yurina-kawaguchi",
+      "description": "The reboot series is now available on Crunchyroll",
+      "pubDate": "2026-10-15T00:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8b0afe7bff/yurina-kawaguchi-hoshiakari-mv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI4MDU",
+      "title": "Croquette!'s Manavu Kishimoto Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-14/croquette-s-manavu-kishimoto-launches-new-manga/.242805",
+      "description": "Kishimoto launched Tantei Neko Machida manga on Tuesday",
+      "pubDate": "2026-10-14T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gVG/cms/news.10/242805/manavu.webp"
+    },
     {
       "id": "ann-LjI0Mjc1Nw",
       "title": "North American Anime, Manga Releases, October 11-17",
@@ -244,7 +274,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "cr-ZS12aXN1YWw",
-      "title": "Cyberpunk: Edgerunners 2 Anime Deploys New Characters in Latest Visual",
+      "title": "Cyberpunk: Edgerunners 2 Anime Deploys New Characters in Latest Trailer, Visual",
       "link": "https://crunchyroll.com/news/latest/2026/10/14/cyberpunk-edgerunners-2-anime-visual",
       "description": "Kai Ikarashi directs a new standalone story at studio TRIGGER",
       "pubDate": "2026-10-14T08:02:00.000Z",
@@ -430,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-13T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/encyc/P87175-3260734657.1587302894.jpg"
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/herald/202204/1500x500-2.jpeg"
     },
     {
       "id": "cr-YWwtY2FzdA",
@@ -500,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-13T15:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0G/cms/news.9/241849/shang.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjc4Ng",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/2360x1302/381946a6c7/paw-and-palaces-creditless-ending.jpeg"
-    },
-    {
-      "id": "ann-LjI0MjcwMw",
-      "title": "Red Riding Hood: A Detective Story's First Episode Asks “What Does Murder in a Children's Story Look Like?”",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/red-riding-hood-a-detective-story-first-episode-asks-what-does-murder-in-a-children-story-look-like/.242703",
-      "description": "What would happen if Little Red Riding Hood was accused of murder?",
-      "pubDate": "2026-10-13T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mjc2MA",
-      "title": "The Coppersmith's Bride Manga Ends in 3 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-13/the-coppersmith-bride-manga-ends-in-3-chapters/.242760",
-      "description": "namo launched manga in May 2020, published in English by J-Novel Club",
-      "pubDate": "2026-10-13T12:57:08.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI3NTk",
-      "title": "The Heroic Tale of the Villainous Prince's Hirosaki Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-13/the-heroic-tale-of-the-villainous-prince-hirosaki-launches-new-manga/.242759",
-      "description": "Saijaku Maō no Shinimodori Saiseitan manga launched on October 7",
-      "pubDate": "2026-10-13T12:42:09.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 };
