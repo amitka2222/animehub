@@ -1,7 +1,147 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-16T01:50:02.486Z",
+  "lastUpdated": "2026-10-16T10:13:02.060Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI4OTE",
+      "title": "Golden Kamuy's Live-Action Adaptation Continues With 'Karafuto Pursuit Arc' Series in January",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-16/golden-kamuy-live-action-adaptation-continues-with-karafuto-pursuit-arc-series-in-january/.242891",
+      "description": "New series features returning, new staff",
+      "pubDate": "2026-10-16T09:17:47.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL9/cms/news.10/242891/golden-kamuy-karafuto.jfif.jpeg"
+    },
+    {
+      "id": "ann-LjI0Mjg5MA",
+      "title": "Wound & Bandage TV Anime Reveals Main Cast, January 9 Debut in Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-16/wound-and-bandage-tv-anime-reveals-main-cast-january-9-debut-in-teaser-video/.242890",
+      "description": "Hisako Kanemoto, Chikahiro Kobayashi star in anime",
+      "pubDate": "2026-10-16T08:34:54.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMB/cms/news.10/242890/visual-3.webp"
+    },
+    {
+      "id": "cr-YWluLWNhc3Q",
+      "title": "Wound & Bandage Anime Teaser Trailer Reveals Premiere Date, Main Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/16/wound-and-bandage-anime-teaser-trailer-visual-january-9-release-date-main-cast",
+      "description": "Miyuki Ishida directs the series at studio J.C.Staff",
+      "pubDate": "2026-10-16T08:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/13069ca4fd/wound-and-bandage.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyODg2",
+      "title": "Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886",
+      "description": "Hirofumi Nojima, Shōgo Yano join cast starting in 15th episode",
+      "pubDate": "2026-10-16T08:04:15.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/news.10/242886/umezou.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kizuguchi to Houtai' Reveals Main Cast, Teaser Promo",
+      "link": "https://myanimelist.net/news/74826432?_location=rss",
+      "description": "The official website for the television anime adaptation of Nanai Umihoshi's Kizuguchi to Houtai (Wound and Bandage) manga revealed the main cast, a theme visual (pictured), and teaser promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Voice actors Hisako Kanemoto (Jaku-Chara Tomozaki-kun) and Chikahiro Kobayashi (Beastars) are starring as Riyo Washizu and Gou Kiritani, res...",
+      "pubDate": "2026-10-16T07:28:30.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792135671-18b83f191d9887c0d958675f4713efd7.jpeg"
+    },
+    {
+      "id": "ann-LjI0Mjg3MQ",
+      "title": "Magical DoReMi, Star Detective Precure! Anime Get Crossover Episode on October 25",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-16/magical-doremi-star-detective-precure-anime-get-crossover-episode-on-october-25/.242871",
+      "description": "Crossover episode will be anime's 39th episode",
+      "pubDate": "2026-10-16T06:29:05.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.10/242871/doremi-precure01.jpg"
+    },
+    {
+      "id": "cr-Y3Jvc3NvdmVy",
+      "title": "Star Detective Precure! Anime Episode 39 to Feature Ojamajo Doremi Crossover",
+      "link": "https://crunchyroll.com/news/latest/2026/10/16/star-detective-precure-anime-episode-39-ojamajo-doremi-crossover",
+      "description": "The 23rd Precure TV anime series is available on Crunchyroll",
+      "pubDate": "2026-10-16T04:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/2f2e5cea61/detective-precure-ojamajo-doremi-collab-header.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyODY5",
+      "title": "Interview: Chrono Trigger Lead Programmer on Directing His Own Time Travel JRPG, Eternal Anima",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/interview-chrono-trigger-lead-programmer-on-directing-his-own-time-travel-jrpg-eternal-anima/.242869",
+      "description": "Director Katsuhisa Higuchi reached out to his old coworkers from Square and gathered other JRPG veterans to make his new retro-inspired adventure.",
+      "pubDate": "2026-10-16T04:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWD/cms/convention/242869/eternal-anima-logo.jpg"
+    },
+    {
+      "id": "ann-LjI0MTY1NA",
+      "title": "Interview: A Deep Dive into the Creation and Philosophy of The Ninth Jedi",
+      "link": "https://www.animenewsnetwork.com/interview/2026-10-16/a-deep-dive-into-the-creation-and-philosophy-of-the-ninth-jedi/.241654",
+      "description": "Producer Hitoshi Ito and Directors Kenji Kamiyama and Shunsuke Tada speak on the origins of the color-changing lightsabers, the the \"State of Nothingness,\" and so much more.",
+      "pubDate": "2026-10-16T04:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD4/cms/interview/241654/theninthjedi-8.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDIxNjE",
+      "title": "Hands-on with Eternal Anima: A Classic JRPG for the Modern Era",
+      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/hands-on-with-eternal-anima-a-classic-jrpg-for-the-modern-era/.242161",
+      "description": "It's not a new Chrono Trigger but it may be the next best thing.",
+      "pubDate": "2026-10-16T04:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/convention/242161/enternal-anima.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI4NzA",
+      "title": "Singer Kenshi Yonezu Goes on World Tour in Early 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-15/singer-kenshi-yonezu-goes-on-world-tour-in-early-2027/.242870",
+      "description": "Tour goes to S. Korea, Singapore, USA, Mexico, Canada, UK, France, Netherlands",
+      "pubDate": "2026-10-16T03:05:31.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.10/242870/yonezu.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI4Njg",
+      "title": "Crunchyroll Streams Dub for The Apothecary Diaries Season 3",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868",
+      "description": "Dub debuts on Friday",
+      "pubDate": "2026-10-16T02:44:18.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/news.9/240600/hpwnmzta4aajc53.jpg"
+    },
+    {
+      "id": "cr-c2VpLXlhZ2k",
+      "title": "Yusei Yagi Drops Uncle's Obsession with Cute Things Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/16/uncles-obsession-with-cute-things-anime-opening-song-music-video-yusei-yagi",
+      "description": "The LIDENFILMS-animated comedy series is available on Crunchyroll",
+      "pubDate": "2026-10-16T02:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c5657d7a3b/yusei-yagi-like-mv.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjg2Nw",
+      "title": "GKIDS Offers CITY the Animation on BD Collector's Edition on December 15",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-15/gkids-offers-city-the-animation-on-bd-collector-edition-on-december-15/.242867",
+      "description": "Release available exclusively on online GKIDS store",
+      "pubDate": "2026-10-16T02:03:46.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/242867/city-productshots-explodedpackshot-01b-transparent-legal.png.jpg"
+    },
     {
       "id": "cr-Yy12aWRlb3M",
       "title": "A Returner's Magic Should Be Special Season 2 Anime Shares Opening, Ending Song Music Videos",
@@ -11,6 +151,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/9b087ef708/flow-sorrow-mv.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyODY2",
+      "title": "Kodansha USA Licenses Jackpot Girls, Powerless Without You, Occult Times, 7 Other Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866",
+      "description": "Also: 7 titles for Kodansha Print Club",
+      "pubDate": "2026-10-16T01:14:32.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK8/cms/news.10/242866/jackpot-girls-jp.jpg"
     },
     {
       "id": "cr-b3J1c2hpa2E",
@@ -410,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-14T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gVG/cms/news.10/242805/manavu.webp"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjc1Nw",
@@ -420,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-14T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM7/herald/202201/rising-of-shield-hero-s4.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQyODE3",
@@ -430,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-14T20:22:32.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY2/cms/news.10/242817/ushiyama-san.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MjgwMg",
@@ -440,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-14T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK9/cms/news.10/242802/zeus1.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQyODE2",
@@ -450,157 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-14T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAA/cms/news.10/242816/crash-keys.png.jpg"
-    },
-    {
-      "id": "ann-bi8uMjQyODE1",
-      "title": "Tezuka: God of Manga Documentary Film Launches Kickstarter Campaign",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-14/tezuka-god-of-manga-documentary-film-launches-kickstarter-campaign/.242815",
-      "description": "Film scheduled for completion in 2028 with backer rewards slated for July 2028 distribution",
-      "pubDate": "2026-10-14T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People. Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/WC-1HUq7d-Q.jpg"
-    },
-    {
-      "id": "cr-YWRpc2UtZ2Jh",
-      "title": "Nintendo Classics Adds Monster Rancher Advance and More to GBA Lineup",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/nintendo-classics-monster-rancher-advance-metal-slug-kururin-paradise-gba",
-      "description": "Other titles joining include Metal Slug Advance, Kururin Paradise",
-      "pubDate": "2026-10-14T17:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x535/c33eba1a09/monster-rancher-advance.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjc5Ng",
-      "title": "Kadokawa Apologizes After Using Character Design Reference Without Permission for Pitch-Black Infatuation Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-14/kadokawa-apologizes-after-using-character-design-reference-without-permission-for-pitch-black-/.242796",
-      "description": "Pitch-Black Infatuation used character designs, backgrounds from Ieri Komen's Festival of Heresies manga",
-      "pubDate": "2026-10-14T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g5A/cms/news.10/242796/shikkokunobojo.jpg"
-    },
-    {
-      "id": "ann-LjI0MjQ2MA",
-      "title": "Fired? But I Maintain All the Software! Volume 1 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/fired-but-i-maintain-all-the-software-volume-1-light-novel/.242460",
-      "description": "Corporate revenge meets cosplay coding lessons in this back-to-basics critique of modern working culture.",
-      "pubDate": "2026-10-14T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/review.2/242460/fired-ln-volume-1-cover.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQyODE0",
-      "title": "Shueisha's Manga Million Adds Hiromasa Okujima's Together with Serial-san Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-14/shueisha-manga-million-adds-hiromasa-okujima-together-with-serial-san-manga/.242814",
-      "description": "Okujima debuted manga on February 25",
-      "pubDate": "2026-10-14T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBA/cms/news.10/242814/together-with-serial-san.jpg"
-    },
-    {
-      "id": "cr-dy10cmFpbGVy",
-      "title": "See More of The Legend of Zelda: Ocarina of Time Remake in Overview Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/legend-of-zelda-ocarina-of-time-remake-overview-trailer",
-      "description": "Nintendo shows off the new look and features ahead of November launch",
-      "pubDate": "2026-10-14T15:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/4e001db94f/zelda-ocarina-remake.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyODEz",
-      "title": "Nintendo Classics Service Adds Monster Rancher, Metal Slug, Kururin Paradise GBA Games",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-14/nintendo-classics-service-adds-monster-rancher-metal-slug-kururin-paradise-gba-games/.242813",
-      "description": "Kururin Paradise was never previously released in West",
-      "pubDate": "2026-10-14T15:03:35.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/youtube/7K7iGohHpWU.jpg"
-    },
-    {
-      "id": "cr-c3RyYXRpb24",
-      "title": "Witch on the Holy Night Anime Film Teams Up with Puella Magi Madoka Magica Movie in Collaboration Illustration",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/witch-on-the-holy-night-anime-film-puella-magi-madoka-magica-movie-collaboration-illustration",
-      "description": "Adaptation hits Japanese cinemas on November 20, worldwide in January 2027",
-      "pubDate": "2026-10-14T15:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/e13f0efe40/witch-on-the-holy-night.png"
-    },
-    {
-      "id": "cr-aWRkbGUtYWdl",
-      "title": "How Smoking Behind the Supermarket with You Made Me Reflect on Approaching Middle Age",
-      "link": "https://crunchyroll.com/news/features/2026/10/14/smoking-behind-the-supermarket-with-you-middle-age",
-      "description": "My back hurts but my spirits are high",
-      "pubDate": "2026-10-14T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/69162b4ffb/smoking-behind-the-convenience-store-with-you.jpg"
-    },
-    {
-      "id": "cr-LXZpZGVvcw",
-      "title": "DARK MACHINE THE ANIMATION Shares Creditless Opening & Ending Animation Sequences",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/dark-machine-the-animation-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams original mecha esports series",
-      "pubDate": "2026-10-14T14:57:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/5d0fde1b7b/dark-machine-the-animation.jpg"
-    },
-    {
-      "id": "cr-LXZpZGVvcw",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime Publishes Creditless Opening & Ending Videos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/the-laid-off-cheat-granting-mage-anime-creditless-opening-ending-videos",
-      "description": "Crunchyroll streams adaptation based on fantasy light novel series",
-      "pubDate": "2026-10-14T14:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/bee5b7df78/the_laid_off_cheat_granting_mage_enjoys_a_second_lease_on_life_rein_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI4MTI",
-      "title": "Red River ‒ Episode 15",
-      "link": "https://www.animenewsnetwork.com/review/red-river/episode-15/.242812",
-      "description": "The False Ishtar plotline isn't a favorite of mine – it's much less cunning than Nakia's usual plans.",
-      "pubDate": "2026-10-14T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/episode-review.5/242812/red-river-15.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjgxMQ",
-      "title": "The Legend of Zelda: Ocarina of Time Switch 2 Remake Game's Overview Trailer Reveals Hall of Fallen Foes",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-14/the-legend-of-zelda-ocarina-of-time-switch-2-remake-game-overview-trailer-reveals-hall-of-fallen-/.242811",
-      "description": "Game launches on November 5",
-      "pubDate": "2026-10-14T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
-    },
-    {
-      "id": "cr-Zy12aWRlbw",
-      "title": "Super Psychic Policeman Chojo Anime Sees All in Creditless Ending Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/super-psychic-policeman-chojo-anime-creditless-ending-video",
-      "description": "The psychic cop comedy is now streaming on Crunchyroll",
-      "pubDate": "2026-10-14T13:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/2360x1330/03bad9a496/super-psychic-policeman-chojo-ed-hero.jpeg"
-    },
-    {
-      "id": "cr-dS12aXNpdA",
-      "title": "Watch Tom Cruise, Alejandro G. Iñárritu Tour MAPPA’s 15th Anniversary Exhibition",
-      "link": "https://crunchyroll.com/news/latest/2026/10/14/mappa-expo-15th-anniversary-tom-cruise-alejandro-g-inarritu-visit",
-      "description": "The DIGGER duo were guided by JUJUTSU KAISEN character designer Tadashi Hiramatsu",
-      "pubDate": "2026-10-14T13:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/2500x1667/ad962c3144/tom-cruise-looking-at-the-rumbling.jpeg"
     }
   ]
 };
