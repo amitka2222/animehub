@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-17T09:46:42.870Z",
+  "lastUpdated": "2026-10-17T14:30:16.233Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI4ODg",
+      "title": "Japan's Video Game Rankings, October 5-11",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/japan-video-game-rankings-october-5-11/.242888",
+      "description": "Kingdom Hearts Collection Switch 2 version debuts at #1, Ace Combat 8 ranks at #3",
+      "pubDate": "2026-10-17T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNK/cms/news.10/242888/khcollection.jpg"
+    },
+    {
+      "id": "ann-bS8uMjQyNDU1",
+      "title": "Bringing the 'Art of Manga' to the Brooklyn Museum",
+      "link": "https://www.animenewsnetwork.com/feature/2026-10-17/bringing-the-art-of-manga-to-the-brooklyn-museum/.242455",
+      "description": "Curator Rousmaniere said, “What Brooklyn has done is really highlighted each of the artists in their own individual fashion, really beautifully spacing it out, and I think it's the most immersive format they could have done.”",
+      "pubDate": "2026-10-17T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ7/cms/feature/242455/14-309377-20250612.jpeg"
+    },
+    {
+      "id": "cr-aW4tc3BhaW4",
+      "title": "We Are Aliens Anime Film Wins Best Animated Feature Film at SITGES in Spain",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/we-are-aliens-anime-film-wins-best-animated-feature-film-at-sitges-in-spain",
+      "description": "Kohei Kadowaki is the youngest Japanese director currently to have won the award",
+      "pubDate": "2026-10-17T12:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1035/de61ea7699/we_are_aliens_header.jpg"
+    },
+    {
+      "id": "cr-c3RlcGhhbg",
+      "title": "Reincarnated as a Sword Season 2 Anime Casts Shiori Izawa as Stephan",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/reincarnated-as-a-sword-season-2-anime-casts-shiori-izawa-as-stephan",
+      "description": "Adaptation based on isekai fantasy light novels is currently broadcasting in Japan",
+      "pubDate": "2026-10-17T12:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x1033/37c178c793/reincarnated_as_a_sword_season2_stephan.jpg"
+    },
+    {
+      "id": "cr-Zy1lbmRpbmc",
+      "title": "A Certain Dark Item Anime Shares Creditless Opening & Ending Animation Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/a-certain-dark-item-anime-creditless-opening-ending",
+      "description": "Crunchyroll streams adaptation based on science fiction light novel series",
+      "pubDate": "2026-10-17T12:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1500x844/6da51d17de/a_certain_dark_item_header.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers Anime Reveals New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-trailer",
+      "description": "Crunchyroll streams adaptation based on isekai fantasy light novel series",
+      "pubDate": "2026-10-17T12:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1820x1024/813ce02745/full_clearing_another_world_under_a_goddess_with_zero_believers_header2.jpg"
+    },
+    {
+      "id": "ann-ZC8uMjQyOTM4",
+      "title": "We Are Aliens Film Wins Sitges Film Festival's Anima't Award",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/we-are-aliens-film-wins-sitges-film-festival-animat-award/.242938",
+      "description": "Kōhei Kadowaki is youngest Japanese director to win award in Spain's Catalonia",
+      "pubDate": "2026-10-17T12:16:17.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g4R/cms/news.9/239997/wearealiens-kv2.jpg"
+    },
+    {
+      "id": "ann-MS8uMjQyODg5",
+      "title": "Japanese Animation TV Ranking, October 5-11",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/japanese-animation-tv-ranking-october-5-11/.242889",
+      "description": "The Vermilion Mask debuts with 3.1% rating, Dragon Ball Super: Beerus with 2.8% rating",
+      "pubDate": "2026-10-17T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQJ/encyc/A36879-3355659636.1789101899.jpg"
+    },
+    {
+      "id": "ann-LjI0MjkzNw",
+      "title": "Aikatsu Stars 10th Anniversary Film's Trailer Unveils Theme Song, January 22 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/aikatsu-stars-10th-anniversary-film-trailer-unveils-theme-song-january-22-debut/.242937",
+      "description": "Yume & company invited to \"Venus Jamboree\" with world's top idols",
+      "pubDate": "2026-10-17T09:31:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/news.10/242937/bg-header-01-pc.png.jpg"
+    },
     {
       "id": "ann-YS8uMjQyOTM2",
       "title": "Stranger Than Heaven Game Streams Story Trailer for 1st Act 'Kokura'",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-15T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g2P/cms/review.2/242529/260530-01-01.jpg"
+      "image": null
     },
     {
       "id": "cr-YW5nYS1lbmRz",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Features",
       "image": "https://a.storyblok.com/f/178900/960x540/7fdcf5c79b/my-dress-up-darling.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjg0Mg",
-      "title": "Japanese Animation TV Ranking, September 28-October 4",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842",
-      "description": "The Apothecary Diaries season 3 debuts with 4.8% rating, Tougen Anki: Nikko Kegon Falls Arc with 2.7% rating",
-      "pubDate": "2026-10-15T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/encyc/A37931-397630352.1789645121.jpg"
-    },
-    {
-      "id": "ann-LjI0MjgwMw",
-      "title": "This Week in Anime - Incomprehensible Legend Toshiki Inoue",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-15/.242803",
-      "description": "Come meet the man behind L and Light's homoerotic foot massage scene.",
-      "pubDate": "2026-10-15T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/this-week-in-anime/242803/coop-8.jpeg"
-    },
-    {
-      "id": "cr-cmUtZGF0ZQ",
-      "title": "Are You a Landmine, Chihara-san? Anime Premieres on January 7",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/are-you-a-landmine-chihara-san-anime-premiere-date",
-      "description": "Yasuaki Fujii directs adaptation based on Ryon's romcom manga at SynergySP",
-      "pubDate": "2026-10-15T13:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/d6c26d3d36/are_you_a_landmine_chiharasan_header3.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjg1Mg",
-      "title": "Gundam Blitz Order Mobile Game Announced",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/gundam-blitz-order-mobile-game-announced/.242852",
-      "description": "Network test for 1st idle game in Gundam franchise will host network test in November",
-      "pubDate": "2026-10-15T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEC/youtube/EYFSps3uG2I.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Bless Anime Introduces Akiharu Nakano in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/bless-anime-introduces-akiharu-nakano-in-new-character-trailer",
-      "description": "Adaptation based on manga by Yukino Sonoyama broadcasts in January 2027",
-      "pubDate": "2026-10-15T13:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/a549d5c150/bless_anime_akiharu_nakano_header.jpg"
-    },
-    {
-      "id": "cr-LWpvaGFubg",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Adds Shoya Ishige as Johann",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/the-seven-knights-of-the-marronnier-kingdom-anime-adds-shoya-ishige-as-johann",
-      "description": "Adaptation based on Nao Iawamoto's manga is currently broadcasting in Japan",
-      "pubDate": "2026-10-15T13:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/36550630e7/the_seven_knights_of_the_marronnier_kingdom_johannes_header.jpg"
-    },
-    {
-      "id": "cr-Y2gtdmlzdWFs",
-      "title": "Shangri-La Frontier Season 3 Anime Chooses Its Fighters in 1st Exhibition Match Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/shangri-la-frontier-season-3-anime-exhibition-match-visual",
-      "description": "The upcoming series will stream on Crunchyroll next year",
-      "pubDate": "2026-10-15T13:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/3875f031d0/shangri-la-frontier-season-3.jpg"
-    },
-    {
-      "id": "cr-cy15dWthcmk",
-      "title": "Firefly Wedding Anime Casts Kanon Amane as Yukari",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/firefly-wedding-anime-kanon-amane-cast-as-yukari",
-      "description": "Crunchyroll streams adaptation based on historical romance manga by Oreco Tachibana",
-      "pubDate": "2026-10-15T12:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/06618ea5f7/firefly-wedding-kanon-cast.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI4NTE",
-      "title": "Crunchyroll Adds English Dub for Saga of Tanya the Evil the Movie Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-adds-english-dub-for-saga-of-tanya-the-evil-the-movie-anime/.242851",
-      "description": "Film opened in Japan in February 2019",
-      "pubDate": "2026-10-15T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYD/encyc/A20509-3192136955.1539209286.jpg"
     }
   ]
 };
