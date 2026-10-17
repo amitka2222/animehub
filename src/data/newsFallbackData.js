@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-16T20:09:01.414Z",
+  "lastUpdated": "2026-10-17T01:44:53.249Z",
   "items": [
+    {
+      "id": "cr-bXl1LXBhbXl1",
+      "title": "Kyary Pamyu Pamyu Shares Pan Dorobo TV Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/pan-dorobo-tv-anime-ending-song-music-video-kyary-pamyu-pamyu",
+      "description": "The video includes a homage to her debut song, \"PONPONPON\"",
+      "pubDate": "2026-10-17T01:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/34428cc9e4/kyary-pamyu-pamyu-pan-dorobo-ed-mv.png"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "Aikatsu! TV Anime Reveals New Creditless Opening and Ending Videos for Rebroadcast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/aikatsu-tv-anime-rebroadcast-new-creditless-opening-ending-videos",
+      "description": "\"Aikatsu! Encore\" arcade game began operating on October 8",
+      "pubDate": "2026-10-17T00:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e193614fd4/aikatsu-rebroadcast-opening.jpg"
+    },
     {
       "id": "cr-LXRyYWlsZXI",
       "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer",
@@ -41,16 +61,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Announcements",
       "image": "https://a.storyblok.com/f/178900/1920x1080/cce11c3b70/the-irregular-at-magic-high-school-the-movie-yotsuba-succession-arc.jpg"
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Black Clover Season 2 English Dub Now Streaming on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/16/black-clover-season-2-anime-english-dub-release-date-cast-crew",
-      "description": "New episodes will release weekly",
-      "pubDate": "2026-10-16T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/e1bf4bd618/black-clover-season-2.jpg"
     },
     {
       "id": "ann-LjI0MjQ2OQ",
@@ -400,7 +410,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-15T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g2P/cms/review.2/242529/260530-01-01.jpg"
     },
     {
       "id": "cr-YW5nYS1lbmRz",
@@ -591,16 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792059713-2329bfc99a117e1b2dfbdcaa7962e8bb.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDI4NDU",
-      "title": "I Got a Cheat Skill in Another World 2nd Season Anime Reveals Teaser Video, New, Returning Cast & Staff, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/i-got-a-cheat-skill-in-another-world-2nd-season-anime-reveals-teaser-video-new-returning-cast-and-/.242845",
-      "description": "Ikumi Hasegawa, Sora Amamiya join anime's cast",
-      "pubDate": "2026-10-15T09:58:23.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gND/cms/news.10/242845/cheatthumb.png.jpg"
     }
   ]
 };
