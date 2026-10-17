@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-17T01:44:53.249Z",
+  "lastUpdated": "2026-10-17T09:46:42.870Z",
   "items": [
+    {
+      "id": "ann-YS8uMjQyOTM2",
+      "title": "Stranger Than Heaven Game Streams Story Trailer for 1st Act 'Kokura'",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/stranger-than-heaven-game-streams-story-trailer-for-1st-act-kokura/.242936",
+      "description": "Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam",
+      "pubDate": "2026-10-17T07:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/youtube/-RtKGcSnNYY.jpg"
+    },
+    {
+      "id": "ann-LjI0MjkzNA",
+      "title": "OceanVeil to Add 19 Anime Titles from Media Blasters",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934",
+      "description": "Magical Witch Punie-chan, CODE-E, EIken, Gakuen Heaven, more to stream on service",
+      "pubDate": "2026-10-17T05:54:28.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYY/cms/news.10/242934/mediablasters-pv.jpg"
+    },
+    {
+      "id": "ann-LjI0MjkzMw",
+      "title": "Comikey Adds Mato Kauta's The Wolf King's Bride Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/comikey-adds-mato-kauta-the-wolf-king-bride-manga/.242933",
+      "description": "Hakusensha serialized shōjo manga from 2009 to 2018",
+      "pubDate": "2026-10-17T05:31:42.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEK/cms/news.10/242933/wolf-king.jfif.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI5MzI",
+      "title": "Peow2 Licenses Jyoshikohei, Alien 9, Phantom Core Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-17/peow2-licenses-jyoshikohei-alien-9-phantom-core-manga/.242932",
+      "description": "Company to release all 3 manga next year",
+      "pubDate": "2026-10-17T05:08:19.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG3/herald/202266/joshikohei.webp"
+    },
+    {
+      "id": "ann-LjI0Mjg2MQ",
+      "title": "Japan Actors Union Develops Guidelines for Generative AI Use",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
+      "description": "Dragon Ball cast members discuss how generative AI affects them in press conference",
+      "pubDate": "2026-10-17T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQyOTI5",
+      "title": "Viz Media Licenses Jojolion, His Sweet Solace, Under Doctor, More Manga for Summer 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929",
+      "description": "Someone Hertz, Belladonna's Lover, Bus for Two manga; more works slated for next summer",
+      "pubDate": "2026-10-17T02:58:10.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.10/242929/jojolion.jfif.jpeg"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "GROW UP SHOW -Sunflower Circus- Anime Streams Opening, Ending Song Music Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/17/grow-up-show-sunflower-circus-anime-opening-ending-song-music-videos",
+      "description": "The original TV anime series is available on Crunchyroll",
+      "pubDate": "2026-10-17T02:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/56b781a9c2/nomelon-nolemon-yurariyureru-mv.jpg"
+    },
     {
       "id": "cr-bXl1LXBhbXl1",
       "title": "Kyary Pamyu Pamyu Shares Pan Dorobo TV Anime Ending Song Music Video",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYD/encyc/A20509-3192136955.1539209286.jpg"
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "Matsurika Kanriden Anime Adds Two Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/15/matsurika-kanriden-anime-two-new-cast-members",
-      "description": "Adaptation based on historical fantasy light novel series debuts in January 2027",
-      "pubDate": "2026-10-15T12:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1403x789/99aff953db/matsurika_kanriden_ko_matsurika_header.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjg0OA",
-      "title": "Voice Actors Kōji Yusa, Miyari Nemoto Announce Marriage",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-15/voice-actors-koji-yusa-miyari-nemoto-announce-marriage/.242848",
-      "description": "Yusa creates X/Twitter account just to make announcement, will deactivate it next week",
-      "pubDate": "2026-10-15T12:10:33.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIA/cms/interest.3/242848/nemoto-miyari2.png.jpg"
-    },
-    {
-      "id": "ann-by8uMjQyODQ0",
-      "title": "Fate/Extra Record Game Highlights Opponents in New Character Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/fate-extra-record-game-highlights-opponents-in-new-character-promo-video/.242844",
-      "description": "Also: Game to hold special hands-on event in Tokyo on November 7-8",
-      "pubDate": "2026-10-15T11:51:23.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLA/cms/news.10/242844/fatethumb.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjg1NA",
-      "title": "'Are You a Landmine, Chihara-san?' Anime Announces January 7 Debut",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-15/are-you-a-landmine-chihara-san-anime-announces-january-7-debut/.242854",
-      "description": "The staff for the television anime of Ryon's Are You a Landmine, Chihara-san? (Jirai nandesu ka? Chihara-san) manga announced on Thursday the anime's...",
-      "pubDate": "2026-10-15T11:43:18.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI3/cms/news.9/232502/chihara-visual.webp"
-    },
-    {
-      "id": "ann-LjI0Mjg1NQ",
-      "title": "Bless TV Anime Casts Kōki Uchiyama",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/bless-tv-anime-casts-koki-uchiyama/.242855",
-      "description": "Uchiyama voices Akiharu Nakano in series debuting in January",
-      "pubDate": "2026-10-15T11:23:04.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/youtube/JG_CIP10xAA.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjg1Mw",
-      "title": "Kei Urana's Gachiakuta Manga Resumes on November 11",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/kei-urana-gachiakuta-manga-resumes-on-november-11/.242853",
-      "description": "Manga has been on hiatus since August 5 so author could do research",
-      "pubDate": "2026-10-15T11:08:14.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.9/241715/gachiakuta.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru 2nd Season' Reveals Additional Cast, New Staff, First Promo for Winter 2027",
-      "link": "https://myanimelist.net/news/74823641?_location=rss",
-      "description": "The official website for the television anime adaptation of Miku's Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too) light novel revealed a pair of additional cast, new staff, a key visual (pictured), and the first promotional video for the second season on Thursday. The anime series will premiere on Tokyo MX, BS11, and other stations in January 2027. Vo...",
-      "pubDate": "2026-10-15T10:22:24.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792059713-2329bfc99a117e1b2dfbdcaa7962e8bb.jpeg"
     }
   ]
 };
