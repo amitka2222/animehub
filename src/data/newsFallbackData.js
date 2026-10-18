@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-18T14:56:46.355Z",
+  "lastUpdated": "2026-10-18T19:44:28.013Z",
   "items": [
+    {
+      "id": "cr-YXN0LWNyZXc",
+      "title": "PSYREN English Dub Reveals Release Date, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/18/psyren-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode phones into Crunchyroll on October 19",
+      "pubDate": "2026-10-18T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/d78f44e98a/psyren.jpg"
+    },
+    {
+      "id": "ann-bC8uMjQyNjA5",
+      "title": "Mushoku Tensei: Jobless Reincarnation Volumes 1-3 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-1-3-light-novel/.242609",
+      "description": "This isn’t more lazy isekai power fantasy slop where characters pull up videogame-esque stat screens out of thin air and solve all of their problems by leveling up.",
+      "pubDate": "2026-10-18T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/review.2/242609/mushoku-tensei-1-cover.jpg"
+    },
+    {
+      "id": "cr-aW50ZXJ2aWV3",
+      "title": "Singer-Songwriter Touka on Creating the New Magic Knight Rayearth Anime Opening",
+      "link": "https://crunchyroll.com/news/interviews/2026/10/18/touka-magic-knight-rayearth-2026-interview",
+      "description": "Let's return to the world of Magic Knight Rayearth!",
+      "pubDate": "2026-10-18T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/93e491b0bf/magic-knight-rayearth-opening.jpg"
+    },
     {
       "id": "cr-aWthcmFzaGk",
       "title": "Null Meta Anime Adaptation Announced for 2027",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.10/242871/doremi-precure01.jpg"
-    },
-    {
-      "id": "cr-Y3Jvc3NvdmVy",
-      "title": "Star Detective Precure! Anime Episode 39 to Feature Ojamajo Doremi Crossover",
-      "link": "https://crunchyroll.com/news/latest/2026/10/16/star-detective-precure-anime-episode-39-ojamajo-doremi-crossover",
-      "description": "The 23rd Precure TV anime series is available on Crunchyroll",
-      "pubDate": "2026-10-16T04:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/2f2e5cea61/detective-precure-ojamajo-doremi-collab-header.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQyODY5",
-      "title": "Interview: Chrono Trigger Lead Programmer on Directing His Own Time Travel JRPG, Eternal Anima",
-      "link": "https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/interview-chrono-trigger-lead-programmer-on-directing-his-own-time-travel-jrpg-eternal-anima/.242869",
-      "description": "Director Katsuhisa Higuchi reached out to his old coworkers from Square and gathered other JRPG veterans to make his new retro-inspired adventure.",
-      "pubDate": "2026-10-16T04:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWD/cms/convention/242869/eternal-anima-logo.jpg"
-    },
-    {
-      "id": "ann-LjI0MTY1NA",
-      "title": "Interview: A Deep Dive into the Creation and Philosophy of The Ninth Jedi",
-      "link": "https://www.animenewsnetwork.com/interview/2026-10-16/a-deep-dive-into-the-creation-and-philosophy-of-the-ninth-jedi/.241654",
-      "description": "Producer Hitoshi Ito and Directors Kenji Kamiyama and Shunsuke Tada speak on the origins of the color-changing lightsabers, the the \"State of Nothingness,\" and so much more.",
-      "pubDate": "2026-10-16T04:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD4/cms/interview/241654/theninthjedi-8.jpg"
     }
   ]
 };
