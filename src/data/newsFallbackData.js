@@ -1,6 +1,6 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-17T19:45:02.269Z",
+  "lastUpdated": "2026-10-18T01:41:43.870Z",
   "items": [
     {
       "id": "cr-YXN0LWNyZXc",
