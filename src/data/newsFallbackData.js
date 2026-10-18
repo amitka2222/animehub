@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-18T01:41:43.870Z",
+  "lastUpdated": "2026-10-18T09:58:57.376Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI5NTM",
+      "title": "Kaiju Decode: The Ring of Aidara Anime Reveals Teaser Trailer, 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-18/kaiju-decode-the-ring-of-aidara-anime-reveals-teaser-trailer-2027-debut/.242953",
+      "description": "Anime's new teaser visual also revealed",
+      "pubDate": "2026-10-18T09:00:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/youtube/sZfvi_ITvFs.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQyOTQ4",
+      "title": "Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover, Aoashi Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948",
+      "description": "Black Clover English dub starts streaming on Saturday, Aoashi on Sunday",
+      "pubDate": "2026-10-18T07:08:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/cms/news.9/232340/black-clover-s2.jfif.jpeg"
+    },
+    {
+      "id": "cr-eS12aXN1YWw",
+      "title": "Kaiju Decode: The Ring of Aidara Anime Film Releases Teaser Trailer, New Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/18/kaiju-decode-the-ring-of-aidara-anime-film-teaser-trailer-new-key-visual",
+      "description": "Tsuburaya Productions and Toei Animation's co-production is slated for 2027",
+      "pubDate": "2026-10-18T05:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c793cf8762/kaiju-decode-the-ring-of-aidara-teaser-trailer.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Aikatsu Stars! Anime Film Unveils January 22, 2027 Release Date, Main Trailer, and Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/18/aikatsu-stars-anime-film-january-22-2027-release-date-main-trailer-visual",
+      "description": "The film will celebrate the series' 10th anniversary",
+      "pubDate": "2026-10-18T05:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/1bfd787d8a/aikatsu-stars-movie-main-trailer.png"
+    },
+    {
+      "id": "ann-Ly4yNDI4NTA",
+      "title": "Voice Actor Nichika Ōmori Announces 1st Pregnancy",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-17/voice-actor-nichika-omori-announces-1st-pregnancy/.242850",
+      "description": "Ōmori made the announcement with her husband Yunomi as a birthday surprise",
+      "pubDate": "2026-10-18T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/cms/interest.3/242850/omori-nichika-pregnant.jpg"
+    },
     {
       "id": "cr-YXN0LWNyZXc",
       "title": "Black Clover Season 2 English Dub Reveals Cast & Crew, Release Date",
@@ -520,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-16T02:44:18.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/news.9/240600/hpwnmzta4aajc53.jpg"
+      "image": null
     },
     {
       "id": "cr-c2VpLXlhZ2k",
@@ -540,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-16T02:03:46.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/242867/city-productshots-explodedpackshot-01b-transparent-legal.png.jpg"
+      "image": null
     },
     {
       "id": "cr-Yy12aWRlb3M",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/9b087ef708/flow-sorrow-mv.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQyODY2",
-      "title": "Kodansha USA Licenses Jackpot Girls, Powerless Without You, Occult Times, 7 Other Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866",
-      "description": "Also: 7 titles for Kodansha Print Club",
-      "pubDate": "2026-10-16T01:14:32.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK8/cms/news.10/242866/jackpot-girls-jp.jpg"
-    },
-    {
-      "id": "cr-b3J1c2hpa2E",
-      "title": "Yorushika Releases The Apothecary Diaries Season 3 Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/16/the-apothecary-diaries-season-3-anime-opening-song-music-video-yorushika",
-      "description": "The new season is now available on Crunchyroll",
-      "pubDate": "2026-10-16T00:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b241b0eaa3/yorushika-beyond-the-clouds-mv.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI4Mjc",
-      "title": "Cregger's Resident Evil Opens at #2 in Japan, 5th Girls und Panzer das Finale Film Opens at #5",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-15/cregger-resident-evil-opens-at-no.2-in-japan-5th-girls-und-panzer-das-finale-film-opens-at-no.5/.242827",
-      "description": "Chiikawa movie back at #1, Madoka Magica Walpurgisnacht: Rising at #10",
-      "pubDate": "2026-10-15T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Y2FzdC1jcmV3",
-      "title": "The Apothecary Diaries Season 3 English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/15/the-apothecary-diaries-season-3-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode drops on Crunchyroll on October 16",
-      "pubDate": "2026-10-15T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/cd624725d5/the-apothecary-diaries-season-3.jpg"
-    },
-    {
-      "id": "cr-bGFuZ3VhZ2U",
-      "title": "Dragon Ball Super: Beerus and the Language of Battle",
-      "link": "https://crunchyroll.com/news/features/2026/10/15/dragon-ball-super-beerus-battle-language",
-      "description": "Dragon Ball Super: Beerus’ first episode flashback perfectly displays one of Dragon Ball’s greatest features",
-      "pubDate": "2026-10-15T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/1a0a615a32/dragon-ball-super-beerus.jpg"
     }
   ]
 };
