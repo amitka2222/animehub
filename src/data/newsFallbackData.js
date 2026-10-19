@@ -1,7 +1,37 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-18T19:44:28.013Z",
+  "lastUpdated": "2026-10-19T01:58:57.755Z",
   "items": [
+    {
+      "id": "cr-ZW8teXV0b3Jp",
+      "title": "Rock Band Yutori Releases The Vermilion Mask Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/19/the-vermilion-mask-anime-ending-song-music-video-yutori",
+      "description": "The 100studio-animated battle fantasy series is available on Crunchyroll",
+      "pubDate": "2026-10-19T01:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/baa2dbcc10/yutori-koe-mv.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQyOTU4",
+      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
+      "description": "New visuals for 106th class characters also unveiled",
+      "pubDate": "2026-10-19T01:09:46.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.10/242958/ll-hasunosora-tvanime-kv.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Love Live! Hasunosora Jyogakuin School Idol Club TV Anime Unveils January 10, 2027 Premiere, Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/19/love-live-hasunosora-jyogakuin-school-idol-club-tv-anime-january-10-2027-premiere-key-visual",
+      "description": "The 106th class's debut single is set to be released on December 30",
+      "pubDate": "2026-10-19T00:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ca8a0ee17b/love-live-hasunosora-jyogakuin-tv-anime-header.png"
+    },
     {
       "id": "cr-YXN0LWNyZXc",
       "title": "PSYREN English Dub Reveals Release Date, Cast and Crew",
@@ -90,7 +120,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-18T10:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP9/cms/news.10/242951/arc.jpg"
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE3/cms/news.10/242951/unnamed-2.jpg"
     },
     {
       "id": "ann-Ly4yNDI5NTM",
@@ -571,36 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/13069ca4fd/wound-and-bandage.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQyODg2",
-      "title": "Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886",
-      "description": "Hirofumi Nojima, Shōgo Yano join cast starting in 15th episode",
-      "pubDate": "2026-10-16T08:04:15.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/news.10/242886/umezou.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kizuguchi to Houtai' Reveals Main Cast, Teaser Promo",
-      "link": "https://myanimelist.net/news/74826432?_location=rss",
-      "description": "The official website for the television anime adaptation of Nanai Umihoshi's Kizuguchi to Houtai (Wound and Bandage) manga revealed the main cast, a theme visual (pictured), and teaser promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Voice actors Hisako Kanemoto (Jaku-Chara Tomozaki-kun) and Chikahiro Kobayashi (Beastars) are starring as Riyo Washizu and Gou Kiritani, res...",
-      "pubDate": "2026-10-16T07:28:30.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792135671-18b83f191d9887c0d958675f4713efd7.jpeg"
-    },
-    {
-      "id": "ann-LjI0Mjg3MQ",
-      "title": "Magical DoReMi, Star Detective Precure! Anime Get Crossover Episode on October 25",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-16/magical-doremi-star-detective-precure-anime-get-crossover-episode-on-october-25/.242871",
-      "description": "Crossover episode will be anime's 39th episode",
-      "pubDate": "2026-10-16T06:29:05.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQH/cms/news.10/242871/doremi-precure01.jpg"
     }
   ]
 };
