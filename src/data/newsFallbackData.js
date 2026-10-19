@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-19T17:49:38.544Z",
+  "lastUpdated": "2026-10-19T21:46:21.656Z",
   "items": [
+    {
+      "id": "ann-LS8uMjQyOTk0",
+      "title": "TMS Entertainment to Stream Lupin III vs. Detective Conan Film, 4th Collection of Detective Conan Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-19/tms-entertainment-to-stream-lupin-iii-vs-detective-conan-film-4th-collection-of-detective-conan-/.242994",
+      "description": "Crossover film streams on YouTube on October 24; more Detective Conan episodes stream on November 1",
+      "pubDate": "2026-10-19T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/youtube/O_wQ7f6rDgM.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI5OTI",
+      "title": "Netflix Replaces Chief Content Officer, Lays Off About 1,000 Employees",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-19/netflix-replaces-chief-content-officer-lays-off-about-1000-employees/.242992",
+      "description": "Former Disney/Fox executive Peter Rice replaces Bela Bajaria as CCO",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/news.5/185777/netflix-social-rectangle.png.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjk4OQ",
+      "title": "Firefly Wedding ‒ Episodes 1-2",
+      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episodes-1-2/.242989",
+      "description": "The dynamic that played out between Satoko and Goto over the next two episodes absolutely fascinated me.",
+      "pubDate": "2026-10-19T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ9/cms/episode-review.5/242989/firefly-wedding-1-2.png.jpg"
+    },
+    {
+      "id": "cr-c2l2ZS1ibG93",
+      "title": "BLEACH THE STORIES - Thousand-Year Blood War Arc Visual Deals Decisive Blow",
+      "link": "https://crunchyroll.com/news/latest/2026/10/19/bleach-the-stories-thousand-year-blood-war-arc-visual-deals-decisive-blow",
+      "description": "Final battle visual debuts ahead of episode 50",
+      "pubDate": "2026-10-19T19:17:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x537/fc8ff676fa/bleach-final-eps.jpg"
+    },
+    {
+      "id": "cr-c3QtY3Jldw",
+      "title": "The Detective Is Already Dead Season 2 English Dub Reveals Release Date, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/19/the-detective-is-already-dead-season-2-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode drops on Crunchyroll on October 21",
+      "pubDate": "2026-10-19T19:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/8dc42fe19f/the-detective-is-already-dead-season-2.jpg"
+    },
+    {
+      "id": "cr-Yy12aWRlb3M",
+      "title": "Daemons of the Shadow Realm, Haikyu!! And More Anime Music Videos Now Available on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/19/daemons-of-the-shadow-realm-haikyu-anime-music-videos",
+      "description": "New releases from BURNOUT SYNDROMES, Vaundy and more are available now!",
+      "pubDate": "2026-10-19T19:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1280x720/5aff71a29b/daemons-of-the-shadow-realm.png"
+    },
+    {
+      "id": "cr-ci1zYWl5YW4",
+      "title": "Dragon Ball Super: Beerus and the Awe of Going Super Saiyan",
+      "link": "https://crunchyroll.com/news/features/2026/10/19/dragon-ball-super-beerus-going-super-saiyan",
+      "description": "Even Beerus has to see it up close",
+      "pubDate": "2026-10-19T19:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/46e7aab5e4/dragon-bal-super-beerus.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI5OTE",
+      "title": "From Far Away ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/from-far-away/episodes-1-3/.242991",
+      "description": "Noriko has shown herself to be someone with a stout heart.",
+      "pubDate": "2026-10-19T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK3/cms/episode-review.5/242991/far-away-1-3.png.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjk5MA",
+      "title": "Actor Michael Forest Dies at 97",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-19/actor-michael-forest-dies-at-97/.242990",
+      "description": "Forest had roles in Star Trek, Ghost in the Shell: Stand Alone Complex, The Big O",
+      "pubDate": "2026-10-19T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.10/242990/michael-forest.jpg"
+    },
     {
       "id": "ann-LjI0Mjk4MA",
       "title": "The Ramparts of Ice Season 2 ‒ Episodes 15-17",
@@ -340,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "AI",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQyOTY3",
@@ -350,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T03:43:44.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDF/cms/news.9/239577/toratsugumi.jpg"
+      "image": null
     },
     {
       "id": "cr-bWFpbi1jYXN0",
@@ -400,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T01:09:46.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/cms/news.10/242958/ll-hasunosora-tvanime-kv.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-18T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/review.2/242609/mushoku-tensei-1-cover.jpg"
+      "image": null
     },
     {
       "id": "cr-aW50ZXJ2aWV3",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-18T12:07:09.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.10/242952/hu50wg7buaa8qb5.jpeg"
+      "image": null
     },
     {
       "id": "cr-bWVtYmVycw",
@@ -510,96 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-18T09:00:40.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQyOTQ4",
-      "title": "Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover, Aoashi Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948",
-      "description": "Black Clover English dub starts streaming on Saturday, Aoashi on Sunday",
-      "pubDate": "2026-10-18T07:08:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-eS12aXN1YWw",
-      "title": "Kaiju Decode: The Ring of Aidara Anime Film Releases Teaser Trailer, New Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/18/kaiju-decode-the-ring-of-aidara-anime-film-teaser-trailer-new-key-visual",
-      "description": "Tsuburaya Productions and Toei Animation's co-production is slated for 2027",
-      "pubDate": "2026-10-18T05:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/c793cf8762/kaiju-decode-the-ring-of-aidara-teaser-trailer.jpg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Aikatsu Stars! Anime Film Unveils January 22, 2027 Release Date, Main Trailer, and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/18/aikatsu-stars-anime-film-january-22-2027-release-date-main-trailer-visual",
-      "description": "The film will celebrate the series' 10th anniversary",
-      "pubDate": "2026-10-18T05:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/1bfd787d8a/aikatsu-stars-movie-main-trailer.png"
-    },
-    {
-      "id": "ann-Ly4yNDI4NTA",
-      "title": "Voice Actor Nichika Ōmori Announces 1st Pregnancy",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-17/voice-actor-nichika-omori-announces-1st-pregnancy/.242850",
-      "description": "Ōmori made the announcement with her husband Yunomi as a birthday surprise",
-      "pubDate": "2026-10-18T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Black Clover Season 2 English Dub Reveals Cast & Crew, Release Date",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/17/black-clover-season-2-anime-english-dub-release-date-cast-crew",
-      "description": "New episodes will release weekly",
-      "pubDate": "2026-10-17T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/e1bf4bd618/black-clover-season-2.jpg"
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Aoashi Season 2 English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/17/aoashi-season-2-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode kicks off on Crunchyroll on October 18",
-      "pubDate": "2026-10-17T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/b7b75996f1/aoashi-season-2.jpg"
-    },
-    {
-      "id": "ann-Mi8uMjQyNzAy",
-      "title": "Octopath Traveler 1 & 2 Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/octopath-traveler-1-and-2/.242702",
-      "description": "Square Enix’s experimental RPGs Octopath Traveler I and II are now on Nintendo Switch 2, but is the short-story format and split narrative style all it’s cracked up to be?",
-      "pubDate": "2026-10-17T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-ci1hbmltZQ",
-      "title": "10 Scary Episodes From Non-Horror Anime",
-      "link": "https://crunchyroll.com/news/features/2026/10/17/10-scary-episodes-from-non-horror-anime",
-      "description": "Getting you into the spirit of Halloween... sometimes by surprise!",
-      "pubDate": "2026-10-17T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/27bf543248/apothecary-diaries-ep45.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI4ODg",
-      "title": "Japan's Video Game Rankings, October 5-11",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-17/japan-video-game-rankings-october-5-11/.242888",
-      "description": "Kingdom Hearts Collection Switch 2 version debuts at #1, Ace Combat 8 ranks at #3",
-      "pubDate": "2026-10-17T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
