@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-20T15:53:36.580Z",
+  "lastUpdated": "2026-10-20T20:56:21.937Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDMwMDY",
+      "title": "Live-Action Twisted Sisters Series Reveals Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-20/live-action-twisted-sisters-series-reveals-cast/.243006",
+      "description": "Yumia Fujisaki, Hikari Ishida, Hisako Manda join cast",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.10/243006/twistedsisters-cast.jpg"
+    },
+    {
+      "id": "cr-Y2EtZXVyb3Bl",
+      "title": "Villion:Code Action-RPG Release Date Set for North America and Europe",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/villion-code-release-date-north-america-europe",
+      "description": "Producer Cozy Okada’s latest touches down on January 26, 2027",
+      "pubDate": "2026-10-20T19:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/2bd664ad92/villion-code-date.jpg"
+    },
+    {
+      "id": "ann-LjI0MzAzMg",
+      "title": "Psyren ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/psyren/episodes-1-3/.243032",
+      "description": "In spite of its glaring production problems, part of me still can't help but be excited to finally see Psyren animated, even if it's not in the most ideal state.",
+      "pubDate": "2026-10-20T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/episode-review.5/243032/psyren.png.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQzMDM0",
+      "title": "Live-Action Look Back Film Screens in N. American Theaters on December 30",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-20/live-action-look-back-film-screens-in-n-american-theaters-on-december-30/.243034",
+      "description": "GKIDS screens film nationwide in theaters on January 15",
+      "pubDate": "2026-10-20T19:00:04.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/youtube/ILBDFlYMGAY.jpg"
+    },
+    {
+      "id": "cr-c3VhbC1jYXN0",
+      "title": "MURCIÉLAGO Anime Reveals Teaser Trailer, Visual and Cast Additions",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/murcielago-anime-teaser-trailer-visual-cast",
+      "description": "The adaptation of Yoshimurakana's manga premieres in January 2027",
+      "pubDate": "2026-10-20T18:49:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/6eeee64ffd/murcielago_kuroko_header.jpg"
+    },
+    {
+      "id": "ann-My8uMjQzMDI2",
+      "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episodes-1-3/.243026",
+      "description": "Yes, this is about two people talking. But as they talk, they both grow and find new things to like about themselves and each other.",
+      "pubDate": "2026-10-20T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/episode-review.5/243026/hello-witch-1-3.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwMzM",
+      "title": "Murciélago TV Anime's Teaser Trailer Reveals Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-20/murcielago-tv-anime-teaser-trailer-reveals-cast/.243033",
+      "description": "Hitomi Ueda, Minori Suzuki, Sumire Uesaka star in January 2027 anime",
+      "pubDate": "2026-10-20T18:23:37.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB0/youtube/7VHLNvvxWfQ.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Murciélago' Reveals Main Cast, Additional Staff, Second Teaser, Winter 2027 Debut",
+      "link": "https://myanimelist.net/news/74841491?_location=rss",
+      "description": "The official website for the television anime adaptation of Kana Yoshimura's Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday. The anime series will premiere on Tokyo MX, Kansai TV, and BS11 in January 2027. Cast Kuroko Koumori: Hitomi Ueda (Raise wa Tanin ga Ii) Hinako Tozakura: Minori Suzuki (Macross &Delta;) Chiyo Yanaoka: Sumire Uesaka (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) Staff Assistant Director:...",
+      "pubDate": "2026-10-20T18:20:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792520193-f5c23dadcfb7c17591446e07e20408c3.jpeg"
+    },
+    {
+      "id": "cr-bmctdmlkZW9z",
+      "title": "HORROR COLLECTOR Anime Scares up Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/horror-collector-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams the urban horror anime",
+      "pubDate": "2026-10-20T18:06:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/f450e3f5c1/horror-collector-opening-hero.png"
+    },
+    {
+      "id": "ann-ZS8uMjQzMDMx",
+      "title": "Demon Lord 2099 Novels End With 6th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-20/demon-lord-2099-novels-end-with-6th-volume/.243031",
+      "description": "Daigo Murasaki, Kureta debuted light novels in January 2021",
+      "pubDate": "2026-10-20T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS0/cms/news.10/243031/demon-lord-2099-6.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW8",
+      "title": "Mission: Yozakura Family Season 2 Part 2 Anime Shares Creditless Ending Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/mission-yozakura-family-season-2-part-2-anime-creditless-ending-video",
+      "description": "The spy family series returns for the fall season",
+      "pubDate": "2026-10-20T17:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ddb215fd50/mission-yozakura-family-2-2-ending-hero.png"
+    },
+    {
+      "id": "ann-My8uMjQzMDEx",
+      "title": "Even the Student Council Has Its Holes! ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episodes-1-3/.243011",
+      "description": "This is a fundamentally fun work of harem smut with a keen eye for the art of cartooning, and it uses those powers to enhance both the comedy and horniness at its heart.",
+      "pubDate": "2026-10-20T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/episode-review.5/243011/ss-2026-10-18-22-04-34-046.jpg"
+    },
+    {
+      "id": "cr-ci12aXN1YWw",
+      "title": "Magical Sisters Lulutto Lilly and Maebashi Witches Anime Cross Over in New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/magical-sisters-lulutto-lilly-maebashi-witches-anime-crossover-visual",
+      "description": "Voice actor Tomokazu Sugita links the two magical idol series",
+      "pubDate": "2026-10-20T17:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/3791f585dc/magical-sisters-lulutto-lilly-hero.png"
+    },
+    {
+      "id": "ann-Ly4yNDMwMDc",
+      "title": "Black Clover Season 2 ‒ Episodes 171-173",
+      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episodes-171-173/.243007",
+      "description": "This is a pile of shonen slop served al dente, and I mean that as a compliment.",
+      "pubDate": "2026-10-20T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE8/cms/episode-review.5/243007/black-clover-s2-e-1-3.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzAyOQ",
+      "title": "Compile Heart's Villion:Code Game Launches in West on January 26",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-10-20/compile-heart-villion-code-game-launches-in-west-on-january-26/.243029",
+      "description": "Idea Factory International announced on Tuesday that it will release Villion:Code, developer Compile Heart's new school RPG, in the West for Nintendo Switch...",
+      "pubDate": "2026-10-20T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKD/cms/news.9/233591/villioncode-vertical.jpg"
+    },
+    {
+      "id": "ann-LjI0MzAyNw",
+      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
+      "description": "PandoraHearts Retrace III -Reverse corte- runs in Tokyo in September 2027, Osaka in October 2027",
+      "pubDate": "2026-10-20T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/cms/news.10/243027/pandorahearts-stage-musical-2.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Shingeki no Kyojin' Voice Actor Hiroshi Tsuchida Dies at 54",
@@ -320,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/news.5/185777/netflix-social-rectangle.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk4OQ",
@@ -330,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ9/cms/episode-review.5/242989/firefly-wedding-1-2.png.jpg"
+      "image": null
     },
     {
       "id": "cr-c2l2ZS1ibG93",
@@ -380,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK3/cms/episode-review.5/242991/far-away-1-3.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk5MA",
@@ -390,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.10/242990/michael-forest.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk4MA",
@@ -400,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/episode-review.5/242980/vlcsnap-2026-10-18-10h50m24s733.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI5ODg",
@@ -410,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKX/cms/news.10/242988/yoroshiku-girl.jpg"
+      "image": null
     },
     {
       "id": "cr-b3gtb2ZmaWNl",
@@ -430,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLD/cms/episode-review.5/242965/ranma-3.4.png.jpg"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQyOTQ3",
@@ -440,166 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T16:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUB/cms/news.10/242947/htndzaiasaaxftw.jfif.jpeg"
-    },
-    {
-      "id": "cr-ZS1vcmRlcg",
-      "title": "STEINS;GATE Watch Order and Games Guide",
-      "link": "https://crunchyroll.com/news/guides/2026/10/19/steins-gate-order",
-      "description": "Let's take a look at every STEINS;GATE anime and game release",
-      "pubDate": "2026-10-19T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Guides",
-      "image": "https://a.storyblok.com/f/178900/960x540/0a968d05bd/steins-gate.jpg"
-    },
-    {
-      "id": "cr-ZS0zLXJlY2Fw",
-      "title": "The Apothecary Diaries Season 3, Episode 3 Recap, “Let Them Eat Cake”",
-      "link": "https://crunchyroll.com/news/features/2026/10/19/the-apothecary-diaries-season-3-episode-3-recap",
-      "description": "Reality isn’t sweet",
-      "pubDate": "2026-10-19T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/0350d87581/the-apothecary-diaries-season-3-episode-3.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI2OTI",
-      "title": "Silent Hill: Townfall Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/pc-playsation-5/silent-hill/townfall/.242692",
-      "description": "What makes Townfall such an excellent Silent Hill game is the way that it blends the mundane tragedies of small-town life with the otherworldly trauma that is choking St. Amelia to death.",
-      "pubDate": "2026-10-19T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGK/cms/game-review/242692/townfall-cover.webp"
-    },
-    {
-      "id": "ann-My8uMjQyOTc4",
-      "title": "#I'm Looking For a Zombie ‒ Episodes 1-3",
-      "link": "https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episodes-1-3/.242978",
-      "description": "The biggest problem with #I'm Looking for a Zombie is that I genuinely don't know what tone it's trying to go for.",
-      "pubDate": "2026-10-19T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/episode-review.5/242978/vlcsnap-2026-10-18-11h11m05s168.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI5NzQ",
-      "title": "EST N8 Picks Up Korean-Animated Film Pilgrims for Worldwide Sales",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/est-n8-picks-up-korean-animated-film-pilgrims-for-worldwide-sales/.242974",
-      "description": "Japan Sinks: 2020's  Pyoungkang Heo directs film starring Hyang-gi Kim, Ji-hu Park, Joo-young Lee",
-      "pubDate": "2026-10-19T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI5ODc",
-      "title": "Welsh & Shedar Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987",
-      "description": "English dub stars Daniel J. McLean, Kevin Garcia, Marissa Lenti, more",
-      "pubDate": "2026-10-19T15:05:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXZvbC03Nw",
-      "title": "Crunchyroll News Puzzles Vol. 77: Start Over There and Light Up the Rite",
-      "link": "https://crunchyroll.com/news/quizzes/2026/10/19/anime-crosswords-puzzles-vol-77",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-10-19T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "Steins;Gate English Dub Now Streaming on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/19/steins-gate-anime-english-dub-now-streaming-on-crunchyroll",
-      "description": "All 24 episodes of the classic sci-fi series are available",
-      "pubDate": "2026-10-19T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/ea52fed276/steins-gate.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQyOTg1",
-      "title": "Manga UP! Global Adds Lily of the High Seas, Killer's Familia, The Imperial Court's Floral Stylist, 3 More Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/manga-up-global-adds-lily-of-the-high-seas-killer-familia-the-imperial-court-floral-stylist-3-more-/.242985",
-      "description": "Service also adds: I Became a Saint to Support My Idol!, The Abandoned Tamer Signs a Deal With a Devilishly Beautiful Dragon, After Getting the Crap Skill \"Poison Immunity,\" I Ate the Toxic Meat of a Dead SSS-Rank Monster and Awakened an OP Ability",
-      "pubDate": "2026-10-19T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQyOTc3",
-      "title": "Comic CMOA Service Remains Suspended After Confirmed Unauthorized External Access",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/comic-cmoa-service-remains-suspended-after-confirmed-unauthorized-external-access/.242977",
-      "description": "Service suspended since Thursday",
-      "pubDate": "2026-10-19T14:40:25.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI5NDU",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episodes 1-4",
-      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episodes-1-4/.242945",
-      "description": "Blemishes aside, Steel Ball Run continues to be excellent, and I’m so glad that JoJo Fridays can once again be a psychologically load-bearing part of my week.",
-      "pubDate": "2026-10-19T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-MS8uMjQyOTcx",
-      "title": "Rakuten Viki, Imaginus to Debut AI-Assisted Korean-Animated Series The Painted Soul on October 21",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/rakuten-viki-imaginus-to-debut-ai-assisted-korean-animated-series-the-painted-soul-on-october-21/.242971",
-      "description": "Rakuten Viki plans to add more animated content in the future",
-      "pubDate": "2026-10-19T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "cr-c3QtY3Jldw",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 English Dub Now Streaming on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/19/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-english-dub-now-streaming-on-crunchyroll-cast-crew",
-      "description": "Ars' rise continues!",
-      "pubDate": "2026-10-19T13:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/803b3e641a/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3.jpg"
-    },
-    {
-      "id": "ann-LjI0MjkyMw",
-      "title": "The Apothecary Diaries Season 3 ‒ Episodes 49-51",
-      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episodes-49-51/.242923",
-      "description": "Only three episodes in and Maomao is already facing dual scourges.",
-      "pubDate": "2026-10-19T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MjkyNQ",
-      "title": "Your Fall 2026 Anime Daily Streaming Reviews",
-      "link": "https://www.animenewsnetwork.com/site-news/2026-10-19/your-fall-2026-anime-daily-streaming-reviews/.242925",
-      "description": "While the highest-anticipated shows were easy to guess, everything else was a crapshoot.",
-      "pubDate": "2026-10-19T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI5NTA",
-      "title": "The Irregular at Magic High School Magian Company Tops Oricon's Light Novel Ranking for September",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-19/the-irregular-at-magic-high-school-magian-company-tops-oricon-light-novel-ranking-for-september/.242950",
-      "description": "NISIOISIN's Torimonogatari, Saekisan's The Angel Next Door Spoils Me Rotten rank at #2, #3",
-      "pubDate": "2026-10-19T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
       "image": null
     }
   ]
