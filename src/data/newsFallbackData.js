@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-19T21:46:21.656Z",
+  "lastUpdated": "2026-10-20T02:16:31.865Z",
   "items": [
+    {
+      "id": "cr-Y29uZmlybWVk",
+      "title": "Yona of the Dawn Anime Sequel Studio Confirmed",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/yona-of-the-dawn-anime-sequel-studio-confirmed",
+      "description": "The long-awaited sequel was announced last December",
+      "pubDate": "2026-10-20T01:56:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6c180369a4/yona-of-the-dawn.jpg"
+    },
+    {
+      "id": "cr-bi10cmFpbGVy",
+      "title": "Future GPX Cyber Formula Anime Unveils Main Trailer for Compilation Film and New Short",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/future-gpx-cyber-formula-anime-compilation-film-new-short-main-trailer",
+      "description": "The double feature will open in Japan on February 19, 2027",
+      "pubDate": "2026-10-20T01:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a33efd7595/future-gpx-cyber-formula-new-short-header.png"
+    },
+    {
+      "id": "ann-LjI0Mjk5OQ",
+      "title": "Fukakōryoku no I Love You Manga Gets Live-Action Film Next March",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-19/fukakoryoku-no-i-love-you-manga-gets-live-action-film-next-march/.242999",
+      "description": "Kōta Nomura, Juri Kōsaka star in film",
+      "pubDate": "2026-10-20T01:10:57.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/news.10/242999/fukakoryokunoiloveyou.jpg"
+    },
+    {
+      "id": "cr-YXJjaC0yMDI3",
+      "title": "Fukakouryoku no I LOVE YOU Live-Action Movie Slated for March 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/20/fukakouryoku-no-i-love-you-live-action-movie-march-2027",
+      "description": "Kota Nomura and Juri Kosaka co-star in the lead roles",
+      "pubDate": "2026-10-20T00:27:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/53732eacb3/fukalove-live-action-header.jpg"
+    },
     {
       "id": "ann-LS8uMjQyOTk0",
       "title": "TMS Entertainment to Stream Lupin III vs. Detective Conan Film, 4th Collection of Detective Conan Anime",
@@ -400,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T08:38:36.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLK/cms/news.10/242983/air-2025.jpg"
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQV/cms/news.10/242983/air-steam-02-14-25-1440x810.jpg"
     },
     {
       "id": "ann-cy8uMjQyOTc5",
@@ -420,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-19T04:07:25.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g79/cms/news.9/236466/street-fighter-poster.jpg"
+      "image": null
     },
     {
       "id": "ann-aS8uMjQyOTU3",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1460x821/3077e3f3ac/the_detective_is_already_dead_season2_kazama_iroha_header.jpg"
-    },
-    {
-      "id": "ann-LjI0Mjk1Mg",
-      "title": "Kokamumo's Null-Meta Manga Gets TV Anime in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952",
-      "description": "Cyberpunk: Edgerunners 2's Kai Ikarashi directs anime based on slice-of-life comedy manga",
-      "pubDate": "2026-10-18T12:07:09.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "Romelia War Chronicle Anime Adds Two New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/18/romelia-war-chronicle-anime-adds-two-new-cast-members",
-      "description": "Crunchyroll streams adaptation based on Ryo Ariyama's fantasy light novel series",
-      "pubDate": "2026-10-18T11:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a88ffa2974/romelia_war_chronicle_romelia_coin_header.jpg"
-    },
-    {
-      "id": "ann-Mi8uMjQyOTUx",
-      "title": "Arc System Works Opens New Studio Takumi on November 2",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-18/arc-system-works-opens-new-studio-takumi-on-november-2/.242951",
-      "description": "New studio to work in new fighting game selected for Japanese government's \"IP360\" subsidy project",
-      "pubDate": "2026-10-18T10:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI5NTM",
-      "title": "Kaiju Decode: The Ring of Aidara Anime Reveals Teaser Trailer, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-18/kaiju-decode-the-ring-of-aidara-anime-reveals-teaser-trailer-2027-debut/.242953",
-      "description": "Anime's new teaser visual also revealed",
-      "pubDate": "2026-10-18T09:00:40.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
