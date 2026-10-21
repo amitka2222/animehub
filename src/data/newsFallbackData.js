@@ -1,7 +1,147 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-21T10:41:17.859Z",
+  "lastUpdated": "2026-10-21T16:11:00.260Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDI0NTQ",
+      "title": "Reborn as a Space Mercenary Volume 1-2 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/reborn-as-a-space-mercenary-volume-1-2-light-novel/.242454",
+      "description": "Reborn as a Space Mercenary consistently assumes that ticking boxes off the generic power fantasy checklist without craft or care is enough to spin something worth savoring.",
+      "pubDate": "2026-10-21T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/cms/review.2/242454/reborn-as-a-space-mercenary-cover.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA2OQ",
+      "title": "Singer AKINO Graduates from bless4; Band Changes Name to 'bless∞(Forever)'",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/singer-akino-graduates-from-bless4-band-changes-name-to-bless/.243069",
+      "description": "AKINO to perform in final graduation performance with band on December 21",
+      "pubDate": "2026-10-21T15:35:12.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/news.10/243069/akino-bless4-graduation.webp"
+    },
+    {
+      "id": "cr-YXN0LWNyZXc",
+      "title": "Magic Knight Rayearth English Dub Reveals Release Date, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/21/magic-knight-rayearth-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode is available now!",
+      "pubDate": "2026-10-21T15:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/185bc8e71d/magic-knight-rayearth.jpg"
+    },
+    {
+      "id": "cr-a2UtaGFpa3l1",
+      "title": "10 Anime Like Haikyu!! To Soar Into",
+      "link": "https://crunchyroll.com/news/features/2026/10/21/anime-like-haikyu",
+      "description": "Time to fly high!",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/2671c2188e/haikyu-karasuno-high.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwNDQ",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 9",
+      "link": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-9/.243044",
+      "description": "Finally being at the precipice of Thousand-Year Blood War's ending after all this time is a strange feeling.",
+      "pubDate": "2026-10-21T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP2/cms/episode-review.5/243044/bleach.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "The Apothecary Diaries: The False Imperial Brother Game Release Date Revealed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/21/the-apothecary-diaries-the-false-imperial-brother-game-release-date-gameplay-trailer",
+      "description": "First console game arrives on March 18, 2027",
+      "pubDate": "2026-10-21T14:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/303d36c121/apothecary-diaries-game-pv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwNTk",
+      "title": "Nia Liston: The Merciless Maiden ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episodes-1-3/.243059",
+      "description": "I do not think this is going to be for everyone, but if you’re curious enough about the title to read this review, you should definitely check it out.",
+      "pubDate": "2026-10-21T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g21/cms/episode-review.5/243059/nia-liston-episodes-1-3-review-image.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQwOTQ4",
+      "title": "Steins;Gate and Beyond: The Complete Science Adventure Series Anime Timeline",
+      "link": "https://www.animenewsnetwork.com/feature/2026-10-21/steins-gate-and-beyond-the-complete-science-adventure-series-anime-timeline/.240948",
+      "description": "It can be confusing figuring out when all these anime take place—especially once time travel is brought into the equation.",
+      "pubDate": "2026-10-21T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYJ/cms/feature/240948/steins-gate.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwNDM",
+      "title": "A-DO Manga to End on November 18",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/a-do-manga-to-end-on-november-18/.243043",
+      "description": "Jaku Amano to publish final chapter in Monthly Young Magazine's December issue",
+      "pubDate": "2026-10-21T12:53:49.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.8/223743/a-do.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzMDQy",
+      "title": "Firefly Wedding's Oreko Tachibana Launches New Manga in Winter",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/firefly-wedding-oreko-tachibana-launches-new-manga-in-winter/.243042",
+      "description": "Tachibana's Firefly Wedding manga ended in February, inspires ongoing TV anime",
+      "pubDate": "2026-10-21T12:47:52.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/243042/fireflyweddingvol13.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA0Nw",
+      "title": "Orient's Shinobu Ohtaka Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/orient-shinobu-ohtaka-launches-new-manga/.243047",
+      "description": "Geek and Crown manga launches on October 27",
+      "pubDate": "2026-10-21T12:34:42.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKC/cms/news.10/243047/geekandcrown.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA1OA",
+      "title": "Go! Go! Loser Ranger! Manga Goes on Hiatus Again Due to Creator's Health",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/go-go-loser-ranger-manga-goes-on-hiatus-again-due-to-creator-health/.243058",
+      "description": "Manga only recently returned from 2-month hiatus last month",
+      "pubDate": "2026-10-21T12:30:24.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.6/192519/loser.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMwNDU",
+      "title": "A Certain Dark Item ‒ Episodes 1-2",
+      "link": "https://www.animenewsnetwork.com/review/a-certain-dark-item/episodes-1-2/.243045",
+      "description": "These girls aren't heroes; they're antivillains—i.e., bad guys doing evil things who just happen to be doing net-positive good in the process.",
+      "pubDate": "2026-10-21T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO6/cms/episode-review.5/243045/jbpgfall26-42.a-certain-dark-item-ep-3.png.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Haru to Gen Anime Premieres on January 4",
+      "link": "https://crunchyroll.com/news/latest/2026/10/21/haru-to-gen-anime-premiere-date-cast-trailer",
+      "description": "Teaser trailer and main cast revealed for adaptation based on Yuka Oshima's manga",
+      "pubDate": "2026-10-21T12:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x538/4810c12011/haru_to_gen_header2.jpg"
+    },
     {
       "id": "ann-LjI0MzA2Mw",
       "title": "Eleceed TV Anime's English-Subtitled Trailer Reveals April 2027 Delay",
@@ -71,16 +211,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/DFbZN4QYhao.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Seibetsu \"Mona Lisa\" no Kimi e.' Unveils Additional Cast, Staff, Ending Theme, First Promo, 2027 Debut",
-      "link": "https://myanimelist.net/news/74843217?_location=rss",
-      "description": "The official website for the television anime adaptation of Tsumuji Yoshimura's Seibetsu \"Mona Lisa\" no Kimi e. (Just Like Mona Lisa) manga unveiled additional cast, staff, a key visual (pictured right), the ending theme, and first promotional video on Wednesday. The anime series will premiere in 2027. Cast Yoshino Aoyama (Bocchi the Rock!) Nobuhiko Okamoto (Sousou no Frieren) Daisuke Sakuma (Kill Ao) Chiharu (22/7) Kakeru Hatano (Tamon-kun Ima Docchi!?) Haruna Mikawa (Ore dake L...",
-      "pubDate": "2026-10-21T04:10:10.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792555769-087463e39aef266a6a8657e4e4da919a.jpeg"
     },
     {
       "id": "ann-Ly4yNDMwMjU",
@@ -161,16 +291,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFK/cms/news.9/239177/ghostkey.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Ghost: Yoru no Hate' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74842607?_location=rss",
-      "description": "The official website for the Ghost: Yoru no Hate original anime movie announced three additional cast members on Wednesday. The movie is scheduled to open in Japanese theaters on February 11, 2027. The movie was previewed at Sitges Film Festival on October 9 and at Animation Is Film Festival on October 17. Cast Moby Dick: Kenjirou Tsuda (Jujutsu Kaisen) Karate: Hiroki Yasumoto (Koukaku Kidoutai (TV)) Itou: Hiroshi Kamiya (Shingeki no Kyojin) Shingo Natsume (One Punch Man) directes and pens the...",
-      "pubDate": "2026-10-21T00:43:12.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792543763-79d038765292c1d19df1076ff987abb7.jpeg"
     },
     {
       "id": "ann-cy8uMjQzMDE5",
@@ -283,16 +403,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB0/youtube/7VHLNvvxWfQ.jpg"
     },
     {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Murciélago' Reveals Main Cast, Additional Staff, Second Teaser, Winter 2027 Debut",
-      "link": "https://myanimelist.net/news/74841491?_location=rss",
-      "description": "The official website for the television anime adaptation of Kana Yoshimura's Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday. The anime series will premiere on Tokyo MX, Kansai TV, and BS11 in January 2027. Cast Kuroko Koumori: Hitomi Ueda (Raise wa Tanin ga Ii) Hinako Tozakura: Minori Suzuki (Macross &Delta;) Chiyo Yanaoka: Sumire Uesaka (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) Staff Assistant Director:...",
-      "pubDate": "2026-10-20T18:20:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792520193-f5c23dadcfb7c17591446e07e20408c3.jpeg"
-    },
-    {
       "id": "cr-bmctdmlkZW9z",
       "title": "HORROR COLLECTOR Anime Scares up Creditless Opening and Ending Videos",
       "link": "https://crunchyroll.com/news/latest/2026/10/20/horror-collector-anime-creditless-opening-ending-videos",
@@ -373,16 +483,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/cms/news.10/243027/pandorahearts-stage-musical-2.jpg"
     },
     {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shingeki no Kyojin' Voice Actor Hiroshi Tsuchida Dies at 54",
-      "link": "https://myanimelist.net/news/74840663?_location=rss",
-      "description": "Voice actor Hiroshi Tsuchida, best known for Grisha Yeager in Shingeki no Kyojin (Attack on Titan) and Daikichi Kawachi in Usagi Drop (Bunny Drop), died on October 11 of heart failure. He was 54. His agency, 81 Produce, announced the news on Tuesday, noting that the funeral was held privately for family members only, at the family&rsquo;s request. Born in Tokyo in February 1972, Tsuchida graduated from Tokyo Metropolitan Bunkyo High School and trained for two years with the Touhai theater compan...",
-      "pubDate": "2026-10-20T15:30:59.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792510025-e1fe5c7c4bb4c0ff78e6e4970a35a20f.jpeg"
-    },
-    {
       "id": "ann-LjI0MzAwMQ",
       "title": "Romelia War Chronicle ‒ Episodes 1-3",
       "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episodes-1-3/.243001",
@@ -390,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/cms/episode-review.5/243001/romelia-1-3b.png.jpg"
+      "image": null
     },
     {
       "id": "cr-YXJ5LTIwMjc",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYE/youtube/GiZ1OLoUb4Q.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMwMDQ",
@@ -430,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/cms/episode-review.5/243004/overgeared.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk0OQ",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL5/cms/news.10/242949/myb.jfif.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk4MQ",
@@ -450,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKF/cms/this-week-in-anime/242981/chris15.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzAyMw",
@@ -460,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUC/youtube/-Ii8LYe00Fg.jpg"
+      "image": null
     },
     {
       "id": "cr-Zy12aWRlb3M",
@@ -480,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/episode-review.5/243000/blue-box-s2-eps-1-3.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mjk3Ng",
@@ -490,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.10/242976/image1.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzMDAy",
@@ -500,106 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T13:00:03.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.10/243002/iceblade-nov09.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDI4NDM",
-      "title": "Final Fantasy Resonance Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-playstation-5-windows-and-xbox-series-x/s/final-fantasy-resonance/.242843",
-      "description": "I enjoyed every second of my time with it, and for me, Final Fantasy Resonance really is an adventure for the ages.",
-      "pubDate": "2026-10-20T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/game-review/242843/ff-resonance-cover.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwMTQ",
-      "title": "Crunchyroll Reveals The Detective Is Already Dead Season 2's English Dub Cast, Staff, Debut Date",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/crunchyroll-reveals-the-detective-is-already-dead-season-2-english-dub-cast-staff-debut-date/.243014",
-      "description": "Crunchyroll  also adds more anime music videos",
-      "pubDate": "2026-10-20T12:54:23.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQyOTcw",
-      "title": "Wuxiaworld Founder Buys Back Web Fiction Platform From Tapas",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/wuxiaworld-founder-buys-back-web-fiction-platform-from-tapas/.242970",
-      "description": "Deal was finalized shortly before Kakao Ent. announced that Tapas will shut down on March 31, 2027",
-      "pubDate": "2026-10-20T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQzMDIw",
-      "title": "Haikyu!! ALL Challengers Training Simulation Mobile Game Streams New Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/haikyu-all-challengers-training-simulation-mobile-game-streams-new-video/.243020",
-      "description": "Game's main visual also revealed",
-      "pubDate": "2026-10-20T11:48:15.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Maou 2099' Concludes with 6th Volume",
-      "link": "https://myanimelist.net/news/74840116?_location=rss",
-      "description": "The official X (formerly Twitter) account of Kadokawa's Fantasia Bunko label announced on Tuesday that Daigo Murasaki's Maou 2099 (Demon Lord 2099) light novel will end with its sixth volume. Murasaki won the Grand Prize at the 33rd Fantasia Taisho with the title Ken to Maou no Cyberpunk in 2020. He renamed the work to Maou 2099 and began publishing it under the Fujimi Fantasia Bunko label in January 2021, featuring illustrations by Kureta (Ishura). Kadokawa published the fifth volume...",
-      "pubDate": "2026-10-20T11:38:08.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792496216-dafca47315e930a5b30a55bdf209101b.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzAwOQ",
-      "title": "Screen, Voice Actor Hiroshi Tsuchida Dies at 54",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/screen-voice-actor-hiroshi-tsuchida-dies-at-54/.243009",
-      "description": "Tsuchida died on October 11 due to heart failure",
-      "pubDate": "2026-10-20T07:38:27.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMDEy",
-      "title": "Cygames Cancels Uma Musume: Pretty Derby Franchise's U.S. Concerts Due to Visa Issues",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/cygames-cancels-uma-musume-pretty-derby-franchise-u.s-concerts-due-to-visa-issues/.243012",
-      "description": "Staff could not obtain U.S. visas for L.A. concerts slated for October 22-23",
-      "pubDate": "2026-10-20T05:05:14.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Visual Novel Creator Jun Maeda Diagnosed with Pharyngeal Cancer",
-      "link": "https://myanimelist.net/news/74839395?_location=rss",
-      "description": "Jun Maeda, the acclaimed writer and composer known for visual novels such as Kanon, Air, Clannad, and Little Busters!, has been diagnosed with pharyngeal cancer. Visual Arts/Key announced the news on Monday, revealing that Maeda has opted to forgo active treatment in favor of palliative care so he can conserve his strength and continue his creative work. According to the company's announcement, Maeda began experiencing throat discomfort in early spring, with swelling and pain becoming more...",
-      "pubDate": "2026-10-20T04:36:16.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792470905-316e2dcfea3912a6032a3bd7d47ba6cc.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzAwOA",
-      "title": "Pierrot Films Animates Yona of the Dawn Anime's Sequel",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/pierrot-films-animates-yona-of-the-dawn-anime-sequel/.243008",
-      "description": "Anime sequel announced when manga ended last December",
-      "pubDate": "2026-10-20T04:14:46.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI4MzY",
-      "title": "Madoka Magia x Witch on the Holy Night Crossover Art Unveiled",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-19/madoka-magia-x-witch-on-the-holy-night-crossover-art-unveiled/.242836",
-      "description": "Magical girls meet a different kind of witch",
-      "pubDate": "2026-10-20T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
