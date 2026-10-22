@@ -1,7 +1,277 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-22T10:43:37.162Z",
+  "lastUpdated": "2026-10-22T16:08:42.660Z",
   "items": [
+    {
+      "id": "ann-NC8uMjQyNTY5",
+      "title": "Yoroi-Shinden Samurai Troopers Episodes 13-24 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/yoroi-shinden-samurai-troopers/episodes-13-24/.242569",
+      "description": "Yoroi-Shinden Samurai Troopers is such a hurricane of sacrificial swerves that it's virtually impossible to talk about without addressing its shallow fixation on offing its cast.",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGP/cms/review.2/242569/yoroishindensamuraitroopers2.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA2Ng",
+      "title": "Yūichirō Momose, Hina Hinata's Bagudan Manga Ends on November 24",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/yuichiro-momose-hina-hinata-bagudan-manga-ends-on-november-24/.243066",
+      "description": "Reverse harem comedy manga launched on March 24",
+      "pubDate": "2026-10-22T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKH/cms/news.10/243066/bagudan.jpg"
+    },
+    {
+      "id": "cr-LXZpZGVvcw",
+      "title": "Chitose Is in the Ramune Bottle Cour 2 Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/chitose-is-in-the-ramune-bottle-cour-2-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams the series as it airs",
+      "pubDate": "2026-10-22T15:56:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/b47ab8df1f/chitose-is-in-the-ramune-bottle-cour-2-op-hero.png"
+    },
+    {
+      "id": "ann-Zy8uMjQzMTEy",
+      "title": "Takopi's Original Sin Compilation Film's Trailer Reveals Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112",
+      "description": "Tele returns to perform theme song for November 27 film",
+      "pubDate": "2026-10-22T15:36:18.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/youtube/mnoR-kTU25E.jpg"
+    },
+    {
+      "id": "cr-bmctdmlkZW9z",
+      "title": "So What's Wrong with Getting Reborn as a Goblin? Anime Shares Creditless Opening and Ending Videos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/so-whats-wrong-with-getting-reborn-as-a-goblin-anime-creditless-opening-ending-videos",
+      "description": "Crunchyroll streams the isekai adaptation",
+      "pubDate": "2026-10-22T15:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/3e4349fc13/so-whats-wrong-with-getting-reborn-as-a-goblin-op-hero.png"
+    },
+    {
+      "id": "cr-Z2FtZS0yMDI3",
+      "title": "Is It Wrong to Try to Pick up Girls in a Dungeon? Announces Frontier Zero Game for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-announces-frontier-zero-game-2027",
+      "description": "The game will feature a new story in cooperation with series creator Fujino Omori",
+      "pubDate": "2026-10-22T15:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1024x538/6826906086/danmachi-frontier-zero-logo.png"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Fate/EXTRA Record Game Introduces the SHINJI Faction in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/fate-extra-record-game-shinji-faction-character-trailer",
+      "description": "The game is scheduled for release on January 28, 2027",
+      "pubDate": "2026-10-22T15:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/8491f4a1f0/fate-extra-record-shinji-faction-hero.png"
+    },
+    {
+      "id": "cr-cXVpei0yMDI2",
+      "title": "Which Anime Costume Fits You Best for Halloween 2026?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/10/22/anime-costume-halloween-quiz-2026",
+      "description": "Getting in the Spirit (Halloween) of things",
+      "pubDate": "2026-10-22T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/960x540/1e54acc94b/witch-hat-atelier-episode-11.jpg"
+    },
+    {
+      "id": "cr-bGVyLWNhc3Q",
+      "title": "BLESS Anime Casts Tarusuke Shingaki as Hikaru Oya",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/bless-anime-hikaru-oya-character-trailer-cast",
+      "description": "Crunchyroll will stream the series starting in January 2027",
+      "pubDate": "2026-10-22T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/f35d3cd6a3/bless-hikaru-oya.png"
+    },
+    {
+      "id": "ann-LjI0MzA1Ng",
+      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters Manga for Release in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-manga-for-release-in-2027/.243056",
+      "description": "Nakama Press also licensed Buichi Terasawa's Goku Midnight Eye for release next year",
+      "pubDate": "2026-10-22T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA0/cms/news.10/243056/100.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzMTEw",
+      "title": "Capcom Confirms Data Breach of Over 11 Million User Accounts",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110",
+      "description": "Third party had unauthorized access to Capcom ID service starting on October 19",
+      "pubDate": "2026-10-22T14:51:10.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/herald/202411/260366624-4647520381975403-8508040438549525869-n.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA5MQ",
+      "title": "Suikoden: The Anime ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episodes-1-3/.243091",
+      "description": "Most critical of all is that the Suikoden anime reminds me of anime and gaming from the days of yore.",
+      "pubDate": "2026-10-22T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/episode-review.5/243091/suikoden1.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA2MA",
+      "title": "This Week in Anime - The Legacy of Sayo Yamamoto",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-22/.243060",
+      "description": "Now that Coop has finally watched Yuri!!! on Ice, they and Sylvia dive into Sayo Yamamoto 's series.",
+      "pubDate": "2026-10-22T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK3/cms/this-week-in-anime/243060/coop-10.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzA5MA",
+      "title": "Magical Girl Raising Project Restart ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episodes-1-3/.243090",
+      "description": "When it comes down to it, Magical Girl Raising Project Restart is built around one thing: unintended consequences.",
+      "pubDate": "2026-10-22T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/episode-review.5/243090/mgrpr1-3-re.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Uruwashi no Yoi no Tsuki' Ends in Next Chapter",
+      "link": "https://myanimelist.net/news/74846841?_location=rss",
+      "description": "The official X (formerly Twitter) account of Desert magazine announced on Thursday that Mika Yamamori's Uruwashi no Yoi no Tsuki (In the Clear Moonlit Dusk) manga will end with its next chapter. The 45th and final chapter is scheduled to be released in the December 2026 issue of Desert magazine on October 23. Yamamori launched the school romance manga in Desert magazine in July 2020. Kodansha released the 11th volume on September 11. The manga has a cumulative 8.2 million copies of its volu...",
+      "pubDate": "2026-10-22T12:51:17.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792673449-1373befb97d93af798e504f069088e65.jpeg"
+    },
+    {
+      "id": "cr-bWUtc29uZw",
+      "title": "The Apothecary Diaries: The Late Lady’s Treasure Anime Film Unveils New Trailer, Visual, Kenshi Yonezu Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/the-apothecary-diaries-the-late-ladys-treasure-anime-film-trailer-visual-theme-song",
+      "description": "Film opens in Japan on December 11, will screen internationally",
+      "pubDate": "2026-10-22T12:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x537/3d94e78d93/apothecary-diaries-movie-pv.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQzMDg2",
+      "title": "Reincarnated as a Sword Season 2 ‒ Episodes 1-4",
+      "link": "https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episodes-1-4/.243086",
+      "description": "For all my complaining about other, low-effort isekai, I couldn't then turn around and criticize this one for trying too hard",
+      "pubDate": "2026-10-22T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/episode-review.5/243086/raas2041.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQzMTA5",
+      "title": "The Apothecary Diaries Film's New Trailer Unveils Kenshi Yonezu's Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/the-apothecary-diaries-film-new-trailer-unveils-kenshi-yonezu-theme-song/.243109",
+      "description": "New visual, character chart, details on creator Hyuganatsu's new stories also unveiled",
+      "pubDate": "2026-10-22T12:29:12.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243109/kv-2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMDc",
+      "title": "Muv-Luv Alternative's Schwarzesmarken Games Get Steam Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/muv-luv-alternative-schwarzesmarken-games-get-steam-release/.243107",
+      "description": "Schwarzesmarken Kōketsu no Monshō, Schwarzesmarken Junkyōsha-tachi to launch with planned Japanese, English, Chinese language support",
+      "pubDate": "2026-10-22T12:27:56.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKL/cms/news.10/243107/schwarzesmarken.jfif.jpg"
+    },
+    {
+      "id": "cr-bi1uaXRvYmU",
+      "title": "Firefly Wedding Anime Casts Kazuyuki Okitsu as Eishin Nitobe",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/firefly-wedding-anime-casts-kazuyuki-okitsu-as-eishin-nitobe",
+      "description": "Crunchyroll streams adaptation based on manga by Oreco Tachibana",
+      "pubDate": "2026-10-22T12:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4a94995b4c/firefly_wedding_eishin_nitobe_header.jpg"
+    },
+    {
+      "id": "cr-LW1lbWJlcnM",
+      "title": "PSYREN Anime Reveals Two New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/psyren-anime-two-new-cast-members",
+      "description": "Crunchyroll streams adaptation based on manga by Toshiaki Iwashiro",
+      "pubDate": "2026-10-22T12:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x563/896bcffddb/psyren_van_tenjuin_elmore_tenjuin_header.jpg"
+    },
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals Four New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/the-seven-knights-of-the-marronnier-kingdom-anime-four-new-cast-members",
+      "description": "Adaptation based on josei fantasy manga is currently broadcasting in Japan",
+      "pubDate": "2026-10-22T12:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/ffc653db5d/the_seven_knights_of_the_marrionnier_kingdom_kastehelmi_header.jpg"
+    },
+    {
+      "id": "ann-by8uMjQzMDg3",
+      "title": "Gyakusatsu Kigen Manga Gets Animated Promotional Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/gyakusatsu-kigen-manga-gets-animated-promotional-video/.243087",
+      "description": "Sōma Saitō narrates video storyboarded by My Happy Marriage director Takehiro Kubota",
+      "pubDate": "2026-10-22T11:29:03.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKM/youtube/w6jfHtx0d6I.jpg"
+    },
+    {
+      "id": "ann-LjI0MzEwNQ",
+      "title": "Bless TV Anime Casts Tarusuke Shingaki; Crunchyroll to Stream Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/bless-tv-anime-casts-tarusuke-shingaki-crunchyroll-to-stream-series/.243105",
+      "description": "Shingaki voices Hikaru Oya in series debuting in January",
+      "pubDate": "2026-10-22T11:17:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/youtube/dY4XL2mmHBo.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Psyren' Announces Additional Cast Pair",
+      "link": "https://myanimelist.net/news/74846620?_location=rss",
+      "description": "The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro's Psyren manga announced a pair of additional cast on Thursday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Reiko Suzuki (Versailles no Bara) and Ayumu Murase (Chainsaw Man) are joining the cast as Elmore Tenjuin and Van Tenjuin, respectively. Katsumi Ono (Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu) is directing the anime...",
+      "pubDate": "2026-10-22T11:10:21.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792667350-7c996be372396e9bc32f5b93992f9769.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMDM",
+      "title": "Crunchyroll Reveals English Dub Cast, Staff Members, for The World's Strongest Witch Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-reveals-english-dub-cast-staff-members-for-the-world-strongest-witch-anime/.243103",
+      "description": "1st English dub episode streamed on Wednesday",
+      "pubDate": "2026-10-22T10:56:11.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO3/cms/news.9/241025/01-3.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQzMTA0",
+      "title": "Game Developer enish Announces Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero Game for Release in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/game-developer-enish-announces-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-game-/.243104",
+      "description": "New game with original story cooperation by creator Fujino Ōmori planned for release on iOS, Android, PC inside, outside Japan",
+      "pubDate": "2026-10-22T10:35:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243104/danmachi.png.jpg"
+    },
     {
       "id": "cr-Y2h5cm9sbA",
       "title": "BLESS Anime Streams on Crunchyroll in January 2027",
@@ -71,16 +341,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "People",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF9/herald/202384/hvfq22ibaaakivn.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQzMDg4",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088",
-      "description": "Naomi Shindō, Atsushi Ono, Ai Kayano, Yurie Funato voice Country of Long Nights' royalty",
-      "pubDate": "2026-10-22T03:38:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/herald/202387/marronnier-chara05.jpg"
     },
     {
       "id": "ann-LjI0MzA3MA",
@@ -220,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/cms/review.2/242454/reborn-as-a-space-mercenary-cover.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzA2OQ",
@@ -230,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T15:35:12.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/news.10/243069/akino-bless4-graduation.webp"
+      "image": null
     },
     {
       "id": "cr-YXN0LWNyZXc",
@@ -260,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP2/cms/episode-review.5/243044/bleach.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -280,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g21/cms/episode-review.5/243059/nia-liston-episodes-1-3-review-image.png.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQwOTQ4",
@@ -290,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYJ/cms/feature/240948/steins-gate.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMwNDM",
@@ -300,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T12:53:49.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.8/223743/a-do.jpg"
+      "image": null
     },
     {
       "id": "ann-ci8uMjQzMDQy",
@@ -310,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T12:47:52.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/243042/fireflyweddingvol13.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzA0Nw",
@@ -320,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T12:34:42.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKC/cms/news.10/243047/geekandcrown.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzA1OA",
@@ -330,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T12:30:24.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ5/cms/news.6/192519/loser.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMwNDU",
@@ -340,266 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO6/cms/episode-review.5/243045/jbpgfall26-42.a-certain-dark-item-ep-3.png.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Haru to Gen Anime Premieres on January 4",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/haru-to-gen-anime-premiere-date-cast-trailer",
-      "description": "Teaser trailer and main cast revealed for adaptation based on Yuka Oshima's manga",
-      "pubDate": "2026-10-21T12:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/4810c12011/haru_to_gen_header2.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA2Mw",
-      "title": "Eleceed TV Anime's English-Subtitled Trailer Reveals April 2027 Delay",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/eleceed-tv-anime-english-subtitled-trailer-reveals-april-2027-delay/.243063",
-      "description": "Anime previously announced to debut this year",
-      "pubDate": "2026-10-21T09:37:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/youtube/q7eT3oVvko4.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA2MQ",
-      "title": "Grotesqqque Anime Film Previews Song by Junna, yutori's Kotoko Satō",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/grotesqqque-anime-film-previews-song-by-junna-yutori-kotoko-sato/.243061",
-      "description": "\"ZUKIZUKI\" song featured in omnibus film's \"Yoroshiku★Girl\" short story",
-      "pubDate": "2026-10-21T09:24:40.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCG/youtube/UYhNc_-ryjc.jpg"
-    },
-    {
-      "id": "cr-ZWFzZS1kYXRl",
-      "title": "ELECEED Anime Broadcasts in April 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/eleceed-anime-april-2027-release-date",
-      "description": "Crunchyroll will stream the supernatural action series",
-      "pubDate": "2026-10-21T09:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/7af05318ee/eleceed.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA0OA",
-      "title": "Just Like Mona Lisa TV Anime's 1st Trailer Unveils More Cast & Staff, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/just-like-mona-lisa-tv-anime-1st-trailer-unveils-more-cast-and-staff-2027-debut/.243048",
-      "description": "Trailer reveals ending song \"Mayoi wa Hikari\" by imase",
-      "pubDate": "2026-10-21T05:52:21.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/cms/news.10/243048/mona.jpg"
-    },
-    {
-      "id": "cr-bm91bmNlZA",
-      "title": "Pokémon TCG Pocket Debuts New Typing, Special Promos in New Dual Fusion Set",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/pokemon-tcg-pocket-dual-fusion-set-announced",
-      "description": "Pikachu and the rest of the starters get their own special packs",
-      "pubDate": "2026-10-21T05:41:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/cbb49e6340/pokemon-tcg-pocket-dual-fusion-set.png"
-    },
-    {
-      "id": "cr-c3Nlcy1hd2F5",
-      "title": "Voice Actor Hiroshi Tsuchida Passes Away at 54",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/voice-actor-hiroshi-tsuchida-passes-away",
-      "description": "Tsuchida was also known as Ninja Blue in Ninja Sentai Kakuranger",
-      "pubDate": "2026-10-21T05:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/88d16ec88f/hiroshi-tsuchida.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwNTA",
-      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Short Anime's Teaser Reveals Cast, January 4 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/haru-to-gen-~70-sai-hajimete-kosodate~-short-anime-teaser-reveals-cast-january-4-debut/.243050",
-      "description": "Bin Shimada, Hiromi Igarashi, Mayuko Kazama star",
-      "pubDate": "2026-10-21T04:54:32.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/DFbZN4QYhao.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Seibetsu \"Mona Lisa\" no Kimi e.' Unveils Additional Cast, Staff, Ending Theme, First Promo, 2027 Debut",
-      "link": "https://myanimelist.net/news/74843217?_location=rss",
-      "description": "The official website for the television anime adaptation of Tsumuji Yoshimura's Seibetsu \"Mona Lisa\" no Kimi e. (Just Like Mona Lisa) manga unveiled additional cast, staff, a key visual (pictured right), the ending theme, and first promotional video on Wednesday. The anime series will premiere in 2027. Cast Yoshino Aoyama (Bocchi the Rock!) Nobuhiko Okamoto (Sousou no Frieren) Daisuke Sakuma (Kill Ao) Chiharu (22/7) Kakeru Hatano (Tamon-kun Ima Docchi!?) Haruna Mikawa (Ore dake L...",
-      "pubDate": "2026-10-21T04:10:10.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792555769-087463e39aef266a6a8657e4e4da919a.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMwMjU",
-      "title": "Detective Conan Returns to Universal Studios Japan with 3 New Attractions",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-20/detective-conan-returns-to-universal-studios-japan-with-3-new-attractions/.243025",
-      "description": "This time with escape game, restaurant with live entertainment, ride",
-      "pubDate": "2026-10-21T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "Just Like Mona Lisa Anime Trailer Reveals 2027 Broadcast, Ending Theme Song",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/just-like-mona-lisa-anime-2027-release-date-main-trailer-visual",
-      "description": "The coming-of-age series is set in a world where people are born genderless",
-      "pubDate": "2026-10-21T03:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/d769f7bd1c/just-like-mona-lisa.jpg"
-    },
-    {
-      "id": "cr-cnktMjAyNw",
-      "title": "Singer ReoNa to Release Two Best-of Albums in February 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/reona-anisong-singer-two-best-of-albums-february-2027",
-      "description": "ReoNa's \"Super Best\" concert will be held on March 6 and 7, 2027",
-      "pubDate": "2026-10-21T02:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/2d8c3415dc/reona-best-album-announcement-video.png"
-    },
-    {
-      "id": "ann-Ni8uMjQzMDIy",
-      "title": "1st-Ever U.S. One Piece Store to Open in Los Angeles on November 6",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-20/1st-ever-u.s-one-piece-store-to-open-in-los-angeles-on-november-6/.243022",
-      "description": "Was the legendary One Piece always in the City of Angels?",
-      "pubDate": "2026-10-21T01:40:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "cr-bmluZy1kYXRl",
-      "title": "ONE PIECE MUGIWARA STORE Makes U.S. Debut in Los Angeles on November 6",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/one-piece-mugiwara-store-los-angeles-opening-date",
-      "description": "Largest official ONE PIECE merch store heads to the States for the first time",
-      "pubDate": "2026-10-21T01:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0fdaa27e51/one-piece-mugiwara-hero.jpg"
-    },
-    {
-      "id": "cr-LW1penVraQ",
-      "title": "Nana Mizuki Releases Red River Anime Cour 2 Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/red-river-anime-cour-2-opening-song-music-video-nana-mizuki",
-      "description": "The adaptation of Chie Yoshihara's manga is available on Crunchyroll",
-      "pubDate": "2026-10-21T01:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/33356bd048/nana-mizuki-akatsuki-no-hoshi-mv.jpg"
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "Ghost – End of Night Anime Film Announces Three New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/21/ghost-end-of-night-anime-film-3-new-cast-members",
-      "description": "Shingo Natsume's first feature film releases in Japan on February 11, 2027",
-      "pubDate": "2026-10-21T00:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/062faf3a94/ghost-film-new-cast-members.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA0MA",
-      "title": "ghost – end of night Anime Film Unveils 3 Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/ghost-end-of-night-anime-film-unveils-3-cast-members/.243040",
-      "description": "Kenjirō Tsuda, Hiroki Yasumoto, Hiroshi Kamiya join cast",
-      "pubDate": "2026-10-21T00:50:26.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Ghost: Yoru no Hate' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74842607?_location=rss",
-      "description": "The official website for the Ghost: Yoru no Hate original anime movie announced three additional cast members on Wednesday. The movie is scheduled to open in Japanese theaters on February 11, 2027. The movie was previewed at Sitges Film Festival on October 9 and at Animation Is Film Festival on October 17. Cast Moby Dick: Kenjirou Tsuda (Jujutsu Kaisen) Karate: Hiroki Yasumoto (Koukaku Kidoutai (TV)) Itou: Hiroshi Kamiya (Shingeki no Kyojin) Shingo Natsume (One Punch Man) directes and pens the...",
-      "pubDate": "2026-10-21T00:43:12.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792543763-79d038765292c1d19df1076ff987abb7.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQzMDE5",
-      "title": "Writer Skyfarm, Artist Tentashi's Wildcard Alchemist Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/writer-skyfarm-artist-tentashi-wildcard-alchemist-manga-ends/.243019",
-      "description": "Manga launched in April 2025",
-      "pubDate": "2026-10-20T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-Y2FzdC1jcmV3",
-      "title": "Sasaki and Peeps Season 2 English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/20/sasaki-and-peeps-season-2-english-dub-release-date-cast-crew",
-      "description": "The first episode drops on October 21",
-      "pubDate": "2026-10-20T22:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/e71d058961/sasaki-and-peeps-season-2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwMjE",
-      "title": "Hikaru Nakamura's Black Night Parade Manga Ends, Teases Major Announcement on December 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/hikaru-nakamura-black-night-parade-manga-ends-teases-major-announcement-on-december-18/.243021",
-      "description": "Manga also gets side story in Ultra Jump magazine on December 18",
-      "pubDate": "2026-10-20T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMDI4",
-      "title": "Shiten Akiyama's Horizon Manga Resumes",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/shiten-akiyama-horizon-manga-resumes/.243028",
-      "description": "Manga debuted in June 2025; Kodama Tales to release manga in English in January 2027",
-      "pubDate": "2026-10-20T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMwMDY",
-      "title": "Live-Action Twisted Sisters Series Reveals Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/live-action-twisted-sisters-series-reveals-cast/.243006",
-      "description": "Yumia Fujisaki, Hikari Ishida, Hisako Manda join cast",
-      "pubDate": "2026-10-20T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "cr-Y2EtZXVyb3Bl",
-      "title": "Villion:Code Action-RPG Release Date Set for North America and Europe",
-      "link": "https://crunchyroll.com/news/latest/2026/10/20/villion-code-release-date-north-america-europe",
-      "description": "Producer Cozy Okada’s latest touches down on January 26, 2027",
-      "pubDate": "2026-10-20T19:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2bd664ad92/villion-code-date.jpg"
-    },
-    {
-      "id": "ann-LjI0MzAzMg",
-      "title": "Psyren ‒ Episodes 1-3",
-      "link": "https://www.animenewsnetwork.com/review/psyren/episodes-1-3/.243032",
-      "description": "In spite of its glaring production problems, part of me still can't help but be excited to finally see Psyren animated, even if it's not in the most ideal state.",
-      "pubDate": "2026-10-20T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-MC8uMjQzMDM0",
-      "title": "Live-Action Look Back Film Screens in N. American Theaters on December 30",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/live-action-look-back-film-screens-in-n-american-theaters-on-december-30/.243034",
-      "description": "GKIDS screens film nationwide in theaters on January 15",
-      "pubDate": "2026-10-20T19:00:04.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
       "image": null
     }
   ]
