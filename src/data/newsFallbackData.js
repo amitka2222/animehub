@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-21T20:56:50.244Z",
+  "lastUpdated": "2026-10-22T02:04:12.710Z",
   "items": [
+    {
+      "id": "cr-c2hpa2F3YQ",
+      "title": "Takanori Nishikawa Releases Dandivine Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/dandivine-anime-opening-song-music-video-takanori-nishikawa",
+      "description": "Crunchyroll is streaming the new anime series",
+      "pubDate": "2026-10-22T01:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/7a4a391c48/takanori-nishikawa-zankyo-blaster-mv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwODI",
+      "title": "Cygames to Reimburse Travel, Lodging for Canceled Uma Musume Concerts",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/cygames-to-reimburse-travel-lodging-for-canceled-uma-musume-concerts/.243082",
+      "description": "Cygames to cover cancellation fees for those who planned to go, expenses who already left to LA",
+      "pubDate": "2026-10-22T00:55:21.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/news.9/239701/uma-musume-world-tour.jpg"
+    },
+    {
+      "id": "cr-cG9zdGVycw",
+      "title": "Onee-chan no Midori-kun Live-Action Film Releases Main Trailer, Character Posters",
+      "link": "https://crunchyroll.com/news/latest/2026/10/22/onee-chan-no-midori-kun-live-action-film-main-trailer-character-posters",
+      "description": "Timelesz performs the theme song \"Honto no Koto wo Iuto\"",
+      "pubDate": "2026-10-22T00:49:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f3aa403a22/onee-chan-no-midori-kun-live-action-main-trailer.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwNzk",
+      "title": "FuRyu Previews Crymelight Game's Battles in New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-21/furyu-previews-crymelight-game-battles-in-new-trailer/.243079",
+      "description": "Game launches for Switch 2, PS5, PC via Steam on November 5",
+      "pubDate": "2026-10-21T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/4FUuAvpiscQ.jpg"
+    },
     {
       "id": "ann-Ly4yNDMwNDE",
       "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
@@ -450,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T19:00:04.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/youtube/ILBDFlYMGAY.jpg"
+      "image": null
     },
     {
       "id": "cr-c3VhbC1jYXN0",
@@ -470,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-20T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/cms/episode-review.5/243026/hello-witch-1-3.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMwMzM",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MzAyNw",
-      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
-      "description": "PandoraHearts Retrace III -Reverse corte- runs in Tokyo in September 2027, Osaka in October 2027",
-      "pubDate": "2026-10-20T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shingeki no Kyojin' Voice Actor Hiroshi Tsuchida Dies at 54",
-      "link": "https://myanimelist.net/news/74840663?_location=rss",
-      "description": "Voice actor Hiroshi Tsuchida, best known for Grisha Yeager in Shingeki no Kyojin (Attack on Titan) and Daikichi Kawachi in Usagi Drop (Bunny Drop), died on October 11 of heart failure. He was 54. His agency, 81 Produce, announced the news on Tuesday, noting that the funeral was held privately for family members only, at the family&rsquo;s request. Born in Tokyo in February 1972, Tsuchida graduated from Tokyo Metropolitan Bunkyo High School and trained for two years with the Touhai theater compan...",
-      "pubDate": "2026-10-20T15:30:59.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792510025-e1fe5c7c4bb4c0ff78e6e4970a35a20f.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzAwMQ",
-      "title": "Romelia War Chronicle ‒ Episodes 1-3",
-      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episodes-1-3/.243001",
-      "description": "Nobody can deny that this woman was born to lead her men into the hellfire of battle...",
-      "pubDate": "2026-10-20T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YXJ5LTIwMjc",
-      "title": "Ys VIII: Lacrimosa of DANA Action-RPG Heads to Switch 2 in February 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/20/ys-8-lacrimosa-of-dana-switch-2-february-2027",
-      "description": "120 frames per second, GameShare and Spanish-language support added",
-      "pubDate": "2026-10-20T15:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/1dfbceaebf/ys8-switch2.jpg"
     }
   ]
 };
