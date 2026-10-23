@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-23T02:08:37.774Z",
+  "lastUpdated": "2026-10-23T10:35:18.589Z",
   "items": [
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Though I Am an Inept Villainess Anime Releases Cour 2 Teaser Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/though-i-am-an-inept-villainess-cour-2-anime-teaser-trailer",
+      "description": "Crunchyroll will continue to stream the series when it returns in January",
+      "pubDate": "2026-10-23T10:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x563/91510757c4/though-i-am-an-inept-villainess-cour-2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMDg",
+      "title": "New Pokémon x Hatsune Miku Music Video Returns to Games' Roots",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-23/new-pokemon-x-hatsune-miku-music-video-returns-to-games-roots/.243108",
+      "description": "Do you remember your first encounter with the legendary video games?",
+      "pubDate": "2026-10-23T09:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/youtube/It-5v1kgaak.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMzc",
+      "title": "Shōya Ishige Joins Cast of Wound & Bandage TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137",
+      "description": "Ishige voices Ginsuke Hatobane in series debuting on January 9",
+      "pubDate": "2026-10-23T08:55:57.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/243137/ginsuke.webp"
+    },
+    {
+      "id": "cr-YW5lLWNhc3Q",
+      "title": "Wound & Bandage Anime Reveals Cast for Ginsuke Hatobane",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/wound-and-bandage-anime-ginsuke-hatobane-cast",
+      "description": "Miyuki Ishida directs the series at studio J.C.Staff",
+      "pubDate": "2026-10-23T07:49:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/d50b0af636/wound-and-bandange-ginsuke-hatobane-shoya-ishige.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQzMTIz",
+      "title": "New Votoms Anime Films' Teaser Reveals Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/new-votoms-anime-films-teaser-reveals-theme-song/.243123",
+      "description": "Mika Nakashima performs theme song \"Na mo Naki Shijin no Yō ni\" for November 20 film",
+      "pubDate": "2026-10-23T07:23:27.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/youtube/dTUpnswZ3VU.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzMTIy",
+      "title": "Made in Abyss: Mezameru Shinpi Anime Film Reveals 4 Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/made-in-abyss-mezameru-shinpi-anime-film-reveals-4-cast-members/.243122",
+      "description": "Nana Mizuki, Akeno Watanabe, Shunsuke Takeuchi, Nao Tōyama, Yume Miyamoto star in film",
+      "pubDate": "2026-10-23T06:59:42.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g79/cms/news.10/243122/mia-mezamerushinpeikv.jpg"
+    },
+    {
+      "id": "cr-c3RhdGlvbg",
+      "title": "Yaiba: Samurai Legend Anime Heads to the International Space Station",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/yaiba-samurai-legend-anime-kaguya-arc-international-space-station",
+      "description": "Creator Gosho Aoyama drew a special illustration that will board the ISS",
+      "pubDate": "2026-10-23T06:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1076/1a70869278/yaiba-samurai-legend-anime-season-2-teaser.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Made in Abyss: Mezameru Shinpi' Movie Second Part Announced",
+      "link": "https://myanimelist.net/news/74849312?_location=rss",
+      "description": "The official website of the Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery) movie announced the production of a second part on Friday, as well as five additional cast and a second key visual (pictured) for the first movie. The first part premiered in Japan on Friday. Cast Srajo: Nana Mizuki (Boruto: Naruto Next Generations) Nishagora: Akino Watanabe (Free! Dive to the Future) Yataramar: Shunsuke Takeuchi (Ao Ashi) Sherumi: Nao Touyama (Kanojo, Okarishimasu) Menae: Yume Miyamoto...",
+      "pubDate": "2026-10-23T03:43:18.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792726916-92ff014e6dcc5bc0becab159b7b5aece.jpeg"
+    },
+    {
+      "id": "cr-ZHVjdGlvbg",
+      "title": "Made in Abyss: Mezameru Shinpi Anime Film Spotlights Hail Hex in New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/made-in-abyss-mezameru-shinpi-anime-film-hail-hex-key-visual-cast-part-2-in-production",
+      "description": "The first part of the new film series is out today in Japan",
+      "pubDate": "2026-10-23T03:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/11b8635826/made-in-abyss-mezameru-shinpi.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA2Mg",
+      "title": "Hideo Kojima Reprises Cyberpunk 2077 Character in Edgerunners 2",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-22/hideo-kojima-reprises-cyberpunk-2077-character-in-edgerunners-2/.243062",
+      "description": "Kojima voices Hideyoshi Oshima in video game & anime",
+      "pubDate": "2026-10-23T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/cms/interest.3/243062/kojima-hideo-cyberpunk-edgerunners-2-02.jpg"
+    },
     {
       "id": "cr-YWwtcGhvdG9z",
       "title": "That Time I Got Reincarnated as a Slime's Third Stage Play Shares Dress Rehearsal Photos",
@@ -11,6 +111,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x539/f4861b5ce1/slime-stage-play-header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzExOQ",
+      "title": "Frequent Ghibli Collaborator Joe Hisaishi Named LA Philharmonic's Composer-in-Residence",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/frequent-ghibli-collaborator-joe-hisaishi-named-la-philharmonic-composer-in-residence/.243119",
+      "description": "Orchestra's new post is part of 5-year artistic partnership, involves composing new works",
+      "pubDate": "2026-10-23T01:56:47.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBF/cms/news.6/204122/joe-hisaishi.jpg"
     },
     {
       "id": "cr-ZW5vbWVub24",
@@ -234,8 +344,8 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LjI0MzA1Ng",
-      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters, Goku Midnight Eye Manga for Release in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-goku-midnight-eye-manga-for-release-in-2027/.243056",
+      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters, Buichi Terasawa's Goku Midnight Eye Manga for Release in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-buichi-terasawa-goku-midnight-eye-manga-for-release-/.243056",
       "description": "Nakama Press also revealed new release date for Samurai Pizza Cats comic",
       "pubDate": "2026-10-22T15:00:00.000Z",
       "source": "Anime News Network",
@@ -460,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T07:53:39.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKC/cms/news.10/243080/sakurada-reset-ln1-digital.jpg"
+      "image": null
     },
     {
       "id": "cr-bm8tb3RvLQ",
@@ -480,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF9/herald/202384/hvfq22ibaaakivn.jpeg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzA3MA",
@@ -490,116 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/herald/202383/hvd0rtcbwaa0oa0.jpeg"
-    },
-    {
-      "id": "ann-ei8uMjQzMDgz",
-      "title": "Live-Action My Sister's Boyfriend Film's Trailer Unveils Song by timelesz",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/live-action-my-sister-boyfriend-film-trailer-unveils-song-by-timelesz/.243083",
-      "description": "timelesz performs theme song \"Hontō no Koto o Iu to\" for December 4 film",
-      "pubDate": "2026-10-22T02:21:11.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/youtube/c15tili15oU.jpg"
-    },
-    {
-      "id": "cr-YXJ0aXN0cw",
-      "title": "Game Sekai Tensei \"DANKATSU\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play Suru Anime Announces Opening, Ending Theme Song Artists",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru-anime-opening-ending-theme-song-artists",
-      "description": "STUDIO MASSKET-animated new fantasy series will premiere in January 2027",
-      "pubDate": "2026-10-22T02:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/cec2eb0b4e/dankatsu-theme-song-artists-announcement.jpg"
-    },
-    {
-      "id": "cr-c2hpa2F3YQ",
-      "title": "Takanori Nishikawa Releases Dandivine Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/dandivine-anime-opening-song-music-video-takanori-nishikawa",
-      "description": "Crunchyroll is streaming the new anime series",
-      "pubDate": "2026-10-22T01:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/7a4a391c48/takanori-nishikawa-zankyo-blaster-mv.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwODI",
-      "title": "Cygames to Reimburse Travel, Lodging for Canceled Uma Musume Concerts",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/cygames-to-reimburse-travel-lodging-for-canceled-uma-musume-concerts/.243082",
-      "description": "Cygames to cover cancellation fees for those who planned to go, expenses who already left to LA",
-      "pubDate": "2026-10-22T00:55:21.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG5/cms/news.9/239701/uma-musume-world-tour.jpg"
-    },
-    {
-      "id": "cr-cG9zdGVycw",
-      "title": "Onee-chan no Midori-kun Live-Action Film Releases Main Trailer, Character Posters",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/onee-chan-no-midori-kun-live-action-film-main-trailer-character-posters",
-      "description": "Timelesz performs the theme song \"Honto no Koto wo Iuto\"",
-      "pubDate": "2026-10-22T00:49:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f3aa403a22/onee-chan-no-midori-kun-live-action-main-trailer.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwNzk",
-      "title": "FuRyu Previews Crymelight Game's Battles in New Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/furyu-previews-crymelight-game-battles-in-new-trailer/.243079",
-      "description": "Game launches for Switch 2, PS5, PC via Steam on November 5",
-      "pubDate": "2026-10-21T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMwNDE",
-      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
-      "description": "Manga launched on Tuesday",
-      "pubDate": "2026-10-21T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-OC8uMjQzMDQ2",
-      "title": "Rin Shimokawa's 'Godmother' Manga from Young Magazine US Starts Seralization on November 18",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/rin-shimokawa-godmother-manga-from-young-magazine-us-starts-seralization-on-november-18/.243046",
-      "description": "Original 1-shot debuted in special Young Magazine US English issue",
-      "pubDate": "2026-10-21T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-c3QtY3Jldw",
-      "title": "The World's Strongest Witch English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/21/the-worlds-strongest-witch-english-dub-release-date-cast-crew",
-      "description": "The first episode is available now!",
-      "pubDate": "2026-10-21T18:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2db9393ba1/the-world-s-strongest-witch.png"
-    },
-    {
-      "id": "ann-Ly4yNDI5ODQ",
-      "title": "One Piece Grand Gourmet: A Simulated Feast Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-pc-via-steam-ios-and-android/one-piece-grand-gourmet/a-simulated-/.242984",
-      "description": "When you hear One Piece, I bet you think “retro-themed restaurant simulator RPG,” right? No? Well, maybe you should!",
-      "pubDate": "2026-10-21T17:17:47.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQyNDAw",
-      "title": "Interview: Adding a New Ending to STEINS;GATE",
-      "link": "https://www.animenewsnetwork.com/interview/2026-10-21/adding-a-new-ending-to-steins-gate/.242400",
-      "description": "STEINS;GATE RE:BOOT Producer Tatsuya Matsubara and Scenario Writer Naotaka Hayashi speak on the game's new ending, it's origins, and other potential additions they decided not to pursue.",
-      "pubDate": "2026-10-21T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
