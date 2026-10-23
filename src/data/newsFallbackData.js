@@ -1,7 +1,47 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-22T20:53:52.663Z",
+  "lastUpdated": "2026-10-23T02:08:37.774Z",
   "items": [
+    {
+      "id": "cr-YWwtcGhvdG9z",
+      "title": "That Time I Got Reincarnated as a Slime's Third Stage Play Shares Dress Rehearsal Photos",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/that-time-i-got-reincarnated-as-a-slime-third-stage-play-dress-rehearsal-photos",
+      "description": "Advance tickets for the final day's performances are already sold out",
+      "pubDate": "2026-10-23T02:04:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/f4861b5ce1/slime-stage-play-header.jpg"
+    },
+    {
+      "id": "cr-ZW5vbWVub24",
+      "title": "KID PHENOMENON Releases Mission: Yozakura Family Anime Season 2 Cour 2 Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/mission-yozakura-family-anime-season-2-cour-2-ending-song-music-video-kid-phenomenon",
+      "description": "The single debuts at number 6 on the daily chart",
+      "pubDate": "2026-10-23T00:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/65ac21b4eb/kid-phenomenon-im-still-breathing-mv.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA4MQ",
+      "title": "Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/kumo-kagyu-moscow-2160-manga-listed-to-end-with-5th-volume/.243081",
+      "description": "Series debuted in December 2022",
+      "pubDate": "2026-10-22T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ1/cms/news.9/237407/moscow-2160-vol.1-manga.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQzMTE1",
+      "title": "K Manga Adds Shinobu Ohtaka's Geekrown Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115",
+      "description": "Magi creator's new manga launches on service on October 26",
+      "pubDate": "2026-10-22T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.10/243115/geekrown.jpg"
+    },
     {
       "id": "ann-dC8uMjQzMTE2",
       "title": "Firefly Wedding TV Anime Reveals English Dub Cast, October 23 Debut",
@@ -510,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/4FUuAvpiscQ.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMwNDE",
@@ -520,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-21T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.10/243041/cocoa.jpg"
+      "image": null
     },
     {
       "id": "ann-OC8uMjQzMDQ2",
@@ -561,46 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMDc0",
-      "title": "Magic Knight Rayearth, Sasaki and Peeps 2nd Season Anime Reveal English Dub Debuts, Casts",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/magic-knight-rayearth-sasaki-and-peeps-2nd-season-anime-reveal-english-dub-debuts-casts/.243074",
-      "description": "Both dubs debut on Wednesday",
-      "pubDate": "2026-10-21T16:31:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI0NTQ",
-      "title": "Reborn as a Space Mercenary Volume 1-2 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/reborn-as-a-space-mercenary-volume-1-2-light-novel/.242454",
-      "description": "Reborn as a Space Mercenary consistently assumes that ticking boxes off the generic power fantasy checklist without craft or care is enough to spin something worth savoring.",
-      "pubDate": "2026-10-21T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzA2OQ",
-      "title": "Singer AKINO Graduates from bless4; Band Changes Name to 'bless∞(Forever)'",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-21/singer-akino-graduates-from-bless4-band-changes-name-to-bless/.243069",
-      "description": "AKINO to perform in final graduation performance with band on December 21",
-      "pubDate": "2026-10-21T15:35:12.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Magic Knight Rayearth English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/21/magic-knight-rayearth-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode is available now!",
-      "pubDate": "2026-10-21T15:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/185bc8e71d/magic-knight-rayearth.jpg"
     }
   ]
 };
