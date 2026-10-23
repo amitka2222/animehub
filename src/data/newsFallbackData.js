@@ -1,7 +1,167 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-23T10:35:18.589Z",
+  "lastUpdated": "2026-10-23T15:59:05.815Z",
   "items": [
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "Dreamland Animated Series Reveals Two New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/dreamland-animated-series-2-new-cast-members",
+      "description": "Crunchyroll streams the adaptation as it airs",
+      "pubDate": "2026-10-23T15:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/5dd28da4e8/dreamland-casting-hero.png"
+    },
+    {
+      "id": "ann-LjI0MzEyNw",
+      "title": "Korean-Animated Film Your Letter Begins Streaming on Crunchyroll",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127",
+      "description": "Film screened in U.S., Canada through Crunchyroll Anime Nights on August 17",
+      "pubDate": "2026-10-23T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF9/cms/news.8/227573/efc2783d9f4e1497c6de545a0d1348e4f262d10c.webp"
+    },
+    {
+      "id": "cr-aW50ZXJ2aWV3",
+      "title": "Naruto's Original Voice Actors on Why Returning to Team 7 Feels Different After 20 Years",
+      "link": "https://crunchyroll.com/news/interviews/2026/10/23/narutos-original-voice-actors-after-20-years-interview",
+      "description": "How they embodied Naruto's energy and Sasuke's trauma",
+      "pubDate": "2026-10-23T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x697/0d8593ea7b/naruto-x-ninku-key-art.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMTI0",
+      "title": "Manhwa-Based Live-Action Series The Blue Road Releases Teaser Trailer Ahead of November 20 Premiere",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/manhwa-based-live-action-series-the-blue-road-releases-teaser-trailer-ahead-of-november-20-premiere/.243124",
+      "description": "Seok-gu Son, Eita Nagayama star in series based on 2002 Korean-Japanese collaborative comic",
+      "pubDate": "2026-10-23T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gWC/youtube/aJsCec5meBc.jpg"
+    },
+    {
+      "id": "cr-ZS1mcmFueHg",
+      "title": "GROTESQQQUE Anime Anthology Film Shares Two Collab Visuals with Darling in the FRANXX",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/grotesqqque-anime-anthology-film-collab-visuals-darling-in-the-franxx",
+      "description": "The three-part film premieres in Japan on November 6",
+      "pubDate": "2026-10-23T14:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/43cb37128d/grotesqqque.jpg"
+    },
+    {
+      "id": "ann-LjI0MzAwMw",
+      "title": "This Week in Games - Seasons of Books and Keys, and Bloody Roars and Expensive Consoles",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-10-23/seasons-of-books-and-keys-and-bloody-roars-and-expensive-consoles/.243003",
+      "description": "Hold on to your old consoles, because the new ones are going to cost a lot. Plus Jean-Karlo digs into the demo of upcoming VN Seasons of Books and Keys!",
+      "pubDate": "2026-10-23T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g10/cms/this-week-in-games/243003/20261020214232-1.jpg"
+    },
+    {
+      "id": "cr-dmlzdWFscw",
+      "title": "Delicious in Dungeon Season 2 Anime Unveils Character Visuals for Returning Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/delicious-in-dungeon-season-2-anime-character-visuals",
+      "description": "The series returns in October 2027",
+      "pubDate": "2026-10-23T13:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1320x741/703e3cbad1/delicious-in-dungeon.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMTIw",
+      "title": "Kazumi Yamashita's Twisted Sisters Manga Ends With 11th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/kazumi-yamashita-twisted-sisters-manga-ends-with-11th-volume/.243120",
+      "description": "11th volume ships in early spring",
+      "pubDate": "2026-10-23T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ4/cms/news.10/243120/twistedsisters10.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQyNTI2",
+      "title": "Interview: What We Know About Mobile Suit Gundam RG XARX-ZERO with Director Kenji Kamiyama",
+      "link": "https://www.animenewsnetwork.com/interview/2026-10-23/what-we-know-about-mobile-suit-gundam-rg-xarx-zero-with-director-kenji-kamiyama/.242526",
+      "description": "The man tackled Blade Runner, Ghost in the Shell, The Lord of the Rings, and now Gundam.",
+      "pubDate": "2026-10-23T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g50/youtube/SxZHjOejxPo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNDI",
+      "title": "The World's Strongest Witch ‒ Episodes 1-3",
+      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episodes-1-3/.243142",
+      "description": "Between an “I took an arrow to the knee” gag and Souls game inspired strats, The World's Strongest Witch is very clearly informed by the culture and experience of online gamers.",
+      "pubDate": "2026-10-23T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO5/cms/episode-review.5/243142/episodes-1-3-review-image.png.jpg"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "Armored Trooper VOTOMS: Die Graue Hexe Anime Reveals New Trailers & Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/armored-trooper-votoms-die-graue-hexe-anime-trailers-visual-theme-song",
+      "description": "Theme song info published for upcoming two-part anime film",
+      "pubDate": "2026-10-23T12:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x542/a613679c6e/armored_trooper_votoms_die_graue_hexe_header3.jpg"
+    },
+    {
+      "id": "ann-LjI0MzE0MA",
+      "title": "Though I am an Inept Villainess Anime's 2nd Part Streams Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/though-i-am-an-inept-villainess-anime-2nd-part-streams-teaser-video/.243140",
+      "description": "New part debuts in January 2027",
+      "pubDate": "2026-10-23T11:59:15.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/youtube/jJKK3qoVlCI.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "New 'Ghost in the Shell' Anime Project in Production",
+      "link": "https://myanimelist.net/news/74850349?_location=rss",
+      "description": "The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (pictured). Animation studio Science SARU will be producing the new anime project. Produced by Science SARU, the 10-episode season adapting Masamune Shirow's sci-fi action manga premiered in Summer 2026. Amazon Prime Video streamed the anime with subtitles and dubs in multiple languages. The latest ins...",
+      "pubDate": "2026-10-23T11:44:38.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792755587-df70c2c573d3a056c866350271d5e3d9.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMjE",
+      "title": "FX Fighter Kurumi-chan ‒ Episodes 1-4",
+      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episodes-1-4/.243121",
+      "description": "I can stop any time. I can stop any time.",
+      "pubDate": "2026-10-23T11:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/episode-review.5/243121/fxfk041.jpg"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "THE GHOST IN THE SHELL New Anime by Science SARU Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/23/the-ghost-in-the-shell-new-anime-by-science-saru-announced",
+      "description": "The first THE GHOST IN THE SHELL anime aired earlier this year",
+      "pubDate": "2026-10-23T11:20:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x531/7e62c5d5ca/the-ghost-in-the-shell.jpg"
+    },
+    {
+      "id": "ann-LjI0MzEzOA",
+      "title": "Science Saru's The Ghost in the Shell Gets New Anime Project",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/science-saru-the-ghost-in-the-shell-gets-new-anime-project/.243138",
+      "description": "Science SARU's series debuted on July 7, aired for 10 episodes",
+      "pubDate": "2026-10-23T11:04:59.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMV/cms/news.10/243138/gits-new-anime.jpg"
+    },
     {
       "id": "cr-dHJhaWxlcg",
       "title": "Though I Am an Inept Villainess Anime Releases Cour 2 Teaser Trailer",
@@ -134,7 +294,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LjI0MzA4MQ",
-      "title": "Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume",
+      "title": "Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume (Updated)",
       "link": "https://www.animenewsnetwork.com/news/2026-10-22/kumo-kagyu-moscow-2160-manga-listed-to-end-with-5th-volume/.243081",
       "description": "Series debuted in December 2022",
       "pubDate": "2026-10-22T22:00:00.000Z",
@@ -430,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T12:29:12.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243109/kv-2.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMxMDc",
@@ -440,166 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T12:27:56.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKL/cms/news.10/243107/schwarzesmarken.jfif.jpg"
-    },
-    {
-      "id": "cr-bi1uaXRvYmU",
-      "title": "Firefly Wedding Anime Casts Kazuyuki Okitsu as Eishin Nitobe",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/firefly-wedding-anime-casts-kazuyuki-okitsu-as-eishin-nitobe",
-      "description": "Crunchyroll streams adaptation based on manga by Oreco Tachibana",
-      "pubDate": "2026-10-22T12:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4a94995b4c/firefly_wedding_eishin_nitobe_header.jpg"
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "PSYREN Anime Reveals Two New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/psyren-anime-two-new-cast-members",
-      "description": "Crunchyroll streams adaptation based on manga by Toshiaki Iwashiro",
-      "pubDate": "2026-10-22T12:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x563/896bcffddb/psyren_van_tenjuin_elmore_tenjuin_header.jpg"
-    },
-    {
-      "id": "cr-bWVtYmVycw",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals Four New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/the-seven-knights-of-the-marronnier-kingdom-anime-four-new-cast-members",
-      "description": "Adaptation based on josei fantasy manga is currently broadcasting in Japan",
-      "pubDate": "2026-10-22T12:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/ffc653db5d/the_seven_knights_of_the_marrionnier_kingdom_kastehelmi_header.jpg"
-    },
-    {
-      "id": "ann-by8uMjQzMDg3",
-      "title": "Gyakusatsu Kigen Manga Gets Animated Promotional Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/gyakusatsu-kigen-manga-gets-animated-promotional-video/.243087",
-      "description": "Sōma Saitō narrates video storyboarded by My Happy Marriage director Takehiro Kubota",
-      "pubDate": "2026-10-22T11:29:03.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKM/youtube/w6jfHtx0d6I.jpg"
-    },
-    {
-      "id": "ann-LjI0MzEwNQ",
-      "title": "Bless TV Anime Casts Tarusuke Shingaki; Crunchyroll to Stream Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/bless-tv-anime-casts-tarusuke-shingaki-crunchyroll-to-stream-series/.243105",
-      "description": "Shingaki voices Hikaru Oya in series debuting in January",
-      "pubDate": "2026-10-22T11:17:25.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/youtube/dY4XL2mmHBo.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Psyren' Announces Additional Cast Pair",
-      "link": "https://myanimelist.net/news/74846620?_location=rss",
-      "description": "The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro's Psyren manga announced a pair of additional cast on Thursday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Reiko Suzuki (Versailles no Bara) and Ayumu Murase (Chainsaw Man) are joining the cast as Elmore Tenjuin and Van Tenjuin, respectively. Katsumi Ono (Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu) is directing the anime...",
-      "pubDate": "2026-10-22T11:10:21.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792667350-7c996be372396e9bc32f5b93992f9769.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMxMDM",
-      "title": "Crunchyroll Reveals English Dub Cast, Staff Members, for The World's Strongest Witch Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-reveals-english-dub-cast-staff-members-for-the-world-strongest-witch-anime/.243103",
-      "description": "1st English dub episode streamed on Wednesday",
-      "pubDate": "2026-10-22T10:56:11.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO3/cms/news.9/241025/01-3.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQzMTA0",
-      "title": "Game Developer enish Announces Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero Game for Release in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/game-developer-enish-announces-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-game-/.243104",
-      "description": "New game with original story cooperation by creator Fujino Ōmori planned for release on iOS, Android, PC inside, outside Japan",
-      "pubDate": "2026-10-22T10:35:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243104/danmachi.png.jpg"
-    },
-    {
-      "id": "cr-Y2h5cm9sbA",
-      "title": "BLESS Anime Streams on Crunchyroll in January 2027",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/22/bless-anime-january-2027-stream-crunchyroll",
-      "description": "The anime adapts Yukino Sonoyama's manga",
-      "pubDate": "2026-10-22T10:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1404x791/fd339b9562/bless-anime.png"
-    },
-    {
-      "id": "ann-bi8uMjQzMTAx",
-      "title": "Aobuta Film Opens at #4, New Live-Action Street Fighter Film at #8 in Japan",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/aobuta-film-opens-at-no.4-new-live-action-street-fighter-film-at-no.8-in-japan/.243101",
-      "description": "Zach Cregger's Resident Evil stayed at #2 in 2nd weekend",
-      "pubDate": "2026-10-22T09:45:45.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.9/235905/butayaroumovie-withreleasedate.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA5OQ",
-      "title": "Yukari Takinami's Watashitachi wa Mutsū Renai ga Shitai Manga Gets Live-Action Net Show",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/yukari-takinami-watashitachi-wa-mutsu-renai-ga-shitai-manga-gets-live-action-net-show/.243099",
-      "description": "Manga about woman's encounter with a good-looking scumbag, a \"feminist uncle\" launched in 2021",
-      "pubDate": "2026-10-22T09:21:29.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.10/243099/romance.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQzMTAw",
-      "title": "Crunchyroll Streams English Dub for 'The Prince of Tennis: Two Samurais, The First Game,' The Prince of Tennis: A Gift from Atobe Films",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100",
-      "description": "Service added 2005 films on October 15",
-      "pubDate": "2026-10-22T08:46:28.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE4/cms/news.10/243100/tennis.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQzMDgw",
-      "title": "Seven Seas Licenses Sagrada Reset Novel; Two Cats and a Dog, The Mercenary Bomber Explodes All Cheaters Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/seven-seas-licenses-sagrada-reset-novel-two-cats-and-a-dog-the-mercenary-bomber-explodes-all-/.243080",
-      "description": "Also licensed: Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World audiobook, Miotsukushi: Backdoor Channels manga",
-      "pubDate": "2026-10-22T07:53:39.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-bm8tb3RvLQ",
-      "title": "Voice Actor Hiroyuki Yoshino Shares New Music Video \"Bokura no Oto\"",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/voice-actor-hiroyuki-yoshino-new-music-video-bokura-no-oto-",
-      "description": "Yoshino's 6th mini-album \"Ima to Boku\" is now available",
-      "pubDate": "2026-10-22T04:49:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/7b8ff223d0/hiroyuki-yoshino-bokura-no-oto-mv.jpg"
-    },
-    {
-      "id": "ann-aS8uMjQzMDc3",
-      "title": "Anime World Offers Condolences After Screen, Voice Actor Hiroshi Tsuchida's Death, Part II",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-screen-voice-actor-hiroshi-tsuchida-death-part-ii/.243077",
-      "description": "Creators, artists, & fans came together for their farewells",
-      "pubDate": "2026-10-22T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzA3MA",
-      "title": "Anime World Offers Condolences After Actor Hiroshi Tsuchida's Death, Part I",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-actor-hiroshi-tsuchida-death-part-i/.243070",
-      "description": "Colleagues remember him from his Super Sentai roots to his prolific voice-acing years",
-      "pubDate": "2026-10-22T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
       "image": null
     }
   ]
