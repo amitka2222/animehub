@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-23T20:42:04.176Z",
+  "lastUpdated": "2026-10-24T02:07:38.640Z",
   "items": [
+    {
+      "id": "cr-ZW8ta291bWU",
+      "title": "Koume Releases The Detective Is Already Dead Season 2 Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/24/the-detective-is-already-dead-season-2-anime-opening-song-music-video-koume",
+      "description": "Crunchyroll currently streams the new season",
+      "pubDate": "2026-10-24T01:58:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0616e6e5de/koume-kono-shinzou-mv.jpg"
+    },
+    {
+      "id": "cr-cmUtYXdhcmRz",
+      "title": "Anime Director Rintaro Selected as a Person of Cultural Merit by the Japanese Government",
+      "link": "https://crunchyroll.com/news/latest/2026/10/24/anime-director-rintaro-person-of-cultural-merit-shigeru-miyamoto-order-of-culture-awards",
+      "description": "Shigeru Miyamoto also received the Order of Culture award",
+      "pubDate": "2026-10-24T01:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/1680c29e14/rintaro-header.png"
+    },
+    {
+      "id": "cr-dW5jaHlyb2xs",
+      "title": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match English Dub Now Streaming on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/24/the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match-english-dub-now-streaming-on-crunchyroll",
+      "description": "Who has what it takes to play the World Cup final against Spain?",
+      "pubDate": "2026-10-24T01:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/ec598fec8f/the-prince-of-tennis-ii-u-17-world-cup-final-member-selection-match.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxMjU",
+      "title": "LOVELYZ's Ye-in Jeong Joins The Trauma Code: Heroes on Call Seasons 2-3",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/lovelyz-ye-in-jeong-joins-the-trauma-code-heroes-on-call-seasons-2-3/.243125",
+      "description": "Jeong replaces Ha-young, who left following controversy over allegations that her great-grandfather collaborated with Japanese colonial authorities",
+      "pubDate": "2026-10-23T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243125/instagram-10-22-2026-10-15-pm.png.jpg"
+    },
+    {
+      "id": "ann-LjI0Mjk5Nw",
+      "title": "North American Anime, Manga Releases, October 18-24",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-23/north-american-anime-manga-releases-october-18-24/.242997",
+      "description": "Reincarnated As A Dragon Hatchling anime; The Apothecary Diaries: Maomao's Notes on the Inner Palace, The Mandalorian, My Dress-Up Darling XOXO! manga ship",
+      "pubDate": "2026-10-23T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gR8/herald/202448/reincarnated-as-a-dragon-hatchling-bd.jpg"
+    },
     {
       "id": "ann-LjI0MzE0OQ",
       "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
@@ -510,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T15:36:18.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/youtube/mnoR-kTU25E.jpg"
+      "image": null
     },
     {
       "id": "cr-bmctdmlkZW9z",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Quizzes",
       "image": "https://a.storyblok.com/f/178900/960x540/1e54acc94b/witch-hat-atelier-episode-11.jpg"
-    },
-    {
-      "id": "cr-bGVyLWNhc3Q",
-      "title": "BLESS Anime Casts Tarusuke Shingaki as Hikaru Oya",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/bless-anime-hikaru-oya-character-trailer-cast",
-      "description": "Crunchyroll will stream the series starting in January 2027",
-      "pubDate": "2026-10-22T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/f35d3cd6a3/bless-hikaru-oya.png"
-    },
-    {
-      "id": "ann-LjI0MzA1Ng",
-      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters, Buichi Terasawa's Goku Midnight Eye Manga for Release in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-buichi-terasawa-goku-midnight-eye-manga-for-release-/.243056",
-      "description": "Nakama Press also revealed new release date for Samurai Pizza Cats comic",
-      "pubDate": "2026-10-22T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA0/cms/news.10/243056/100.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQzMTEw",
-      "title": "Capcom Confirms Data Breach of Over 11 Million User Accounts",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110",
-      "description": "Third party had unauthorized access to Capcom ID service starting on October 19",
-      "pubDate": "2026-10-22T14:51:10.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzA5MQ",
-      "title": "Suikoden: The Anime ‒ Episodes 1-3",
-      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episodes-1-3/.243091",
-      "description": "Most critical of all is that the Suikoden anime reminds me of anime and gaming from the days of yore.",
-      "pubDate": "2026-10-22T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzA2MA",
-      "title": "This Week in Anime - The Legacy of Sayo Yamamoto",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-22/.243060",
-      "description": "Now that Coop has finally watched Yuri!!! on Ice, they and Sylvia dive into Sayo Yamamoto 's series.",
-      "pubDate": "2026-10-22T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
