@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-24T09:52:59.803Z",
+  "lastUpdated": "2026-10-24T14:56:44.588Z",
   "items": [
+    {
+      "id": "ann-Mi8uMjQzMTYx",
+      "title": "The Apothecary Diaries Season 3 ‒ Episode 52",
+      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-52/.243161",
+      "description": "Right now Maomao's got bigger bugs to fry than romance.",
+      "pubDate": "2026-10-24T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFV/cms/episode-review.5/243161/apothecary-52.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNjA",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-5/.243160",
+      "description": "With the berating thematic heart of  Steel Ball Run now laid bare, the race can really begin and I feel so lucky to be alive at a time when I can experience this story in this way.",
+      "pubDate": "2026-10-24T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBD/cms/episode-review.5/243160/sbr-episode-5-review.png.jpg"
+    },
     {
       "id": "ann-Ly4yNDMxNTQ",
       "title": "Love Live! x Space Battleship Yamato Crossover Art Unveiled",
@@ -520,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/mh64ZZHuk6c.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXZlbi1zZWFz",
@@ -540,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g83/cms/news.10/243113/firefly-wedding-eishin.jpg"
+      "image": null
     },
     {
       "id": "cr-Y3RvYmVyLTI5",
@@ -580,26 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T16:55:48.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQyNTY5",
-      "title": "Yoroi-Shinden Samurai Troopers Episodes 13-24 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/yoroi-shinden-samurai-troopers/episodes-13-24/.242569",
-      "description": "Yoroi-Shinden Samurai Troopers is such a hurricane of sacrificial swerves that it's virtually impossible to talk about without addressing its shallow fixation on offing its cast.",
-      "pubDate": "2026-10-22T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzA2Ng",
-      "title": "Yūichirō Momose, Hina Hinata's Bagudan Manga Ends on November 24",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/yuichiro-momose-hina-hinata-bagudan-manga-ends-on-november-24/.243066",
-      "description": "Reverse harem comedy manga launched on March 24",
-      "pubDate": "2026-10-22T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
     }
   ]
