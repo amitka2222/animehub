@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-24T14:56:44.588Z",
+  "lastUpdated": "2026-10-24T19:53:10.229Z",
   "items": [
+    {
+      "id": "cr-YXN0LWNyZXc",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers English Dub Reveals Release Date, Cast and Crew",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/24/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-english-dub-release-date-cast-crew",
+      "description": "The first episode drops on October 25",
+      "pubDate": "2026-10-24T19:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/9b9176d243/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Star Blazers: Space Battleship Yamato 3199 Crosses Over with Love Live! in New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/24/star-blazers-space-battleship-yamato-3199-chapter-7-love-live-visual",
+      "description": "The next installment in the Yamato franchise premieres on October 30",
+      "pubDate": "2026-10-24T16:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/9b1be58637/yamato-forever-hero.png"
+    },
+    {
+      "id": "cr-YXN0LWNyZXc",
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc English Dub Now Streaming on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/24/tougen-anki-nikko-kegon-falls-arc-anime-english-dub-release-date-cast-crew",
+      "description": "The first two English dub episdoes are available now",
+      "pubDate": "2026-10-24T16:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/960x540/ef8f64a58c/tougen-anki-nikko-kegon-falls-arc.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMDE2",
+      "title": "ghost – end of night Anime Movie Review",
+      "link": "https://www.animenewsnetwork.com/review/ghost-end-of-night/anime-movie/.243016",
+      "description": "The director of Sonny Boy asks, “What if Haruhi Suzumiya had an emo phase?”",
+      "pubDate": "2026-10-24T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDK/cms/review.2/243016/ghostkey.jpg"
+    },
+    {
+      "id": "cr-aW50ZXJ2aWV3",
+      "title": "Beast in Black on Drawing Inspiration from Berserk Throughout Their Career",
+      "link": "https://crunchyroll.com/news/interviews/2026/10/24/beast-in-black-interview",
+      "description": "I've wanted to write songs about the story of Rosine and Jill",
+      "pubDate": "2026-10-24T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/c1d523a9d6/beast-in-black-band.jpg"
+    },
     {
       "id": "ann-Mi8uMjQzMTYx",
       "title": "The Apothecary Diaries Season 3 ‒ Episode 52",
@@ -510,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-22T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNJ/cms/news.9/235719/hotaru.jpg"
+      "image": null
     },
     {
       "id": "cr-YXN0LWNyZXc",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1200x675/a545a62a49/seven-seas_sagrada-reset.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzExMw",
-      "title": "Firefly Wedding TV Anime Casts Kazuyuki Okitsu",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113",
-      "description": "Kazuyuki Okitsu plays Eishin Nitobe",
-      "pubDate": "2026-10-22T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Y3RvYmVyLTI5",
-      "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe Launches on PlayStation, Xbox and Steam This Month",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/hatsune-miku-connecting-puzzle-tamagotori-deluxe-playstation-xbox-steam-october-29",
-      "description": "Original game returns with DLC included on October 29",
-      "pubDate": "2026-10-22T17:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/35aec326e6/hatsune-miku-puzzler.jpg"
-    },
-    {
-      "id": "cr-bXAtcGx1cw",
-      "title": "Spanish Creator ohmiau Launches ¡Se acerca una tormenta de verano! One-Shot on Jump+",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/spanish-creator-ohmiau-se-acerca-una-tormenta-de-verano-one-shot-jump-plus",
-      "description": "Monthly Gold Award winner now available to read on MANGA Plus",
-      "pubDate": "2026-10-22T17:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x675/537b5a7717/ohmiau-one-shot.png"
-    },
-    {
-      "id": "cr-ZW1lLXNvbmc",
-      "title": "Takopi's Original Sin Anime Compilation Film Reveals New Trailer & Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/takopis-original-sin-anime-compilation-film-trailer-visual-theme-song",
-      "description": "Movie based on Taizan 5's manga begins screening in Japan on November 27",
-      "pubDate": "2026-10-22T17:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/800x450/59378c4b81/takopis_original_sin_movie_hdear.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxMTE",
-      "title": "Psyren TV Anime Casts Reiko Suzuki, Ayumu Murase",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/psyren-tv-anime-casts-reiko-suzuki-ayumu-murase/.243111",
-      "description": "Series casts Suzuki as Elmore, Murase as Van",
-      "pubDate": "2026-10-22T16:55:48.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
