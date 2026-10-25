@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T01:54:13.921Z",
+  "lastUpdated": "2026-10-25T10:14:31.204Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n\nJohnny Joestar, once hailed as a genius jockey, is now paralysed and lost in despair.\n\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site, edited)\n\nNote: The first episode initially aired early on March 19th with a runtime of 47 minutes for the First Stage. The eleven episodes for the Second and Third stages began airing weekly on September 25th.",
-      "score": "86.62%",
+      "score": "86.66%",
       "episodes": 12,
       "rank": 7,
       "season": "ONA",
@@ -835,7 +835,7 @@
         }
       },
       "synopsis": "Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.\n\nAlong the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters—all while learning what being a Hunter truly means.\n\n(Source: MAL Rewrite)",
-      "score": "84.16%",
+      "score": "84.17%",
       "episodes": 148,
       "rank": 9,
       "season": "TV",
@@ -906,35 +906,6 @@
       "hasDub": true
     },
     {
-      "mal_id": "46917",
-      "id": "46917",
-      "title": "Tensei Shitara Ken Deshita 2nd Season",
-      "titles": {
-        "en": "Reincarnated as a Sword 2nd Season",
-        "en_jp": "Tensei Shitara Ken Deshita 2nd Season",
-        "ja_jp": "転生したら剣でした 第2期"
-      },
-      "url": "https://kitsu.io/anime/tensei-shitara-ken-deshita-2nd-season",
-      "poster": "https://media.kitsu.app/anime/46917/poster_image/large-0b7b035d325ecf9a275240318d98bd6d.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/46917/poster_image/large-0b7b035d325ecf9a275240318d98bd6d.jpeg",
-          "image_url": "https://media.kitsu.app/anime/46917/poster_image/small-2e795edc5053cbb01405d52363cba9dd.jpeg"
-        }
-      },
-      "synopsis": "The second season of Tensei Shitara Ken Deshita.",
-      "score": "76.92%",
-      "episodes": null,
-      "rank": 2,
-      "season": "TV",
-      "startDate": "2026-10-01",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
       "mal_id": "49217",
       "id": "49217",
       "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2",
@@ -955,7 +926,7 @@
       "synopsis": "The second season of Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san.",
       "score": "N/A",
       "episodes": null,
-      "rank": 3,
+      "rank": 2,
       "season": "TV",
       "startDate": "2026-12-31",
       "year": "2026",
@@ -984,7 +955,7 @@
       "synopsis": "The third season of Shangri-La Frontier.",
       "score": "N/A",
       "episodes": null,
-      "rank": 4,
+      "rank": 3,
       "season": "TV",
       "startDate": "2027-01-10",
       "year": "2027",
@@ -1013,7 +984,7 @@
       "synopsis": "The black-clad boy that Aya Oosawa likes is perfect: he is effortlessly nonchalant, has a sharp sense of style, and listens to the best music. Ever since the trendy Aya stumbled upon a small CD store to enjoy the rock classics her friends are not familiar with, the mysterious employee behind the counter has been on her mind. Meanwhile, the quiet and aloof Mitsuki Koga listens to her popular classmate Aya rave about her crush, tormented by a nagging thought: how to tell Aya that the guy she is interested in is not a guy at all!\n\nIn reality, when Mitsuki sheds her plain high school uniform, she is the one manning the counter at her uncle Joe's CD shop. She wrestles with how to reveal her identity, but flirting with the stunning and clueless Aya is just too tempting. As music becomes their shared passion, it seems that Aya's feelings will remain unchanged—even when Mitsuki's secret comes to light.\n\n(Source: MAL | [Written by MAL Rewrite])",
       "score": "N/A",
       "episodes": null,
-      "rank": 5,
+      "rank": 4,
       "season": "TV",
       "startDate": "2027-01-08",
       "year": "2027",
@@ -1042,7 +1013,7 @@
       "synopsis": "The time is Sengoku.\n\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Genichiro turns to forbidden powers. The only hope lies in a kidnapped boy — the Divine Heir — and his silent protector: a loyal shinobi known only as Sekiro.\n\nThis is the story of a lord and his retainer — and their quest to restore balance to a nation on the edge.\n\n(Source: Crunchyroll)",
       "score": "N/A",
       "episodes": 8,
-      "rank": 6,
+      "rank": 5,
       "season": "TV",
       "startDate": "2027-01-08",
       "year": "2027",
@@ -1071,7 +1042,7 @@
       "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n\n(Source: REMOW)",
       "score": "N/A",
       "episodes": 12,
-      "rank": 7,
+      "rank": 6,
       "season": "TV",
       "startDate": "2026-10-02",
       "year": "2026",
@@ -1100,7 +1071,7 @@
       "synopsis": "Theatrical compilation of all six episodes of the anime series Takopii no Genzai, including newly added scenes.",
       "score": "N/A",
       "episodes": 1,
-      "rank": 8,
+      "rank": 7,
       "season": "movie",
       "startDate": "2026-11-27",
       "year": "2026",
@@ -1129,7 +1100,7 @@
       "synopsis": "The mask causes disaster. The mask prefers slaughter. The mask has a will. A traveling mask merchant Pell who can create a mysterious mask that grants abilities. In a city with a gloomy atmosphere, I meet a mysterious girl, Sona ...!? The boy begins to walk at the end of publicity and self-discipline! Masked battle fantasy!",
       "score": "N/A",
       "episodes": null,
-      "rank": 9,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
@@ -1158,10 +1129,39 @@
       "synopsis": "The second season of Shin Samurai-den YAIBA",
       "score": "N/A",
       "episodes": null,
-      "rank": 10,
+      "rank": 9,
       "season": "TV",
       "startDate": "2027-01-09",
       "year": "2027",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "48708",
+      "id": "48708",
+      "title": "KILLTUBE",
+      "titles": {
+        "en": null,
+        "en_jp": "KILLTUBE",
+        "ja_jp": null
+      },
+      "url": "https://kitsu.io/anime/killtube",
+      "poster": "https://media.kitsu.app/anime/48708/poster_image/large-6b90ccd53739d1631706fef3c99e247b.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/48708/poster_image/large-6b90ccd53739d1631706fef3c99e247b.jpeg",
+          "image_url": "https://media.kitsu.app/anime/48708/poster_image/small-1691450ab12d354ddb9c4380af168c43.jpeg"
+        }
+      },
+      "synopsis": "“KILLTUBE” is set in Japan, where the Edo period continues until 2026 for some reason. In a society with a strict class system, in a closed environment where the only way to change one's status is via ``duel streaming'', this is a battle entertainment in which three people from the lowest social class fight off the ridicule of the public and challenge themselves to the top.",
+      "score": "N/A",
+      "episodes": 1,
+      "rank": 10,
+      "season": "movie",
+      "startDate": "2026-12-01",
+      "year": "2026",
       "status": "upcoming",
       "hasSub": true,
       "hasDub": true
