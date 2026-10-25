@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-25T01:54:11.659Z",
+  "lastUpdated": "2026-10-25T10:14:28.940Z",
   "items": [
+    {
+      "id": "cr-ci12aXN1YWw",
+      "title": "Date A Live F Last Date Anime Premieres on March 26, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/date-a-live-f-last-date-anime-march-26-2027-release-date-trailer-teaser-visual",
+      "description": "A new trailer and a teaser visual were also unveiled today",
+      "pubDate": "2026-10-25T10:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a569a8d914/date-a-live-f-last-date.jpg"
+    },
+    {
+      "id": "ann-by8uMjQzMTc0",
+      "title": "Date A Live F Last Date Anime Reveals Film Format, March 26, 2027 Opening in Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174",
+      "description": "2 returning staff members also announced",
+      "pubDate": "2026-10-25T10:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.10/243174/date.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Akane-banashi 2nd Season' Reveals Additional Cast, Teaser Promo",
+      "link": "https://myanimelist.net/news/74860669?_location=rss",
+      "description": "The special livestream presentation for the television anime adaptation of Yuuki Suenaga and Takamasa Moue's Akane-banashi manga revealed a pair of additional cast, key visual (pictured), and teaser promotional video for the second season on Sunday. The anime series will begin airing on the IMAnimation programming block on TV Asahi's 24 affiliate stations, as well as BS Asahi and other stations in January 2027. Voice actors Taku Yashiro (Fumetsu no Anata e) and Youji Ueda (Sousou no Fr...",
+      "pubDate": "2026-10-25T09:53:07.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792921920-0883d368d5d369d141b115a5d87a11fa.jpeg"
+    },
+    {
+      "id": "cr-eS12aXN1YWw",
+      "title": "Akane-banashi Season 2 Anime Releases New Teaser Trailer, Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/akane-banashi-season-2-anime-teaser-trailer-key-visual",
+      "description": "The rakugo drama series returns in January 2027",
+      "pubDate": "2026-10-25T09:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e815447b4a/akane-banashi-season-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MzE3OA",
+      "title": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178",
+      "description": "Key visual also revealed ahead of new season's January 2027 debut",
+      "pubDate": "2026-10-25T09:10:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243178/ab2-tespv-013.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMTY4",
+      "title": "Nigozyu Plans to End The Detective Is Already Dead Novels in 15th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/nigozyu-plans-to-end-the-detective-is-already-dead-novels-in-15th-volume/.243168",
+      "description": "Light novel series debuted in November 2019",
+      "pubDate": "2026-10-25T07:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/243168/9781975325756.webp"
+    },
+    {
+      "id": "ann-dC8uMjQzMTU4",
+      "title": "Japan Honors Director Rintarō as Person of Cultural Merit",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/japan-honors-director-rintaro-as-person-of-cultural-merit/.243158",
+      "description": "Director is among 20 honorees in 2026",
+      "pubDate": "2026-10-25T06:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.8/221417/1byou24koma.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQzMTY5",
+      "title": "Crunchyroll Reveals English Dub Casts for Full Clearing Another World Under a Goddess with Zero Believers, 2 More Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/crunchyroll-reveals-english-dub-casts-for-full-clearing-another-world-under-a-goddess-with-zero-/.243169",
+      "description": "Service also streams dubs for The Prince of Tennis II U-17 World Cup: Final Member Selection Match, The Iceblade Sorcerer Shall Rule the World II",
+      "pubDate": "2026-10-25T05:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOD/cms/news.9/241303/zero.png.jpg"
+    },
+    {
+      "id": "ann-aS8uMjQzMTY3",
+      "title": "Land of the Lustrous' Haruko Ichikawa Launches New Manga Cosmic Mimimi",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/land-of-the-lustrous-haruko-ichikawa-launches-new-manga-cosmic-mimimi/.243167",
+      "description": "\"Neo kawaii sci-fi\" series debuts on November 25",
+      "pubDate": "2026-10-25T04:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKT/cms/news.10/243167/cosmic-mimimi.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNjY",
+      "title": "Tougen Anki: Nikko Kegon Falls Arc Anime Gets English Dub on Crunchyroll",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166",
+      "description": "1st 2 episodes of new season with dub available now",
+      "pubDate": "2026-10-25T02:55:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.9/241963/tougen-anki-kv-en-sm.png.jpg"
+    },
     {
       "id": "cr-YXN0LWNyZXc",
       "title": "Full Clearing Another World under a Goddess with Zero Believers English Dub Reveals Release Date, Cast and Crew",
@@ -430,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T08:55:57.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/243137/ginsuke.webp"
+      "image": null
     },
     {
       "id": "cr-YW5lLWNhc3Q",
@@ -450,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T07:23:27.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/youtube/dTUpnswZ3VU.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzMTIy",
@@ -460,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T06:59:42.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g79/cms/news.10/243122/mia-mezamerushinpeikv.jpg"
+      "image": null
     },
     {
       "id": "cr-c3RhdGlvbg",
@@ -500,107 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/cms/interest.3/243062/kojima-hideo-cyberpunk-edgerunners-2-02.jpg"
-    },
-    {
-      "id": "cr-YWwtcGhvdG9z",
-      "title": "That Time I Got Reincarnated as a Slime's Third Stage Play Shares Dress Rehearsal Photos",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/that-time-i-got-reincarnated-as-a-slime-third-stage-play-dress-rehearsal-photos",
-      "description": "Advance tickets for the final day's performances are already sold out",
-      "pubDate": "2026-10-23T02:04:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/f4861b5ce1/slime-stage-play-header.jpg"
-    },
-    {
-      "id": "ann-LjI0MzExOQ",
-      "title": "Frequent Ghibli Collaborator Joe Hisaishi Named LA Philharmonic's Composer-in-Residence",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/frequent-ghibli-collaborator-joe-hisaishi-named-la-philharmonic-composer-in-residence/.243119",
-      "description": "Orchestra's new post is part of 5-year artistic partnership, involves composing new works",
-      "pubDate": "2026-10-23T01:56:47.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBF/cms/news.6/204122/joe-hisaishi.jpg"
-    },
-    {
-      "id": "cr-ZW5vbWVub24",
-      "title": "KID PHENOMENON Releases Mission: Yozakura Family Anime Season 2 Cour 2 Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/mission-yozakura-family-anime-season-2-cour-2-ending-song-music-video-kid-phenomenon",
-      "description": "The single debuts at number 6 on the daily chart",
-      "pubDate": "2026-10-23T00:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/65ac21b4eb/kid-phenomenon-im-still-breathing-mv.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA4MQ",
-      "title": "Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume (Updated)",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/kumo-kagyu-moscow-2160-manga-listed-to-end-with-5th-volume/.243081",
-      "description": "Series debuted in December 2022",
-      "pubDate": "2026-10-22T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ1/cms/news.9/237407/moscow-2160-vol.1-manga.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQzMTE1",
-      "title": "K Manga Adds Shinobu Ohtaka's Geekrown Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115",
-      "description": "Magi creator's new manga launches on service on October 26",
-      "pubDate": "2026-10-22T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.10/243115/geekrown.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQzMTE2",
-      "title": "Firefly Wedding TV Anime Reveals English Dub Cast, October 23 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-reveals-english-dub-cast-october-23-debut/.243116",
-      "description": "Rowan Gilvie, Kieran Flitton, more star in dub on Friday",
-      "pubDate": "2026-10-22T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Firefly Wedding English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/22/firefly-wedding-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode drops on October 23",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/34f0b72b45/firefly-wedding.jpg"
-    },
-    {
-      "id": "cr-bmNoeXJvbGw",
-      "title": "ANI-ROCK FES. 2024 \"My Hero Academia PLUS ULTRA LIVE\" Streams on Crunchyroll on October 29",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/22/ani-rock-fes-2024-my-hero-academia-plus-ultra-live-stream-october-29-crunchyroll",
-      "description": "The concert features artists who have performed themes for the series",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/15a98a8b05/ani-rock-my-hero-academia-2024.png"
-    },
-    {
-      "id": "ann-LS8uMjQzMTE0",
-      "title": "Fatal Fury City of the Wolves Streams Animated Trailer for Tokyo Revengers DLC Characters Mikey, Draken",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-22/fatal-fury-city-of-the-wolves-streams-animated-trailer-for-tokyo-revengers-dlc-characters-mikey-/.243114",
-      "description": "Both crossover characters launch alongside Switch 2 version on Thursday",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-ZXZlbi1zZWFz",
-      "title": "Sagrada Reset Light Novels and More Coming from Seven Seas",
-      "link": "https://crunchyroll.com/news/latest/2026/10/22/sagrada-reset-light-novels-and-more-seven-seas",
-      "description": "Latest batch includes audiobook, manga, light novel and manhwa licenses",
-      "pubDate": "2026-10-22T18:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/a545a62a49/seven-seas_sagrada-reset.jpeg"
     }
   ]
 };
