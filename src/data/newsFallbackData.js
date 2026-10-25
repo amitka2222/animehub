@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-25T15:06:53.894Z",
+  "lastUpdated": "2026-10-25T20:03:29.720Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Houseki no Kuni' Creator Launches New Manga",
+      "link": "https://myanimelist.net/news/74862294?_location=rss",
+      "description": "The December 2026 issue of Monthly Afternoon magazine announced on Friday that manga creator Haruko Ichikawa will launch a new sci-fi manga, titled Cosmic Mimimi, in the magazine next issue, scheduled for a November 25 release. Haruko is best known for Houseki no Kuni (Land of the Lustrous), which ran in Monthly Afternoon magazine from October 2012 to April 2024. The 13th and final volume went on sale on November 2024. Kodansha USA licensed the manga in October 2016 and published the 13th volum...",
+      "pubDate": "2026-10-25T16:56:41.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792947256-48652f5832829a27561fe34a191b3265.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMwODk",
+      "title": "Cherry and Virgin Anime Movie Review",
+      "link": "https://www.animenewsnetwork.com/review/cherry-and-virgin-anime-movie/.243089",
+      "description": "This is the most honest depiction of otaku falling in love since Kio Shimoku’s Genshiken.”",
+      "pubDate": "2026-10-25T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/review.2/243089/cherryandvirgin.jpg"
+    },
     {
       "id": "cr-Y3Jvc3NvdmVy",
       "title": "Lulutto Lilly, Sabagebu! Anime Battle Crabs in Second Crossover",
@@ -550,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO5/cms/episode-review.5/243142/episodes-1-3-review-image.png.jpg"
+      "image": null
     },
     {
       "id": "cr-aGVtZS1zb25n",
@@ -581,26 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792755587-df70c2c573d3a056c866350271d5e3d9.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMxMjE",
-      "title": "FX Fighter Kurumi-chan ‒ Episodes 1-4",
-      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episodes-1-4/.243121",
-      "description": "I can stop any time. I can stop any time.",
-      "pubDate": "2026-10-23T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "THE GHOST IN THE SHELL New Anime by Science SARU Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/the-ghost-in-the-shell-new-anime-by-science-saru-announced",
-      "description": "The first THE GHOST IN THE SHELL anime aired earlier this year",
-      "pubDate": "2026-10-23T11:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x531/7e62c5d5ca/the-ghost-in-the-shell.jpg"
     }
   ]
 };
