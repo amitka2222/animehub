@@ -1,7 +1,117 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-25T10:14:28.940Z",
+  "lastUpdated": "2026-10-25T15:06:53.894Z",
   "items": [
+    {
+      "id": "cr-Y3Jvc3NvdmVy",
+      "title": "Lulutto Lilly, Sabagebu! Anime Battle Crabs in Second Crossover",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/lulutto-lilly-sabagebu-anime-battle-crabs-in-second-crossover",
+      "description": "Magical idols face down a killer crab in latest episode",
+      "pubDate": "2026-10-25T15:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/365261f691/magical-sisters-lulutto-lilly-crab.png"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Tank Chair and Fool Night Manga Creators Share Collab Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/tank-chair-fool-night-manga-creators-collab-visual",
+      "description": "Tank Chair is currently airing, with Fool Night to follow on November 26",
+      "pubDate": "2026-10-25T13:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/3b70e965a1/fool-night-hero.png"
+    },
+    {
+      "id": "ann-LS8uMjQzMTYy",
+      "title": "Yen Press Licenses Cross-Dressing Villainess Cecilia Sylvie: Extra Round!, 'And Thus, the Wizard Noi Garené Became a Bride 100 Years Later,' 8 More Titles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/yen-press-licenses-cross-dressing-villainess-cecilia-sylvie-extra-round-and-thus-the-wizard-noi-/.243162",
+      "description": "Also: Secret: Homicide Edition, About a Place in the Kinki Region, more",
+      "pubDate": "2026-10-25T12:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.10/243162/and-thus-the-wizard-noi-garene-became-a-bride-100-years-later-cnf.jpg"
+    },
+    {
+      "id": "cr-ZS10ZWFzZXI",
+      "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast – Sequel Anime Shares New Teaser",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-teaser",
+      "description": "The crossover series premieres January 8, 2027",
+      "pubDate": "2026-10-25T12:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x822/355425c3d2/bang-dream-my-go-ave-mujica-teaser-2-hero.png"
+    },
+    {
+      "id": "ann-Ly4yNDMxODM",
+      "title": "BanG Dream! It's MyGo!!!!! // Ave Mujica Anime's 2nd Teaser Unveils January 8 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/bang-dream-its-mygo-ave-mujica-anime-2nd-teaser-unveils-january-8-debut/.243183",
+      "description": "Sequel TV anime to air in NTV's \"Friday Anime Night\" block",
+      "pubDate": "2026-10-25T12:33:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/herald/202478/mygoavemujica-tv-00008.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Ousama no Propose' Reveals Lead Cast, 2027 Debut",
+      "link": "https://myanimelist.net/news/74861034?_location=rss",
+      "description": "The Fantasia Bunko Daikanshasai 2026 event revealed the lead cast and a teaser visual (pictured) for the television anime adaptation of Koushi Tachibana's Ousama no Propose (King&rsquo;s Proposal) light novel on Sunday. The anime series will premiere in 2027. Rie Takahashi (Kono Subarashii Sekai ni Shukufuku wo!) is starring as the lead character Saika Kuozaki. Tachibana (Date A Live) began penning the action fantasy light novel with illustrations by Tsunako under Fujimi Fantasia Bunko impr...",
+      "pubDate": "2026-10-25T11:54:50.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792929243-d7752a7927f5874f859c71ce80ce3c3e.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNjU",
+      "title": "King's Proposal Anime Unveils 2027 Debut, Lead Cast, Teaser Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/king-proposal-anime-unveils-2027-debut-lead-cast-teaser-visual/.243165",
+      "description": "Rie Takahashi stars as Saika Kuozaki",
+      "pubDate": "2026-10-25T11:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/243165/kings-proposal-teaservisual.jpg"
+    },
+    {
+      "id": "cr-c3QtdmlzdWFs",
+      "title": "King's Proposal Anime Reveals Main Cast, 2027 Premiere and Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/kings-proposal-anime-2027-release-date-main-cast-visual",
+      "description": "The anime adapts the light novels by the creators of Date A Live",
+      "pubDate": "2026-10-25T11:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/df220ba459/kings-proposal-teaser-visual-header.png"
+    },
+    {
+      "id": "cr-ZmYtY2FzdA",
+      "title": "Our Last Crusade or the Rise of a New World Season 3 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/25/our-last-crusade-or-the-rise-of-a-new-world-season-3-anime-announced-teaser-visual-main-staff-cast",
+      "description": "Aliceliese and Iska's romance continues!",
+      "pubDate": "2026-10-25T10:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9722d1674f/our-last-crusade-or-the-rise-of-a-new-world-season-2.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen' Season 3 in Production",
+      "link": "https://myanimelist.net/news/74860120?_location=rss",
+      "description": "The Fantasia Bunko Daikanshasai 2026 event announced a third season for the Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Our Last Crusade or the Rise of a New World) anime series on Sunday, revealing the main staff, cast, and a teaser visual (pictured). Staff Director, Series Composition: Yuki Inaba (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II) Character Design: Kaori Yoshikawa (Kaminaki Sekai no Kamisama Katsudou) Studio: Studio Palette, Silve...",
+      "pubDate": "2026-10-25T10:30:02.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792907562-4a41b315b0ba9829a5d00fbea17d7528.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNzU",
+      "title": "Our Last Crusade or the Rise of a New World Anime Gets 3rd Season, Reveals Returning Cast & Staff",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/our-last-crusade-or-the-rise-of-a-new-world-anime-gets-3rd-season-reveals-returning-cast-and-staff/.243175",
+      "description": "2nd season director Yuki Inaba, character designer Kaori Yoshikawa return for new season",
+      "pubDate": "2026-10-25T10:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.10/243175/kimisen.jpg"
+    },
     {
       "id": "cr-ci12aXN1YWw",
       "title": "Date A Live F Last Date Anime Premieres on March 26, 2027",
@@ -460,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T11:59:15.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/youtube/jJKK3qoVlCI.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -480,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-23T11:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/episode-review.5/243121/fxfk041.jpg"
+      "image": null
     },
     {
       "id": "cr-YW5ub3VuY2Vk",
@@ -491,116 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x531/7e62c5d5ca/the-ghost-in-the-shell.jpg"
-    },
-    {
-      "id": "ann-LjI0MzEzOA",
-      "title": "Science Saru's The Ghost in the Shell Gets New Anime Project",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-23/science-saru-the-ghost-in-the-shell-gets-new-anime-project/.243138",
-      "description": "Science SARU's series debuted on July 7, aired for 10 episodes",
-      "pubDate": "2026-10-23T11:04:59.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMV/cms/news.10/243138/gits-new-anime.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Though I Am an Inept Villainess Anime Releases Cour 2 Teaser Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/though-i-am-an-inept-villainess-cour-2-anime-teaser-trailer",
-      "description": "Crunchyroll will continue to stream the series when it returns in January",
-      "pubDate": "2026-10-23T10:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x563/91510757c4/though-i-am-an-inept-villainess-cour-2.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxMDg",
-      "title": "New Pokémon x Hatsune Miku Music Video Returns to Games' Roots",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-23/new-pokemon-x-hatsune-miku-music-video-returns-to-games-roots/.243108",
-      "description": "Do you remember your first encounter with the legendary video games?",
-      "pubDate": "2026-10-23T09:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/youtube/It-5v1kgaak.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxMzc",
-      "title": "Shōya Ishige Joins Cast of Wound & Bandage TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137",
-      "description": "Ishige voices Ginsuke Hatobane in series debuting on January 9",
-      "pubDate": "2026-10-23T08:55:57.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YW5lLWNhc3Q",
-      "title": "Wound & Bandage Anime Reveals Cast for Ginsuke Hatobane",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/wound-and-bandage-anime-ginsuke-hatobane-cast",
-      "description": "Miyuki Ishida directs the series at studio J.C.Staff",
-      "pubDate": "2026-10-23T07:49:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/d50b0af636/wound-and-bandange-ginsuke-hatobane-shoya-ishige.jpg"
-    },
-    {
-      "id": "ann-Zy8uMjQzMTIz",
-      "title": "New Votoms Anime Films' Teaser Reveals Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-23/new-votoms-anime-films-teaser-reveals-theme-song/.243123",
-      "description": "Mika Nakashima performs theme song \"Na mo Naki Shijin no Yō ni\" for November 20 film",
-      "pubDate": "2026-10-23T07:23:27.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMTIy",
-      "title": "Made in Abyss: Mezameru Shinpi Anime Film Reveals 4 Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-23/made-in-abyss-mezameru-shinpi-anime-film-reveals-4-cast-members/.243122",
-      "description": "Nana Mizuki, Akeno Watanabe, Shunsuke Takeuchi, Nao Tōyama, Yume Miyamoto star in film",
-      "pubDate": "2026-10-23T06:59:42.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c3RhdGlvbg",
-      "title": "Yaiba: Samurai Legend Anime Heads to the International Space Station",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/yaiba-samurai-legend-anime-kaguya-arc-international-space-station",
-      "description": "Creator Gosho Aoyama drew a special illustration that will board the ISS",
-      "pubDate": "2026-10-23T06:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/1a70869278/yaiba-samurai-legend-anime-season-2-teaser.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Made in Abyss: Mezameru Shinpi' Movie Second Part Announced",
-      "link": "https://myanimelist.net/news/74849312?_location=rss",
-      "description": "The official website of the Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery) movie announced the production of a second part on Friday, as well as five additional cast and a second key visual (pictured) for the first movie. The first part premiered in Japan on Friday. Cast Srajo: Nana Mizuki (Boruto: Naruto Next Generations) Nishagora: Akino Watanabe (Free! Dive to the Future) Yataramar: Shunsuke Takeuchi (Ao Ashi) Sherumi: Nao Touyama (Kanojo, Okarishimasu) Menae: Yume Miyamoto...",
-      "pubDate": "2026-10-23T03:43:18.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792726916-92ff014e6dcc5bc0becab159b7b5aece.jpeg"
-    },
-    {
-      "id": "cr-ZHVjdGlvbg",
-      "title": "Made in Abyss: Mezameru Shinpi Anime Film Spotlights Hail Hex in New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/23/made-in-abyss-mezameru-shinpi-anime-film-hail-hex-key-visual-cast-part-2-in-production",
-      "description": "The first part of the new film series is out today in Japan",
-      "pubDate": "2026-10-23T03:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/11b8635826/made-in-abyss-mezameru-shinpi.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA2Mg",
-      "title": "Hideo Kojima Reprises Cyberpunk 2077 Character in Edgerunners 2",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-22/hideo-kojima-reprises-cyberpunk-2077-character-in-edgerunners-2/.243062",
-      "description": "Kojima voices Hideyoshi Oshima in video game & anime",
-      "pubDate": "2026-10-23T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
