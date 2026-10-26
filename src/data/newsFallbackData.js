@@ -1,7 +1,67 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-26T17:43:12.267Z",
+  "lastUpdated": "2026-10-26T21:58:02.764Z",
   "items": [
+    {
+      "id": "ann-LjI0MzE4OQ",
+      "title": "Sho Yamazaki Launches New Manga with Fuyu Aoki",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-25/sho-yamazaki-launches-new-manga-with-fuyu-aoki/.243189",
+      "description": "Shuran Reijō no Yarakashi: Seiryaku Kekkonmae Yakesake, Ki ga Tsuku to Reikokuna Konyakusha to Dragon no Hate no Naka debuts on October 30",
+      "pubDate": "2026-10-26T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7G/cms/news.10/243189/hvplalcaoaip8gt.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzIwNg",
+      "title": "EAT-MAN The Over Order New Anime Gets Spinoff Manga Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/eat-man-the-over-order-new-anime-gets-spinoff-manga-series/.243206",
+      "description": "Akihito Yoshitomi to launch Desert-Dessert From EAT-MAN The Over Order manga on November 26",
+      "pubDate": "2026-10-26T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.10/243206/dessert.jpg"
+    },
+    {
+      "id": "ann-LjI0MzIxNg",
+      "title": "Manga Mavericks Books Licenses Gago Hunters Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/manga-mavericks-books-licenses-gago-hunters-manga/.243216",
+      "description": "Company also unveils variant cover for Brothers of Japan manga",
+      "pubDate": "2026-10-26T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243216/gago-hunters.jpeg"
+    },
+    {
+      "id": "cr-Y2h5cm9sbA",
+      "title": "Attack on Titan: The Last Attack 4K and Blu-ray SteelBook Release Set for January 26",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/26/attack-on-titan-last-attack-4k-steelbook-january-2027-home-video-crunchyroll",
+      "description": "Let This Grieving Soul Retire Season 1 Complete also launches in January",
+      "pubDate": "2026-10-26T19:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/efdffb9f1d/attack-on-titan-final-season-levi.png"
+    },
+    {
+      "id": "ann-Ly4yNDMxODU",
+      "title": "Marco Kohinata's Akari Manga Wins French Prix Ouest-France Award",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/marco-kohinata-akari-manga-wins-french-prix-ouest-france-award/.243185",
+      "description": "Akari is 1st Japanese title to win Quai des Bulles comic festival's award",
+      "pubDate": "2026-10-26T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK6/cms/news.10/243185/couv-akari-570x800.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQzMjE0",
+      "title": "The Super Mario Galaxy Movie, One Piece, Kpop Demon Hunters Nominated for Nickelodeon Kids' Choice Awards",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/the-super-mario-galaxy-movie-one-piece-kpop-demon-hunters-nominated-for-nickelodeon-kids-choice-/.243214",
+      "description": "Also: Super Mario Bros. Wonder",
+      "pubDate": "2026-10-26T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.9/236126/mariogalaxymovie.jpg"
+    },
     {
       "id": "ann-Ly4yNDMyMDk",
       "title": "From Far Away ‒ Episode 4",
@@ -244,7 +304,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "mal-YXRpb249cnNz",
-      "title": "'Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season' Unveils Additional Cast, Third Promo for Fujimiya Family Arc",
+      "title": "'Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season' Unveils Additional Cast, Third Promo for \"Fujimiya Family\" Arc",
       "link": "https://myanimelist.net/news/74865718?_location=rss",
       "description": "The official website for the television anime adaptation of Miraijin A's Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...",
       "pubDate": "2026-10-26T09:44:09.000Z",
@@ -490,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T10:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.10/243175/kimisen.jpg"
+      "image": null
     },
     {
       "id": "cr-ci12aXN1YWw",
@@ -510,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T10:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH4/cms/news.10/243174/date.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -540,67 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T09:10:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243178/ab2-tespv-013.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQzMTY4",
-      "title": "Nigozyu Plans to End The Detective Is Already Dead Novels in 15th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/nigozyu-plans-to-end-the-detective-is-already-dead-novels-in-15th-volume/.243168",
-      "description": "Light novel series debuted in November 2019",
-      "pubDate": "2026-10-25T07:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/news.10/243168/9781975325756.webp"
-    },
-    {
-      "id": "ann-dC8uMjQzMTU4",
-      "title": "Japan Honors Director Rintarō as Person of Cultural Merit",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/japan-honors-director-rintaro-as-person-of-cultural-merit/.243158",
-      "description": "Director is among 20 honorees in 2026",
-      "pubDate": "2026-10-25T06:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.8/221417/1byou24koma.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQzMTY5",
-      "title": "Crunchyroll Reveals English Dub Casts for Full Clearing Another World Under a Goddess with Zero Believers, 2 More Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/crunchyroll-reveals-english-dub-casts-for-full-clearing-another-world-under-a-goddess-with-zero-/.243169",
-      "description": "Service also streams dubs for The Prince of Tennis II U-17 World Cup: Final Member Selection Match, The Iceblade Sorcerer Shall Rule the World II",
-      "pubDate": "2026-10-25T05:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-aS8uMjQzMTY3",
-      "title": "Land of the Lustrous' Haruko Ichikawa Launches New Manga Cosmic Mimimi",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/land-of-the-lustrous-haruko-ichikawa-launches-new-manga-cosmic-mimimi/.243167",
-      "description": "\"Neo kawaii sci-fi\" series debuts on November 25",
-      "pubDate": "2026-10-25T04:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMxNjY",
-      "title": "Tougen Anki: Nikko Kegon Falls Arc Anime Gets English Dub on Crunchyroll",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166",
-      "description": "1st 2 episodes of new season with dub available now",
-      "pubDate": "2026-10-25T02:55:41.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YXN0LWNyZXc",
-      "title": "Full Clearing Another World under a Goddess with Zero Believers English Dub Reveals Release Date, Cast and Crew",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/24/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-english-dub-release-date-cast-crew",
-      "description": "The first episode drops on October 25",
-      "pubDate": "2026-10-24T19:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/960x540/9b9176d243/full-clearing-another-world-under-a-goddess-with-zero-believers.jpg"
     }
   ]
 };
