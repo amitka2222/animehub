@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-25T20:03:29.720Z",
+  "lastUpdated": "2026-10-26T01:55:52.447Z",
   "items": [
+    {
+      "id": "cr-LWNsYXJpcw",
+      "title": "Anisong Unit ClariS Releases VERTEX FORCE Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/26/vertex-force-anime-opening-song-music-video-claris",
+      "description": "Kazuhiro Takamura (Strike Witches) -directed series is available on Crunchyroll",
+      "pubDate": "2026-10-26T01:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ca6f546776/claris-synchro-blue-mv.jpg"
+    },
+    {
+      "id": "cr-LWZvb3RhZ2U",
+      "title": "Star Detective Precure! Anime Film Shares Action-Packed Opening Footage",
+      "link": "https://crunchyroll.com/news/latest/2026/10/26/star-detective-precure-anime-film-action-packed-opening-footage",
+      "description": "Moviegoers in the 7th week will receive a newly drawn \"Future Card\"",
+      "pubDate": "2026-10-26T00:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/df87946315/star-detective-precure-movie.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Houseki no Kuni' Creator Launches New Manga",
@@ -581,26 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x542/a613679c6e/armored_trooper_votoms_die_graue_hexe_header3.jpg"
-    },
-    {
-      "id": "ann-LjI0MzE0MA",
-      "title": "Though I am an Inept Villainess Anime's 2nd Part Streams Teaser Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-23/though-i-am-an-inept-villainess-anime-2nd-part-streams-teaser-video/.243140",
-      "description": "New part debuts in January 2027",
-      "pubDate": "2026-10-23T11:59:15.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "New 'Ghost in the Shell' Anime Project in Production",
-      "link": "https://myanimelist.net/news/74850349?_location=rss",
-      "description": "The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (pictured). Animation studio Science SARU will be producing the new anime project. Produced by Science SARU, the 10-episode season adapting Masamune Shirow's sci-fi action manga premiered in Summer 2026. Amazon Prime Video streamed the anime with subtitles and dubs in multiple languages. The latest ins...",
-      "pubDate": "2026-10-23T11:44:38.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792755587-df70c2c573d3a056c866350271d5e3d9.jpeg"
     }
   ]
 };
