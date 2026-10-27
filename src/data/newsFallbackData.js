@@ -1,11 +1,111 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-26T21:58:02.764Z",
+  "lastUpdated": "2026-10-27T02:33:45.082Z",
   "items": [
+    {
+      "id": "cr-ZW8tbWlsaw",
+      "title": "Idol Group M!LK Releases Super Psychic Policeman Chojo Anime Opening Song Dance Performance Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/super-psychic-policeman-chojo-anime-opening-song-dance-performance-video-milk",
+      "description": "Crunchyroll streams the adaptation of Shun Numa's comedy manga",
+      "pubDate": "2026-10-27T02:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/33e6e4e30d/m-lk-thats-chojo-mv.jpg"
+    },
+    {
+      "id": "ann-LjI0MzE5Mw",
+      "title": "Sora Karin, Kentaro Harada Launch The Pit of Darkness Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/sora-karin-kentaro-harada-launch-the-pit-of-darkness-manga/.243193",
+      "description": "Manga launched on Saturday",
+      "pubDate": "2026-10-27T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g5F/cms/news.10/243193/pitofdarkness-jp.jpg"
+    },
+    {
+      "id": "cr-b3gtb2ZmaWNl",
+      "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Rises Back to No. 2 in 14th Weekend",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/chiikawa-the-movie-the-secret-of-the-mermaid-island-2nd-place-14th-weekend-japan-box-office",
+      "description": "Made in Abyss: Mezameru Shinpi debuts in sixth",
+      "pubDate": "2026-10-27T01:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x519/d638da6d63/chiikawa-the-movie.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQzMjAy",
+      "title": "Fortnite Game Teases One Piece Collaboration",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-26/fortnite-game-teases-one-piece-collaboration/.243202",
+      "description": "Just before 1st official One Piece store in U.S. opens in Los Angeles",
+      "pubDate": "2026-10-27T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/CFoedlARxn4.jpg"
+    },
+    {
+      "id": "cr-YXZlcmlja3M",
+      "title": "Classic Shojo Manga Georgie Coming from Omoi, Manga Mavericks",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/classic-shojo-manga-georgie-omoi-manga-mavericks",
+      "description": "Omoi handles digital, Manga Mavericks handles print",
+      "pubDate": "2026-10-27T00:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/16b3b67dd6/omoi-mm2.jpg"
+    },
+    {
+      "id": "ann-fi8uMjQzMjI5",
+      "title": "Precure Franchise Gets Spinoff TV Anime Dual Shadow ~Precure Villain Heroines~",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/precure-franchise-gets-spinoff-tv-anime-dual-shadow-~precure-villain-heroines~/.243229",
+      "description": "Anime debuts in 2027 with original story, characters",
+      "pubDate": "2026-10-27T00:35:02.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/youtube/4H3qrB9yaJA.jpg"
+    },
+    {
+      "id": "cr-aW5lcy0yMDI3",
+      "title": "New Precure Spin-Off Anime \"Dual Shadow ～Precure Villain Heroines～\" Slated for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/precure-spin-off-anime-dual-shadow-precure-villain-heroines-2027",
+      "description": "Original characters and story will be featured in the spin-off series",
+      "pubDate": "2026-10-27T00:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/cd1c0a5dce/dual-shadow-header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyMTM",
+      "title": "Itsuwari no Kenta Manga Ends Next Chapter",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/itsuwari-no-kenta-manga-ends-next-chapter/.243213",
+      "description": "Series debuted in December 2025",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g46/cms/news.10/243213/81stqxtluzl.sl1500.jpg"
+    },
+    {
+      "id": "ann-LjI0MzE4Nw",
+      "title": "Uoyama's Kimi to Issho ni Kayoitai Manga Ends on November 13",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/uoyama-kimi-to-issho-ni-kayoitai-manga-ends-on-november-13/.243187",
+      "description": "Series debuted in July 2025",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/243187/81heo7ufnfl.sl1500.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxOTE",
+      "title": "Magical Girl Raising Project F2P Manga Spinoff Ends in 5th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/magical-girl-raising-project-f2p-manga-spinoff-ends-in-5th-volume/.243191",
+      "description": "Manga launched in 2016, entered long hiatus from October 2017 until February 2026",
+      "pubDate": "2026-10-26T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g84/cms/news.7/217167/magical-girl-raising-project-f2p.jpg"
+    },
     {
       "id": "ann-LjI0MzE4OQ",
       "title": "Sho Yamazaki Launches New Manga with Fuyu Aoki",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/sho-yamazaki-launches-new-manga-with-fuyu-aoki/.243189",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/sho-yamazaki-launches-new-manga-with-fuyu-aoki/.243189",
       "description": "Shuran Reijō no Yarakashi: Seiryaku Kekkonmae Yakesake, Ki ga Tsuku to Reikokuna Konyakusha to Dragon no Hate no Naka debuts on October 30",
       "pubDate": "2026-10-26T21:00:00.000Z",
       "source": "Anime News Network",
@@ -370,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T03:17:33.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g5B/cms/news.10/243181/ezy.jpg"
+      "image": null
     },
     {
       "id": "cr-YW5jaG9saWM",
@@ -390,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T02:25:05.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG3/cms/news.9/230341/91ta9cn5r-l._sl1500_.jpg"
+      "image": null
     },
     {
       "id": "cr-aS1zdXp1a2k",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/review.2/243089/cherryandvirgin.jpg"
+      "image": null
     },
     {
       "id": "cr-Y3Jvc3NvdmVy",
@@ -470,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T12:45:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.10/243162/and-thus-the-wizard-noi-garene-became-a-bride-100-years-later-cnf.jpg"
+      "image": null
     },
     {
       "id": "cr-ZS10ZWFzZXI",
@@ -490,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-25T12:33:50.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/herald/202478/mygoavemujica-tv-00008.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792929243-d7752a7927f5874f859c71ce80ce3c3e.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMxNjU",
-      "title": "King's Proposal Anime Unveils 2027 Debut, Lead Cast, Teaser Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/king-proposal-anime-unveils-2027-debut-lead-cast-teaser-visual/.243165",
-      "description": "Rie Takahashi stars as Saika Kuozaki",
-      "pubDate": "2026-10-25T11:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/243165/kings-proposal-teaservisual.jpg"
-    },
-    {
-      "id": "cr-c3QtdmlzdWFs",
-      "title": "King's Proposal Anime Reveals Main Cast, 2027 Premiere and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/kings-proposal-anime-2027-release-date-main-cast-visual",
-      "description": "The anime adapts the light novels by the creators of Date A Live",
-      "pubDate": "2026-10-25T11:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/df220ba459/kings-proposal-teaser-visual-header.png"
-    },
-    {
-      "id": "cr-ZmYtY2FzdA",
-      "title": "Our Last Crusade or the Rise of a New World Season 3 Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/our-last-crusade-or-the-rise-of-a-new-world-season-3-anime-announced-teaser-visual-main-staff-cast",
-      "description": "Aliceliese and Iska's romance continues!",
-      "pubDate": "2026-10-25T10:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/9722d1674f/our-last-crusade-or-the-rise-of-a-new-world-season-2.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen' Season 3 in Production",
-      "link": "https://myanimelist.net/news/74860120?_location=rss",
-      "description": "The Fantasia Bunko Daikanshasai 2026 event announced a third season for the Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Our Last Crusade or the Rise of a New World) anime series on Sunday, revealing the main staff, cast, and a teaser visual (pictured). Staff Director, Series Composition: Yuki Inaba (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II) Character Design: Kaori Yoshikawa (Kaminaki Sekai no Kamisama Katsudou) Studio: Studio Palette, Silve...",
-      "pubDate": "2026-10-25T10:30:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792907562-4a41b315b0ba9829a5d00fbea17d7528.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMxNzU",
-      "title": "Our Last Crusade or the Rise of a New World Anime Gets 3rd Season, Reveals Returning Cast & Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/our-last-crusade-or-the-rise-of-a-new-world-anime-gets-3rd-season-reveals-returning-cast-and-staff/.243175",
-      "description": "2nd season director Yuki Inaba, character designer Kaori Yoshikawa return for new season",
-      "pubDate": "2026-10-25T10:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "Date A Live F Last Date Anime Premieres on March 26, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/date-a-live-f-last-date-anime-march-26-2027-release-date-trailer-teaser-visual",
-      "description": "A new trailer and a teaser visual were also unveiled today",
-      "pubDate": "2026-10-25T10:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/a569a8d914/date-a-live-f-last-date.jpg"
-    },
-    {
-      "id": "ann-by8uMjQzMTc0",
-      "title": "Date A Live F Last Date Anime Reveals Film Format, March 26, 2027 Opening in Teaser Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174",
-      "description": "2 returning staff members also announced",
-      "pubDate": "2026-10-25T10:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Akane-banashi 2nd Season' Reveals Additional Cast, Teaser Promo",
-      "link": "https://myanimelist.net/news/74860669?_location=rss",
-      "description": "The special livestream presentation for the television anime adaptation of Yuuki Suenaga and Takamasa Moue's Akane-banashi manga revealed a pair of additional cast, key visual (pictured), and teaser promotional video for the second season on Sunday. The anime series will begin airing on the IMAnimation programming block on TV Asahi's 24 affiliate stations, as well as BS Asahi and other stations in January 2027. Voice actors Taku Yashiro (Fumetsu no Anata e) and Youji Ueda (Sousou no Fr...",
-      "pubDate": "2026-10-25T09:53:07.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792921920-0883d368d5d369d141b115a5d87a11fa.jpeg"
-    },
-    {
-      "id": "cr-eS12aXN1YWw",
-      "title": "Akane-banashi Season 2 Anime Releases New Teaser Trailer, Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/akane-banashi-season-2-anime-teaser-trailer-key-visual",
-      "description": "The rakugo drama series returns in January 2027",
-      "pubDate": "2026-10-25T09:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e815447b4a/akane-banashi-season-2.jpg"
-    },
-    {
-      "id": "ann-LjI0MzE3OA",
-      "title": "Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178",
-      "description": "Key visual also revealed ahead of new season's January 2027 debut",
-      "pubDate": "2026-10-25T09:10:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
