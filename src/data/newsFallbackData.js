@@ -1,7 +1,77 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-27T02:33:45.082Z",
+  "lastUpdated": "2026-10-27T11:08:07.195Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Mairimashita! Iruma-kun: If Episode of Mafia' Announces Production Staff",
+      "link": "https://myanimelist.net/news/74870752?_location=rss",
+      "description": "The official website for the television anime adaptation of hiroja's Mairimashita! Iruma-kun: If Episode of Mafia (Welcome to Demon School! Iruma-kun: IruMafia Edition) manga revealed the production staff and a key visual (pictured) on Tuesday. The anime series will begin airing on NHK-G at 11:00 p.m. on January 4, 2027. Staff Director: Keiichirou Kawaguchi (Higurashi no Naku Koro ni Gou) NEW Series Composition: Kazuyuki Fudeyasu (Yasei no Last Boss ga Arawareta!) Character Design: Kenji Fu...",
+      "pubDate": "2026-10-27T10:34:11.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793096896-e8eedcabf42812812211ebf89a4989b5.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Phantom Busters' Announces Main Cast, Staff",
+      "link": "https://myanimelist.net/news/74870618?_location=rss",
+      "description": "The official website for the television anime adaptation of Shoco's Phantom Busters manga revealed the main cast, staff, and a teaser visual (pictured) on Tuesday. The anime series will premiere in 2027. Cast Mogari Shishikuno: Nobuhiko Okamoto (Boku no Hero Academia) Eugene Korekishi: Natsuki Hanae (Kimetsu no Yaiba) Kaoru Kanzaki: Kouki Uchiyama (Horimiya) Koutarou Tamon: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Staff Director: Chika Nagaoka (Tamon-kun Ima Docchi!?) Character Design: Ta...",
+      "pubDate": "2026-10-27T09:39:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793093933-9f1daa70c992e451cdfddfb534d19106.jpeg"
+    },
+    {
+      "id": "ann-Ny8uMjQzMjM5",
+      "title": "Pokémon Unite Game Ends Service on March 23, 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239",
+      "description": "Franchise's 1st strategic team-based battle game launched in 2021",
+      "pubDate": "2026-10-27T06:24:02.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFT/cms/news.10/243239/unite.jpg"
+    },
+    {
+      "id": "cr-eS1hdC04Nw",
+      "title": "Manga Artist Tetsuya Chiba Passes Away at 87",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/manga-artist-tetsuya-chiba-passes-away-at-87",
+      "description": "Chiba illustrated Ashita no Joe and more notable manga series over 70 years",
+      "pubDate": "2026-10-27T05:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/cb73664f55/tetsuya-chiba.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Ashita no Joe' Manga Artist Tetsuya Chiba Dies at 87",
+      "link": "https://myanimelist.net/news/74869899?_location=rss",
+      "description": "Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fighting for Tomorrow) manga, died on October 27. He was 87. Born in Tokyo in January 1939, Chiba made his professional debut with Fukushuu no Semushi in 1956. Following the end of World War II, he returned to Japan with his family after spending childhood in Manchuria, northeastern China. Chiba drew manga for various magazines early in his career. In January 1967, he began drawing for Ikki Kajiwara's Ashita no Jo...",
+      "pubDate": "2026-10-27T04:57:02.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793076980-c638c23f559929999c3682b767fc9387.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzIzNQ",
+      "title": "Ashita no Joe Creator Tetsuya Chiba Dies at 87",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235",
+      "description": "Best known for influential 1968-1973 boxing manga Ashita no Joe, anime adaptations",
+      "pubDate": "2026-10-27T04:02:14.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/news.7/217153/chiba-tetsuya.png.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQzMjMw",
+      "title": "Live-Action High School Family: Kokosei Kazoku Film's Clip Shows Festival Concert",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-26/live-action-high-school-family-kokosei-kazoku-film-clip-shows-festival-concert/.243230",
+      "description": "Clip features original song \"Kizuna\"",
+      "pubDate": "2026-10-27T02:31:23.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG3/youtube/hveMHW29MkQ.jpg"
+    },
     {
       "id": "cr-ZW8tbWlsaw",
       "title": "Idol Group M!LK Releases Super Psychic Policeman Chojo Anime Opening Song Dance Performance Video",
@@ -440,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T04:03:40.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.10/243164/hvzu3ixaeaadtlm.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzMTcw",
@@ -450,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T03:59:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/interest.3/243170/gensou-narratograph.jpeg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzMTk1",
@@ -460,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T03:27:07.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g79/cms/news.9/236466/street-fighter-poster.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMxODE",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792947256-48652f5832829a27561fe34a191b3265.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMwODk",
-      "title": "Cherry and Virgin Anime Movie Review",
-      "link": "https://www.animenewsnetwork.com/review/cherry-and-virgin-anime-movie/.243089",
-      "description": "This is the most honest depiction of otaku falling in love since Kio Shimoku’s Genshiken.”",
-      "pubDate": "2026-10-25T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Y3Jvc3NvdmVy",
-      "title": "Lulutto Lilly, Sabagebu! Anime Battle Crabs in Second Crossover",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/lulutto-lilly-sabagebu-anime-battle-crabs-in-second-crossover",
-      "description": "Magical idols face down a killer crab in latest episode",
-      "pubDate": "2026-10-25T15:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/365261f691/magical-sisters-lulutto-lilly-crab.png"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Tank Chair and Fool Night Manga Creators Share Collab Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/tank-chair-fool-night-manga-creators-collab-visual",
-      "description": "Tank Chair is currently airing, with Fool Night to follow on November 26",
-      "pubDate": "2026-10-25T13:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/3b70e965a1/fool-night-hero.png"
-    },
-    {
-      "id": "ann-LS8uMjQzMTYy",
-      "title": "Yen Press Licenses Cross-Dressing Villainess Cecilia Sylvie: Extra Round!, 'And Thus, the Wizard Noi Garené Became a Bride 100 Years Later,' 8 More Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/yen-press-licenses-cross-dressing-villainess-cecilia-sylvie-extra-round-and-thus-the-wizard-noi-/.243162",
-      "description": "Also: Secret: Homicide Edition, About a Place in the Kinki Region, more",
-      "pubDate": "2026-10-25T12:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-ZS10ZWFzZXI",
-      "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast – Sequel Anime Shares New Teaser",
-      "link": "https://crunchyroll.com/news/latest/2026/10/25/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-teaser",
-      "description": "The crossover series premieres January 8, 2027",
-      "pubDate": "2026-10-25T12:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x822/355425c3d2/bang-dream-my-go-ave-mujica-teaser-2-hero.png"
-    },
-    {
-      "id": "ann-Ly4yNDMxODM",
-      "title": "BanG Dream! It's MyGo!!!!! // Ave Mujica Anime's 2nd Teaser Unveils January 8 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/bang-dream-its-mygo-ave-mujica-anime-2nd-teaser-unveils-january-8-debut/.243183",
-      "description": "Sequel TV anime to air in NTV's \"Friday Anime Night\" block",
-      "pubDate": "2026-10-25T12:33:50.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Ousama no Propose' Reveals Lead Cast, 2027 Debut",
-      "link": "https://myanimelist.net/news/74861034?_location=rss",
-      "description": "The Fantasia Bunko Daikanshasai 2026 event revealed the lead cast and a teaser visual (pictured) for the television anime adaptation of Koushi Tachibana's Ousama no Propose (King&rsquo;s Proposal) light novel on Sunday. The anime series will premiere in 2027. Rie Takahashi (Kono Subarashii Sekai ni Shukufuku wo!) is starring as the lead character Saika Kuozaki. Tachibana (Date A Live) began penning the action fantasy light novel with illustrations by Tsunako under Fujimi Fantasia Bunko impr...",
-      "pubDate": "2026-10-25T11:54:50.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792929243-d7752a7927f5874f859c71ce80ce3c3e.jpeg"
     }
   ]
 };
