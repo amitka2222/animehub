@@ -1,12 +1,202 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-27T11:08:07.195Z",
+  "lastUpdated": "2026-10-27T16:54:58.423Z",
   "items": [
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Fortnite Teases ONE PIECE Collab in Treasure Hunters Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/fortnite-teases-one-piece-collab-in-treasure-hunters-trailer",
+      "description": "Hatsune Miku and Kasane Teto also make an appearance",
+      "pubDate": "2026-10-27T16:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x541/ecfd3cf364/fortnite-one-piece.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQzMjQ5",
+      "title": "Even the Student Council Has Its Holes! ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-4/.243249",
+      "description": "Not content to rest on its ecchi anime laurels, the series also makes a sincere go at the girls band genre with a beautifully rendered singer-songwriter ditty from Koki.",
+      "pubDate": "2026-10-27T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD0/cms/episode-review.5/243249/ss-2026-10-25-21-25-32-018.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI1NQ",
+      "title": "GKIDS Releases cocoon Wartime Anime Digitally With Blu-ray Disc Release Shipping on January 19",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/gkids-releases-cocoon-wartime-anime-digitally-with-blu-ray-disc-release-shipping-on-january-19/.243255",
+      "description": "Film launches digitally on Apple TV, Prime Video on Tuesday",
+      "pubDate": "2026-10-27T16:10:19.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLF/herald/202538/cocoon-blu-ray.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI1Mg",
+      "title": "Bleach Mirrors High Mobile Game's Opening Animation Trailer Reveals Theme Song, October 28 Launch",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/bleach-mirrors-high-mobile-game-opening-animation-trailer-reveals-theme-song-october-28-launch/.243252",
+      "description": "suisoh performs theme song \"CRITICAL\" for iOS/Android game",
+      "pubDate": "2026-10-27T16:00:35.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.10/243252/bleach-mirrors-high-critical-opening.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQyNzA2",
+      "title": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/digimon-beatbreak-episodes-38-49/anime-series/.242706",
+      "description": "Calling this show the Digimon franchise's most ambitious anime entry in quite a while would be an understatement.",
+      "pubDate": "2026-10-27T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/cms/review.2/242706/beatbreak.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQzMjI4",
+      "title": "Blue Box Season 2 ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/blue-box-season-2/episode-4/.243228",
+      "description": "As a character, Yumeka Goto is maybe the best thing to ever happen to Blue Box.",
+      "pubDate": "2026-10-27T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/243228/blue-box-s2-eps-4.png.jpg"
+    },
+    {
+      "id": "cr-dWwtc2Nob29s",
+      "title": "Cozy Anime Corner: A Terrified Teacher at Ghoul School! is Made for Spooky Season",
+      "link": "https://crunchyroll.com/news/features/2026/10/27/cozy-anime-corner-a-terrified-teacher-at-ghoul-school",
+      "description": "With bonus yokai lessons",
+      "pubDate": "2026-10-27T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/889f8fafa6/a-terrified-teacher-at-ghoul-school-season-1-episode-1.png"
+    },
+    {
+      "id": "ann-Zy8uMjQzMjQ4",
+      "title": "Witch on the Holy Night Film's Trailer Previews supercell's Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/witch-on-the-holy-night-film-trailer-previews-supercell-theme-song/.243248",
+      "description": "Film screens in U.S., Canada on January 29, 2027",
+      "pubDate": "2026-10-27T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/youtube/UGnGTBBszJI.jpg"
+    },
+    {
+      "id": "cr-YW5pbWF0aW9u",
+      "title": "BLEACH Mirrors High Mobile Game Unveils Launch Date, Opening Animation",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/bleach-mirrors-high-mobile-game-launch-date-opening-animation",
+      "description": "Free-to-play action game launches on October 28",
+      "pubDate": "2026-10-27T14:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/6a9686101b/bleach-mirrors-high-opening.jpg"
+    },
+    {
+      "id": "ann-Zi8uMjQzMjQ2",
+      "title": "Phantom Busters TV Anime Reveals Main Cast, Staff",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/phantom-busters-tv-anime-reveals-main-cast-staff/.243246",
+      "description": "Nobuhiko Okamoto, Natsuki Hanae, Kōki Uchiyama, Ryōta Suzuki star in TOHO animation STUDIO anime",
+      "pubDate": "2026-10-27T14:32:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/news.10/243246/busters.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQzMjIy",
+      "title": "#I'm Looking For a Zombie ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-4/.243222",
+      "description": "This is the closest that the show got to making me feel any type of strong, genuine emotion.",
+      "pubDate": "2026-10-27T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFH/cms/episode-review.5/243222/vlcsnap-2026-10-26-16h41m27s623.png.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Phantom Busters Anime Reveals Main Cast, Key Staff & Teaser Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/phantom-busters-anime-main-cast-key-staff-teaser-visual",
+      "description": "Adaptation based on Neoshoco's manga broadcasts in Japan in 2027",
+      "pubDate": "2026-10-27T14:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x541/408b178b4a/phantom_busters_manga_header.jpg"
+    },
+    {
+      "id": "cr-aWNlLWRhdGU",
+      "title": "Pokémon UNITE to Shut Down on March 23, 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/pokemon-unite-end-service-date",
+      "description": "Free-to-play MOBA first launched in 2021",
+      "pubDate": "2026-10-27T14:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/a68854433e/pokemon-unite.webp"
+    },
+    {
+      "id": "cr-ZXItMjAyNg",
+      "title": "MECHA SAMURAI Web Anime Debuts in November",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/mecha-samurai-web-anime-cast-staff-trailer-november-2026",
+      "description": "Teaser trailer, main cast and staff revealed for short form original anime series",
+      "pubDate": "2026-10-27T14:06:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/14b9a80529/mecha_samura_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzIwMQ",
+      "title": "This Week in Anime - A Horse in the Race",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-27/.243201",
+      "description": "Politics are even coming for our horse girls now.",
+      "pubDate": "2026-10-27T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/this-week-in-anime/243201/chris08.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition Anime Premieres on January 4",
+      "link": "https://crunchyroll.com/news/latest/2026/10/27/welcome-to-demon-school-iruma-kun-irumafia-edition-anime-premiere-date-visual",
+      "description": "Main staff and key art revealed for upcoming spin-off adaptation",
+      "pubDate": "2026-10-27T13:37:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/20c63a6633/welcome_to_demon_school_irumakun_irumafia_edition_header.jpg"
+    },
+    {
+      "id": "ann-NC8uMjQzMjE4",
+      "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-4/.243218",
+      "description": "Although Harij never says that he likes Rose romantically, every twitch of his eye indicates that he wants to be the only man Rose is open with.",
+      "pubDate": "2026-10-27T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ3/cms/episode-review.5/243218/hello-witch-4.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzIxNw",
+      "title": "Firefly Wedding ‒ Episode 3",
+      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episode-3/.243217",
+      "description": "Even when the story falls short, the production team makes artistic choices that keep me engrossed.",
+      "pubDate": "2026-10-27T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHR/cms/episode-review.5/243217/firefly-wedding-3.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI0Mg",
+      "title": "Shaman King's Hiroyuki Takei Designs Short Net Anime Mecha Samurai",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/shaman-king-hiroyuki-takei-designs-short-net-anime-mecha-samurai/.243242",
+      "description": "TV Tokyo,  Plott studio's anime to stream vertical shorts in November, main episodes next spring",
+      "pubDate": "2026-10-27T11:11:22.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFF/youtube/6FdS26mkHvE.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Mairimashita! Iruma-kun: If Episode of Mafia' Announces Production Staff",
       "link": "https://myanimelist.net/news/74870752?_location=rss",
-      "description": "The official website for the television anime adaptation of hiroja's Mairimashita! Iruma-kun: If Episode of Mafia (Welcome to Demon School! Iruma-kun: IruMafia Edition) manga revealed the production staff and a key visual (pictured) on Tuesday. The anime series will begin airing on NHK-G at 11:00 p.m. on January 4, 2027. Staff Director: Keiichirou Kawaguchi (Higurashi no Naku Koro ni Gou) NEW Series Composition: Kazuyuki Fudeyasu (Yasei no Last Boss ga Arawareta!) Character Design: Kenji Fu...",
+      "description": "The official website for the television anime adaptation of hiroja's Mairimashita! Iruma-kun: If Episode of Mafia (Welcome to Demon School! Iruma-kun: IruMafia Edition) manga revealed the production staff and a key visual (pictured) on Tuesday. The anime series will begin airing on NHK-G at 11:00 p.m. on January 4, 2027. Staff Director: Keiichirou Kawaguchi (Higurashi no Naku Koro ni Gou) Series Composition: Kazuyuki Fudeyasu (Yasei no Last Boss ga Arawareta!) Character Design: Kenji Fujisa...",
       "pubDate": "2026-10-27T10:34:11.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -190,7 +380,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.10/243206/dessert.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzIxNg",
@@ -290,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCC/cms/review.2/242864/heaven-official-2.jpg"
+      "image": null
     },
     {
       "id": "ann-NC8uMjQzMTky",
@@ -300,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/cms/episode-review.5/243192/ranma-4.3.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzE5Nw",
@@ -310,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T15:20:10.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/youtube/-36jzKkPRAA.jpg"
+      "image": null
     },
     {
       "id": "cr-aXNoaWJhaQ",
@@ -340,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Playable Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gT2/cms/advertorial/243131/ooc-kv.jpg"
+      "image": null
     },
     {
       "id": "cr-ZS10cmFpbGVy",
@@ -360,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T14:46:39.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKH/cms/news.10/243204/bauza.jpg"
+      "image": null
     },
     {
       "id": "cr-bmctdmlkZW9z",
@@ -390,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/episode-review.5/243188/romelia-4.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMxOTY",
@@ -400,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T14:16:56.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/cms/news.10/243196/elhowl.jpg"
+      "image": null
     },
     {
       "id": "cr-c2ljLXZpZGVv",
@@ -411,196 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1920x1080/ee3cc86dd2/maebashi-witches-amehare-make-up.png"
-    },
-    {
-      "id": "ann-NC8uMjQzMTc2",
-      "title": "Black Clover Season 2 ‒ Episode 174",
-      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episode-174/.243176",
-      "description": "While I didn’t outright dislike this episode, I wish it packed a little more punch.",
-      "pubDate": "2026-10-26T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/episode-review.5/243176/black-clover-s2e4-daily-streaming.png.jpg"
-    },
-    {
-      "id": "cr-ZGRpdGlvbnM",
-      "title": "The World's Strongest Witch Anime Reveals Two New Cast Additions",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/the-worlds-strongest-witch-anime-reveals-two-new-cast-additions",
-      "description": "Crunchyroll streams adaptation based on fantasy comedy light novel series",
-      "pubDate": "2026-10-26T13:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1036x583/8223dab10c/the_worlds_strongest_witch_cast_additions_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDAyMzE",
-      "title": "Fall 2026 Manga Guide",
-      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/manga/.240231",
-      "description": "It's the Fall 2026 Manga Guide! Come check out our reviewers' thoughts on the latest releases, including a stellar adaptation of Agatha Christie's And Then There Were None!",
-      "pubDate": "2026-10-26T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/seasonal/240231/fall-2026-manga-guide.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQzMjAw",
-      "title": "The Eternal Fool's Words of Wisdom Anime Casts Minori Fujidera",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-26/the-eternal-fool-words-of-wisdom-anime-casts-minori-fujidera/.243200",
-      "description": "Fujidera joins cast of January 2027 series as Rina",
-      "pubDate": "2026-10-26T12:55:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.10/243200/rina-voiced-by-miyu-fujidera.jpeg"
-    },
-    {
-      "id": "ann-OC8uMjQzMTYz",
-      "title": "The Ramparts of Ice Season 2 ‒ Episode 18",
-      "link": "https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-18/.243163",
-      "description": "The word of the day is “projection!\"",
-      "pubDate": "2026-10-26T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD0/cms/episode-review.5/243163/vlcsnap-2026-10-24-11h47m10s647.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzE1OQ",
-      "title": "Magic Knight Rayearth ‒ Episodes 1-3",
-      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episodes-1-3/.243159",
-      "description": "E&H production is going full 90s CLAMP, and it looks absolutely luscious.",
-      "pubDate": "2026-10-26T11:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA8/cms/episode-review.5/243159/rayearth.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season' Unveils Additional Cast, Third Promo for \"Fujimiya Family\" Arc",
-      "link": "https://myanimelist.net/news/74865718?_location=rss",
-      "description": "The official website for the television anime adaptation of Miraijin A's Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...",
-      "pubDate": "2026-10-26T09:44:09.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793007801-2b06fe7f7bdd230e13b6b90dc2012dcd.jpeg"
-    },
-    {
-      "id": "cr-aW4tdmlzdWFs",
-      "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure Anime Unveils Main Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure-anime-main-visual",
-      "description": "Crunchyroll will stream the series in January 2027",
-      "pubDate": "2026-10-26T09:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/aaf782d73e/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Previews Fujimiya Arc in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-fujimiya-arc-trailer",
-      "description": "The cast of the Fujimiya family were also revealed",
-      "pubDate": "2026-10-26T08:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1076/82cbcb3982/as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-rise-in-the-world-season-3-anime-third-trailer.png"
-    },
-    {
-      "id": "ann-LjI0MzE2NA",
-      "title": "Goddess of Victory: Nikke Game Gets New Manga Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-26/goddess-of-victory-nikke-game-gets-new-manga-adaptation/.243164",
-      "description": "New series focused on Goddess squad launches in winter",
-      "pubDate": "2026-10-26T04:03:40.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQzMTcw",
-      "title": "Touhou Tabletop RPG Gensou Narratograph to Launch in English in 2027",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-25/touhou-tabletop-rpg-gensou-narratograph-to-launch-in-english-in-2027/.243170",
-      "description": "Play as one of 30 Touhou Project characters in “cozy slice-of-life bullet-hell” RPG",
-      "pubDate": "2026-10-26T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMTk1",
-      "title": "New Live-Action Street Fighter Film Drops to #4 in the U.S.",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/new-live-action-street-fighter-film-drops-to-no.4-in-the-u.s/.243195",
-      "description": "Film earned estimated US$8.6 million in 2nd weekend, a 72.1% drop",
-      "pubDate": "2026-10-26T03:27:07.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMxODE",
-      "title": "Patlabor EZY Anime Gets Novelization in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/patlabor-ezy-anime-gets-novelization-in-2027/.243181",
-      "description": "Maburaho, Kämpfer novels author Toshihiko Tsukiji writes adaptation",
-      "pubDate": "2026-10-26T03:17:33.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-YW5jaG9saWM",
-      "title": "Are You a Landmine, Chihara-san? Anime Music Project Releases 4th Music Video \"Melancholic\"",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/are-you-a-landmine-chihara-san-anime-music-project-4th-music-video-melancholic",
-      "description": "The adaptation of  Ryon's rom-com manga will premiere on January 7, 2027",
-      "pubDate": "2026-10-26T02:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x538/8a76f5ce98/mai-chihara-melancholic-mv.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxODY",
-      "title": "Rainy Day Serenade Manga Gets Spinoff Series in November",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-25/rainy-day-serenade-manga-gets-spinoff-series-in-november/.243186",
-      "description": "Namidaame to Serenade: Gaiden launches on November 25",
-      "pubDate": "2026-10-26T02:25:05.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-aS1zdXp1a2k",
-      "title": "Konomi Suzuki Drops Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance-anime-opening-song-music-video-konomi-suzuki",
-      "description": "Crunchyroll streams the new isekai fantasy series",
-      "pubDate": "2026-10-26T02:05:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/47037bc9dc/konomi-suzuki-tsuyoki-max-mv.png"
-    },
-    {
-      "id": "cr-LWNsYXJpcw",
-      "title": "Anisong Unit ClariS Releases VERTEX FORCE Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/vertex-force-anime-opening-song-music-video-claris",
-      "description": "Kazuhiro Takamura (Strike Witches) -directed series is available on Crunchyroll",
-      "pubDate": "2026-10-26T01:10:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ca6f546776/claris-synchro-blue-mv.jpg"
-    },
-    {
-      "id": "cr-LWZvb3RhZ2U",
-      "title": "Star Detective Precure! Anime Film Shares Action-Packed Opening Footage",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/star-detective-precure-anime-film-action-packed-opening-footage",
-      "description": "Moviegoers in the 7th week will receive a newly drawn \"Future Card\"",
-      "pubDate": "2026-10-26T00:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/df87946315/star-detective-precure-movie.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Houseki no Kuni' Creator Launches New Manga",
-      "link": "https://myanimelist.net/news/74862294?_location=rss",
-      "description": "The December 2026 issue of Monthly Afternoon magazine announced on Friday that manga creator Haruko Ichikawa will launch a new sci-fi manga, titled Cosmic Mimimi, in the magazine next issue, scheduled for a November 25 release. Haruko is best known for Houseki no Kuni (Land of the Lustrous), which ran in Monthly Afternoon magazine from October 2012 to April 2024. The 13th and final volume went on sale on November 2024. Kodansha USA licensed the manga in October 2016 and published the 13th volum...",
-      "pubDate": "2026-10-25T16:56:41.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1792947256-48652f5832829a27561fe34a191b3265.jpeg"
     }
   ]
 };
