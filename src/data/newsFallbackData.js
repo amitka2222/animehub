@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-28T17:28:50.934Z",
+  "lastUpdated": "2026-10-28T21:56:14.725Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDMyNzI",
+      "title": "Yuki Amemiya, Yukino Ichihara's My Husband is a Doomsday Weapon Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/yuki-amemiya-yukino-ichihara-my-husband-is-a-doomsday-weapon-manga-ends/.243272",
+      "description": "Manga launched in November 2024; Kodansha USA to release 1st volume in English on December 22",
+      "pubDate": "2026-10-28T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO9/cms/news.10/243272/doomsdayweapon.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI5Nw",
+      "title": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/digimon-alysion-smartphone-card-game-opens-pre-registration-with-new-trailer/.243297",
+      "description": "Game slated for 2026 release",
+      "pubDate": "2026-10-28T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/youtube/hVOArd4R8PA.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI4NA",
+      "title": "Reiko Shimizu's Himitsu Season 0 Spinoff Manga Enters Final Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/reiko-shimizu-himitsu-season-0-spinoff-manga-enters-final-arc/.243284",
+      "description": "Final arc starts on December 25",
+      "pubDate": "2026-10-28T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.10/243284/himitsu.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI5Ng",
+      "title": "TANUKI: Pon's Summer Game Launches on November 10",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/tanuki-pon-summer-game-launches-on-november-10/.243296",
+      "description": "Game launches for Switch, Switch 2, PS5, PS4, Xbox X|S, PC",
+      "pubDate": "2026-10-28T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g39/youtube/PeF2MwJQwUM.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI2MA",
+      "title": "Bana Yoshida Launches New Kui Otoko no Majо̄ to Kyūseishu Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/bana-yoshida-launches-new-kui-otoko-no-maj-to-kyuseishu-manga/.243260",
+      "description": "Kui Otoko no Majо̄ to Kyūseishu debuts on February 25",
+      "pubDate": "2026-10-28T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.10/243260/bana-yoshida.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyOTU",
+      "title": "Urban Myth Dissolution Center, Schrödinger's Call Games Get Switch 2 Releases",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/urban-myth-dissolution-center-schrodinger-call-games-get-switch-2-releases/.243295",
+      "description": "Switch 2 editions launch on Thursday",
+      "pubDate": "2026-10-28T18:35:35.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243295/unnamed.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyNjc",
+      "title": "Good Smile Company Announces Data Breach of Online Store",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/good-smile-company-announces-data-breach-of-online-store/.243267",
+      "description": "User info, order info, basic (but incomplete) credit card info were accessed",
+      "pubDate": "2026-10-28T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.9/232514/goodsmile.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMwODU",
+      "title": "What Romance Tropes Saka Mikami Avoided With The Fragrant Flower Blooms With Dignity Manga",
+      "link": "https://www.animenewsnetwork.com/interview/2026-10-28/what-romance-tropes-saka-mikami-avoided-with-the-fragrant-flower-blooms-with-dignity-manga/.243085",
+      "description": "While visiting Kodansha House during New York Comic Con weekend, Mikami shared one moment from the manga that shocked her, despite writing being the person who wrote it",
+      "pubDate": "2026-10-28T17:35:01.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGW/cms/news.8/222698/hana.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQzMjkw",
+      "title": "Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-10/.243290",
+      "description": "This was a great note for Bleach to end on, and I’m glad Pierrot Films made it the best it could possibly hope to be.",
+      "pubDate": "2026-10-28T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/episode-review.5/243290/bleach.jpg"
+    },
     {
       "id": "ann-LjI0MzI4OQ",
       "title": "Bakudo Action Game's Trailer Reveals Switch 2 Version, 2027 Release",
@@ -310,7 +400,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLG/cms/news.10/243261/anibiz.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI1Mw",
@@ -320,7 +410,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g9C/cms/episode-review.5/243253/psyren-1.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQzMjU3",
@@ -330,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQP/cms/news.8/226053/detective-conan.jpg"
+      "image": null
     },
     {
       "id": "cr-LXRyYWlsZXI",
@@ -350,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD0/cms/episode-review.5/243249/ss-2026-10-25-21-25-32-018.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI1NQ",
@@ -360,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T16:10:19.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLF/herald/202538/cocoon-blu-ray.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI1Mg",
@@ -370,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T16:00:35.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.10/243252/bleach-mirrors-high-critical-opening.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQyNzA2",
@@ -380,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/cms/review.2/242706/beatbreak.jpg"
+      "image": null
     },
     {
       "id": "ann-NC8uMjQzMjI4",
@@ -390,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/243228/blue-box-s2-eps-4.png.jpg"
+      "image": null
     },
     {
       "id": "cr-dWwtc2Nob29s",
@@ -410,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/youtube/UGnGTBBszJI.jpg"
+      "image": null
     },
     {
       "id": "cr-YW5pbWF0aW9u",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MzI0Mg",
-      "title": "Shaman King's Hiroyuki Takei Designs Short Net Anime Mecha Samurai",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/shaman-king-hiroyuki-takei-designs-short-net-anime-mecha-samurai/.243242",
-      "description": "TV Tokyo,  Plott studio's anime to stream vertical shorts in November, main episodes next spring",
-      "pubDate": "2026-10-27T11:11:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Mairimashita! Iruma-kun: If Episode of Mafia' Announces Production Staff",
-      "link": "https://myanimelist.net/news/74870752?_location=rss",
-      "description": "The official website for the television anime adaptation of hiroja's Mairimashita! Iruma-kun: If Episode of Mafia (Welcome to Demon School! Iruma-kun: IruMafia Edition) manga revealed the production staff and a key visual (pictured) on Tuesday. The anime series will begin airing on NHK-G at 11:00 p.m. on January 4, 2027. Staff Director: Keiichirou Kawaguchi (Higurashi no Naku Koro ni Gou) Series Composition: Kazuyuki Fudeyasu (Yasei no Last Boss ga Arawareta!) Character Design: Kenji Fujisa...",
-      "pubDate": "2026-10-27T10:34:11.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793096896-e8eedcabf42812812211ebf89a4989b5.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Phantom Busters' Announces Main Cast, Staff",
-      "link": "https://myanimelist.net/news/74870618?_location=rss",
-      "description": "The official website for the television anime adaptation of Shoco's Phantom Busters manga revealed the main cast, staff, and a teaser visual (pictured) on Tuesday. The anime series will premiere in 2027. Cast Mogari Shishikuno: Nobuhiko Okamoto (Boku no Hero Academia) Eugene Korekishi: Natsuki Hanae (Kimetsu no Yaiba) Kaoru Kanzaki: Kouki Uchiyama (Horimiya) Koutarou Tamon: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Staff Director: Chika Nagaoka (Tamon-kun Ima Docchi!?) Character Design: Ta...",
-      "pubDate": "2026-10-27T09:39:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793093933-9f1daa70c992e451cdfddfb534d19106.jpeg"
-    },
-    {
-      "id": "ann-Ny8uMjQzMjM5",
-      "title": "Pokémon Unite Game Ends Service on March 23, 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239",
-      "description": "Franchise's 1st strategic team-based battle game launched in 2021",
-      "pubDate": "2026-10-27T06:24:02.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-eS1hdC04Nw",
-      "title": "Manga Artist Tetsuya Chiba Passes Away at 87",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/manga-artist-tetsuya-chiba-passes-away-at-87",
-      "description": "Chiba illustrated Ashita no Joe and more notable manga series over 70 years",
-      "pubDate": "2026-10-27T05:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/cb73664f55/tetsuya-chiba.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Ashita no Joe' Manga Artist Tetsuya Chiba Dies at 87",
-      "link": "https://myanimelist.net/news/74869899?_location=rss",
-      "description": "Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fighting for Tomorrow) manga, died on October 27. He was 87. Born in Tokyo in January 1939, Chiba made his professional debut with Fukushuu no Semushi in 1956. Following the end of World War II, he returned to Japan with his family after spending childhood in Manchuria, northeastern China. Chiba drew manga for various magazines early in his career. In January 1967, he began drawing for Ikki Kajiwara's Ashita no Jo...",
-      "pubDate": "2026-10-27T04:57:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793076980-c638c23f559929999c3682b767fc9387.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzIzNQ",
-      "title": "Ashita no Joe Creator Tetsuya Chiba Dies at 87",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235",
-      "description": "Best known for influential 1968-1973 boxing manga Ashita no Joe, anime adaptations",
-      "pubDate": "2026-10-27T04:02:14.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzMjMw",
-      "title": "Live-Action High School Family: Kokosei Kazoku Film's Clip Shows Festival Concert",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-26/live-action-high-school-family-kokosei-kazoku-film-clip-shows-festival-concert/.243230",
-      "description": "Clip features original song \"Kizuna\"",
-      "pubDate": "2026-10-27T02:31:23.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "cr-ZW8tbWlsaw",
-      "title": "Idol Group M!LK Releases Super Psychic Policeman Chojo Anime Opening Song Dance Performance Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/super-psychic-policeman-chojo-anime-opening-song-dance-performance-video-milk",
-      "description": "Crunchyroll streams the adaptation of Shun Numa's comedy manga",
-      "pubDate": "2026-10-27T02:07:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/33e6e4e30d/m-lk-thats-chojo-mv.jpg"
     }
   ]
 };
