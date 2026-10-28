@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-10-28T02:43:08.240Z",
+  "lastUpdated": "2026-10-28T11:42:57.446Z",
   "items": [
+    {
+      "id": "cr-bmNoeXJvbGw",
+      "title": "MASHLE: MAGIC AND MUSCLES Season 3 Streams on Crunchyroll in January 2027",
+      "link": "https://crunchyroll.com/news/announcements/2026/10/28/mashle-magic-and-muscles-season-3-january-2027-stream-crunchyroll",
+      "description": "Mash returns for The Tri-Magicathlon Divine Visionary Final Exam Arc",
+      "pubDate": "2026-10-28T08:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1746x982/0a1727bc8a/mashle-season-3.png"
+    },
+    {
+      "id": "ann-NS8uMjQzMjM4",
+      "title": "Masaki Andō's Mojiponika! Manga Ends on November 25",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/masaki-ando-mojiponika-manga-ends-on-november-25/.243238",
+      "description": "Comedy manga launched in May 2025",
+      "pubDate": "2026-10-28T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g65/cms/news.10/243238/moji.jpg"
+    },
     {
       "id": "ann-LjI0MzI1OA",
       "title": "Yome ga Kuru Artist saku Launches New Kimi to Sakura no Hanataba wo Manga",
@@ -459,7 +479,7 @@
       "pubDate": "2026-10-27T00:35:02.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/youtube/4H3qrB9yaJA.jpg"
+      "image": null
     },
     {
       "id": "cr-aW5lcy0yMDI3",
@@ -580,26 +600,6 @@
       "source": "Anime News Network",
       "category": "People",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMxOTQ",
-      "title": "Overgeared ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/overgeared/episode-5/.243194",
-      "description": "Satisfy might not be a gatcha; that doesn't make Grid any more immune to the RNG of success rates.",
-      "pubDate": "2026-10-26T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bmctdmlkZW8",
-      "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video",
-      "description": "There’s also a video combining all of THE STORIES visuals",
-      "pubDate": "2026-10-26T16:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/6a99a91564/bleach-tybw-final.jpg"
     }
   ]
 }
