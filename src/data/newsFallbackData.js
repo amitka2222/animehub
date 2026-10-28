@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-27T21:31:25.026Z",
+  "lastUpdated": "2026-10-28T02:43:08.240Z",
   "items": [
+    {
+      "id": "ann-LjI0MzI1OA",
+      "title": "Yome ga Kuru Artist saku Launches New Kimi to Sakura no Hanataba wo Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/yome-ga-kuru-artist-saku-launches-new-kimi-to-sakura-no-hanataba-wo-manga/.243258",
+      "description": "Kimi to Sakura no Hanataba wo debuts on November 1",
+      "pubDate": "2026-10-28T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8B/cms/news.10/243258/hvtvxueauaaz-uo.png.jpg"
+    },
+    {
+      "id": "cr-YmFuZC1tYWlk",
+      "title": "BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/28/beyblade-x-anime-bey-kingdom-arc-ending-theme-music-video-band-maid",
+      "description": "The CD single hits Japanese stores today",
+      "pubDate": "2026-10-28T01:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ef1198f9c1/band-maid-spin-mv.png"
+    },
+    {
+      "id": "cr-LWV4dGVuZGVk",
+      "title": "Who-ya Extended Shares PSYREN Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/28/psyren-anime-ending-song-music-video-who-ya-extended",
+      "description": "The suspense-action series is available on Crunchyroll",
+      "pubDate": "2026-10-28T01:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/3194bd903c/who-ya-extended-icarus-mv.jpg"
+    },
+    {
+      "id": "ann-aS8uMjQzMjU0",
+      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part I",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-27/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-i/.243254",
+      "description": "Colleagues and publishers offer their respect to legendary manga creator of Ashita no Joe",
+      "pubDate": "2026-10-28T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD3/cms/news.7/217153/chiba-tetsuya.png.jpg"
+    },
+    {
+      "id": "cr-aGVtZS1zb25n",
+      "title": "Sins of Kujo Live-Action Film Unveils New Trailer Featuring Hitsujibungaku Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/10/28/sins-of-kujo-live-action-film-new-trailer-hitsujibungaku-theme-song",
+      "description": "The feature film edition hits Japanese theaters on January 8, 2027",
+      "pubDate": "2026-10-28T00:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/d01906831e/sins-of-kujo-live-action-header.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQzMjIw",
+      "title": "Eito Chida Launches New Hoshibarai no Chidori Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/eito-chida-launches-new-hoshibarai-no-chidori-manga/.243220",
+      "description": "Hoshibarai no Chidori debuts on November 20",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/cms/news.10/243220/hvod8zzaoaakyoo.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQzMjY0",
+      "title": "Live-Action Sins of Kujo Film's New Trailer Unveils Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/live-action-sins-of-kujo-film-new-trailer-unveils-theme-song/.243264",
+      "description": "Hitsujibungaku performs \"Dispel\"",
+      "pubDate": "2026-10-27T23:44:12.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/cTisUYp6xaI.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzMjMx",
+      "title": "We Are Aliens Film Wins Awards at Rome, Philadelphia Film Festivals",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/we-are-aliens-film-wins-awards-at-rome-philadelphia-film-festivals/.243231",
+      "description": "New video showing film clip streams",
+      "pubDate": "2026-10-27T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/youtube/0RbYr8CLWuA.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzMjM0",
+      "title": "Deadline: Takashi Yamazaki's Grandgear Film Casts Sam Nivola, Nico Parker",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-27/deadline-takashi-yamazaki-grandgear-film-casts-sam-nivola-nico-parker/.243234",
+      "description": "Paul Giamatti also reportedly in talks to join cast",
+      "pubDate": "2026-10-27T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/news.6/200167/godzilla-minus-one.jpg"
+    },
     {
       "id": "ann-Ly4yNDMyMjc",
       "title": "Manga Mavericks Books, Omoi License Georgie Manga in English",
@@ -390,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g46/cms/news.10/243213/81stqxtluzl.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzE4Nw",
@@ -400,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/243187/81heo7ufnfl.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMxOTE",
@@ -410,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g84/cms/news.7/217167/magical-girl-raising-project-f2p.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzE4OQ",
@@ -420,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7G/cms/news.10/243189/hvplalcaoaip8gt.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzIwNg",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.10/243206/dessert.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzIxNg",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-26T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243216/gago-hunters.jpeg"
+      "image": null
     },
     {
       "id": "cr-Y2h5cm9sbA",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1280x720/6a99a91564/bleach-tybw-final.jpg"
-    },
-    {
-      "id": "cr-ZS00LXJlY2Fw",
-      "title": "The Apothecary Diaries Season 3, Episode 4 Recap, “The Last Volume”",
-      "link": "https://crunchyroll.com/news/features/2026/10/26/the-apothecary-diaries-season-3-episode-4-recap",
-      "description": "It’s all coming together",
-      "pubDate": "2026-10-26T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/d3b8969bdd/the-apothecary-diaries-season-3-episode-4.jpg"
-    },
-    {
-      "id": "ann-My8uMjQyODY0",
-      "title": "Heaven Official's Blessing Volumes 2-3 Manhua Review",
-      "link": "https://www.animenewsnetwork.com/review/heaven-official-blessing/volumes-2-3/.242864",
-      "description": "The fact that this series has hardcover and paperback releases, a donghua adaptation, and a manhua should tell you something: a lot of people love this story.",
-      "pubDate": "2026-10-26T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQzMTky",
-      "title": "Ranma ½ Season 3 ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/ranma-season-3/episode-4/.243192",
-      "description": "At least this version’s brisk pace adapts the entire tiresome thing into a single episode rather than stretching it out over more.",
-      "pubDate": "2026-10-26T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzE5Nw",
-      "title": "Yukari Kaneko's Hanarabeez Original Character Gets 3-Episode Short Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-26/yukari-kaneko-hanarabeez-original-character-gets-3-episode-short-anime/.243197",
-      "description": "1st episode of short anime about teeth's daily life by animation studio DLE streamed on Monday",
-      "pubDate": "2026-10-26T15:20:10.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aXNoaWJhaQ",
-      "title": "Why Did It Take Me So Long to Watch Theatre of Darkness: Yamishibai?",
-      "link": "https://crunchyroll.com/news/features/2026/10/26/late-to-the-party-theatre-of-darkness-yamishibai",
-      "description": "A spooky treat for Halloween",
-      "pubDate": "2026-10-26T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/caa2a9386f/theatre-of-darkness-yamishibai.png"
-    },
-    {
-      "id": "cr-LXZvbC03OA",
-      "title": "Crunchyroll News Puzzles Vol. 78: Slav Slab Slay and Ghost Story Structure",
-      "link": "https://crunchyroll.com/news/quizzes/2026/10/26/anime-crosswords-puzzles-vol-78",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-10-26T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-Ly4yNDMxMzE",
-      "title": "Be the Main Character of Your Own Story this Halloween with OOC: The Playable Anime",
-      "link": "https://www.animenewsnetwork.com/advertorial/2026-10-26/be-the-main-character-of-your-own-story-this-halloween-with-ooc-the-playable-anime/.243131",
-      "description": "Tired of reading stories with the same predictable outcomes? Do you get frustrated when characters never react how you might in a situation? OOC: The Playable Anime lets you take the story down any twists and turns you desire",
-      "pubDate": "2026-10-26T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Playable Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZS10cmFpbGVy",
-      "title": "Dragon Ball Xenoverse 2 10th Anniversary Update Trailer Prepares for Final Festival",
-      "link": "https://crunchyroll.com/news/latest/2026/10/26/dragon-ball-xenoverse-2-10th-anniversary-update-trailer",
-      "description": "The long-running fighter is about to pass the baton to the next entry",
-      "pubDate": "2026-10-26T14:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b1c86da903/xenoverse-2-10th-anni.jpg"
-    },
-    {
-      "id": "ann-LjI0MzIwNA",
-      "title": "Looney Tunes Voice Actor Eric Bauza Dies at 46",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-26/looney-tunes-voice-actor-eric-bauza-dies-at-46/.243204",
-      "description": "Bauza died due to hypertensive cardiovascular disease according to records",
-      "pubDate": "2026-10-26T14:46:39.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
     }
   ]
 };
