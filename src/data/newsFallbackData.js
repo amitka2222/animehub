@@ -1,7 +1,87 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-29T03:01:54.719Z",
+  "lastUpdated": "2026-10-29T11:51:27.626Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDMzMjU",
+      "title": "Shin Oishinbo TV Anime Reveals 6 New Cast Members, Theme Song Artists",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-29/shin-oishinbo-tv-anime-reveals-6-new-cast-members-theme-song-artists/.243325",
+      "description": "Tōru Furusawa, Kōsuke Echigoya, Kyō Yaoya, more join cast of 2027 anime",
+      "pubDate": "2026-10-29T10:54:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.10/243325/oishinbo1.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzMDY",
+      "title": "The Remarried Empress Webtoon Launches Side Stories Ahead of Disney+ Live-Action Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-29/the-remarried-empress-webtoon-launches-side-stories-ahead-of-disney-live-action-series/.243306",
+      "description": "New episodes will also include alternate-universe stories that imagine different scenarios",
+      "pubDate": "2026-10-29T10:23:25.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/cms/news.10/243306/.jpg.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Shin Oishinbo' Reveals Additional Cast, Theme Songs",
+      "link": "https://myanimelist.net/news/74880493?_location=rss",
+      "description": "The official website for the television anime adaptation of Tetsu Kariya's Oishinbo manga, titled Shin Oishinbo, revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere in 2027. Cast Hideo Tanimura: Tohru Furusawa (Toradora!) Tomio Tomii: Kousuke Echigoya (Akane-banashi) Taizou Oohara: Nobuo Tobita (World Is Dancing) Kyouichi Koizumi: Hiroshi Naka (Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka) Kinue Arakawa: Kyou Yaoya (Tefuda ga Oome no Victoria...",
+      "pubDate": "2026-10-29T09:52:07.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793267402-c9544f16c600fbff663bdeb292eba36a.jpeg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmdz",
+      "title": "New Oishinbo TV Anime Reveals Theme Songs, More Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/29/new-oishinbo-tv-anime-additional-cast-theme-songs",
+      "description": "The upcoming reboot airs next year",
+      "pubDate": "2026-10-29T09:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/0be59b6f21/new-oishinbo.jpg"
+    },
+    {
+      "id": "ann-aC8uMjQzMzIz",
+      "title": "Good Smile Company: Full Credit Card Details for 2,800 Customers May Have Been Exposed in Data Breach",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-29/good-smile-company-full-credit-card-details-for-2800-customers-may-have-been-exposed-in-data-breach/.243323",
+      "description": "Company's current update states customers' complete 16-digit card number may have been exposed due to breach",
+      "pubDate": "2026-10-29T09:10:54.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.9/232514/goodsmile.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru' Announces Additional Cast, Staff",
+      "link": "https://myanimelist.net/news/74880301?_location=rss",
+      "description": "The official website of the Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru (No-Clipping My Way to Supremacy!) television anime announced additional cast and staff on Thursday. The anime series adapting Nikita Kitagawa's adventure fantasy light novel will premiere in 2027. Cast Auroia Schmiket: Nao Ojika (Mahou no Shimai Lulutto Lilly) Don: Kengo Tsujii (Liar Game) Guillermo: Tatsuhisa Suzuki (Nanatsu no Taizai) Scarlet: Anna Yamaki (Rifle Is Beautiful) Latch: Shun Horie (Kanojo, O...",
+      "pubDate": "2026-10-29T09:00:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793262421-2394a19e94efff0e1add8e8e38083e6c.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMyNjU",
+      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part III",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iii/.243265",
+      "description": "Creators, artists, & fans came together for their farewells",
+      "pubDate": "2026-10-29T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/cms/interest.3/243265/b3mghr0j.jpeg"
+    },
+    {
+      "id": "cr-dHJhdGlvbg",
+      "title": "Inherit the Winds Anime Shoots the Breeze in Fall Illustration",
+      "link": "https://crunchyroll.com/news/latest/2026/10/29/inherit-the-winds-anime-fall-illustration",
+      "description": "The original series begins airing in January 2027",
+      "pubDate": "2026-10-29T03:42:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x848/4aa0c6bad5/inherit-the-winds-fall-illustration.jpg"
+    },
     {
       "id": "cr-ZnQtMjAyNw",
       "title": "Cardfight!! Vanguard New TV Anime Series \"Veil Lift\" Slated for 2027",
@@ -11,6 +91,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x539/b3ab70e12d/cardfight-vanguard-veil-lift-header.png"
+    },
+    {
+      "id": "ann-My8uMjQzMzAw",
+      "title": "Solo Leveling: Arise Overdrive Game Launches for PS5, Xbox Series X|S on November 3",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/solo-leveling-arise-overdrive-game-launches-for-ps5-xbox-series-x-s-on-november-3/.243300",
+      "description": "Game launched for PC via Steam, Xbox PC in November 2025",
+      "pubDate": "2026-10-29T02:00:16.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243300/ariseoverdrive.jpg"
     },
     {
       "id": "ann-LjI0MzI3OQ",
@@ -233,16 +323,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/review.2/242552/800px-tv-special-8.jpg"
     },
     {
-      "id": "ann-LjI0MzI2Mg",
-      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part II",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-ii/.243262",
-      "description": "Creators, artists, & fans came together for their farewells",
-      "pubDate": "2026-10-28T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE4/cms/interest.3/243262/dohyouiri.jpg"
-    },
-    {
       "id": "ann-LjI0MzI4OA",
       "title": "Bandai Namco Announces Mobile Suit Gundam Battle Operation 3 Game for PS5, PC",
       "link": "https://www.animenewsnetwork.com/news/2026-10-28/bandai-namco-announces-mobile-suit-gundam-battle-operation-3-game-for-ps5-pc/.243288",
@@ -360,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-28T12:37:42.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.10/243277/millraine.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI2OQ",
@@ -370,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-28T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJH/cms/episode-review.5/243269/mgrpr-4.jpg"
+      "image": null
     },
     {
       "id": "cr-bmNoeXJvbGw",
@@ -390,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-28T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g65/cms/news.10/243238/moji.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI1OA",
@@ -400,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-28T02:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8B/cms/news.10/243258/hvtvxueauaaz-uo.png.jpg"
+      "image": null
     },
     {
       "id": "cr-YmFuZC1tYWlk",
@@ -518,86 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-10-27/detective-conan-anime-4th-collection-of-episodes-clash-of-the-red-and-black-streams-on-crunchyroll-/.243257",
       "description": "\"Clash of the Red and Black\" arc centers on FBI vs. Black Organization",
       "pubDate": "2026-10-27T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Fortnite Teases ONE PIECE Collab in Treasure Hunters Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/fortnite-teases-one-piece-collab-in-treasure-hunters-trailer",
-      "description": "Hatsune Miku and Kasane Teto also make an appearance",
-      "pubDate": "2026-10-27T16:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/ecfd3cf364/fortnite-one-piece.jpg"
-    },
-    {
-      "id": "ann-NC8uMjQzMjQ5",
-      "title": "Even the Student Council Has Its Holes! ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-4/.243249",
-      "description": "Not content to rest on its ecchi anime laurels, the series also makes a sincere go at the girls band genre with a beautifully rendered singer-songwriter ditty from Koki.",
-      "pubDate": "2026-10-27T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI1NQ",
-      "title": "GKIDS Releases cocoon Wartime Anime Digitally With Blu-ray Disc Release Shipping on January 19",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/gkids-releases-cocoon-wartime-anime-digitally-with-blu-ray-disc-release-shipping-on-january-19/.243255",
-      "description": "Film launches digitally on Apple TV, Prime Video on Tuesday",
-      "pubDate": "2026-10-27T16:10:19.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI1Mg",
-      "title": "Bleach Mirrors High Mobile Game's Opening Animation Trailer Reveals Theme Song, October 28 Launch",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/bleach-mirrors-high-mobile-game-opening-animation-trailer-reveals-theme-song-october-28-launch/.243252",
-      "description": "suisoh performs theme song \"CRITICAL\" for iOS/Android game",
-      "pubDate": "2026-10-27T16:00:35.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQyNzA2",
-      "title": "DIGIMON BEATBREAK Episodes 38-49 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/digimon-beatbreak-episodes-38-49/anime-series/.242706",
-      "description": "Calling this show the Digimon franchise's most ambitious anime entry in quite a while would be an understatement.",
-      "pubDate": "2026-10-27T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQzMjI4",
-      "title": "Blue Box Season 2 ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/blue-box-season-2/episode-4/.243228",
-      "description": "As a character, Yumeka Goto is maybe the best thing to ever happen to Blue Box.",
-      "pubDate": "2026-10-27T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-dWwtc2Nob29s",
-      "title": "Cozy Anime Corner: A Terrified Teacher at Ghoul School! is Made for Spooky Season",
-      "link": "https://crunchyroll.com/news/features/2026/10/27/cozy-anime-corner-a-terrified-teacher-at-ghoul-school",
-      "description": "With bonus yokai lessons",
-      "pubDate": "2026-10-27T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/889f8fafa6/a-terrified-teacher-at-ghoul-school-season-1-episode-1.png"
-    },
-    {
-      "id": "ann-Zy8uMjQzMjQ4",
-      "title": "Witch on the Holy Night Film's Trailer Previews supercell's Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/witch-on-the-holy-night-film-trailer-previews-supercell-theme-song/.243248",
-      "description": "Film screens in U.S., Canada on January 29, 2027",
-      "pubDate": "2026-10-27T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
