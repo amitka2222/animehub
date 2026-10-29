@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-28T21:56:14.725Z",
+  "lastUpdated": "2026-10-29T03:01:54.719Z",
   "items": [
+    {
+      "id": "cr-ZnQtMjAyNw",
+      "title": "Cardfight!! Vanguard New TV Anime Series \"Veil Lift\" Slated for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/29/cardfight-vanguard-new-tv-anime-series-veil-lift-2027",
+      "description": "The spin-off series Ghost Meets Gal! will also get a second season",
+      "pubDate": "2026-10-29T02:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x539/b3ab70e12d/cardfight-vanguard-veil-lift-header.png"
+    },
+    {
+      "id": "ann-LjI0MzI3OQ",
+      "title": "Rainbow Days' Minami Mizuno Launches New Fujikawa Minori wa Erabenai. Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/rainbow-days-minami-mizuno-launches-new-fujikawa-minori-wa-erabenai-manga/.243279",
+      "description": "Mizuno to launch Fujikawa Minori wa Erabenai. manga on November 28",
+      "pubDate": "2026-10-29T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.10/243279/mizuno.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyOTg",
+      "title": "Seven Seas Licenses  Nighthawk, Once Again, Will You Take a Bath with Me?, 2 More Titles",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/seven-seas-licenses-nighthawk-once-again-will-you-take-a-bath-with-me-2-more-titles/.243298",
+      "description": "Also licensed: Dumbass Zombies!!! An Intermediate-Level Survival Guide for a World Where You Can Die Just Going to Borrow Soy Sauce, Misdeeds of an Extremely Arrogant Villain Aristocrat audiobook",
+      "pubDate": "2026-10-29T01:55:42.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243298/dumbass-zombies-m1-cover-jpn.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Nijiiro Days' Creator Launches New Manga",
+      "link": "https://myanimelist.net/news/74879108?_location=rss",
+      "description": "Manga creator Minami Mizuno announced on X (formerly Twitter) on Wednesday that she will launch a new manga, Fujikawa Minori wa Erabenai., in the Cocohana magazine. The January 2027 issue will publish the first chapter on November 28. Mizuno is best known for Nijiiro Days (Rainbow Days), which ran in Bessatsu Margaret magazine from December 2011 to May 2018. Shueisha published the 16th and final volume in June 2018. VIZ Media licensed the manga in English in February 2022 and released the 16th v...",
+      "pubDate": "2026-10-29T01:22:17.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793236913-543ad8ab6b5e09d76f6cbaf00566b7d7.png"
+    },
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "Voice Actor Amane Shindo Shares Solo Artist Debut Song \"Nouvelle Vague\" Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/29/voice-actor-amane-shindo-solo-artist-debut-song-music-video",
+      "description": "Two more songs will be released in the future",
+      "pubDate": "2026-10-29T01:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c5d072dca2/amane-shindo-nouvelle-vague-mv.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzMjg2",
+      "title": "New Fortnite Battle Royale Trailer Confirms One Piece's Straw Hat Pirates",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-28/new-fortnite-battle-royale-trailer-confirms-one-piece-straw-hat-pirates/.243286",
+      "description": "Fortnite's \"Treasure Hunters\" launches on November 1",
+      "pubDate": "2026-10-29T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/youtube/WKTOfvqL-bc.jpg"
+    },
+    {
+      "id": "cr-bWlzc2lvbg",
+      "title": "MAN WITH A MISSION Releases The Vermilion Mask Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/29/the-vermilion-mask-anime-opening-song-music-video-man-with-a-mission",
+      "description": "Crunchyroll is streaming the new battle-fantasy series",
+      "pubDate": "2026-10-29T00:38:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4b8f198681/man-with-a-mission-firestarter-mv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyNzE",
+      "title": "Natsume Ono to Launch Korore Spinoff Manga of ACCA-13, Badon Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/natsume-ono-to-launch-korore-spinoff-manga-of-acca-13-badon-manga/.243271",
+      "description": "New KORORE manga launches on February 25",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA2/cms/news.10/243271/korore.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI2Mw",
+      "title": "Sachiko Uguisu's Kaikai Gigigigigi Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/sachiko-uguisu-kaikai-gigigigigi-manga-ends/.243263",
+      "description": "Series debuted in April 2025",
+      "pubDate": "2026-10-28T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8A/cms/news.10/243263/81qlv05kbtl.sl1500.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzMjgw",
+      "title": "The Full-Time Wife Escapist's Tsunami Umino Launches New Manga in December",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280",
+      "description": "Umino to launch series of previous 1-shot Omiai Tantei Katabiranotsuji Nagi",
+      "pubDate": "2026-10-28T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.10/243280/nagi.jpg"
+    },
     {
       "id": "ann-Ly4yNDMyNzI",
       "title": "Yuki Amemiya, Yukino Ichihara's My Husband is a Doomsday Weapon Manga Ends",
@@ -340,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-28T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/cms/news.10/243220/hvod8zzaoaakyoo.jpg"
+      "image": null
     },
     {
       "id": "ann-Zy8uMjQzMjY0",
@@ -350,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T23:44:12.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/cTisUYp6xaI.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzMjMx",
@@ -360,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/youtube/0RbYr8CLWuA.jpg"
+      "image": null
     },
     {
       "id": "ann-ci8uMjQzMjM0",
@@ -370,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/cms/news.6/200167/godzilla-minus-one.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMyMjc",
@@ -380,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/news.10/243227/1080x1350-georgie-announcement.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI1MQ",
@@ -390,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-27T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.10/243251/manga-barcelona.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI2MQ",
@@ -498,106 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-10-27/witch-on-the-holy-night-film-trailer-previews-supercell-theme-song/.243248",
       "description": "Film screens in U.S., Canada on January 29, 2027",
       "pubDate": "2026-10-27T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-YW5pbWF0aW9u",
-      "title": "BLEACH Mirrors High Mobile Game Unveils Launch Date, Opening Animation",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/bleach-mirrors-high-mobile-game-launch-date-opening-animation",
-      "description": "Free-to-play action game launches on October 28",
-      "pubDate": "2026-10-27T14:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/6a9686101b/bleach-mirrors-high-opening.jpg"
-    },
-    {
-      "id": "ann-Zi8uMjQzMjQ2",
-      "title": "Phantom Busters TV Anime Reveals Main Cast, Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-27/phantom-busters-tv-anime-reveals-main-cast-staff/.243246",
-      "description": "Nobuhiko Okamoto, Natsuki Hanae, Kōki Uchiyama, Ryōta Suzuki star in TOHO animation STUDIO anime",
-      "pubDate": "2026-10-27T14:32:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQzMjIy",
-      "title": "#I'm Looking For a Zombie ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-4/.243222",
-      "description": "This is the closest that the show got to making me feel any type of strong, genuine emotion.",
-      "pubDate": "2026-10-27T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Phantom Busters Anime Reveals Main Cast, Key Staff & Teaser Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/phantom-busters-anime-main-cast-key-staff-teaser-visual",
-      "description": "Adaptation based on Neoshoco's manga broadcasts in Japan in 2027",
-      "pubDate": "2026-10-27T14:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/408b178b4a/phantom_busters_manga_header.jpg"
-    },
-    {
-      "id": "cr-aWNlLWRhdGU",
-      "title": "Pokémon UNITE to Shut Down on March 23, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/pokemon-unite-end-service-date",
-      "description": "Free-to-play MOBA first launched in 2021",
-      "pubDate": "2026-10-27T14:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x630/a68854433e/pokemon-unite.webp"
-    },
-    {
-      "id": "cr-ZXItMjAyNg",
-      "title": "MECHA SAMURAI Web Anime Debuts in November",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/mecha-samurai-web-anime-cast-staff-trailer-november-2026",
-      "description": "Teaser trailer, main cast and staff revealed for short form original anime series",
-      "pubDate": "2026-10-27T14:06:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/14b9a80529/mecha_samura_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MzIwMQ",
-      "title": "This Week in Anime - A Horse in the Race",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-27/.243201",
-      "description": "Politics are even coming for our horse girls now.",
-      "pubDate": "2026-10-27T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition Anime Premieres on January 4",
-      "link": "https://crunchyroll.com/news/latest/2026/10/27/welcome-to-demon-school-iruma-kun-irumafia-edition-anime-premiere-date-visual",
-      "description": "Main staff and key art revealed for upcoming spin-off adaptation",
-      "pubDate": "2026-10-27T13:37:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/20c63a6633/welcome_to_demon_school_irumakun_irumafia_edition_header.jpg"
-    },
-    {
-      "id": "ann-NC8uMjQzMjE4",
-      "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-4/.243218",
-      "description": "Although Harij never says that he likes Rose romantically, every twitch of his eye indicates that he wants to be the only man Rose is open with.",
-      "pubDate": "2026-10-27T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzIxNw",
-      "title": "Firefly Wedding ‒ Episode 3",
-      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episode-3/.243217",
-      "description": "Even when the story falls short, the production team makes artistic choices that keep me engrossed.",
-      "pubDate": "2026-10-27T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
