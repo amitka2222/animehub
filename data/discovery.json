@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T22:04:56.132Z",
+  "lastUpdated": "2026-10-30T03:06:52.421Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -294,6 +294,35 @@
   ],
   "newThisWeek": [
     {
+      "mal_id": "51094",
+      "id": "51094",
+      "title": "Luo Xiaohei Zhanji: Xueqian Pian",
+      "titles": {
+        "en": null,
+        "en_jp": null,
+        "ja_jp": null
+      },
+      "url": "https://kitsu.io/anime/luo-xiaohei-zhanji-xueqian-pian",
+      "poster": "https://media.kitsu.app/anime/51094/poster_image/large-a345376da15920a15324db24b6f638f7.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/51094/poster_image/large-a345376da15920a15324db24b6f638f7.jpeg",
+          "image_url": "https://media.kitsu.app/anime/51094/poster_image/small-6c22b5747c826ae8136f2dfd35842c44.jpeg"
+        }
+      },
+      "synopsis": "Third season of Luo Xiaohei Zhanji.",
+      "score": "N/A",
+      "episodes": 6,
+      "rank": 1,
+      "season": "ONA",
+      "startDate": "2026-10-30",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "51133",
       "id": "51133",
       "title": "Dreamland",
@@ -314,7 +343,7 @@
       "synopsis": "Ever since his mother died in a fire, Terrence has drifted through life in a fog of apathy, terrified by any flame. The same nightmare haunts him every night until he finally confronts his phobia. By overcoming his fear, Terrence becomes a Voyager, able to command fire and cross into Dreamland, the mysterious dimension where humanity’s dreams and nightmares come to life.\n\n(Source: Crunchyroll)",
       "score": "N/A",
       "episodes": 10,
-      "rank": 1,
+      "rank": 2,
       "season": "ONA",
       "startDate": "2026-10-18",
       "year": "2026",
@@ -342,7 +371,7 @@
       "synopsis": "Part of the \"DARK MACHINE\" Web3 cross-media project where the story of the Game and its anime adaptation intertwine.",
       "score": "N/A",
       "episodes": 11,
-      "rank": 2,
+      "rank": 3,
       "season": "TV",
       "startDate": "2026-10-14",
       "year": "2026",
@@ -371,7 +400,7 @@
       "synopsis": "The second part of Chitosekun wa Ramune Bin no Naka.",
       "score": "N/A",
       "episodes": 11,
-      "rank": 3,
+      "rank": 4,
       "season": "TV",
       "startDate": "2026-10-13",
       "year": "2026",
@@ -400,7 +429,7 @@
       "synopsis": "RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.\n\n(Source: J-Novel Club)",
       "score": "N/A",
       "episodes": null,
-      "rank": 4,
+      "rank": 5,
       "season": "TV",
       "startDate": "2026-10-11",
       "year": "2026",
@@ -429,7 +458,7 @@
       "synopsis": "The second cour of the second season of Diamond no Ace act II.",
       "score": "N/A",
       "episodes": null,
-      "rank": 5,
+      "rank": 6,
       "season": "TV",
       "startDate": "2026-10-11",
       "year": "2026",
@@ -458,7 +487,7 @@
       "synopsis": "Urban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n\n(Source: Yen Press)",
       "score": "N/A",
       "episodes": null,
-      "rank": 6,
+      "rank": 7,
       "season": "TV",
       "startDate": "2026-10-10",
       "year": "2026",
@@ -487,35 +516,6 @@
       "synopsis": "Sequel to Duel Masters LOST: Boukyaku no Taiyou.",
       "score": "N/A",
       "episodes": 4,
-      "rank": 7,
-      "season": "ONA",
-      "startDate": "2026-10-09",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "51125",
-      "id": "51125",
-      "title": "Avatar: Seven Havens Book 1: Survival",
-      "titles": {
-        "en": "Avatar: Seven Havens Book 1: Survival",
-        "en_jp": null,
-        "ja_jp": null
-      },
-      "url": "https://kitsu.io/anime/avatar-seven-havens",
-      "poster": "https://media.kitsu.app/anime/51125/poster_image/large-d24fdd5ca75351a1abbb6ae0725a1e2b.jpeg",
-      "cover": "https://media.kitsu.app/anime/51125/cover_image/large-e2e3943aed9612821d77f2ad8ccab491.jpeg",
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/51125/poster_image/large-d24fdd5ca75351a1abbb6ae0725a1e2b.jpeg",
-          "image_url": "https://media.kitsu.app/anime/51125/poster_image/small-0b150061655a469a6eaf4f642a64dd86.jpeg"
-        }
-      },
-      "synopsis": "After a global cataclysm, a young girl discovers she's the new Avatar - now branded the Destroyer, not a savior. Hunted by both humans and spirits, she and her long-lost twin must uncover their origins and save humanity from collapse.\n\n(Source: Apple TV)",
-      "score": "N/A",
-      "episodes": 13,
       "rank": 8,
       "season": "ONA",
       "startDate": "2026-10-09",
