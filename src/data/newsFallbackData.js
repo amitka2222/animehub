@@ -1,7 +1,17 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-30T17:17:39.273Z",
+  "lastUpdated": "2026-10-30T21:43:35.574Z",
   "items": [
+    {
+      "id": "ann-ZS8uMjQzMzcx",
+      "title": "Brazil's CCXP Screens World Premiere of Garena Free Fire Game's Free Fire Daybreak Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/brazil-ccxp-screens-world-premiere-of-garena-free-fire-game-free-fire-daybreak-anime/.243371",
+      "description": "Screening takes place at São Paulo Expo on December 5",
+      "pubDate": "2026-10-30T18:34:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.10/243371/free-fire-daybreak-world-premiere.jpeg"
+    },
     {
       "id": "cr-bmV3LXlvcms",
       "title": "King Gnu 2027 US Tour Announced with Dates in LA, NY",
@@ -540,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/review.2/243030/miyu-ova.png.jpg"
+      "image": null
     },
     {
       "id": "cr-ZWFzZS1kYXRl",
@@ -591,16 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-cmlsLTIwMjc",
-      "title": "Sailor Moon Shining Theater -Shinagawa Tokyo- Dining Experience Confirms \"Phase 3\" for April 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/sailor-moon-shining-theater-shinagawa-tokyo-dining-experience-confirms-phase-3-for-april-2027",
-      "description": "The current Team Gold Moon and Team Silver Moon will depart at the end of March",
-      "pubDate": "2026-10-29T14:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x504/4e2927a99e/sailor-moon-shining-theater-hero.png"
     }
   ]
 };
