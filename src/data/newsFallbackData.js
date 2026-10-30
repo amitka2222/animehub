@@ -1,7 +1,217 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-30T11:44:14.388Z",
+  "lastUpdated": "2026-10-30T17:17:39.273Z",
   "items": [
+    {
+      "id": "cr-bmV3LXlvcms",
+      "title": "King Gnu 2027 US Tour Announced with Dates in LA, NY",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/king-gnu-2027-us-tour-los-angeles-new-york",
+      "description": "Tickets presale starts soon for band’s first-ever headlining tour in the States",
+      "pubDate": "2026-10-30T16:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e3ecbeee65/king-gnu-tour.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMzcw",
+      "title": "Hiragi-san's House of Vampires Manga Gets TV Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/hiragi-san-house-of-vampires-manga-gets-tv-anime/.243370",
+      "description": "Visual unveiled for UNLIMITED PRODUCE by TMS' anime of Miki Yoshikawa's manga",
+      "pubDate": "2026-10-30T16:19:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOK/cms/news.10/243370/hiragi-san-s-house-of-vampires.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI1NjA",
+      "title": "KAMUI: He's Behind You Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/kamui/he-behind-you/anime-series/.242560",
+      "description": "What I ended up getting…was an over-the-top sex comedy.",
+      "pubDate": "2026-10-30T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/cms/review.2/242560/mv5bnmiwmta4ngqtnza2my00ytzjlwi3nmytytiwmzbhzmi1mtdhxkeyxkfqcgc.v1-fmjpg-ux1000.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM2OQ",
+      "title": "King Gnu Band Hold 1st U.S. Headline Shows in Los Angeles on March 26, New York on April 2",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/king-gnu-band-hold-1st-u.s-headline-shows-in-los-angeles-on-march-26-new-york-on-april-2/.243369",
+      "description": "Band perform songs for Jujutsu Kaisen, Banana Fish, Ranking of Kings, The Ghost in the Shell, Detective Conan",
+      "pubDate": "2026-10-30T15:32:30.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243369/king-gnu-us-tour.jpg"
+    },
+    {
+      "id": "cr-bm91bmNlZA",
+      "title": "Hiragi-san's House of Vampires TV Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/hiragisans-house-of-vampires-tv-anime-announced",
+      "description": "Teaser art revealed for adaptation based on romantic comedy manga by Miki Yoshikawa",
+      "pubDate": "2026-10-30T15:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/680x357/20e2c52d0a/hiragisans_house_of_vampires_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Hiiragi-san Chi no Kyuuketsu Jijou' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74885918?_location=rss",
+      "description": "An official website opened for a television anime adaptation of Miki Yoshikawa's Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san's House of Vampires) manga on Saturday, revealing a teaser visual (pictured). Unlimited Produce by TMS is handling the planning and production. Yoshikawa (Kakkou no Iinazuke) originally drew the supernatural romcom manga as a one-shot by the same name in Weekly Shounen Magazine in September 2019. Bessatsu Shounen Magazine began serializing the series in Octobe...",
+      "pubDate": "2026-10-30T15:28:17.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793373824-de8d21b0451621c3acce1a77827da65f.jpeg"
+    },
+    {
+      "id": "cr-LWphbnVhcnk",
+      "title": "Pole Princess!! Anime Announces Theatrical Film Croix du Nord Coming January 29",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/pole-princess-anime-theatrical-film-croix-du-nord-january",
+      "description": "The new 3DCG anime to screen exclusively in cinemas for two weeks",
+      "pubDate": "2026-10-30T15:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/f6151ba38d/pole-princess-croix-du-nord-logo.png"
+    },
+    {
+      "id": "cr-ZS12aXN1YWw",
+      "title": "Chitose Is in the Ramune Bottle Cour 2 Anime Welcomes Summer with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/chitose-is-in-the-ramune-bottle-cour-2-anime-visual",
+      "description": "The ongoing series is streaming on Crunchyroll",
+      "pubDate": "2026-10-30T15:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/3d196b0d48/chitose-is-in-the-ramune-bottle.jpg"
+    },
+    {
+      "id": "cr-bnRlcnZpZXc",
+      "title": "What Happens After You Go Viral? Ask PSYCHIC FEVER",
+      "link": "https://crunchyroll.com/news/interviews/2026/10/30/psychic-fever-interview",
+      "description": "Where do you go from there?",
+      "pubDate": "2026-10-30T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/3ff2211dd1/psychic-fever-band.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI0Nw",
+      "title": "Manga Up! Global Adds Crimson Prince, The Perfect Cross-Dressing Couple, 5 More Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/manga-up-global-adds-crimson-prince-the-perfect-cross-dressing-couple-5-more-manga/.243247",
+      "description": "Company also adds Not Quite Love, The Evil Princess Will Kill No More, The Witch of Dawn, Reading Our Way to a Happy New World, My Spooky Storyteller Is an Adorable Klutz in English",
+      "pubDate": "2026-10-30T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/cms/news.10/243247/1135b.png.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQzMzY2",
+      "title": "Anime Market Grew 15.8% to Record 4.45 Trillion Yen in 2025",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/anime-market-grew-15.8-percent-to-record-4.45-trillion-yen-in-2025/.243366",
+      "description": "Domestic anime market grew by 14.1% while overseas market grew by 17.2%",
+      "pubDate": "2026-10-30T14:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.9/230464/animejapan-2025-.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM2Nw",
+      "title": "tri-Ace's Resonance of Fate / End of Eternity Game Gets Enhanced Remaster for PS5, Steam Available Now",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/tri-ace-resonance-of-fate-end-of-eternity-game-gets-enhanced-remaster-for-ps5-steam-available-now/.243367",
+      "description": "Those who own 4K/HD Edition already on Steam can purchase DLC to upgrade to new version",
+      "pubDate": "2026-10-30T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.10/243367/unnamed.jpg"
+    },
+    {
+      "id": "cr-bC12aXN1YWw",
+      "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime Unveils Special Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-special-visual",
+      "description": "The anime adaptation of Kotoko, Kaname Hanamiya's manga series premieres in January 2027",
+      "pubDate": "2026-10-30T14:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9e1bd34a0c/the_final_boss_prince_is_somehow_obsessed_with_the_chubby_villainess_reincarnated_me_celine_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Pole Princess!!' Gets Theatrical Anime in January 2027",
+      "link": "https://myanimelist.net/news/74885701?_location=rss",
+      "description": "The official website for the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!! -Croix du Nord- on Friday, revealing the returning cast and staff. The approximately 60-minute anime will feature five new songs from the Shining Pole Song Album and an original story. It is set to receive a two-week limited theatrical screening at six theaters across Japan beginning January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Mushoku...",
+      "pubDate": "2026-10-30T14:09:48.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793369244-f5b9f48f866f1a42903c6d04921e5468.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzIzNg",
+      "title": "This Week in Games - Do They Know its Halloween?",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-10-30/do-they-know-its-halloween/.243236",
+      "description": "Happy Halloween! TWIG celebrates with a \"demonic\" creator interview and a list of the five scariest anthropomorphic personifications of death in games!",
+      "pubDate": "2026-10-30T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKN/cms/this-week-in-games/243236/halloween2.png.jpg"
+    },
+    {
+      "id": "cr-cmFjdGVycw",
+      "title": "HORROR COLLECTOR Anime Reveals 3 New Guest Characters",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/horror-collector-anime-reveals-three-guest-characters",
+      "description": "Daiki Yamashita, Yuka Iguchi and Akari Kito will join the series",
+      "pubDate": "2026-10-30T13:56:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/920a7eb55d/horror_collector_shota_togawa_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM1Nw",
+      "title": "Virtua Fighter Crossroads Game Reveals Character Lionel Rafale in Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/virtua-fighter-crossroads-game-reveals-character-lionel-rafale-in-trailer/.243357",
+      "description": "Narrative-driven action-adventure game launches in 2027",
+      "pubDate": "2026-10-30T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAE/youtube/i-pDJQknmds.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDAyMzI",
+      "title": "Fall 2026 Light Novel Guide",
+      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.240232",
+      "description": "It's time to find your next favorite novel! Our review team read danmei, horror, light novels, and more to help you decide what to curl up with this fall.",
+      "pubDate": "2026-10-30T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/seasonal/240232/fall-2026-light-novel-guide.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDI4NjI",
+      "title": "When Godzilla Stomped On Fairy Tales",
+      "link": "https://www.animenewsnetwork.com/interview/2026-10-30/when-godzilla-stomped-on-fairy-tales/.242862",
+      "description": "Godzilla STOMP! author Katherine Locke shares their enthusiasm for joining the kaiju monster's legacy:  \"I'm excited that this is part of that canon that builds towards Godzilla being for every kid. Godzilla is for everybody.\"",
+      "pubDate": "2026-10-30T13:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g46/cms/interview/242862/godzilla-stomp.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Mushoku Tensei: Dasoku-hen' Concludes with Fourth Volume",
+      "link": "https://myanimelist.net/news/74885300?_location=rss",
+      "description": "The official X account for Kadokawa's MF Books label announced on Friday that Rifujin na Magonote's Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end with its fourth volume on November 25. Rifujin penned the short story collection of Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) on Shousetsuka ni Narou website from May 2015 to September 2017. Kadokawa began publishing the novel through its MF Books label in June...",
+      "pubDate": "2026-10-30T11:51:23.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793360822-e83c84dd09b1e57049388d08862829c3.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMzNjM",
+      "title": "Pole Princess!! Franchise Gets New CG Theatrical Anime Opening on January 29",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/pole-princess-franchise-gets-new-cg-theatrical-anime-opening-on-january-29/.243363",
+      "description": "New 60-minute CG anime features returning cast, staff",
+      "pubDate": "2026-10-30T10:49:38.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIQ/cms/news.10/243363/pp-croix.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Kaketa Tsuki no Mercedes' Reveals Additional Cast, Second Promo",
@@ -350,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T15:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g79/cms/news.10/243122/mia-mezamerushinpeikv.jpg"
+      "image": null
     },
     {
       "id": "cr-ZC10by0yMDI3",
@@ -380,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T14:45:51.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ1/cms/news.10/243328/disney-twisted-wonderland-savanaclaw.jpg"
+      "image": null
     },
     {
       "id": "cr-cmlsLTIwMjc",
@@ -391,216 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x504/4e2927a99e/sailor-moon-shining-theater-hero.png"
-    },
-    {
-      "id": "ann-OC8uMjQzMTc5",
-      "title": "Japan's Video Game Rankings, October 12-18",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/japan-video-game-rankings-october-12-18/.243179",
-      "description": "Tales of Eternia Remastered for Switch 2 debuts at #1",
-      "pubDate": "2026-10-29T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/cms/news.10/243179/eternia.webp"
-    },
-    {
-      "id": "ann-LjI0MzMyMg",
-      "title": "This Week in Anime - Going to Another World",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-10-29/.243322",
-      "description": "Thanks to the Power of the Internet, a columnist says farewell...but not before doing one last isekai seasonal roundup!",
-      "pubDate": "2026-10-29T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH6/cms/this-week-in-anime/243322/lucas-08.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzE3Nw",
-      "title": "Japanese Animation TV Ranking, October 12-18",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/japanese-animation-tv-ranking-october-12-18/.243177",
-      "description": "The Apothecary Diaries season 3 earns 3.6% rating, Dragon Ball Super: Beerus earns 2.8% rating",
-      "pubDate": "2026-10-29T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g93/encyc/A38367-2361689916.1791813611.jpg"
-    },
-    {
-      "id": "ann-NS8uMjQzMzAz",
-      "title": "Reincarnated as a Sword Season 2 ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-5/.243303",
-      "description": "It comes off like an exercise in cramming as much of the last stretch of this plot into the time slot as possible because they just want to be done with it.",
-      "pubDate": "2026-10-29T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK2/cms/episode-review.5/243303/raas2051.jpg"
-    },
-    {
-      "id": "cr-ZS12aXN1YWw",
-      "title": "Disney Twisted-Wonderland The Animation Season 2 Anime Premieres on December 23",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/disney-twisted-wonderland-the-animation-season-2-episode-of-savanaclaw-anime-release-date-visual",
-      "description": "A new visual was also unveiled today",
-      "pubDate": "2026-10-29T12:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/2660x1496/eb01cff173/disney-twisted-wonderland-the-animation-episode-of-savanaclaw.png"
-    },
-    {
-      "id": "cr-LXNla2l5YQ",
-      "title": "HOTEL INHUMANS Season 2 Anime Casts Mitsuki Saiga as Sekiya",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/hotel-inhumans-season-2-anime-casts-mitsuki-saiga-as-sekiya",
-      "description": "Crunchyroll streams adaptation based on manga by Ao Tajima",
-      "pubDate": "2026-10-29T12:25:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/6ea654aca6/hotel_inhumans_sekiya_header.jpg"
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "No-Clipping My Way to Supremacy! Anime Reveals 7 Additional Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/no-clipping-my-way-to-supremacy-anime-7-additional-cast-members",
-      "description": "Adaptation based on fantasy light novel series broadcasts in Japan in 2027",
-      "pubDate": "2026-10-29T12:22:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1440x1080/a5d34e8e9b/no_clipping_my_way_to_supremacy_auroia_header.jpg"
-    },
-    {
-      "id": "cr-YmUtYXMtYW9p",
-      "title": "Firefly Wedding Anime Casts Natsuko Abe as Aoi",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/firefly-wedding-anime-casts-natsuko-abe-as-aoi",
-      "description": "Crunchyroll streams adaptation based on Oreco Tachibana's historical romance manga",
-      "pubDate": "2026-10-29T12:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/084a9aa9dc/firefly_wedding_aoi_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMDQ",
-      "title": "Korea Holds 1st AI Creative Contest for Children to Make Webtoons",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/korea-holds-1st-ai-creative-contest-for-children-to-make-webtoons/.243304",
-      "description": "Participants received instruction in AI ethics, how to use tools before creating their works",
-      "pubDate": "2026-10-29T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDG/cms/news.10/243304/images-8.jfif.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzMyNA",
-      "title": "Expelled from Paradise -The Stellar Angel- Visual Novel's Video Previews Story, Systems, New Characters",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/expelled-from-paradise-the-stellar-angel-visual-novel-video-previews-story-systems-new-characters/.243324",
-      "description": "Game also gets English release on Switch, PC via Steam on November 26",
-      "pubDate": "2026-10-29T12:11:01.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY9/youtube/pabXOS3j-eM.jpg"
-    },
-    {
-      "id": "ann-Zi8uMjQzMzI2",
-      "title": "No-Clipping My Way to Supremacy! TV Anime Reveals 7 Cast, More Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/no-clipping-my-way-to-supremacy-tv-anime-reveals-7-cast-more-staff/.243326",
-      "description": "Nao Ojika, Kengo Tsujii, Tatsuhisa Suzuki, more join cast of 2027 anime",
-      "pubDate": "2026-10-29T11:53:03.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/news.10/243326/clipping1.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMjU",
-      "title": "Shin Oishinbo TV Anime Reveals 6 New Cast Members, Theme Song Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/shin-oishinbo-tv-anime-reveals-6-new-cast-members-theme-song-artists/.243325",
-      "description": "Tōru Furusawa, Kōsuke Echigoya, Kyō Yaoya, more join cast of 2027 anime",
-      "pubDate": "2026-10-29T10:54:32.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE5/cms/news.10/243325/oishinbo1.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMDY",
-      "title": "The Remarried Empress Webtoon Launches Side Stories Ahead of Disney+ Live-Action Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/the-remarried-empress-webtoon-launches-side-stories-ahead-of-disney-live-action-series/.243306",
-      "description": "New episodes will also include alternate-universe stories that imagine different scenarios",
-      "pubDate": "2026-10-29T10:23:25.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/cms/news.10/243306/.jpg.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shin Oishinbo' Reveals Additional Cast, Theme Songs",
-      "link": "https://myanimelist.net/news/74880493?_location=rss",
-      "description": "The official website for the television anime adaptation of Tetsu Kariya's Oishinbo manga, titled Shin Oishinbo, revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere in 2027. Cast Hideo Tanimura: Tohru Furusawa (Toradora!) Tomio Tomii: Kousuke Echigoya (Akane-banashi) Taizou Oohara: Nobuo Tobita (World Is Dancing) Kyouichi Koizumi: Hiroshi Naka (Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka) Kinue Arakawa: Kyou Yaoya (Tefuda ga Oome no Victoria...",
-      "pubDate": "2026-10-29T09:52:07.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793267402-c9544f16c600fbff663bdeb292eba36a.jpeg"
-    },
-    {
-      "id": "cr-ZW1lLXNvbmdz",
-      "title": "New Oishinbo TV Anime Reveals Theme Songs, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/new-oishinbo-tv-anime-additional-cast-theme-songs",
-      "description": "The upcoming reboot airs next year",
-      "pubDate": "2026-10-29T09:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/0be59b6f21/new-oishinbo.jpg"
-    },
-    {
-      "id": "ann-aC8uMjQzMzIz",
-      "title": "Good Smile Company: Full Credit Card Details for 2,800 Customers May Have Been Exposed in Data Breach",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/good-smile-company-full-credit-card-details-for-2800-customers-may-have-been-exposed-in-data-breach/.243323",
-      "description": "Company's current update states customers' complete 16-digit card number may have been exposed due to breach",
-      "pubDate": "2026-10-29T09:10:54.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru' Announces Additional Cast, Staff",
-      "link": "https://myanimelist.net/news/74880301?_location=rss",
-      "description": "The official website of the Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru (No-Clipping My Way to Supremacy!) television anime announced additional cast and staff on Thursday. The anime series adapting Nikita Kitagawa's adventure fantasy light novel will premiere in 2027. Cast Auroia Schmiket: Nao Ojika (Mahou no Shimai Lulutto Lilly) Don: Kengo Tsujii (Liar Game) Guillermo: Tatsuhisa Suzuki (Nanatsu no Taizai) Scarlet: Anna Yamaki (Rifle Is Beautiful) Latch: Shun Horie (Kanojo, O...",
-      "pubDate": "2026-10-29T09:00:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793262421-2394a19e94efff0e1add8e8e38083e6c.jpeg"
-    },
-    {
-      "id": "cr-dHJhdGlvbg",
-      "title": "Inherit the Winds Anime Shoots the Breeze in Fall Illustration",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/inherit-the-winds-anime-fall-illustration",
-      "description": "The original series begins airing in January 2027",
-      "pubDate": "2026-10-29T03:42:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x848/4aa0c6bad5/inherit-the-winds-fall-illustration.jpg"
-    },
-    {
-      "id": "cr-ZnQtMjAyNw",
-      "title": "Cardfight!! Vanguard New TV Anime Series 'Veil Lift' Slated for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/cardfight-vanguard-new-tv-anime-series-veil-lift-2027",
-      "description": "The spin-off series Ghost Meets Gal! will also get a second season",
-      "pubDate": "2026-10-29T02:54:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/b3ab70e12d/cardfight-vanguard-veil-lift-header.png"
-    },
-    {
-      "id": "ann-My8uMjQzMzAw",
-      "title": "Solo Leveling: Arise Overdrive Game Launches for PS5, Xbox Series X|S on November 3",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/solo-leveling-arise-overdrive-game-launches-for-ps5-xbox-series-x-s-on-november-3/.243300",
-      "description": "Game launched for PC via Steam, Xbox PC in November 2025",
-      "pubDate": "2026-10-29T02:00:16.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI3OQ",
-      "title": "Rainbow Days' Minami Mizuno Launches New Fujikawa Minori wa Erabenai. Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/rainbow-days-minami-mizuno-launches-new-fujikawa-minori-wa-erabenai-manga/.243279",
-      "description": "Mizuno to launch Fujikawa Minori wa Erabenai. manga on November 28",
-      "pubDate": "2026-10-29T02:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 };
