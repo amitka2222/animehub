@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-30T03:06:49.749Z",
+  "lastUpdated": "2026-10-30T11:44:14.388Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kaketa Tsuki no Mercedes' Reveals Additional Cast, Second Promo",
+      "link": "https://myanimelist.net/news/74885002?_location=rss",
+      "description": "The official website for the television anime adaptation of Firehead's Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed additional cast and second promotional video. The anime series will premiere in January 2027. Cast Benkei: Kenta Miyake (Hidarikiki no Eren) Kuro: Ryuunosuke Watanuki (Yomi no Tsugai) Florian: Junichi Su...",
+      "pubDate": "2026-10-30T09:43:30.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793353374-ed326b8041be60a7180b97a3cfab14e1.jpeg"
+    },
+    {
+      "id": "cr-b25hbC1jYXN0",
+      "title": "Mercedes and the Waning Moon Anime Unveils New Trailer, Additional Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/mercedes-and-the-waning-moon-anime-trailer-additional-cast",
+      "description": "The fantasy series debuts in January 2027",
+      "pubDate": "2026-10-30T09:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/869e24a7a5/mercedes-and-the-waning-moon.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQzMzYy",
+      "title": "Destiny Unchain Online TV Anime to Star Ikumi Hasegawa",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/destiny-unchain-online-tv-anime-to-star-ikumi-hasegawa/.243362",
+      "description": "Teaser promo video, main staff, 2027 debut also revealed",
+      "pubDate": "2026-10-30T09:17:51.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.10/243362/duo-visual.jfif.jpeg"
+    },
+    {
+      "id": "ann-by8uMjQzMzU4",
+      "title": "Mercedes and the Waning Moon TV Anime Reveals 4 More Cast Members in 2nd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/mercedes-and-the-waning-moon-tv-anime-reveals-4-more-cast-members-in-2nd-promo-video/.243358",
+      "description": "Kenta Miyake, Junichi Suwabe, Ai Kayano, more join cast for series debuting in January 2027",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUC/cms/news.10/243358/ss.jpg"
+    },
+    {
+      "id": "cr-ZmYtY2FzdA",
+      "title": "Destiny Unchain Online Anime Trailer Reveals 2027 Release Date, Main Cast and Staff",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/destiny-unchain-online-anime-2027-release-date-trailer-staff-cast",
+      "description": "A teaser visual was also unveiled today",
+      "pubDate": "2026-10-30T08:43:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/be0a1277f5/destiny-unchain-online.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Destiny Unchain Online' Reveals Main Cast, Staff, Teaser Promo, 2027 Debut",
+      "link": "https://myanimelist.net/news/74884436?_location=rss",
+      "description": "An official website opened for the Destiny Unchain Online television anime on Friday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series adapting resn's adventure fantasy light novel will premiere in 2027. Voice actress Ikumi Hasegawa (86, Bocchi the Rock!) is starring as the main character Crim. Staff Director: Kouichi Hatsumi (Tokyo Revengers) Series Composition: Seiko Takagi (Yakusoku no Neverland script) Character Design: Masashi K...",
+      "pubDate": "2026-10-30T08:00:02.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793338936-02884c8a799b2322fa6cbff70b7957cf.jpeg"
+    },
+    {
+      "id": "cr-b24tY2FzdA",
+      "title": "Wound & Bandage Anime Reveals Two More Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/30/wound-and-bandage-anime-magical-penpengusa-matsudaemon-cast",
+      "description": "Miyuki Ishida directs the series at studio J.C.Staff",
+      "pubDate": "2026-10-30T07:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/1b9d82c986/wound-and-bandage-matsudaemon.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMzU5",
+      "title": "Yōko Hikasa, Yuka Iguchi Join Cast of Wound & Bandage Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/yoko-hikasa-yuka-iguchi-join-cast-of-wound-and-bandage-anime/.243359",
+      "description": "Series debuts on January 9",
+      "pubDate": "2026-10-30T07:44:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOE/youtube/QNKnK31TUow.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kizuguchi to Houtai' Unveils Additional Cast, Third Teaser Promo",
+      "link": "https://myanimelist.net/news/74884610?_location=rss",
+      "description": "The official website of the Kizuguchi to Houtai (Wound and Bandage) television anime unveiled additional cast, third teaser visual (pictured), and third promotional video on Friday. The anime series adapting Nanai Umihoshi's romantic comedy manga will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Ginsuke Hatobane: Shouya Ishige (Sono Bisque Doll wa Koi wo Suru) Magical Penpengusa: Yuka Iguchi (Honzuki no Gekokujou...",
+      "pubDate": "2026-10-30T07:21:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793344878-185b496bb20c0f391f599cc37709a808.png"
+    },
+    {
+      "id": "ann-Ly4yNDMzNTU",
+      "title": "Kadokawa Launches 'Kadokawa World Manga' English Label on its KadoComi Platform",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/kadokawa-launches-kadokawa-world-manga-english-label-on-its-kadocomi-platform/.243355",
+      "description": "Brain Alive, Kung Fu Kung Fool, Spica and Voice of Books, more manga available now in English",
+      "pubDate": "2026-10-30T06:54:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO9/cms/news.10/243355/image-4.jpg"
+    },
+    {
+      "id": "ann-Zi8uMjQzMzUz",
+      "title": "Death Stranding Isolations Anime Reveals Teaser Trailer, More Staff",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/death-stranding-isolations-anime-reveals-teaser-trailer-more-staff/.243353",
+      "description": "Tow Ubukata to oversee, write series scripts",
+      "pubDate": "2026-10-30T05:43:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCB/cms/news.10/243353/unnamed-1.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzI2Ng",
+      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part IV",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-29/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iv/.243266",
+      "description": "Creators, artists, & fans came together for their farewells",
+      "pubDate": "2026-10-30T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/herald/202619/81vvd0s30sl.ac-uf1000-1000-ql80.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Death Stranding: Isolations' Reveals Additional Staff, Teaser Promo",
@@ -430,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T09:10:54.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.9/232514/goodsmile.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -441,16 +561,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793262421-2394a19e94efff0e1add8e8e38083e6c.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMyNjU",
-      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part III",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iii/.243265",
-      "description": "Creators, artists, & fans came together for their farewells",
-      "pubDate": "2026-10-29T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/cms/interest.3/243265/b3mghr0j.jpeg"
     },
     {
       "id": "cr-dHJhdGlvbg",
@@ -480,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T02:00:16.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243300/ariseoverdrive.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzI3OQ",
@@ -488,116 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-10-28/rainbow-days-minami-mizuno-launches-new-fujikawa-minori-wa-erabenai-manga/.243279",
       "description": "Mizuno to launch Fujikawa Minori wa Erabenai. manga on November 28",
       "pubDate": "2026-10-29T02:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.10/243279/mizuno.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMyOTg",
-      "title": "Seven Seas Licenses  Nighthawk, Once Again, Will You Take a Bath with Me?, 2 More Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/seven-seas-licenses-nighthawk-once-again-will-you-take-a-bath-with-me-2-more-titles/.243298",
-      "description": "Also licensed: Dumbass Zombies!!! An Intermediate-Level Survival Guide for a World Where You Can Die Just Going to Borrow Soy Sauce, Misdeeds of an Extremely Arrogant Villain Aristocrat audiobook",
-      "pubDate": "2026-10-29T01:55:42.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243298/dumbass-zombies-m1-cover-jpn.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Nijiiro Days' Creator Launches New Manga",
-      "link": "https://myanimelist.net/news/74879108?_location=rss",
-      "description": "Manga creator Minami Mizuno announced on X (formerly Twitter) on Wednesday that she will launch a new manga, Fujikawa Minori wa Erabenai., in the Cocohana magazine. The January 2027 issue will publish the first chapter on November 28. Mizuno is best known for Nijiiro Days (Rainbow Days), which ran in Bessatsu Margaret magazine from December 2011 to May 2018. Shueisha published the 16th and final volume in June 2018. VIZ Media licensed the manga in English in February 2022 and released the 16th v...",
-      "pubDate": "2026-10-29T01:22:17.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793236913-543ad8ab6b5e09d76f6cbaf00566b7d7.png"
-    },
-    {
-      "id": "cr-Yy12aWRlbw",
-      "title": "Voice Actor Amane Shindo Shares Solo Artist Debut Song \"Nouvelle Vague\" Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/voice-actor-amane-shindo-solo-artist-debut-song-music-video",
-      "description": "Two more songs will be released in the future",
-      "pubDate": "2026-10-29T01:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/c5d072dca2/amane-shindo-nouvelle-vague-mv.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQzMjg2",
-      "title": "New Fortnite Battle Royale Trailer Confirms One Piece's Straw Hat Pirates",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-28/new-fortnite-battle-royale-trailer-confirms-one-piece-straw-hat-pirates/.243286",
-      "description": "Fortnite's \"Treasure Hunters\" launches on November 1",
-      "pubDate": "2026-10-29T01:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/youtube/WKTOfvqL-bc.jpg"
-    },
-    {
-      "id": "cr-bWlzc2lvbg",
-      "title": "MAN WITH A MISSION Releases The Vermilion Mask Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/the-vermilion-mask-anime-opening-song-music-video-man-with-a-mission",
-      "description": "Crunchyroll is streaming the new battle-fantasy series",
-      "pubDate": "2026-10-29T00:38:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4b8f198681/man-with-a-mission-firestarter-mv.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMyNzE",
-      "title": "Natsume Ono to Launch Korore Spinoff Manga of ACCA-13, Badon Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/natsume-ono-to-launch-korore-spinoff-manga-of-acca-13-badon-manga/.243271",
-      "description": "New KORORE manga launches on February 25",
-      "pubDate": "2026-10-29T00:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI2Mw",
-      "title": "Sachiko Uguisu's Kaikai Gigigigigi Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/sachiko-uguisu-kaikai-gigigigigi-manga-ends/.243263",
-      "description": "Series debuted in April 2025",
-      "pubDate": "2026-10-28T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQzMjgw",
-      "title": "The Full-Time Wife Escapist's Tsunami Umino Launches New Manga in December",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280",
-      "description": "Umino to launch series of previous 1-shot Omiai Tantei Katabiranotsuji Nagi",
-      "pubDate": "2026-10-28T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMyNzI",
-      "title": "Yuki Amemiya, Yukino Ichihara's My Husband is a Doomsday Weapon Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/yuki-amemiya-yukino-ichihara-my-husband-is-a-doomsday-weapon-manga-ends/.243272",
-      "description": "Manga launched in November 2024; Kodansha USA to release 1st volume in English on December 22",
-      "pubDate": "2026-10-28T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI5Nw",
-      "title": "Digimon Alysion Smartphone Card Game Opens Pre-Registration with New Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/digimon-alysion-smartphone-card-game-opens-pre-registration-with-new-trailer/.243297",
-      "description": "Game slated for 2026 release",
-      "pubDate": "2026-10-28T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzI4NA",
-      "title": "Reiko Shimizu's Himitsu Season 0 Spinoff Manga Enters Final Arc",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-28/reiko-shimizu-himitsu-season-0-spinoff-manga-enters-final-arc/.243284",
-      "description": "Final arc starts on December 25",
-      "pubDate": "2026-10-28T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
       "image": null
