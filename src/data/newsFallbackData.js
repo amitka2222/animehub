@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-31T02:53:22.876Z",
+  "lastUpdated": "2026-10-31T11:17:39.273Z",
   "items": [
+    {
+      "id": "ann-ZC8uMjQzMzg0",
+      "title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384",
+      "description": "Fund to offer investment opportunities to companies that have previously found it difficult to enter anime business",
+      "pubDate": "2026-10-31T09:04:51.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJG/cms/news.10/243384/comisma.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzMzgz",
+      "title": "Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383",
+      "description": "New promo video previews opening theme",
+      "pubDate": "2026-10-31T07:53:45.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/youtube/A86REZ-veV8.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Supporting Cast for 'Kaze wo Tsugumono' Announced",
+      "link": "https://myanimelist.net/news/74888954?_location=rss",
+      "description": "The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday. An advance theatrical screening will run for two weeks starting November 13. The anime will premiere in January 2027 at 11:30 p.m. on the Agaru Anime programming block on CBC and TBS' 28 affiliated stations. Cast Nishiki Niimi: Daisuke Hirakawa (Tefuda ga Oome no Victoria) Kisaburou Kawai: Toshiyuki Toyonaga (Mao) Kyuusai Momoyama: Kappei Yamaguchi (Yomi no Ts...",
+      "pubDate": "2026-10-31T07:47:07.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793432771-a3466e696460f7f1ee2f95b382664ef8.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDMzODA",
+      "title": "Final Fantasy XIV Game Reveals February 19 Early Access Date for 'Evercold' Expansion, New Job Zephyr",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380",
+      "description": "General launch for expansion is on February 23; Evangelion collab also highlighted in video",
+      "pubDate": "2026-10-31T07:29:30.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMH/youtube/_qY_Hc4xaQY.jpg"
+    },
+    {
+      "id": "cr-eWFtYS1jYXN0",
+      "title": "Inherit the Winds Anime Reveals Four More Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/inherit-the-winds-anime-nishiki-niimi-kisaburo-kawai-toshimaro-yoshida-kyusai-momoyama-cast",
+      "description": "The original series begins airing in January 2027",
+      "pubDate": "2026-10-31T07:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/1cdb6dbc37/inherit-the-winds-four-cast.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzNzM",
+      "title": "Inherit the Winds Anime Reveals 4 More Cast Members, New Visual",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373",
+      "description": "Franchise also gets short story, novel in Japanese",
+      "pubDate": "2026-10-31T07:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/news.10/243373/new-cast-winds.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund",
+      "link": "https://myanimelist.net/news/74888629?_location=rss",
+      "description": "Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million) in assets under management by the end of fiscal 2027. The initiative aims to broaden access to production financing, attract a broader range of investors, and improve financial returns for creators as demand for Japanese animation continues to grow worldwide. Under the proposed arrangement, the t...",
+      "pubDate": "2026-10-31T05:20:15.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793423817-bd3fc7c0b45fd3302d31e75195a006b8.jpeg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Isshiki-san Wants to Know About Love Anime Opening Theme Song Previewed in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/isshiki-san-wants-to-know-about-love-anime-opening-theme-song-main-trailer",
+      "description": "The police rom-com series debuts in January 2027",
+      "pubDate": "2026-10-31T05:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/2eeb9dd7e8/isshiki-san-wants-to-know-about-love.jpg"
+    },
+    {
+      "id": "cr-Z2VkLWpvYg",
+      "title": "FINAL FANTASY XIV: Evercold Reveals February 23 Launch Date, New Job and More",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/final-fantasy-xiv-evercold-february-23-2027-release-date-zephyr-ranged-job",
+      "description": "A fresh look at the new Ranged DPS and multiple areas",
+      "pubDate": "2026-10-31T04:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/09b05d1170/final-fantasy-xiv-evercold.jpg"
+    },
+    {
+      "id": "ann-LjI0MzMzMA",
+      "title": "Hard Rock Cafe Japan Partners with Evangelion for 1st Ever Collaboration",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-30/hard-rock-cafe-japan-partners-with-evangelion-for-1st-ever-collaboration/.243330",
+      "description": "Hard Rock Cafe mustn't run away",
+      "pubDate": "2026-10-31T03:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/interest.3/243330/hard-rock-evangelion-kv.jpg"
+    },
     {
       "id": "cr-YXJ5LTIwMjc",
       "title": "Voice Actor Nobuhiko Okamoto to Release 40th-Birthday Photobook in February 2027",
@@ -126,7 +226,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "Manga 'Hiiragi-san Chi no Kyuuketsu Jijou' Gets TV Anime",
       "link": "https://myanimelist.net/news/74885918?_location=rss",
-      "description": "An official website opened for a television anime adaptation of Miki Yoshikawa's Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san's House of Vampires) manga on Saturday, revealing a teaser visual (pictured). Unlimited Produce by TMS is handling the planning and production. Yoshikawa (Kakkou no Iinazuke) originally drew the supernatural romcom manga as a one-shot by the same name in Weekly Shounen Magazine in September 2019. Bessatsu Shounen Magazine began serializing the series in Octobe...",
+      "description": "TMS Entertainment opened an official website for a television anime adaptation of Miki Yoshikawa's Hiiragi-san Chi no Kyuuketsu Jijou (Hiragi-san's House of Vampires) manga on Saturday, revealing a teaser visual (pictured). Unlimited Produce by TMS is credited for the planning and production. Yoshikawa (Kakkou no Iinazuke) originally drew the supernatural romcom manga as a one-shot in Weekly Shounen Magazine in September 2019. Bessatsu Shounen Magazine began serializing the series in O...",
       "pubDate": "2026-10-30T15:28:17.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -206,7 +306,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'Pole Princess!!' Gets Theatrical Anime in January 2027",
       "link": "https://myanimelist.net/news/74885701?_location=rss",
-      "description": "The official website for the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!! -Croix du Nord- on Friday, revealing the returning cast and staff. The approximately 60-minute anime will feature five new songs from the Shining Pole Song Album and an original story. It is set to receive a two-week limited theatrical screening at six theaters across Japan beginning January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Mushoku...",
+      "description": "The official website of the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!!: Croix du Nord on Friday, revealing the returning cast and staff. The anime will run for approximately 60 minutes, featuring five new songs from the Shining Pole Song Album and an original story. A two-week limited theatrical screening of the anime will begin at six theaters in Japan on January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Musho...",
       "pubDate": "2026-10-30T14:09:48.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "People",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCE/cms/news.10/243339/sir-patrick-stewart.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQzMzM4",
-      "title": "Hotel Inhumans Anime's 2nd Season Casts Mitsuki Saiga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338",
-      "description": "Saiga plays Sekiya",
-      "pubDate": "2026-10-29T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSL/cms/news.10/243338/hotel-inhumans-sekiya.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQzMzM2",
-      "title": "Firefly Wedding TV Anime Casts Natsuko Abe",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336",
-      "description": "Abe plays Aoi",
-      "pubDate": "2026-10-29T19:10:36.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g83/cms/news.10/243336/firefly-wedding-aoi.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMzc",
-      "title": "The World's Strongest Witch ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-4/.243337",
-      "description": "I know that this work can engage deeper gaming mechanics and why people love playing these kinds of video games, and hope it gets back to engaging with those ideas soon.",
-      "pubDate": "2026-10-29T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/episode-review.5/243337/strongest-witch-episode-4-review-image.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMzU",
-      "title": "The Grimm Reapress and the Drearytale Monster Game's Trailer Reveals May 13 Release in West",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/the-grimm-reapress-and-the-drearytale-monster-game-trailer-reveals-may-13-release-in-west/.243335",
-      "description": "Game launches for Switch 2, Switch, PS5, PC",
-      "pubDate": "2026-10-29T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGS/youtube/vhuWNmqYe5g.jpg"
-    },
-    {
-      "id": "cr-Z29qby1nZXRv",
-      "title": "Marshmello x JUJUTSU KAISEN Collaboration Focuses on Gojo and Geto’s Past",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/marshmello-jujutsu-kaisen-collaboration-gojo-geto",
-      "description": "New line of apparel is all about Hidden Inventory / Premature Death",
-      "pubDate": "2026-10-29T17:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/18deddb572/marshmello-jjk.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMzM",
-      "title": "FromSoftware Delays The Duskbloods Switch 2 Game to 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/fromsoftware-delays-the-duskbloods-switch-2-game-to-2027/.243333",
-      "description": "Developers to take additional time to adjust game balance following August's Closed Network Test",
-      "pubDate": "2026-10-29T17:17:48.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYY/cms/news.10/243333/the-duskbloods.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzMzI",
-      "title": "Rascal Does Not Dream of a Dear Friend Film Screens in U.S., Canada on February 21, 23-24",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/rascal-does-not-dream-of-a-dear-friend-film-screens-in-u.s-canada-on-february-21-23-24/.243332",
-      "description": "English-subbed trailer streamed",
-      "pubDate": "2026-10-29T16:30:10.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMjQx",
-      "title": "Daily Report About My Witch Senpai Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/daily-report-about-my-witch-senpai-manga-ends/.243241",
-      "description": "Manga launched 2018, continued with sequel in 2022",
-      "pubDate": "2026-10-29T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzMyOQ",
-      "title": "Lustful Domination Novels/Manga Get AnimeFesta Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/lustful-domination-novels-manga-get-animefesta-anime/.243329",
-      "description": "Isotarо̄ Shimano debuted Shikiyoku Hadou novel in June 2025",
-      "pubDate": "2026-10-29T16:01:10.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Ny1yZWxlYXNl",
-      "title": "Rascal Does Not Dream of a Dear Friend Anime Film Releases in United States, Canada, Australia in February 2027",
-      "link": "https://crunchyroll.com/news/announcements/2026/10/29/rascal-does-not-dream-of-a-dear-friend-anime-film-united-states-canada-australia-february-2027-release",
-      "description": "The movie premiered in Japan on October 16",
-      "pubDate": "2026-10-29T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/12248b9e6b/rascal-does-not-dream-of-a-dear-friend.jpg"
     }
   ]
 };
