@@ -1,7 +1,117 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-31T11:17:39.273Z",
+  "lastUpdated": "2026-10-31T16:23:22.703Z",
   "items": [
+    {
+      "id": "ann-LjI0MjcyOQ",
+      "title": "Murciélago Volumes 1-3 Manga Review",
+      "link": "https://www.animenewsnetwork.com/review/murcielago-volumes-1-3/manga/.242729",
+      "description": "Kuroko Koumori is an unrepentant womanizer and serial killer, and when the Tokyo Police offer her freedom in return for killing the worst of the worst, she can’t say yes fast enough!",
+      "pubDate": "2026-10-31T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8C/cms/review.2/242729/mucielago-cover.png.jpg"
+    },
+    {
+      "id": "ann-aS8uMjQzMzg4",
+      "title": "Happy Halloween 2026 From Around the Anime World, Part II",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-ii/.243388",
+      "description": "Featuring Dan Da Dan, Gundam Hathaway & The Witch from Mercury, Frieren, Pokémon, Chibi Maruko-chan, Doraemon, Votoms: Die Graue Hexe, Tsuburaya Productions, Sega, & more!",
+      "pubDate": "2026-10-31T15:40:00.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHO/cms/interest.3/243388/frieren-halloween-2026.jpg"
+    },
+    {
+      "id": "ann-My8uMjQzMzg5",
+      "title": "The Apothecary Diaries Season 3 ‒ Episode 53",
+      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-53/.243389",
+      "description": "In its earliest recorded variants, \"The Legend of the White Snake\" is a story about a white snake demon who transforms into a beautiful woman to prey on men.",
+      "pubDate": "2026-10-31T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG1/cms/episode-review.5/243389/apothecary-53.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzOTA",
+      "title": "Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390",
+      "description": "Hiro Shimono to perform ending theme",
+      "pubDate": "2026-10-31T15:13:57.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDK/cms/news.9/241689/romelia-kv.png.jpg"
+    },
+    {
+      "id": "cr-ci10cmVhdA",
+      "title": "10 Best Anime Characters to Take Trick-Or-Treating",
+      "link": "https://crunchyroll.com/news/features/2026/10/31/best-anime-characters-trick-or-treat",
+      "description": "What would Halloween be like with anime characters?",
+      "pubDate": "2026-10-31T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/3d5cda3432/gachiakuta-episode-8.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM4Nw",
+      "title": "Magic Knight Rayearth ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-4/.243387",
+      "description": "Is it weird getting your world-saving spells through a magic Zoom call?",
+      "pubDate": "2026-10-31T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOT/cms/episode-review.5/243387/rayearth-1.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzODY",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6",
+      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386",
+      "description": "With episode six, the last pillar of patriarchy is erected and now the two best bros in all of anime can begin tearing the oppressive structure down.",
+      "pubDate": "2026-10-31T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/episode-review.5/243386/sbr-episode-6-review-image.png.jpg"
+    },
+    {
+      "id": "cr-aWwtMjAyNw",
+      "title": "Romelia War Chronicle Cour 2 Anime Scheduled for April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/romelia-war-chronicle-cour-2-anime-scheduled-for-april-2027",
+      "description": "New ending theme song performer revealed for ongoing adaptation of fantasy light novels",
+      "pubDate": "2026-10-31T13:11:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/351b29fd64/romelia_war_chronicle_al_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzNDg",
+      "title": "FX Fighter Kurumi-chan ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-5/.243348",
+      "description": "Characters are tools. They're just tools for demonstrating ideas. Ideas like the fact that addiction is dangerous. I didn't know that before watching this anime.",
+      "pubDate": "2026-10-31T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/episode-review.5/243348/fxfk051.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM0Nw",
+      "title": "Suikoden: The Anime ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-4/.243347",
+      "description": "The two of them sneaking in under the guise of enemy soldiers is just far more immediate and compelling than the earlier political maneuvering.",
+      "pubDate": "2026-10-31T11:36:38.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHM/cms/episode-review.5/243347/suikoden4.png.jpg"
+    },
+    {
+      "id": "cr-dXAtMjAyNg",
+      "title": "ROUNDUP: Anime Gets into the Halloween 2026 Spirit with Spooky Visuals and Illustrations",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/anime-halloween-art-roundup-2026",
+      "description": "A highlight package of this year's tricks and treats from your favorite anime!",
+      "pubDate": "2026-10-31T11:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1500x1061/69bad35be8/mashle-magic-and-muscles-halloween-art-2026.jpg"
+    },
     {
       "id": "ann-ZC8uMjQzMzg0",
       "title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
@@ -420,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUC/cms/news.10/243358/ss.jpg"
+      "image": null
     },
     {
       "id": "cr-ZmYtY2FzdA",
@@ -460,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T07:44:53.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOE/youtube/QNKnK31TUow.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -480,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T06:54:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO9/cms/news.10/243355/image-4.jpg"
+      "image": null
     },
     {
       "id": "ann-Zi8uMjQzMzUz",
@@ -490,117 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T05:43:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCB/cms/news.10/243353/unnamed-1.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzI2Ng",
-      "title": "Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part IV",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-29/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-iv/.243266",
-      "description": "Creators, artists, & fans came together for their farewells",
-      "pubDate": "2026-10-30T03:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/herald/202619/81vvd0s30sl.ac-uf1000-1000-ql80.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Death Stranding: Isolations' Reveals Additional Staff, Teaser Promo",
-      "link": "https://myanimelist.net/news/74883978?_location=rss",
-      "description": "The official X of Kojima Productions revealed additional staff, teaser visual (pictured), and a teaser promotional video for the Death Stranding: Isolations anime series on Friday. The anime is scheduled to premiere worldwide on the Disney+ streaming service in 2027. Staff Series Composition, Script: Tow Ubukata (RWBY: Hyousetsu Teikoku) Character Design: Sayaka Koiso (Jujutsu Kaisen 2nd Season) Art Director, Color Script: Yann Le Gall (Ramen Akaneko) Color Design: Ami Kutsuna (The God of High S...",
-      "pubDate": "2026-10-30T02:56:32.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793328837-0665dd82068919c724d95ebed2d48e6b.jpeg"
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "DEATH STRANDING ISOLATIONS Anime Releases Teaser Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/death-stranding-isolations-anime-teaser-trailer-visual",
-      "description": "Takayuki Sano directs the anime at studio E&H production",
-      "pubDate": "2026-10-30T02:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/f62b463532/death-stranding-isolations.jpg"
-    },
-    {
-      "id": "cr-dGVydmlldw",
-      "title": "Hideo Suzuki Tells Us What to Expect From the Attack on Titan 3 Game",
-      "link": "https://crunchyroll.com/news/interviews/2026/10/30/hideo-suzuki-attack-on-titan-3-interview",
-      "description": "The game releases December 10, 2026",
-      "pubDate": "2026-10-30T01:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/77e20f448c/attack-on-titan-3-game.png"
-    },
-    {
-      "id": "cr-YXJjaC0yMDI3",
-      "title": "Macross Delta Idol Unit Walküre to Release 10th-Anniversary Single in March 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/macross-delta-idol-unit-walkuere-10th-anniversary-single-march-2027",
-      "description": "The anime series' 10th-anniversary event is also scheduled for January 17, 2027",
-      "pubDate": "2026-10-30T00:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ebf1665f15/macross-delta-walkure-10th-anniversary-single-header.jpg"
-    },
-    {
-      "id": "ann-LjI0MzMwMg",
-      "title": "Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302",
-      "description": "Suzukawa currently planning new chapters, will start full color with 19th chapter",
-      "pubDate": "2026-10-29T23:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL9/cms/news.10/243302/outsiderparadise.jpg"
-    },
-    {
-      "id": "ann-LjI0MzMwMQ",
-      "title": "Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301",
-      "description": "Manga returns sometime in February-March",
-      "pubDate": "2026-10-29T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIA/cms/news.10/243301/sugoikotoiugyaru.jpg"
-    },
-    {
-      "id": "cr-ZW4tc2Vhcw",
-      "title": "The Misdeeds of an Extremely Arrogant Villain Aristocrat Audiobook and More Coming from Seven Seas",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/the-misdeeds-of-an-extremely-arrogant-villain-aristocrat-audiobook-seven-seas",
-      "description": "Latest batch includes audiobook, manga and baihe releases",
-      "pubDate": "2026-10-29T21:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ac8fbd1c60/seven-seas-misdeeds-hero.jpg"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Fate/EXTRA Record Game Releases ALICE Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/fate-extra-record-game-alice-character-trailer",
-      "description": "The game is scheduled for release on January 28, 2027",
-      "pubDate": "2026-10-29T21:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x576/2459a58408/fate-extra-record-alice.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMyOTk",
-      "title": "Shōta Kōno Launches Nightmare of Oveja Negra Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299",
-      "description": "Science fiction horror story debuted on Tuesday",
-      "pubDate": "2026-10-29T21:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBB/herald/202612/nightmare-of-oveja-negra.jpg"
-    },
-    {
-      "id": "ann-Ni8uMjQzMzM5",
-      "title": "Star Trek, X-Men Actor Patrick Stewart Dies at 86",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/star-trek-x-men-actor-patrick-stewart-dies-at-86/.243339",
-      "description": "Stewart played Captain Picard in Star Trek, Professor Xavier in X-Men",
-      "pubDate": "2026-10-29T20:18:57.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCE/cms/news.10/243339/sir-patrick-stewart.jpg"
+      "image": null
     }
   ]
 };
