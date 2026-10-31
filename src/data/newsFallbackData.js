@@ -1,7 +1,67 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-30T21:43:35.574Z",
+  "lastUpdated": "2026-10-31T02:53:22.876Z",
   "items": [
+    {
+      "id": "cr-YXJ5LTIwMjc",
+      "title": "Voice Actor Nobuhiko Okamoto to Release 40th-Birthday Photobook in February 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/voice-actor-nobuhiko-okamoto-40th-birthday-photobook-february-2027",
+      "description": "Shooting took place in Kyoto, Kobe, and near the Kanto region",
+      "pubDate": "2026-10-31T02:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a5bb5501ac/nobuhiko-okamoto-header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzMzMQ",
+      "title": "40 Manga Creators Celebrate Meiji Milk Chocolate's 100th Anniversary",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-30/40-manga-creators-celebrate-meiji-milk-chocolate-100th-anniversary/.243331",
+      "description": "Along with 21 artists",
+      "pubDate": "2026-10-31T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/interest.3/243331/meiji-chocolate-100th-anniversary-mangaka.jpg"
+    },
+    {
+      "id": "cr-cmEtbmFuYQ",
+      "title": "Kagura Nana Releases The Detective Is Already Dead Season 2 Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/the-detective-is-already-dead-season-2-anime-ending-song-music-video-kagura-nana",
+      "description": "The new season is currently available on Crunchyroll",
+      "pubDate": "2026-10-31T01:46:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4105a808d8/kagura-nana-hakuchumu-mv.jpg"
+    },
+    {
+      "id": "cr-b3ZpZS0yMDI3",
+      "title": "Sanrio Mascot Kuromi Gets Anime Movie Slated for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/10/31/kuromi-sanrio-mascot-first-anime-movie-2027",
+      "description": "Details on the international release will be announced at a later date",
+      "pubDate": "2026-10-31T00:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f95570056d/kuromi-film-header.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzMzcy",
+      "title": "Sanrio's Kuromi Character Gets 1st Film in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/sanrio-kuromi-character-gets-1st-film-in-2027/.243372",
+      "description": "Announced on Kuromi's birthday, Halloween, after 3 net anime series",
+      "pubDate": "2026-10-31T00:42:09.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/news.10/243372/kv-kuromi-pc.webp"
+    },
+    {
+      "id": "ann-LjI0MzIyMw",
+      "title": "North American Anime, Manga Releases, October 25-31",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-30/north-american-anime-manga-releases-october-25-31/.243223",
+      "description": "Yaiba: Samurai Legend, Sword of the Demon Hunter anime; Naruto x Teenage Mutant Ninja Turtles—Manga Style Edition, Tojima Wants to be a Kamen Rider manga ship",
+      "pubDate": "2026-10-30T21:10:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/cms/news.10/243223/yaiba-bd.jpg"
+    },
     {
       "id": "ann-ZS8uMjQzMzcx",
       "title": "Brazil's CCXP Screens World Premiere of Garena Free Fire Game's Free Fire Daybreak Anime",
@@ -510,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T16:30:10.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/youtube/sRRF07LYA0E.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzMjQx",
@@ -520,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T16:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.5/185045/dailyreport.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzMyOQ",
@@ -530,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-29T16:01:10.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/243329/lustful-domination.jpg"
+      "image": null
     },
     {
       "id": "cr-Ny1yZWxlYXNl",
@@ -541,66 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Announcements",
       "image": "https://a.storyblok.com/f/178900/1920x1080/12248b9e6b/rascal-does-not-dream-of-a-dear-friend.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMwMzA",
-      "title": "Vampire Princess Miyu OVA Blu-ray Anime Review",
-      "link": "https://www.animenewsnetwork.com/review/vampire-princess-miyu/blu-ray-the-complete-ova-anime-series/.243030",
-      "description": "The Vampire Princess Miyu OAVs are perhaps a relic of a bygone time, but they're still worth watching.",
-      "pubDate": "2026-10-29T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZWFzZS1kYXRl",
-      "title": "Solo Leveling: ARISE OVERDRIVE PS5, Xbox Series Release Date Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/solo-leveling-arise-overdrive-ps5-xbox-series-release-date",
-      "description": "Action game is currently available on PC",
-      "pubDate": "2026-10-29T15:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/f6bf8adea3/solo-leveling-arise-overdrive-screen.jpeg"
-    },
-    {
-      "id": "ann-Ni8uMjQzMjQ0",
-      "title": "Chiikawa Anime Film Rises Back to #2, Made in Abyss: Mezameru Shinpi Anime Film Opens at #6",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/chiikawa-anime-film-rises-back-to-no.2-made-in-abyss-mezameru-shinpi-anime-film-opens-at-no.6/.243244",
-      "description": "Live-action In the Clear Moonlit Dusk film opens at #4",
-      "pubDate": "2026-10-29T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZC10by0yMDI3",
-      "title": "FromSoftware’s The Duskbloods Delayed to 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/fromsoftware-the-duskbloods-delayed-to-2027",
-      "description": "Developer took feedback from network test, aims to improve experience",
-      "pubDate": "2026-10-29T15:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/ccee197707/duskbloods.jpeg"
-    },
-    {
-      "id": "cr-YXgtdmlzdWFs",
-      "title": "Witch on the Holy Night Anime Film Shares New Visual for IMAX Release",
-      "link": "https://crunchyroll.com/news/latest/2026/10/29/witch-on-the-holy-night-anime-film-imax-visual",
-      "description": "The movie releases in Japan on November 20",
-      "pubDate": "2026-10-29T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/f517d54733/witch-on-the-holy-night.png"
-    },
-    {
-      "id": "ann-Ly4yNDMzMjg",
-      "title": "Disney Twisted-Wonderland Anime's 'Episode of Savanaclaw' Begins 8-Episode Run on December 23",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-29/disney-twisted-wonderland-anime-episode-of-savanaclaw-begins-8-episode-run-on-december-23/.243328",
-      "description": "Visual unveiled for 2nd season",
-      "pubDate": "2026-10-29T14:45:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
