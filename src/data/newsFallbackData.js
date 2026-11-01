@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-01T12:08:00.692Z",
+  "lastUpdated": "2026-11-01T21:24:32.825Z",
   "items": [
+    {
+      "id": "ann-bi8uMjQyNzcy",
+      "title": "Lego One Piece Animation Review",
+      "link": "https://www.animenewsnetwork.com/review/lego-one-piece-animation/.242772",
+      "description": "Lego One Piece is a rare marriage of form and function that is downright pleasant, if not the fullest extent of what would be possible.",
+      "pubDate": "2026-11-01T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/encyc/A38960-3169273867.1785034021.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "North American Anime & Manga Releases for November",
+      "link": "https://myanimelist.net/news/74894552?_location=rss",
+      "description": "Here are the North American anime, manga, and light novel releases for November. Week 1: November 3 - 9 Anime Releases Kobayashi-san Chi no Maid Dragon (incl. Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai and OO Dragon) (Miss Kobayashi's Dragon Maid) Blu-ray [SteelBook] Kobayashi-san Chi no Maid Dragon S (incl. Nippon no Omotenashi - Attend wa Dragon desu, Mini Dragon, and Specials) (Miss Kobayashi's Dragon Maid S) Blu-ray [SteelBook] Manga Releases Aharen-san wa Hakarenai (...",
+      "pubDate": "2026-11-01T16:44:16.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793550741-4879417592353031192a95052c55c8bc.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzQwOQ",
+      "title": "Japanese Animation TV Ranking, October 19-25",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/japanese-animation-tv-ranking-october-19-25/.243409",
+      "description": "Apothecary Diaries earns 3.5% rating; both Vermilion Mask, Dragon Ball Super: Beerus earn 2.9%",
+      "pubDate": "2026-11-01T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQJ/encyc/A36879-3355659636.1789101899.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Claymore' Creator Norihiro Yagi Begins New Manga",
+      "link": "https://myanimelist.net/news/74894409?_location=rss",
+      "description": "Norihiro Yagi, the creator of Claymore, began serializing a new manga titled Bartlet Fairy Basslet on the Shounen Jump+ platform on Monday. Yagi serialized Claymore in Monthly Shounen Jump from June 2001 to June 2007. Following the magazine's discontinuance, the manga switched to Jump SQ. in November 2007, where it ended in October 2014. Shueisha published the 27th and final volume in December 2014. VIZ Media licensed the manga in English in July 2006 and published the 27th volume in Octobe...",
+      "pubDate": "2026-11-01T16:06:04.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793549056-60754f7772674795350001367f81c0c5.jpeg"
+    },
+    {
+      "id": "ann-NS8uMjQzNDEw",
+      "title": "Japan's Video Game Rankings, October 19-25",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/japan-video-game-rankings-october-19-25/.243410",
+      "description": "Final Fantasy Resonance debuts at #2-#4",
+      "pubDate": "2026-11-01T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.10/243410/ffr.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzNDE3",
+      "title": "Bocchi the Rock! Manga Gets Anime Film in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417",
+      "description": "Film adapts manga prologue story about Nijika Ichiji's older sister Seika",
+      "pubDate": "2026-11-01T14:11:57.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/4pYw8hZRVCM.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Charisma' Unveils Additional Cast, Teaser Promo",
+      "link": "https://myanimelist.net/news/74894062?_location=rss",
+      "description": "The official website for the television anime adaptation of the Charisma House mixed-media project unveiled a pair of additional cast and teaser promotional video on Sunday. The anime series will premiere on TBS affiliate networks at 11:56 p.m. on January 7, 2027. Voice actors Shinnosuke Tachibana (Kamisama Hajimemashita) and Tomohiro Oono (Tomodachi Game) are joining the cast as Souemon Nakagami and Shuu Torahime, respectively. A short anime adaptation of Charisma will begin airing on November...",
+      "pubDate": "2026-11-01T14:02:37.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793541708-8532b19176f3ae0dcf08789a673b95bb.jpeg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Anime Welcomes November with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/1/spice-and-wolf-merchant-meets-the-wise-wolf-anime-november-visual",
+      "description": "Season 2 of the new anime will premiere in 2027",
+      "pubDate": "2026-11-01T13:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1504x846/c5f1fc928a/spice-and-wolf-ep2.jpg"
+    },
+    {
+      "id": "cr-aC10cmFpbGVy",
+      "title": "Charisma Anime Confirms January 7 Premiere in Full-Length Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/1/charisma-anime-confirms-january-7-premiere-in-full-length-trailer",
+      "description": "Plus, two new cast members join the upcoming series",
+      "pubDate": "2026-11-01T13:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/7bc3065438/charisma-trailer-hero.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Bocchi the Rock!' Gets Prequel Anime Movie in 2027",
+      "link": "https://myanimelist.net/news/74893965?_location=rss",
+      "description": "The official website of the Bocchi the Rock! anime series announced a new prequel anime movie subtitled Hoshi no Ashiato, revealing the main cast, staff, a teaser visual (pictured), and an announcement promo on Sunday. The movie is scheduled to open in Japanese theaters in 2027. Voice actresses Maaya Uchida (Chuunibyou demo Koi ga Shitai!) and Sayumi Suzushiro (Kaguya-sama wa Kokurasetai) are starring as Seika Ijichi and Nijika Ijichi, respectively. Staff Director: Shin Wakabayashi (Wonder Egg P...",
+      "pubDate": "2026-11-01T13:22:13.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793539268-70387211832898497ebfca9d77e65868.jpeg"
+    },
+    {
+      "id": "cr-LWZvci0yMDI3",
+      "title": "BOCCHI THE ROCK! Prequel Anime Film Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/1/bocchi-the-rock-prequel-anime-film-announced-for-2027",
+      "description": "Shin Wakabayashi directs Hoshi no Ashiato at CloverWorks",
+      "pubDate": "2026-11-01T13:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1274x715/7796c2fe21/bocchi-the-rock-pv.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQwMQ",
+      "title": "Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401",
+      "description": "Series debuted on March 13",
+      "pubDate": "2026-11-01T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB8/cms/news.10/243401/71-6-de3yvl.sl1200.jpg"
+    },
     {
       "id": "ann-ci8uMjQzMzk0",
       "title": "Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter",
@@ -360,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T21:10:32.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/cms/news.10/243223/yaiba-bd.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzMzcx",
@@ -370,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T18:34:33.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.10/243371/free-fire-daybreak-world-premiere.jpeg"
+      "image": null
     },
     {
       "id": "cr-bmV3LXlvcms",
@@ -390,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T16:19:14.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOK/cms/news.10/243370/hiragi-san-s-house-of-vampires.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI1NjA",
@@ -400,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g00/cms/review.2/242560/mv5bnmiwmta4ngqtnza2my00ytzjlwi3nmytytiwmzbhzmi1mtdhxkeyxkfqcgc.v1-fmjpg-ux1000.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzM2OQ",
@@ -410,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T15:32:30.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243369/king-gnu-us-tour.jpg"
+      "image": null
     },
     {
       "id": "cr-bm91bmNlZA",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Industry",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MzM2Nw",
-      "title": "tri-Ace's Resonance of Fate / End of Eternity Game Gets Enhanced Remaster for PS5, Steam Available Now",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/tri-ace-resonance-of-fate-end-of-eternity-game-gets-enhanced-remaster-for-ps5-steam-available-now/.243367",
-      "description": "Those who own 4K/HD Edition already on Steam can purchase DLC to upgrade to new version",
-      "pubDate": "2026-10-30T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-bC12aXN1YWw",
-      "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime Unveils Special Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-special-visual",
-      "description": "The anime adaptation of Kotoko, Kaname Hanamiya's manga series premieres in January 2027",
-      "pubDate": "2026-10-30T14:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/9e1bd34a0c/the_final_boss_prince_is_somehow_obsessed_with_the_chubby_villainess_reincarnated_me_celine_header.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Pole Princess!!' Gets Theatrical Anime in January 2027",
-      "link": "https://myanimelist.net/news/74885701?_location=rss",
-      "description": "The official website of the Pole Princess!! anime series announced a new theatrical anime titled Pole Princess!!: Croix du Nord on Friday, revealing the returning cast and staff. The anime will run for approximately 60 minutes, featuring five new songs from the Shining Pole Song Album and an original story. A two-week limited theatrical screening of the anime will begin at six theaters in Japan on January 29, 2027. Voice actresses Rio Tsuchiya (Shibou Yuugi de Meshi wo Kuu.), Anna Suzuki (Musho...",
-      "pubDate": "2026-10-30T14:09:48.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793369244-f5b9f48f866f1a42903c6d04921e5468.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzIzNg",
-      "title": "This Week in Games - Do They Know its Halloween?",
-      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-10-30/do-they-know-its-halloween/.243236",
-      "description": "Happy Halloween! TWIG celebrates with a \"demonic\" creator interview and a list of the five scariest anthropomorphic personifications of death in games!",
-      "pubDate": "2026-10-30T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-cmFjdGVycw",
-      "title": "HORROR COLLECTOR Anime Reveals 3 New Guest Characters",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/horror-collector-anime-reveals-three-guest-characters",
-      "description": "Daiki Yamashita, Yuka Iguchi and Akari Kito will join the series",
-      "pubDate": "2026-10-30T13:56:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/920a7eb55d/horror_collector_shota_togawa_header.jpg"
-    },
-    {
-      "id": "ann-LjI0MzM1Nw",
-      "title": "Virtua Fighter Crossroads Game Reveals Character Lionel Rafale in Trailer",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/virtua-fighter-crossroads-game-reveals-character-lionel-rafale-in-trailer/.243357",
-      "description": "Narrative-driven action-adventure game launches in 2027",
-      "pubDate": "2026-10-30T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDAyMzI",
-      "title": "Fall 2026 Light Novel Guide",
-      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.240232",
-      "description": "It's time to find your next favorite novel! Our review team read danmei, horror, light novels, and more to help you decide what to curl up with this fall.",
-      "pubDate": "2026-10-30T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDI4NjI",
-      "title": "When Godzilla Stomped On Fairy Tales",
-      "link": "https://www.animenewsnetwork.com/interview/2026-10-30/when-godzilla-stomped-on-fairy-tales/.242862",
-      "description": "Godzilla STOMP! author Katherine Locke shares their enthusiasm for joining the kaiju monster's legacy:  \"I'm excited that this is part of that canon that builds towards Godzilla being for every kid. Godzilla is for everybody.\"",
-      "pubDate": "2026-10-30T13:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Mushoku Tensei: Dasoku-hen' Concludes with Fourth Volume",
-      "link": "https://myanimelist.net/news/74885300?_location=rss",
-      "description": "The official X account for Kadokawa's MF Books label announced on Friday that Rifujin na Magonote's Mushoku Tensei: Dasoku-hen (Mushoku Tensei: Redundant Reincarnation) light novel will end with its fourth volume on November 25. Rifujin penned the short story collection of Mushoku Tensei: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation) on Shousetsuka ni Narou website from May 2015 to September 2017. Kadokawa began publishing the novel through its MF Books label in June...",
-      "pubDate": "2026-10-30T11:51:23.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793360822-e83c84dd09b1e57049388d08862829c3.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMzNjM",
-      "title": "Pole Princess!! Franchise Gets New CG Theatrical Anime Opening on January 29",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/pole-princess-franchise-gets-new-cg-theatrical-anime-opening-on-january-29/.243363",
-      "description": "New 60-minute CG anime features returning cast, staff",
-      "pubDate": "2026-10-30T10:49:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kaketa Tsuki no Mercedes' Reveals Additional Cast, Second Promo",
-      "link": "https://myanimelist.net/news/74885002?_location=rss",
-      "description": "The official website for the television anime adaptation of Firehead's Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed additional cast and second promotional video. The anime series will premiere in January 2027. Cast Benkei: Kenta Miyake (Hidarikiki no Eren) Kuro: Ryuunosuke Watanuki (Yomi no Tsugai) Florian: Junichi Su...",
-      "pubDate": "2026-10-30T09:43:30.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793353374-ed326b8041be60a7180b97a3cfab14e1.jpeg"
-    },
-    {
-      "id": "cr-b25hbC1jYXN0",
-      "title": "Mercedes and the Waning Moon Anime Unveils New Trailer, Additional Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/mercedes-and-the-waning-moon-anime-trailer-additional-cast",
-      "description": "The fantasy series debuts in January 2027",
-      "pubDate": "2026-10-30T09:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/869e24a7a5/mercedes-and-the-waning-moon.jpg"
     }
   ]
 };
