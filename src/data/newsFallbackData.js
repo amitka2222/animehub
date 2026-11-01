@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-10-31T20:43:06.777Z",
+  "lastUpdated": "2026-11-01T02:46:02.742Z",
   "items": [
+    {
+      "id": "cr-bWVyLTIwMjc",
+      "title": "Shiba Inu Rooms Anime Adaptation Announced for Summer 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/1/shiba-inu-rooms-anime-adaptation-announced-for-summer-2027",
+      "description": "A teaser trailer and visual were unveiled, along with staff and cast",
+      "pubDate": "2026-11-01T02:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6f2ef47474/shiba-inu-rooms.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzOTg",
+      "title": "Happy Halloween 2026 From Around the Anime World, Part V",
+      "link": "https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-v/.243398",
+      "description": "Featuring My Dress-Up Darling, Final Fantasy, Animal Crossing, Dragon Quest, Makeine: Too Many Losing Heroines!, Akira Failing in Love, Hamtaro, Kikuko Inoue, & more!",
+      "pubDate": "2026-11-01T01:57:58.000Z",
+      "source": "Anime News Network",
+      "category": "Just for Fun",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/herald/202664/hv5afpfasaetd3v.jpeg"
+    },
     {
       "id": "ann-OS8uMjQzMzkz",
       "title": "The Ramparts of Ice Season 2 ‒ Episode 19",
@@ -21,16 +41,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Manga",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8C/cms/review.2/242729/mucielago-cover.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzM5MQ",
-      "title": "Happy Halloween 2026 From Around the Anime World, Part III",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-iii/.243391",
-      "description": "Featuring Pokémon, Chopper's, Re:ZERO, Alya Sometimes Hides Her Feelings in Russian, Dara-san of Reiwa, Pui Pui Molcar, MAPPA, Tatsunoko, & more!",
-      "pubDate": "2026-10-31T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBQ/herald/202661/ecepx35ucaaejjn.jpeg"
     },
     {
       "id": "ann-My8uMjQzMzg5",
@@ -470,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/seasonal/240232/fall-2026-light-novel-guide.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDI4NjI",
@@ -480,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T13:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g46/cms/interview/242862/godzilla-stomp.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -591,16 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793344878-185b496bb20c0f391f599cc37709a808.png"
-    },
-    {
-      "id": "ann-Ly4yNDMzNTU",
-      "title": "Kadokawa Launches 'Kadokawa World Manga' English Label on its KadoComi Platform",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/kadokawa-launches-kadokawa-world-manga-english-label-on-its-kadocomi-platform/.243355",
-      "description": "Brain Alive, Kung Fu Kung Fool, Spica and Voice of Books, more manga available now in English",
-      "pubDate": "2026-10-30T06:54:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
     }
   ]
 };
