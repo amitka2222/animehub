@@ -1,7 +1,67 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-01T02:46:02.742Z",
+  "lastUpdated": "2026-11-01T12:08:00.692Z",
   "items": [
+    {
+      "id": "ann-ci8uMjQzMzk0",
+      "title": "Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394",
+      "description": "Series following lifestyle of 41-year-old businessman debuted in December 2025",
+      "pubDate": "2026-11-01T10:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK5/cms/news.10/243394/vs48o1lv.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Rock wa Lady no Tashinami deshite' Creator Launches New Manga",
+      "link": "https://myanimelist.net/news/74893568?_location=rss",
+      "description": "The official X (formerly Twitter) account of Comic Heaven announced on Friday that manga creator Hiroshi Fukuda will launch a new manga, titled Koko wa Kagari no Territory (Here is Kagari's territory), in the magazine next issue, scheduled for a November 30 release. Fukuda is best known for Rock wa Lady no Tashinami deshite (Rock Is a Lady's Modesty), which began serializing in Young Animal from October 2022. Hakusensha published the eighth volume in August 2025. Yen Press licensed the...",
+      "pubDate": "2026-11-01T09:53:25.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793526492-10c2749d2a721b1806f3198071afeb12.jpeg"
+    },
+    {
+      "id": "ann-by8uMjQzNDEz",
+      "title": "Charisma TV Anime Reveals January 7 Debut in Teaser Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413",
+      "description": "Franchise gets separate short anime series debuting on November 4; more cast also revealed",
+      "pubDate": "2026-11-01T08:38:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/youtube/5JO4G4NRRx0.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzOTk",
+      "title": "Rock is a Lady's Modesty's Hiroshi Fukuda Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/rock-is-a-lady-modesty-hiroshi-fukuda-launches-new-manga/.243399",
+      "description": "Koko wa Kagari no Territory debuts November 30",
+      "pubDate": "2026-11-01T08:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.10/243399/hvylwoabiaazl8y.jpg"
+    },
+    {
+      "id": "ann-LjI0MzM5Nw",
+      "title": "Idoly Pride Game Ends Service on March 1",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-01/idoly-pride-game-ends-service-on-march-1/.243397",
+      "description": "Game launched in June 2021 for iOS, Android",
+      "pubDate": "2026-11-01T06:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/243397/unnamed-1.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Shibatsuki Bukken' Gets TV Anime Adaptation in Summer 2027",
+      "link": "https://myanimelist.net/news/74892534?_location=rss",
+      "description": "Publishing company Shueisha announced a television anime adaptation of Esu Omori's Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast, a teaser visual (pictured), and a teaser promotional video. The anime is scheduled to air in Summer 2027. Voice actresses Niina Nakabayashi (Awajima Hyakkei) and Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) are starring as Koori Momose and Muu, respectively. Osamu Yamasaki (Seirei Gensouki, I...",
+      "pubDate": "2026-11-01T02:52:56.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793501562-6ede4528e6c6fc645df5e7d17af452d7.jpeg"
+    },
     {
       "id": "cr-bWVyLTIwMjc",
       "title": "Shiba Inu Rooms Anime Adaptation Announced for Summer 2027",
@@ -11,6 +71,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/6f2ef47474/shiba-inu-rooms.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0MDQ",
+      "title": "Shiba Inu Rooms Manga Gets TV Anime in Summer 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-10-31/shiba-inu-rooms-manga-gets-tv-anime-in-summer-2027/.243404",
+      "description": "Niina Nakabayashi, Mutsumi Tamura star in series at TMS Entertainment",
+      "pubDate": "2026-11-01T02:44:52.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.10/243404/shiba-inu-illust.jpg"
     },
     {
       "id": "ann-Ly4yNDMzOTg",
@@ -86,7 +156,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "ann-Ly4yNDMzODY",
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6",
       "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386",
-      "description": "With episode six, the last pillar of patriarchy is erected and now the two best bros in all of anime can begin tearing the oppressive structure down.",
+      "description": "Steel Ball Run anime is already feeling like JoJo's at its most brilliant, and I think I'll only like it more as it goes on.",
       "pubDate": "2026-10-31T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
@@ -400,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ8/cms/news.10/243247/1135b.png.jpg"
+      "image": null
     },
     {
       "id": "ann-NS8uMjQzMzY2",
@@ -410,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T14:45:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/news.9/230464/animejapan-2025-.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzM2Nw",
@@ -420,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.10/243367/unnamed.jpg"
+      "image": null
     },
     {
       "id": "cr-bC12aXN1YWw",
@@ -450,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKN/cms/this-week-in-games/243236/halloween2.png.jpg"
+      "image": null
     },
     {
       "id": "cr-cmFjdGVycw",
@@ -470,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-10-30T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAE/youtube/i-pDJQknmds.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDAyMzI",
@@ -531,76 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1460x821/869e24a7a5/mercedes-and-the-waning-moon.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQzMzYy",
-      "title": "Destiny Unchain Online TV Anime to Star Ikumi Hasegawa",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/destiny-unchain-online-tv-anime-to-star-ikumi-hasegawa/.243362",
-      "description": "Teaser promo video, main staff, 2027 debut also revealed",
-      "pubDate": "2026-10-30T09:17:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-by8uMjQzMzU4",
-      "title": "Mercedes and the Waning Moon TV Anime Reveals 4 More Cast Members in 2nd Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/mercedes-and-the-waning-moon-tv-anime-reveals-4-more-cast-members-in-2nd-promo-video/.243358",
-      "description": "Kenta Miyake, Junichi Suwabe, Ai Kayano, more join cast for series debuting in January 2027",
-      "pubDate": "2026-10-30T09:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZmYtY2FzdA",
-      "title": "Destiny Unchain Online Anime Trailer Reveals 2027 Release Date, Main Cast and Staff",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/destiny-unchain-online-anime-2027-release-date-trailer-staff-cast",
-      "description": "A teaser visual was also unveiled today",
-      "pubDate": "2026-10-30T08:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/be0a1277f5/destiny-unchain-online.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Destiny Unchain Online' Reveals Main Cast, Staff, Teaser Promo, 2027 Debut",
-      "link": "https://myanimelist.net/news/74884436?_location=rss",
-      "description": "An official website opened for the Destiny Unchain Online television anime on Friday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series adapting resn's adventure fantasy light novel will premiere in 2027. Voice actress Ikumi Hasegawa (86, Bocchi the Rock!) is starring as the main character Crim. Staff Director: Kouichi Hatsumi (Tokyo Revengers) Series Composition: Seiko Takagi (Yakusoku no Neverland script) Character Design: Masashi K...",
-      "pubDate": "2026-10-30T08:00:02.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793338936-02884c8a799b2322fa6cbff70b7957cf.jpeg"
-    },
-    {
-      "id": "cr-b24tY2FzdA",
-      "title": "Wound & Bandage Anime Reveals Two More Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/30/wound-and-bandage-anime-magical-penpengusa-matsudaemon-cast",
-      "description": "Miyuki Ishida directs the series at studio J.C.Staff",
-      "pubDate": "2026-10-30T07:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/1b9d82c986/wound-and-bandage-matsudaemon.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQzMzU5",
-      "title": "Yōko Hikasa, Yuka Iguchi Join Cast of Wound & Bandage Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-30/yoko-hikasa-yuka-iguchi-join-cast-of-wound-and-bandage-anime/.243359",
-      "description": "Series debuts on January 9",
-      "pubDate": "2026-10-30T07:44:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kizuguchi to Houtai' Unveils Additional Cast, Third Teaser Promo",
-      "link": "https://myanimelist.net/news/74884610?_location=rss",
-      "description": "The official website of the Kizuguchi to Houtai (Wound and Bandage) television anime unveiled additional cast, third teaser visual (pictured), and third promotional video on Friday. The anime series adapting Nanai Umihoshi's romantic comedy manga will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Ginsuke Hatobane: Shouya Ishige (Sono Bisque Doll wa Koi wo Suru) Magical Penpengusa: Yuka Iguchi (Honzuki no Gekokujou...",
-      "pubDate": "2026-10-30T07:21:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793344878-185b496bb20c0f391f599cc37709a808.png"
     }
   ]
 };
