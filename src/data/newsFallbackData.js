@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-03T00:05:37.457Z",
+  "lastUpdated": "2026-11-03T13:05:26.393Z",
   "items": [
+    {
+      "id": "ann-NS8uMjQzNDI5",
+      "title": "Black Clover Season 2 ‒ Episode 175",
+      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episode-175/.243429",
+      "description": "Well, I mean, it’s fine. And that’s all I need.",
+      "pubDate": "2026-11-03T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCA/cms/episode-review.5/243429/black-clover-s2e5.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNDc5",
+      "title": "You Can Literally Dress Up This Life-Size My Dress-Up Darling Figure",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-03/you-can-literally-dress-up-this-life-size-my-dress-up-darling-figure/.243479",
+      "description": "Only US$8,000",
+      "pubDate": "2026-11-03T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC3/cms/interest.3/243479/my-dress-up-darling-life-size-figure-kv.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzNDYx",
+      "title": "I'm Not Even an NPC In This Otome Game! Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-03/im-not-even-an-npc-in-this-otome-game-manga-ends/.243461",
+      "description": "Manga adaptation debuted in April 2020",
+      "pubDate": "2026-11-03T12:26:05.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQA/cms/news.10/243461/68.webp"
+    },
+    {
+      "id": "cr-LW1lbWJlcnM",
+      "title": "The Iceblade Sorcerer Shall Rule the World II Anime Adds Five New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/3/the-iceblade-sorcerer-shall-rule-the-world-ii-anime-five-new-cast-members",
+      "description": "Crunchyroll streams adaptation based on light novels by Nana Mikoshiba",
+      "pubDate": "2026-11-03T12:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/14ed2d2088/the_iceblade_sorcerer_shall_rule_the_world2_abel_header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0Nzg",
+      "title": "The Iceblade Sorcerer Shall Rule the World Season 2 Unveils 5 Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478",
+      "description": "Yūki Wakai, Toshiyuki Morikawa, Tetsu Inada, Daiki Hamano, Riona Imaizumi join anime's cast from episode 5 on Thursday",
+      "pubDate": "2026-11-03T10:01:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.10/243478/iceblade.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast",
+      "link": "https://myanimelist.net/news/74900432?_location=rss",
+      "description": "The official website for the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five additional cast members for the second season on Tuesday. The new season premiered on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Cast Cathy Alphelius: Yuuki Wakai (Kakegurui) Abel Alphelius: Toshiyuki Morikawa (Nohara Hiroshi: Hiru Meshi no Ryuugi) Cyril Alphelius: Te...",
+      "pubDate": "2026-11-03T09:29:45.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793698081-fa7dd38ab65c81e9f6ba86dd8e4e29cf.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzQ2MA",
+      "title": "Live-Action Quiztopia Series Unveils Trailer, Key Art",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460",
+      "description": "Series debuting on Netflix on December 17 with scenes with 8,000 extras",
+      "pubDate": "2026-11-03T03:45:56.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/youtube/ek0AF5d5Klw.jpg"
+    },
+    {
+      "id": "cr-bGxpbWVudGFs",
+      "title": "Centimillimental Releases Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/3/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-opening-song-music-video-centimillimental",
+      "description": "The anime is currently streaming on Crunchyroll",
+      "pubDate": "2026-11-03T02:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e265ff23c9/centimillimental-kanawanai-mv.jpg"
+    },
+    {
+      "id": "cr-eC1vZmZpY2U",
+      "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend",
+      "link": "https://crunchyroll.com/news/latest/2026/11/3/chiikawa-the-movie-the-secret-of-the-mermaid-island-5th-15th-weekend-japan-box-office",
+      "description": "Space Battleship Yamato 3199 Chapter 7 openes at in 10th",
+      "pubDate": "2026-11-03T00:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x518/a5f1bb89a5/chiikawa-the-movie.png"
+    },
+    {
+      "id": "ann-LjI0MzQ1Mg",
+      "title": "Urban Myth Dissolution Center Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452",
+      "description": "Manga adaptation launched on April 2025",
+      "pubDate": "2026-11-03T00:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/243452/71xxhnktm4l.sl1200.jpg"
+    },
     {
       "id": "ann-cy8uMjQzNDU1",
       "title": "Drama Queen Manga Ends in 4 Chapters",
@@ -300,7 +400,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T12:59:54.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFI/cms/news.10/243444/hwfvzc6a8aadkpv.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0MjY",
@@ -310,7 +410,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/news.10/243426/konkatsu.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0NDI",
@@ -320,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T11:44:14.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.9/242039/resident.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQ0MQ",
@@ -330,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T10:54:53.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.10/243441/1.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQ0MA",
@@ -340,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T10:22:38.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/238768/3arl2u1h-400x400.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzNDM5",
@@ -350,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T10:01:48.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/242284/cwop-26817-hirayasumi-japansociety-posters-1-copy.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0MzU",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793549056-60754f7772674795350001367f81c0c5.jpeg"
-    },
-    {
-      "id": "ann-NS8uMjQzNDEw",
-      "title": "Japan's Video Game Rankings, October 19-25",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/japan-video-game-rankings-october-19-25/.243410",
-      "description": "Final Fantasy Resonance debuts at #2-#4",
-      "pubDate": "2026-11-01T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQzNDE3",
-      "title": "Bocchi the Rock! Manga Gets Anime Film in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417",
-      "description": "Film adapts manga prologue story about Nijika Ichiji's older sister Seika",
-      "pubDate": "2026-11-01T14:11:57.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Charisma' Unveils Additional Cast, Teaser Promo",
-      "link": "https://myanimelist.net/news/74894062?_location=rss",
-      "description": "The official website for the television anime adaptation of the Charisma House mixed-media project unveiled a pair of additional cast and teaser promotional video on Sunday. The anime series will premiere on TBS affiliate networks at 11:56 p.m. on January 7, 2027. Voice actors Shinnosuke Tachibana (Kamisama Hajimemashita) and Tomohiro Oono (Tomodachi Game) are joining the cast as Souemon Nakagami and Shuu Torahime, respectively. A short anime adaptation of Charisma will begin airing on November...",
-      "pubDate": "2026-11-01T14:02:37.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793541708-8532b19176f3ae0dcf08789a673b95bb.jpeg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Anime Welcomes November with New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/1/spice-and-wolf-merchant-meets-the-wise-wolf-anime-november-visual",
-      "description": "Season 2 of the new anime will premiere in 2027",
-      "pubDate": "2026-11-01T13:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1504x846/c5f1fc928a/spice-and-wolf-ep2.jpg"
-    },
-    {
-      "id": "cr-aC10cmFpbGVy",
-      "title": "Charisma Anime Confirms January 7 Premiere in Full-Length Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/1/charisma-anime-confirms-january-7-premiere-in-full-length-trailer",
-      "description": "Plus, two new cast members join the upcoming series",
-      "pubDate": "2026-11-01T13:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/7bc3065438/charisma-trailer-hero.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Bocchi the Rock!' Gets Prequel Anime Movie in 2027",
-      "link": "https://myanimelist.net/news/74893965?_location=rss",
-      "description": "The official website of the Bocchi the Rock! anime series announced a new prequel anime movie subtitled Hoshi no Ashiato, revealing the main cast, staff, a teaser visual (pictured), and an announcement promo on Sunday. The movie is scheduled to open in Japanese theaters in 2027. Voice actresses Maaya Uchida (Chuunibyou demo Koi ga Shitai!) and Sayumi Suzushiro (Kaguya-sama wa Kokurasetai) are starring as Seika Ijichi and Nijika Ijichi, respectively. Staff Director: Shin Wakabayashi (Wonder Egg P...",
-      "pubDate": "2026-11-01T13:22:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793539268-70387211832898497ebfca9d77e65868.jpeg"
-    },
-    {
-      "id": "cr-LWZvci0yMDI3",
-      "title": "BOCCHI THE ROCK! Prequel Anime Film Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/1/bocchi-the-rock-prequel-anime-film-announced-for-2027",
-      "description": "Shin Wakabayashi directs Hoshi no Ashiato at CloverWorks",
-      "pubDate": "2026-11-01T13:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1274x715/7796c2fe21/bocchi-the-rock-pv.jpg"
-    },
-    {
-      "id": "ann-LjI0MzQwMQ",
-      "title": "Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401",
-      "description": "Series debuted on March 13",
-      "pubDate": "2026-11-01T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQzMzk0",
-      "title": "Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394",
-      "description": "Series following lifestyle of 41-year-old businessman debuted in December 2025",
-      "pubDate": "2026-11-01T10:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Rock wa Lady no Tashinami deshite' Creator Launches New Manga",
-      "link": "https://myanimelist.net/news/74893568?_location=rss",
-      "description": "The official X (formerly Twitter) account of Comic Heaven announced on Friday that manga creator Hiroshi Fukuda will launch a new manga, titled Koko wa Kagari no Territory (Here is Kagari's territory), in the magazine next issue, scheduled for a November 30 release. Fukuda is best known for Rock wa Lady no Tashinami deshite (Rock Is a Lady's Modesty), which began serializing in Young Animal from October 2022. Hakusensha published the eighth volume in August 2025. Yen Press licensed the...",
-      "pubDate": "2026-11-01T09:53:25.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793526492-10c2749d2a721b1806f3198071afeb12.jpeg"
     }
   ]
 };
