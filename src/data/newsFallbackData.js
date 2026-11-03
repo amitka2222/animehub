@@ -1,7 +1,277 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-02T13:56:38.935Z",
+  "lastUpdated": "2026-11-03T00:05:37.457Z",
   "items": [
+    {
+      "id": "ann-cy8uMjQzNDU1",
+      "title": "Drama Queen Manga Ends in 4 Chapters",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455",
+      "description": "Kuraku Ichikawa debuted series in December 2024",
+      "pubDate": "2026-11-02T23:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/243455/71th67jrnxl.sl1200.jpg"
+    },
+    {
+      "id": "cr-LTUtcmVjYXA",
+      "title": "The Apothecary Diaries Season 3, Episode 5 Recap, “The White-Snake Immortal”",
+      "link": "https://crunchyroll.com/news/features/2026/11/2/the-apothecary-diaries-season-3-episode-5-recap",
+      "description": "And for her next trick",
+      "pubDate": "2026-11-02T23:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/95843feb45/the-apothecary-diaries-season-3-episode-5.png"
+    },
+    {
+      "id": "ann-LjI0MzQzNg",
+      "title": "Fortnite Game Pays Homage to 1st One Piece Opening in New Video",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-02/fortnite-game-pays-homage-to-1st-one-piece-opening-in-new-video/.243436",
+      "description": "We are on the cruise!",
+      "pubDate": "2026-11-02T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKC/youtube/rnjWNafJy8Q.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzNDU2",
+      "title": "Trigun Anime Gets New Novel This Winter",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/trigun-anime-gets-new-novel-this-winter/.243456",
+      "description": "Series creator Yasuhiro Nightow, Trigun Stampede writer Takehiko Oxi collaborate on Trigun Manuscript",
+      "pubDate": "2026-11-02T22:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE9/cms/news.10/243456/hvy-pxqbwaah8lr.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzNDU3",
+      "title": "Television Producer/Distributor Sandy Frank Dies at 97",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/television-producer-distributor-sandy-frank-dies-at-97/.243457",
+      "description": "Sandy Frank distributed Battle of the Planets anime; Name That Tune, The Dating Game game shows",
+      "pubDate": "2026-11-02T21:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAB/cms/news.10/243457/gatchaman.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQ1NA",
+      "title": "All-Female Troupe Takarazuka Revue to Perform Musical for My Happy Marriage Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/all-female-troupe-takarazuka-revue-to-perform-musical-for-my-happy-marriage-series/.243454",
+      "description": "Flower Troupe to perform show in Hyōgo from June 26-August 8, Tokyo from August 28-October 10",
+      "pubDate": "2026-11-02T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/herald/202720/my-happy-marriage-special.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQ0NQ",
+      "title": "The Remarried Empress Live-Action Series Episodes 1-3 Preview",
+      "link": "https://www.animenewsnetwork.com/review/the-remarried-empress/episodes-1-3/.243445",
+      "description": "Navier’s story is really just beginning. We have a sense of who everyone else is as a person, but she remains a little hidden, because that’s what she needs to do to survive a situation that has shaken her to the core.",
+      "pubDate": "2026-11-02T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/encyc/A40380-2427102430.1789632732.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzNDUx",
+      "title": "Recording/Sound Mixer Yoshio Obara Dies",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/recording-sound-mixer-yoshio-obara-dies/.243451",
+      "description": "Obara worked on In This Corner of the World, Summer Wars, Wolf Children, more anime",
+      "pubDate": "2026-11-02T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIS/cms/daily-briefs/145165/corner-new-visual.jpg"
+    },
+    {
+      "id": "cr-YmFzc2xldA",
+      "title": "Claymore Manga Author Norihiro Yagi Debuts New Series",
+      "link": "https://crunchyroll.com/news/latest/2026/11/2/claymore-manga-author-norihiro-yagi-bartlet-fairy-basslet",
+      "description": "Bartlet Fairy Basslet is now live in Japan and in English",
+      "pubDate": "2026-11-02T18:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/cd56127c96/bartlet-fairy-basslet.jpg"
+    },
+    {
+      "id": "ann-Yi8uMjQzNDUw",
+      "title": "Crunchyroll Adds Gunma-chan Anime's English Dub",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450",
+      "description": "Anime based on Gunma Prefecture's mascot character premiered in October 2021",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/news.4/174654/gunmachan_kv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDA5OTQ",
+      "title": "From Swords, to Cat Girls, Boy Love, and Fairy Tail: An Interview with Shinji Ishihara and Yosuke Shimada",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/from-swords-to-cat-girls-boy-love-and-fairy-tail-an-interview-with-shinji-ishihara-and-yosuke-/.240994",
+      "description": "With a delicate balance of high-stakes action and wacky comedy, this new season of Reincarnated as a Sword has Ishihara doing what he does best.",
+      "pubDate": "2026-11-02T17:39:33.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ1/cms/news.9/240622/vis-h1.webp"
+    },
+    {
+      "id": "ann-LjI0MzQ0OA",
+      "title": "We Are Aliens Film Wins Award at Hawai'i Int'l Film Festival",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/we-are-aliens-film-wins-award-at-hawaii-intl-film-festival/.243448",
+      "description": "Film won Kau Ka Hōkū Award, honoring international filmmaker's 1st/2nd feature",
+      "pubDate": "2026-11-02T17:30:34.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g4R/cms/news.9/239997/wearealiens-kv2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0NDk",
+      "title": "From Far Away ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/from-far-away/episode-5/.243449",
+      "description": "Noriko’s barely been at Gaya’s for a day when a man with a knife attacks her. Definitely safer than being with Izark.",
+      "pubDate": "2026-11-02T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBM/cms/episode-review.5/243449/far-away-5.png.jpg"
+    },
+    {
+      "id": "cr-dmVtYmVyLTE2",
+      "title": "Dive in Wonderland Anime Film Releases in U.S., Canada on November 16",
+      "link": "https://crunchyroll.com/news/announcements/2026/11/2/dive-in-wonderland-anime-film-releases-united-states-canada-release-november-16",
+      "description": "Tickets are now on sale for the one-night-only release",
+      "pubDate": "2026-11-02T17:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/fa0d4c09e9/dive-in-wonderland.png"
+    },
+    {
+      "id": "cr-LWhpc3Rvcnk",
+      "title": "The History of Sailor Moon Theme Song \"La Soldier\"",
+      "link": "https://crunchyroll.com/news/features/2026/11/2/sailor-moon-theme-song-la-soldier-history",
+      "description": "From the '90s to today",
+      "pubDate": "2026-11-02T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/26b8ad98cd/pretty-guardian-sailor-moon-music-festival.png"
+    },
+    {
+      "id": "ann-cy8uMjQzMTQ2",
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world/anime-series/.243146",
+      "description": "It seems appropriate that a show with “foodie” in the title should try to have its cake and eat it too.",
+      "pubDate": "2026-11-02T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLD/cms/review.2/243146/forsaken-saintess.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzNDQ3",
+      "title": "New 'Nippon Anime Awards' Event Announced for November 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447",
+      "description": "New awards event to take place at SGC Hall Ariake on November 21, 2027",
+      "pubDate": "2026-11-02T16:40:18.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/cms/news.10/243447/nippon-anime-awards.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0Mjg",
+      "title": "A Certain Dark Item ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-4/.243428",
+      "description": "You know, all things considered, Mugino's a pretty chill boss.",
+      "pubDate": "2026-11-02T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/episode-review.5/243428/dark-item-4a.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0NDY",
+      "title": "Voice Actor Ryūji Nakagi Dies at 89",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446",
+      "description": "Nakagi voiced Gōzō in Yawara!, Tokuo in Oishinbo, Sakuma in Patlabor",
+      "pubDate": "2026-11-02T15:50:52.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gW8/cms/news.10/243446/ryuji-nakagi.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQyNw",
+      "title": "Firefly Wedding ‒ Episode 4",
+      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episode-4/.243427",
+      "description": "One of the things that makes Firefly Wedding so disarming is how it sits in the history of shojo romance.",
+      "pubDate": "2026-11-02T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/episode-review.5/243427/screenshot-2026-11-01-125719.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNDE0",
+      "title": "Comic CMOA Partially Resumes Service",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/comic-cmoa-partially-resumes-service/.243414",
+      "description": "Partial service resumed on October 29; service has been down since October 15 due to unauthorized external access",
+      "pubDate": "2026-11-02T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/242977/cmoa.jpg"
+    },
+    {
+      "id": "cr-ZXMtdm9sLTc5",
+      "title": "Crunchyroll News Puzzles Vol. 79: Mid Game and Bruised",
+      "link": "https://crunchyroll.com/news/quizzes/2026/11/2/anime-crosswords-puzzles-vol-79",
+      "description": "Test your anime knowledge with our latest puzzle collection!",
+      "pubDate": "2026-11-02T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
+    },
+    {
+      "id": "ann-LjI0MzQzMA",
+      "title": "Devils' Crest Episodes 1-2 Anime Review (Premiere Screening)",
+      "link": "https://www.animenewsnetwork.com/review/devils-crest-episodes-1-2-anime/.243430",
+      "description": "When real life and the game merge into one, a group of elementary schoolers is left to survive without any adult supervision.",
+      "pubDate": "2026-11-02T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRI/cms/review.2/243430/01.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQyMw",
+      "title": "Romelia War Chronicle ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-5/.243423",
+      "description": "Romelia is going to get her men out of this battle intact, even if she has to hold them down and force disgusting healing herbs down their throats until they are blue in the face.",
+      "pubDate": "2026-11-02T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/cms/episode-review.5/243423/romelia-5.png.jpg"
+    },
+    {
+      "id": "ann-YS8uMjQzNDIx",
+      "title": "AI no Idenshi's Kyūri Yamada Launches New Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-02/ai-no-idenshi-kyuri-yamada-launches-new-manga/.243421",
+      "description": "Nanabun no Survivor earthquake manga debuts on Monday",
+      "pubDate": "2026-11-02T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gND/cms/news.10/243421/20261028091347.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMzNjU",
+      "title": "This Week in Mobile Games - Smilegate Devs Speak on Epic Seven's Steam Debut and Chaos Zero Nightmare's Anniversary",
+      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-11-02/.243365",
+      "description": "TWIMG is chock full of interviews this week! Find out what's ahead and behind the scenes in Epic Seven and Chaos Zero Nightmare!",
+      "pubDate": "2026-11-02T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM2/cms/this-week-in-mobile-games/243365/diana.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNDA2",
+      "title": "Godzilla: Destroy All Monsters Melee Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/steam-playstation-5-xbox-series-x-and-nintendo-switch-2/godzilla/destroy-all-monsters-melee/.243406",
+      "description": "Twenty years later, Godzilla and his kaiju pals return to beat each other up on modern platforms, but is there anything here but nostalgia?",
+      "pubDate": "2026-11-02T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQG/cms/game-review/243406/gojira-destroy-all-remaster-cover.jpg"
+    },
     {
       "id": "ann-NS8uMjQzNDA1",
       "title": "Ranma ½ Season 3 ‒ Episode 5",
@@ -90,7 +360,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T09:42:36.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDC/cms/news.10/243435/bartlet-fairy-basslet.jfif.jpeg"
+      "image": null
     },
     {
       "id": "cr-bmctYXJ0aXN0",
@@ -110,7 +380,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T06:39:27.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTJ/cms/news.10/243425/hv4aoaja8aadjhl.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDMzMDg",
@@ -120,7 +390,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T05:26:41.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPA/cms/news.10/243308/hvdp9oxbyaa-t2f.jfif.jpeg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNDE2",
@@ -130,7 +400,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T04:05:43.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/news.7/216601/leap.png.jpg"
+      "image": null
     },
     {
       "id": "ann-eS8uMjQzNDE4",
@@ -140,7 +410,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T04:02:33.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/youtube/KH4rw0yYDqg.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQyNA",
@@ -150,7 +420,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T04:00:00.000Z",
       "source": "Anime News Network",
       "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGL/herald/202681/hwa-rcnauaaafux.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0MTU",
@@ -160,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T03:58:31.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA0/cms/news.10/243415/food.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQwOA",
@@ -170,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-02T03:52:25.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/youtube/WBqU8A9w4kI.jpg"
+      "image": null
     },
     {
       "id": "cr-by10b3lhbWE",
@@ -200,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/encyc/A38960-3169273867.1785034021.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -220,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T16:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQJ/encyc/A36879-3355659636.1789101899.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -240,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/news.10/243410/ffr.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzNDE3",
@@ -250,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T14:11:57.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/youtube/4pYw8hZRVCM.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -310,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB8/cms/news.10/243401/71-6-de3yvl.sl1200.jpg"
+      "image": null
     },
     {
       "id": "ann-ci8uMjQzMzk0",
@@ -320,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-01T10:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK5/cms/news.10/243394/vs48o1lv.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -331,276 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793526492-10c2749d2a721b1806f3198071afeb12.jpeg"
-    },
-    {
-      "id": "ann-by8uMjQzNDEz",
-      "title": "Charisma TV Anime Reveals January 7 Debut in Teaser Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413",
-      "description": "Franchise gets separate short anime series debuting on November 4; more cast also revealed",
-      "pubDate": "2026-11-01T08:38:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/youtube/5JO4G4NRRx0.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzOTk",
-      "title": "Rock is a Lady's Modesty's Hiroshi Fukuda Launches New Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/rock-is-a-lady-modesty-hiroshi-fukuda-launches-new-manga/.243399",
-      "description": "Koko wa Kagari no Territory debuts November 30",
-      "pubDate": "2026-11-01T08:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.10/243399/hvylwoabiaazl8y.jpg"
-    },
-    {
-      "id": "ann-LjI0MzM5Nw",
-      "title": "Idoly Pride Game Ends Service on March 1",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-01/idoly-pride-game-ends-service-on-march-1/.243397",
-      "description": "Game launched in June 2021 for iOS, Android",
-      "pubDate": "2026-11-01T06:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/243397/unnamed-1.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Shibatsuki Bukken' Gets TV Anime Adaptation in Summer 2027",
-      "link": "https://myanimelist.net/news/74892534?_location=rss",
-      "description": "Publishing company Shueisha announced a television anime adaptation of Esu Omori's Shibatsuki Bukken (Shiba Inu Rooms) on Sunday. An official website also opened and revealed the main staff, cast, a teaser visual (pictured), and a teaser promotional video. The anime is scheduled to air in Summer 2027. Voice actresses Niina Nakabayashi (Awajima Hyakkei) and Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) are starring as Koori Momose and Muu, respectively. Osamu Yamasaki (Seirei Gensouki, I...",
-      "pubDate": "2026-11-01T02:52:56.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793501562-6ede4528e6c6fc645df5e7d17af452d7.jpeg"
-    },
-    {
-      "id": "cr-bWVyLTIwMjc",
-      "title": "Shiba Inu Rooms Anime Adaptation Announced for Summer 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/1/shiba-inu-rooms-anime-adaptation-announced-for-summer-2027",
-      "description": "A teaser trailer and visual were unveiled, along with staff and cast",
-      "pubDate": "2026-11-01T02:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6f2ef47474/shiba-inu-rooms.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM0MDQ",
-      "title": "Shiba Inu Rooms Manga Gets TV Anime in Summer 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/shiba-inu-rooms-manga-gets-tv-anime-in-summer-2027/.243404",
-      "description": "Niina Nakabayashi, Mutsumi Tamura star in series at TMS Entertainment",
-      "pubDate": "2026-11-01T02:44:52.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFE/cms/news.10/243404/shiba-inu-illust.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzOTg",
-      "title": "Happy Halloween 2026 From Around the Anime World, Part V",
-      "link": "https://www.animenewsnetwork.com/interest/2026-10-31/happy-halloween-2026-from-around-the-anime-world-part-v/.243398",
-      "description": "Featuring My Dress-Up Darling, Final Fantasy, Animal Crossing, Dragon Quest, Makeine: Too Many Losing Heroines!, Akira Failing in Love, Hamtaro, Kikuko Inoue, & more!",
-      "pubDate": "2026-11-01T01:57:58.000Z",
-      "source": "Anime News Network",
-      "category": "Just for Fun",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/herald/202664/hv5afpfasaetd3v.jpeg"
-    },
-    {
-      "id": "ann-OS8uMjQzMzkz",
-      "title": "The Ramparts of Ice Season 2 ‒ Episode 19",
-      "link": "https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-19/.243393",
-      "description": "This is not a relationship that is meant to last long and I'm very curious to see where the breaking point is going to be.",
-      "pubDate": "2026-10-31T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJI/cms/episode-review.5/243393/vlcsnap-2026-10-31-11h06m25s548.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MjcyOQ",
-      "title": "Murciélago Volumes 1-3 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/murcielago-volumes-1-3/manga/.242729",
-      "description": "Kuroko Koumori is an unrepentant womanizer and serial killer, and when the Tokyo Police offer her freedom in return for killing the worst of the worst, she can’t say yes fast enough!",
-      "pubDate": "2026-10-31T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-My8uMjQzMzg5",
-      "title": "The Apothecary Diaries Season 3 ‒ Episode 53",
-      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-53/.243389",
-      "description": "In its earliest recorded variants, \"The Legend of the White Snake\" is a story about a white snake demon who transforms into a beautiful woman to prey on men.",
-      "pubDate": "2026-10-31T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMzOTA",
-      "title": "Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390",
-      "description": "Hiro Shimono to perform ending theme",
-      "pubDate": "2026-10-31T15:13:57.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ci10cmVhdA",
-      "title": "10 Best Anime Characters to Take Trick-Or-Treating",
-      "link": "https://crunchyroll.com/news/features/2026/10/31/best-anime-characters-trick-or-treat",
-      "description": "What would Halloween be like with anime characters?",
-      "pubDate": "2026-10-31T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/3d5cda3432/gachiakuta-episode-8.jpg"
-    },
-    {
-      "id": "ann-LjI0MzM4Nw",
-      "title": "Magic Knight Rayearth ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-4/.243387",
-      "description": "Is it weird getting your world-saving spells through a magic Zoom call?",
-      "pubDate": "2026-10-31T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDMzODY",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-6/.243386",
-      "description": "Steel Ball Run anime is already feeling like JoJo's at its most brilliant, and I think I'll only like it more as it goes on.",
-      "pubDate": "2026-10-31T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aWwtMjAyNw",
-      "title": "Romelia War Chronicle Cour 2 Anime Scheduled for April 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/10/31/romelia-war-chronicle-cour-2-anime-scheduled-for-april-2027",
-      "description": "New ending theme song performer revealed for ongoing adaptation of fantasy light novels",
-      "pubDate": "2026-10-31T13:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/351b29fd64/romelia_war_chronicle_al_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzNDg",
-      "title": "FX Fighter Kurumi-chan ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-5/.243348",
-      "description": "Characters are tools. They're just tools for demonstrating ideas. Ideas like the fact that addiction is dangerous. I didn't know that before watching this anime.",
-      "pubDate": "2026-10-31T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzM0Nw",
-      "title": "Suikoden: The Anime ‒ Episode 4",
-      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-4/.243347",
-      "description": "The two of them sneaking in under the guise of enemy soldiers is just far more immediate and compelling than the earlier political maneuvering.",
-      "pubDate": "2026-10-31T11:36:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-dXAtMjAyNg",
-      "title": "ROUNDUP: Anime Gets into the Halloween 2026 Spirit with Spooky Visuals and Illustrations",
-      "link": "https://crunchyroll.com/news/latest/2026/10/31/anime-halloween-art-roundup-2026",
-      "description": "A highlight package of this year's tricks and treats from your favorite anime!",
-      "pubDate": "2026-10-31T11:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1500x1061/69bad35be8/mashle-magic-and-muscles-halloween-art-2026.jpg"
-    },
-    {
-      "id": "ann-ZC8uMjQzMzg0",
-      "title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384",
-      "description": "Fund to offer investment opportunities to companies that have previously found it difficult to enter anime business",
-      "pubDate": "2026-10-31T09:04:51.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzMzgz",
-      "title": "Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383",
-      "description": "New promo video previews opening theme",
-      "pubDate": "2026-10-31T07:53:45.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Supporting Cast for 'Kaze wo Tsugumono' Announced",
-      "link": "https://myanimelist.net/news/74888954?_location=rss",
-      "description": "The official website for the Kaze wo Tsugumono (Inherit the Winds) original television anime announced supporting cast on Saturday. An advance theatrical screening will run for two weeks starting November 13. The anime will premiere in January 2027 at 11:30 p.m. on the Agaru Anime programming block on CBC and TBS' 28 affiliated stations. Cast Nishiki Niimi: Daisuke Hirakawa (Tefuda ga Oome no Victoria) Kisaburou Kawai: Toshiyuki Toyonaga (Mao) Kyuusai Momoyama: Kappei Yamaguchi (Yomi no Ts...",
-      "pubDate": "2026-10-31T07:47:07.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793432771-a3466e696460f7f1ee2f95b382664ef8.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMzODA",
-      "title": "Final Fantasy XIV Game Reveals February 19 Early Access Date for 'Evercold' Expansion, New Job Zephyr",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/final-fantasy-xiv-game-reveals-february-19-early-access-date-for-evercold-expansion-new-job-zephyr/.243380",
-      "description": "General launch for expansion is on February 23; Evangelion collab also highlighted in video",
-      "pubDate": "2026-10-31T07:29:30.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-eWFtYS1jYXN0",
-      "title": "Inherit the Winds Anime Reveals Four More Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/10/31/inherit-the-winds-anime-nishiki-niimi-kisaburo-kawai-toshimaro-yoshida-kyusai-momoyama-cast",
-      "description": "The original series begins airing in January 2027",
-      "pubDate": "2026-10-31T07:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/1cdb6dbc37/inherit-the-winds-four-cast.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMzNzM",
-      "title": "Inherit the Winds Anime Reveals 4 More Cast Members, New Visual",
-      "link": "https://www.animenewsnetwork.com/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373",
-      "description": "Franchise also gets short story, novel in Japanese",
-      "pubDate": "2026-10-31T07:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Sumitomo Mitsui Trust Bank, Comisma Plan 10 Billion Yen Anime Production Fund",
-      "link": "https://myanimelist.net/news/74888629?_location=rss",
-      "description": "Sumitomo Mitsui Trust Bank and IP platform company Comisma have agreed in principle to establish an investment fund focused on anime production, targeting 10 billion yen (approximately US$63.4 million) in assets under management by the end of fiscal 2027. The initiative aims to broaden access to production financing, attract a broader range of investors, and improve financial returns for creators as demand for Japanese animation continues to grow worldwide. Under the proposed arrangement, the t...",
-      "pubDate": "2026-10-31T05:20:15.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793423817-bd3fc7c0b45fd3302d31e75195a006b8.jpeg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Isshiki-san Wants to Know About Love Anime Opening Theme Song Previewed in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/10/31/isshiki-san-wants-to-know-about-love-anime-opening-theme-song-main-trailer",
-      "description": "The police rom-com series debuts in January 2027",
-      "pubDate": "2026-10-31T05:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/2eeb9dd7e8/isshiki-san-wants-to-know-about-love.jpg"
-    },
-    {
-      "id": "cr-Z2VkLWpvYg",
-      "title": "FINAL FANTASY XIV: Evercold Reveals February 23 Launch Date, New Job and More",
-      "link": "https://crunchyroll.com/news/latest/2026/10/31/final-fantasy-xiv-evercold-february-23-2027-release-date-zephyr-ranged-job",
-      "description": "A fresh look at the new Ranged DPS and multiple areas",
-      "pubDate": "2026-10-31T04:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/09b05d1170/final-fantasy-xiv-evercold.jpg"
     }
   ]
 };

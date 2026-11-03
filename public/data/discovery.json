@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T13:56:41.424Z",
+  "lastUpdated": "2026-11-03T00:05:40.410Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -194,7 +194,7 @@
         }
       },
       "synopsis": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n\nJohnny Joestar, once hailed as a genius jockey, is now paralysed and lost in despair.\n\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site, edited)\n\nNote: The first episode initially aired early on March 19th with a runtime of 47 minutes for the First Stage. The eleven episodes for the Second and Third stages began airing weekly on September 25th.",
-      "score": "86.61%",
+      "score": "86.6%",
       "episodes": 12,
       "rank": 7,
       "season": "ONA",
@@ -468,6 +468,35 @@
       "hasDub": true
     },
     {
+      "mal_id": "51158",
+      "id": "51158",
+      "title": "Da Li Si Rizhi 3rd Season",
+      "titles": {
+        "en": "White Cat Legend 3",
+        "en_jp": null,
+        "ja_jp": null
+      },
+      "url": "https://kitsu.io/anime/da-li-si-rizhi-3rd-season",
+      "poster": "https://media.kitsu.app/anime/51158/poster_image/large-113dbe7d70d524a5e42f1c6daac77bfb.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/51158/poster_image/large-113dbe7d70d524a5e42f1c6daac77bfb.jpeg",
+          "image_url": "https://media.kitsu.app/anime/51158/poster_image/small-eb35d7bed4fbfecb6dbca012d6c34b44.jpeg"
+        }
+      },
+      "synopsis": "Third season of Da Li Si Rizhi.",
+      "score": "N/A",
+      "episodes": 16,
+      "rank": 7,
+      "season": "ONA",
+      "startDate": "2026-10-15",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
       "mal_id": "50986",
       "id": "50986",
       "title": "DARK MACHINE: The Animation",
@@ -487,7 +516,7 @@
       "synopsis": "Part of the \"DARK MACHINE\" Web3 cross-media project where the story of the Game and its anime adaptation intertwine.",
       "score": "N/A",
       "episodes": 11,
-      "rank": 7,
+      "rank": 8,
       "season": "TV",
       "startDate": "2026-10-14",
       "year": "2026",
@@ -516,7 +545,7 @@
       "synopsis": "The second part of Chitosekun wa Ramune Bin no Naka.",
       "score": "N/A",
       "episodes": 11,
-      "rank": 8,
+      "rank": 9,
       "season": "TV",
       "startDate": "2026-10-13",
       "year": "2026",
@@ -543,35 +572,6 @@
         }
       },
       "synopsis": "RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.\n\n(Source: J-Novel Club)",
-      "score": "N/A",
-      "episodes": null,
-      "rank": 9,
-      "season": "TV",
-      "startDate": "2026-10-11",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
-      "mal_id": "50822",
-      "id": "50822",
-      "title": "Diamond no Ace act II: Second Season Part 2",
-      "titles": {
-        "en": "Ace of Diamond Act II Season 2 Part 2",
-        "en_jp": "Diamond no Ace act II: Second Season Part 2",
-        "ja_jp": "ダイヤのA actⅡ -Second Season- 第2クール"
-      },
-      "url": "https://kitsu.io/anime/diamond-no-ace-act-ii-second-season-part-2",
-      "poster": "https://media.kitsu.app/anime/50822/poster_image/large-2059f27c52786e97231557931bec2f8b.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50822/poster_image/large-2059f27c52786e97231557931bec2f8b.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50822/poster_image/small-802ef377243ca478cbf68a178251fd0e.jpeg"
-        }
-      },
-      "synopsis": "The second cour of the second season of Diamond no Ace act II.",
       "score": "N/A",
       "episodes": null,
       "rank": 10,
