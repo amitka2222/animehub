@@ -1,7 +1,187 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-04T13:20:59.114Z",
+  "lastUpdated": "2026-11-04T22:56:21.909Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM1MTQ",
+      "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514",
+      "description": "Final arc starts in manga's 16th volume released on Wednesday",
+      "pubDate": "2026-11-04T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK1/cms/news.10/243514/exorcist.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MTI",
+      "title": "Martial Arts Manhwa Artist Seung-nam Ha Dies at 68",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/martial-arts-manhwa-artist-seung-nam-ha-dies-at-68/.243512",
+      "description": "Ha became 1st Korean comic artist to join Japan Cartoonists Association as full member in 2007",
+      "pubDate": "2026-11-04T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/cms/news.10/243512/hwkcka8bgaaafkl.jfif.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzUyMg",
+      "title": "Pokémon Pokopia Game Adds Expansion Pass DLC Part 2 'Dazzling Decorations' on December 9",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-11-04/pokemon-pokopia-game-adds-expansion-pass-dlc-part-2-dazzling-decorations-on-december-9/.243522",
+      "description": "The official X/Twitter account for the Pokémon franchise announced on Wednesday that the second part of the paid Expansion Pass DLC for Pok&eacute;mon...",
+      "pubDate": "2026-11-04T17:30:11.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.10/243522/pokemon-pokopia-dazzling-decorations.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Though I Am an Inept Villainess Anime Resurrects Idol Outfits for Good Oshi Day 2026",
+      "link": "https://crunchyroll.com/news/latest/2026/11/4/though-i-am-an-inept-villainess-anime-good-oshi-day-2026-visual",
+      "description": "The second cour of Though I Am an Inept Villainess premeires in January 2027",
+      "pubDate": "2026-11-04T17:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/79c382c707/though-i-am-an-inept-villainess.jpg"
+    },
+    {
+      "id": "ann-LjI0MzUyMw",
+      "title": "Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523",
+      "description": "Satsuki Kokubu, Yurie Kozakai, Hazuki Ogino, Sayumi Suzushiro, Katsuyuki Konishi join cast",
+      "pubDate": "2026-11-04T17:00:45.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM4/youtube/XUPewTvbu3I.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNDMx",
+      "title": "Castlevania: Belmont's Curse Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-playstation-5-microsoft-windows-xbox-series-x-and-series-s/castlevania/belmont-curse/.243431",
+      "description": "Konami, Evil Empire, and Motion Twin seemed to hit it off on the first date, and decided to give it another shot with a far more ambitious project.",
+      "pubDate": "2026-11-04T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g3E/cms/game-review/243431/ann-castlevania-belmonts-curse-1.png.jpg"
+    },
+    {
+      "id": "cr-YWJvcmF0aW9u",
+      "title": "Dragon's Dogma 2: Dark Arisen Announces Delicious in Dungeon Collaboration",
+      "link": "https://crunchyroll.com/news/latest/2026/11/4/dragons-dogma-2-dark-arisen-delicious-in-dungeon-anime-collaboration",
+      "description": "Laios and Marcille Pawns and outfit sets are available in-game starting today",
+      "pubDate": "2026-11-04T16:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/58cda1978d/dragons-dogma-2-delicious-in-dungeon-collaboration.jpg"
+    },
+    {
+      "id": "cr-dWFsLWNhc3Q",
+      "title": "Reincarnated as a Sword Anime Season 2 Teases Seedrun Arc in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/4/reincarnated-as-a-sword-anime-season-2-seedrun-arc-trailer-visual-cast",
+      "description": "New key art and cast were also revealed for the ongoing season",
+      "pubDate": "2026-11-04T16:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/62f77d9c30/reincarnated_as_a_sword_s2_fran_blep_header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tensei shitara Ken deshita II' Reveals Supporting Cast, Third Promo",
+      "link": "https://myanimelist.net/news/74904410?_location=rss",
+      "description": "The official website of the television anime adaptation of Yuu Tanaka's Tensei shitara Ken deshita (Reincarnated as a Sword) light novel revealed supporting cast, second key visual (pictured), and third promotional video for the \"Seedrun Arc\" on Thursday. The second season premiered on October 8 at 12.00 a.m. on Tokyo MX, followed by ABC TV, BS Asahi, and AT-X. Cast Valuza: Katsuyuki Konishi (Tongari Boushi no Atelier) Furuto: Satsuki Kokubu (Hoshifuru Oukoku no Nina) Satia: Yurie...",
+      "pubDate": "2026-11-04T16:33:53.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793809991-fa83f9004c7606025693a86325dedc51.jpeg"
+    },
+    {
+      "id": "cr-cHJpbC0yMDI3",
+      "title": "Oshiri Tantei Anime Announces New Series to Premiere in April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/4/oshiri-tantei-anime-new-series-april-2027",
+      "description": "A new teaser visual introduces the Alphabet Phantom Thieves",
+      "pubDate": "2026-11-04T16:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/3cb728d605/oshiri-tantei-hero.jpg"
+    },
+    {
+      "id": "cr-Ny1kZWJ1dA",
+      "title": "Peropero Sparkles Anime Broadcasts in January 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/4/peropero-sparkles-anime-january-2027-debut",
+      "description": "The main staff, cast and key art were also revealed for the series",
+      "pubDate": "2026-11-04T16:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/8c3f18f1a8/peropero_sparkles_youtube_anime_header.jpg"
+    },
+    {
+      "id": "cr-dGVydmlldw",
+      "title": "The Poetic Pulse of Shing02: From Samurai Champloo to the World Stage",
+      "link": "https://crunchyroll.com/news/interviews/2026/11/4/shing02-interview",
+      "description": "The voice behind one of anime’s most iconic openings reflects on his music and more",
+      "pubDate": "2026-11-04T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/1645x903/30265a79e8/shing02-mexico.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MjE",
+      "title": "Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521",
+      "description": "Campaign to raise €7,000 launches on November 19",
+      "pubDate": "2026-11-04T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.9/235423/4cc42112cb621160b16423a49e93f8e2-original.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzUxMA",
+      "title": "Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/sugar-apple-fairy-tale-miri-mikawa-brave10-kairi-shimotsuki-launch-new-manga-on-november-24/.243510",
+      "description": "Mikawa writes, Shimotsuki draws Ryū no Kuni Gensō fantasy manga",
+      "pubDate": "2026-11-04T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC7/cms/news.10/243510/ryu.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MTY",
+      "title": "Overgeared ‒ Episode 6",
+      "link": "https://www.animenewsnetwork.com/review/overgeared/episode-6/.243516",
+      "description": "If the show is determined to on the unenviable task of crafting Grid into a more likeable person, it sure has a lot it needs to prove.",
+      "pubDate": "2026-11-04T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRT/cms/episode-review.5/243516/overgeared.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yMzk2OTY",
+      "title": "Interview: All Things Rakugo with Akane-banashi Lead Voice Actor Anna Nagase",
+      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-all-things-rakugo-with-akane-banashi-lead-voice-actor-anna-nagase/.239696",
+      "description": "Rising star Anna Nagase has rapidly established herself as one of modern anime's most compelling voice talents",
+      "pubDate": "2026-11-04T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV0/cms/convention/239696/annanagasethumbnail.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0OTY",
+      "title": "Sakamoto Holidays Manga Heads Towards Climax",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496",
+      "description": "Sakamoto Days spinoff series debuted in July 2024",
+      "pubDate": "2026-11-04T13:46:36.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBC/cms/news.8/225214/sakamoto-holidays.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MDE",
+      "title": "Nia Liston: The Merciless Maiden ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-5/.243501",
+      "description": "From my early childhood sequestering via exceptionalism to world-framing college experiences, Nia Liston depicts some of the most formative moments of my life.",
+      "pubDate": "2026-11-04T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/episode-review.5/243501/nia-listion-episode-5-review.jpeg"
+    },
     {
       "id": "ann-NS8uMjQzNDk5",
       "title": "Even the Student Council Has Its Holes! ‒ Episode 5",
@@ -283,16 +463,6 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQE/cms/news.9/237042/61-s2kkkp0l.sl1200.jpg"
     },
     {
-      "id": "ann-Ly4yNDM0ODQ",
-      "title": "The Super Mario Galaxy Movie, Resident Evil Reboot Film Earn Nominations for Hollywood Music in Media Awards",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484",
-      "description": "Monster Hunter Outlanders game also gets nomination",
-      "pubDate": "2026-11-03T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.9/236126/mariogalaxymovie.jpg"
-    },
-    {
       "id": "ann-LS8uMjQzNDky",
       "title": "HIDIVE Confirms English Dub for Nia Liston: The Merciless Maiden Anime, Reveals Series Leaving Service in November",
       "link": "https://www.animenewsnetwork.com/news/2026-11-03/hidive-confirms-english-dub-for-nia-liston-the-merciless-maiden-anime-reveals-series-leaving-/.243492",
@@ -301,6 +471,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/240046/nia.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM0ODQ",
+      "title": "The Super Mario Galaxy Movie, Resident Evil Reboot Film Earn Nominations for Hollywood Music in Media Awards",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-super-mario-galaxy-movie-resident-evil-reboot-film-earn-nominations-for-hollywood-music-in-/.243484",
+      "description": "Monster Hunter Outlanders game also gets nomination",
+      "pubDate": "2026-11-03T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.9/236126/mariogalaxymovie.jpg"
     },
     {
       "id": "ann-LjI0MzQ4NQ",
@@ -340,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T17:24:33.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/at1PXP-VYgc.jpg"
+      "image": null
     },
     {
       "id": "cr-bnRlcnZpZXc",
@@ -360,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/game-review/242680/dd2da-cover-b.png.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNDg3",
@@ -370,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T16:58:17.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE7/youtube/c8vjJ43bCVY.jpg"
+      "image": null
     },
     {
       "id": "cr-LWFuZC1lZHM",
@@ -390,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRK/cms/episode-review.5/243483/hello-witch-5.png.jpg"
+      "image": null
     },
     {
       "id": "cr-b3ItdmlzdWFs",
@@ -410,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/this-week-in-anime/243473/sylvia04.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQ2Mg",
@@ -420,186 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T14:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLP/cms/episode-review.5/243462/mgrpr-5.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM0ODI",
-      "title": "New Girls Band Cry Anime Film's Teaser Unveils May 21 Opening",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/new-girls-band-cry-anime-film-teaser-unveils-may-21-opening/.243482",
-      "description": "Returning cast & staff, stage production also announced",
-      "pubDate": "2026-11-03T14:22:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.10/243482/gbcmv-web.jpg"
-    },
-    {
-      "id": "cr-ZXJlLWRhdGU",
-      "title": "Girls Band Cry Anime Film Confirms Premiere Date in Teaser Trailer and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/3/girls-band-cry-anime-film-teaser-trailer-visual-premiere-date",
-      "description": "A stage play adaptation is also planned for March",
-      "pubDate": "2026-11-03T14:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/fd866347bf/girls-band-cry-movie-2027-key.png"
-    },
-    {
-      "id": "ann-Ly4yNDM0MTI",
-      "title": "emaqi Service Adds Naruto, Kaiju No. 8, Spy x Family, 2 More Viz Media Titles; 8 New Exclusive Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/emaqi-service-adds-naruto-kaiju-no-8-spy-x-family-2-more-viz-media-titles-8-new-exclusive-manga/.243412",
-      "description": "New manga addition includes How Did We Even Do It?!, I'd Rather Die Than Call You Cute!, Kirin, Higanjima: Isle of Vampires, more",
-      "pubDate": "2026-11-03T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gVG/cms/news.10/243412/261113-higanjima-isle-of-vampires.jpg"
-    },
-    {
-      "id": "ann-LjI0MzQ2NA",
-      "title": "Mari Okada, Makoto Ojiro's Sister Resistar Manga Ends in 2 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/mari-okada-makoto-ojiro-sister-resistar-manga-ends-in-2-chapters/.243464",
-      "description": "Manga about idol costume seamstress launched in September 2024",
-      "pubDate": "2026-11-03T13:46:39.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAI/cms/news.10/243464/sistarresistar.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kawaii dake ja Nai Shikimori-san' Creator Begins 'Mahoutsukai no Yoru' Manga Adaptation",
-      "link": "https://myanimelist.net/news/74900816?_location=rss",
-      "description": "Manga creator Keigo Maki (Kawaii dake ja Nai Shikimori-san) will draw a manga adaptation of Type-Moon's Mahoutsukai no Yoru (Witch on the Holy Night) visual novel, the official X (formerly Twitter) account of the manga announced on Tuesday. The series will begin serialization in Weekly Shounen Magazine's 50th issue on November 11. Kinoko Nasu (Fate/stay night) and Type-Moon are credited for the original work, while Hirokazu Koyama (22/7) is credited for the original character designs....",
-      "pubDate": "2026-11-03T13:34:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793712701-c2ab3ecc97c1e938deb9b20f011d98ef.jpeg"
-    },
-    {
-      "id": "ann-NS8uMjQzNDU4",
-      "title": "#I'm Looking For a Zombie ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-5/.243458",
-      "description": "While the episode was very slow in the first half, the second half more than makes up for that.",
-      "pubDate": "2026-11-03T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDA/cms/episode-review.5/243458/vlcsnap-2026-11-02-16h43m58s555.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzQ2Mw",
-      "title": "Ramparts of Ice Manga Gets Epilogue Chapter in Fan Book",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/ramparts-of-ice-manga-gets-epilogue-chapter-in-fan-book/.243463",
-      "description": "Fan book ships on January 4",
-      "pubDate": "2026-11-03T13:25:30.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/cms/news.10/243463/rampartsofice.jpg"
-    },
-    {
-      "id": "ann-NS8uMjQzNDI5",
-      "title": "Black Clover Season 2 ‒ Episode 175",
-      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episode-175/.243429",
-      "description": "Magna gets to call Zora his “Big Bro.” Power of friendship, found family, bros being bros, huzzah. Not that good, but passable.",
-      "pubDate": "2026-11-03T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzNDc5",
-      "title": "You Can Literally Dress Up This Life-Size My Dress-Up Darling Figure",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-03/you-can-literally-dress-up-this-life-size-my-dress-up-darling-figure/.243479",
-      "description": "Only US$8,000",
-      "pubDate": "2026-11-03T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzNDYx",
-      "title": "I'm Not Even an NPC In This Otome Game! Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/im-not-even-an-npc-in-this-otome-game-manga-ends/.243461",
-      "description": "Manga adaptation debuted in April 2020",
-      "pubDate": "2026-11-03T12:26:05.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LW1lbWJlcnM",
-      "title": "The Iceblade Sorcerer Shall Rule the World II Anime Adds Five New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/11/3/the-iceblade-sorcerer-shall-rule-the-world-ii-anime-five-new-cast-members",
-      "description": "Crunchyroll streams adaptation based on light novels by Nana Mikoshiba",
-      "pubDate": "2026-11-03T12:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/14ed2d2088/the_iceblade_sorcerer_shall_rule_the_world2_abel_header.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM0Nzg",
-      "title": "The Iceblade Sorcerer Shall Rule the World Season 2 Unveils 5 Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/the-iceblade-sorcerer-shall-rule-the-world-season-2-unveils-5-cast-members/.243478",
-      "description": "Yūki Wakai, Toshiyuki Morikawa, Tetsu Inada, Daiki Hamano, Riona Imaizumi join anime's cast from episode 5 on Thursday",
-      "pubDate": "2026-11-03T10:01:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hyouken no Majutsushi ga Sekai wo Suberu II' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74900432?_location=rss",
-      "description": "The official website for the television anime adaptation of Nana Mikoshiba's Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced five additional cast members for the second season on Tuesday. The new season premiered on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Cast Cathy Alphelius: Yuuki Wakai (Kakegurui) Abel Alphelius: Toshiyuki Morikawa (Nohara Hiroshi: Hiru Meshi no Ryuugi) Cyril Alphelius: Te...",
-      "pubDate": "2026-11-03T09:29:45.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793698081-fa7dd38ab65c81e9f6ba86dd8e4e29cf.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzQ2MA",
-      "title": "Live-Action Quiztopia Series Unveils Trailer, Key Art",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-02/live-action-quiztopia-series-unveils-trailer-key-art/.243460",
-      "description": "Series debuting on Netflix on December 17 with scenes with 8,000 extras",
-      "pubDate": "2026-11-03T03:45:56.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "cr-bGxpbWVudGFs",
-      "title": "Centimillimental Releases Hello, I am a Witch and my Crush Wants me to Make a Love Potion! Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/3/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-anime-opening-song-music-video-centimillimental",
-      "description": "The anime is currently streaming on Crunchyroll",
-      "pubDate": "2026-11-03T02:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e265ff23c9/centimillimental-kanawanai-mv.jpg"
-    },
-    {
-      "id": "cr-eC1vZmZpY2U",
-      "title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend",
-      "link": "https://crunchyroll.com/news/latest/2026/11/3/chiikawa-the-movie-the-secret-of-the-mermaid-island-5th-15th-weekend-japan-box-office",
-      "description": "Space Battleship Yamato 3199 Chapter 7 openes at in 10th",
-      "pubDate": "2026-11-03T00:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x518/a5f1bb89a5/chiikawa-the-movie.png"
-    },
-    {
-      "id": "ann-LjI0MzQ1Mg",
-      "title": "Urban Myth Dissolution Center Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452",
-      "description": "Manga adaptation launched on April 2025",
-      "pubDate": "2026-11-03T00:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzNDU1",
-      "title": "Drama Queen Manga Ends in 4 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455",
-      "description": "Kuraku Ichikawa debuted series in December 2024",
-      "pubDate": "2026-11-02T23:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
     }
   ]
