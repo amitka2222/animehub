@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-04T22:56:21.909Z",
+  "lastUpdated": "2026-11-05T03:51:57.990Z",
   "items": [
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Wandance Live-Action Movie Drops Extended Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/5/wandance-live-action-movie-extended-trailer",
+      "description": "The adaptation opens in Japan on November 27",
+      "pubDate": "2026-11-05T02:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/823cc86832/wandance-live-action-header.jpg"
+    },
+    {
+      "id": "cr-b2YtZWRlbg",
+      "title": "East Of Eden Releases A Certain Dark Item Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/5/a-certain-dark-item-anime-opening-song-music-video-east-of-eden",
+      "description": "Crunchyroll is currently streaming the anime series",
+      "pubDate": "2026-11-05T02:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ed6189cbfb/east-of-eden-ghost-sequence-mv.jpg"
+    },
+    {
+      "id": "cr-b24tZmlsbQ",
+      "title": "Godzilla Minus Zero Sets Record for Japan's Highest Opening Day Gross for a Live-Action Film",
+      "link": "https://crunchyroll.com/news/latest/2026/11/5/godzilla-minus-zero-japan-highest-opening-day-gross-record-live-action-film",
+      "description": "Godzilla Minus Zero opened with 910 million yen at the box office in Japan",
+      "pubDate": "2026-11-05T02:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f7a573f6d9/godzilla-minus-zero.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQ3MA",
+      "title": "Yakuza Game Series Like A Dragon Infiltrates Roblox",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-04/yakuza-game-series-like-a-dragon-infiltrates-roblox/.243470",
+      "description": "Everyone's favorite Yakuza game is making it to the blocky game platform",
+      "pubDate": "2026-11-05T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/interest.3/243470/rgg-roblox.jpg"
+    },
+    {
+      "id": "ann-LjI0MzUwMw",
+      "title": "Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503",
+      "description": "Film opened in Japan in June 2024",
+      "pubDate": "2026-11-05T01:30:45.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.7/209922/gls-fpqasaansh2.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MzU",
+      "title": "Godzilla Minus Zero Earns Highest-Ever Opening Day for Live-Action Film in Japan",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535",
+      "description": "Film sold 590,000 tickets for 910 million yen on Tuesday opening",
+      "pubDate": "2026-11-05T01:28:12.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp"
+    },
+    {
+      "id": "ann-cy8uMjQzNTMw",
+      "title": "Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530",
+      "description": "Beacon of Light in the Dark Sea, Dangers in My Heart, 7th Time Loop audiobooks",
+      "pubDate": "2026-11-05T00:26:43.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY6/cms/news.10/243530/led-by-stars-m1-cover-jpn.jpg"
+    },
+    {
+      "id": "cr-dXJuZWRlYWQ",
+      "title": "MASHLE: MAGIC AND MUSCLES Live-Action Movie Super Teaser Trailer, Visual Reveal Mackenyu Maeda as Mash Burnedead",
+      "link": "https://crunchyroll.com/news/latest/2026/11/5/mashle-magic-and-muscles-live-action-movie-super-teaser-trailer-visual-mackenyu-maeda-as-mash-burnedead",
+      "description": "Yuichi Fukuda (the Gintama live-action series) serves as director",
+      "pubDate": "2026-11-05T00:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8b93bb11de/mashle-live-action-teaser-visual.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzNTMx",
+      "title": "Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531",
+      "description": "Mackenyu Maeda stars as Mash Burnedead with Gintama's Yūichi Fukuda directing",
+      "pubDate": "2026-11-04T23:26:04.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243531/871226383-18184906897428812-772152245061929119-n.jpg"
+    },
     {
       "id": "ann-Ly4yNDM1MTQ",
       "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
@@ -194,9 +284,9 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "cr-ZXItY2FzdA",
-      "title": "Game Sekai Tensei \"DANKATSU\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play Suru Anime Reveals New Teaser Trailer & Cast",
+      "title": "Game Sekai Tensei \"DANKATSU\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play Suru Anime Reveals New Teaser Trailer and Cast",
       "link": "https://crunchyroll.com/news/latest/2026/11/4/game-sekai-tensei-dankatsu-gamer-wa-dungeon-shuukatsu-no-susume-wo-hajime-kara-play-suru-anime-reveals-new-teaser-trailer-cast",
-      "description": "Adaptation based on light novel series broadcasts in Japan in January",
+      "description": "The series debuts in Japan in January 2027",
       "pubDate": "2026-11-04T11:59:00.000Z",
       "source": "Crunchyroll News",
       "category": "Latest News",
@@ -216,7 +306,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "cr-dy1rZXktYXJ0",
       "title": "Ramen Akaneko Season 2 Anime Shares New Key Art",
       "link": "https://crunchyroll.com/news/latest/2026/11/4/ramen-akaneko-season-2-anime-shares-new-key-art",
-      "description": "Ongoing adaptation of Angyaman's manga broadcasts in Japan in January",
+      "description": "The second season premieres in Japan in January 2027",
       "pubDate": "2026-11-04T11:26:00.000Z",
       "source": "Crunchyroll News",
       "category": "Latest News",
@@ -470,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/240046/nia.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0ODQ",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.9/236126/mariogalaxymovie.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzQ4NQ",
@@ -490,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC0/cms/news.7/207928/naruto_gn01_c1.jpeg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzNDEx",
@@ -500,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/cms/game-review/243411/670cc80d-7e95-4f5a-ae71-095c38bf55a2.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0ODg",
@@ -510,96 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-03T17:52:47.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY0/youtube/vFn-9WbYPWw.jpg"
-    },
-    {
-      "id": "ann-LjI0MzQ4OQ",
-      "title": "HIDIVE to Stream I'm Dating a Dark Summoner Omake Shorts Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/hidive-to-stream-im-dating-a-dark-summoner-omake-shorts-anime/.243489",
-      "description": "HIDIVE streams chibi-style sketch show spinoff on Friday",
-      "pubDate": "2026-11-03T17:24:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bnRlcnZpZXc",
-      "title": "Dreadnought on Anime's Fearless Creativity",
-      "link": "https://crunchyroll.com/news/interviews/2026/11/3/dreadnought-interview",
-      "description": "With anime you aren’t confined in the same way that live-action film is",
-      "pubDate": "2026-11-03T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/590739804a/dreadnought-band.png"
-    },
-    {
-      "id": "ann-LjI0MjY4MA",
-      "title": "Dragon's Dogma II: Dark Arisen Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/ps5-xbox-series-x-s-nintendo-switch-2-pc/dragon-dogma-ii/dark-arisen/.242680",
-      "description": "This is the definitive version of a bona fide Capcom classic that absolutely deserves your attention.",
-      "pubDate": "2026-11-03T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzNDg3",
-      "title": "Cyberpunk Edgerunners 2 Anime Streams New Music Videos",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-03/cyberpunk-edgerunners-2-anime-streams-new-music-videos/.243487",
-      "description": "Jack-Amin Ibrahim directs new music video about Weak Kingsley, Avida",
-      "pubDate": "2026-11-03T16:58:17.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LWFuZC1lZHM",
-      "title": "A History of Dancing in Anime OPs and EDs",
-      "link": "https://crunchyroll.com/news/features/2026/11/3/a-history-of-dancing-in-anime-ops-and-eds",
-      "description": "Let's boogie",
-      "pubDate": "2026-11-03T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/d92d4812a5/apocalypse-hotel-op.png"
-    },
-    {
-      "id": "ann-NS8uMjQzNDgz",
-      "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-5/.243483",
-      "description": "And just like that, we know where the kids got the idea that witches are evil: the adults in their lives are clearly afraid of Rose.",
-      "pubDate": "2026-11-03T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-b3ItdmlzdWFs",
-      "title": "Dark Gathering Season 2 Anime Approaches Ghost Road in Second Horror Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/3/dark-gathering-season-2-anime-2nd-horror-visual",
-      "description": "New visual focuses on T Tunnel, the site of numerous fatal accidents",
-      "pubDate": "2026-11-03T15:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/8e9be804b8/dark-gathering-ani.jpg"
-    },
-    {
-      "id": "ann-LjI0MzQ3Mw",
-      "title": "This Week in Anime - Spice World",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-03/.243473",
-      "description": "Sylvia and Chris explore the world of hentai artists who toned it down to break into the mainstream.",
-      "pubDate": "2026-11-03T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzQ2Mg",
-      "title": "Magical Girl Raising Project restart ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-5/.243462",
-      "description": "With this episode, our magical girl murder mystery kicks into high gear.",
-      "pubDate": "2026-11-03T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
     }
   ]
