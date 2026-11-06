@@ -1,7 +1,127 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-06T13:18:16.836Z",
+  "lastUpdated": "2026-11-06T22:27:47.571Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM1ODE",
+      "title": "FX Fighter Kurumi-chan ‒ Episode 6",
+      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-6/.243581",
+      "description": "It's like slapstick, watching a stupid character fail, then succumb to the consequences—if instead of comically tripping down a flight of stairs, she was losing all of her student aid money and trashing her laptop in a fit of rage",
+      "pubDate": "2026-11-06T21:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/episode-review.5/243581/fxfk061.jpg"
+    },
+    {
+      "id": "cr-dXMtemVybw",
+      "title": "Navigating Survivor's Guilt Through Godzilla Minus Zero",
+      "link": "https://crunchyroll.com/news/features/2026/11/6/navigating-survivor-s-guilt-through-godzilla-minus-zero",
+      "description": "Can you live in a place with a Godzilla?",
+      "pubDate": "2026-11-06T21:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/94f1adceea/godzilla-minus-zero.png"
+    },
+    {
+      "id": "ann-Ly4yNDM1NzY",
+      "title": "Odd Taxi Manga Author Launches New Rematch With You Manga in Late November",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576",
+      "description": "Abaraya previously published dōjin version of manga at Comitia in November 2025",
+      "pubDate": "2026-11-06T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g2C/cms/news.10/243576/rematchwithyou.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1OTM",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 8",
+      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-8/.243593",
+      "description": "Intertwined with Johnny's growing dedication to walking again, the fight that propels much of this episode forward feels both narratively fulfilling and naturally progressing.",
+      "pubDate": "2026-11-06T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/episode-review.5/243593/sbr-episode-8-review-image.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzU4MA",
+      "title": "Devils' Crest ‒ Episodes 1-2",
+      "link": "https://www.animenewsnetwork.com/review/devils-crest/episodes-1-2/.243580",
+      "description": "The ever-growing pile of questions is already staggeringly large. I wouldn't call this show captivating so far, but I am interested in seeing what it becomes now that the groundwork is out of the way.",
+      "pubDate": "2026-11-06T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFL/cms/episode-review.5/243580/93-2ndpv-004.jpg"
+    },
+    {
+      "id": "cr-LTIxLTIwMjc",
+      "title": "Nippon Anime Awards Revealed for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/6/nippon-anime-awards-announced-november-21-2027",
+      "description": "The first event for the new awards will be held on November 21, 2027",
+      "pubDate": "2026-11-06T17:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x666/8c5f5d67ba/nippon-anime-awards-announcement.jpg"
+    },
+    {
+      "id": "cr-bi1wc3lyZW4t",
+      "title": "Build Your PSI Type — Are You a Burst, Rise, or Trance User in PSYREN?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/11/6/are-you-a-burst-rise-or-trance-user-in-psyren-",
+      "description": "Fin out what kind of psychic powers you would wield in the world of PSYREN",
+      "pubDate": "2026-11-06T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/940x529/aa31047de8/psyren-psi-quiz.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzMDQ5",
+      "title": "Petals of Reincarnation Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/petals-of-reincarnation-anime-series/.243049",
+      "description": "Petals of Reincarnation is aimless in its anger, tries to do way too much, and doesn’t seem to care much (if at all) about what it’s communicating.",
+      "pubDate": "2026-11-06T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOF/cms/review.2/243049/petals-veritcal.jpg"
+    },
+    {
+      "id": "cr-dXJlLWNhc3Q",
+      "title": "Magical Sisters Lulutto Lilly Anime Casts 3 Magical Creatures",
+      "link": "https://crunchyroll.com/news/latest/2026/11/6/magical-sisters-lulutto-lilly-anime-new-magical-creature-cast",
+      "description": "The second cour of the magical girl series is now airing",
+      "pubDate": "2026-11-06T16:29:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/db628315d8/magical-sisters-lulutto-lilly-alien-hero.png"
+    },
+    {
+      "id": "ann-bi8uMjQzNDY4",
+      "title": "This Week in Games - Hacking your Evercold Pikmin",
+      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-11-06/hacking-your-evercold-pikmin/.243468",
+      "description": "Jean-Karlo has the update on the Goddess of Victory: NIKKE security exploit, a brand-new holiday, and the new classes coming to Final Fantasy XIV.",
+      "pubDate": "2026-11-06T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJK/cms/this-week-in-games/243468/pikmin.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMyMjE",
+      "title": "EXCLUSIVE: Dr. Poro, the Manga Writer Behind The Vermilion Mask",
+      "link": "https://www.animenewsnetwork.com/interview/2026-11-06/exclusive-dr-poro-the-manga-writer-behind-the-vermilion-mask/.243221",
+      "description": "Dr. Poro and ANN discuss The Vermilion Mask's origins, how the characters reflect their creator, and why Dr. Poro always chooses the healer in RPGs.",
+      "pubDate": "2026-11-06T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPD/herald/202717/vmmvol1jp.webp"
+    },
+    {
+      "id": "ann-Ly4yNDM1OTA",
+      "title": "Paradox Live The Animation's Film Announces Title, 2027 Opening",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590",
+      "description": "The official website for the hip-hop-themed multimedia franchise presented the early teaser visual for its upcoming film project on Friday. The visual...",
+      "pubDate": "2026-11-06T12:32:30.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/daily-briefs/243590/a28d9361742449bd33b4a56b99a3b1e79dd88cf1-6aed6cd90b0be.png.jpeg"
+    },
     {
       "id": "cr-aWwtMjAyNw",
       "title": "Rainy Day Serenade Anime Premieres in April 2027",
@@ -430,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-05T13:19:48.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/news.10/243557/panzer.png.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNTU5",
@@ -440,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-05T12:44:43.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCF/youtube/XPyht8yzgeE.jpg"
+      "image": null
     },
     {
       "id": "cr-ZW1lLXNvbmdz",
@@ -470,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-05T11:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/p15JWZsi3Ao.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1460x821/f9c61816d8/isshiki-san-wants-to-know-about-love.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM1NTQ",
-      "title": "Senren * Banka Anime Reveals TV Format",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-11-05/senren-banka-anime-reveals-tv-format/.243554",
-      "description": "The official X (formerly Twitter) account for the anime adaptation of Yuzu Soft's Senren * Banka visual novel opened on Thursday and revealed...",
-      "pubDate": "2026-11-05T10:10:31.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/daily-briefs/243554/banka.jpg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Code Geass: Star Chaser Aspal Anime Reveals Main Cast, New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/5/code-geass-star-chaser-aspal-anime-main-cast-visual",
-      "description": "The franchise's latest series debuts next year",
-      "pubDate": "2026-11-05T10:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/4be471ffce/code-geass-star-chaser-aspal.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Spirit Circle' Gets TV Anime in December 2026",
-      "link": "https://myanimelist.net/news/74906596?_location=rss",
-      "description": "Production company Twin Engine opened an official website for a television anime adaptation of Satoshi Mizukami's Spirit Circle manga on Thursday, revealing the main cast, staff, a teaser visual (pictured), the ending theme, and first promotional video. The anime series is scheduled to premiere in December 2026, with a total of 18 episodes. Cast Fuuta Okeya: Kazuki Ura (Tougen Anki) Kouko Ishigami: Anna Nagase (Koori no Jouheki) Rune: Eri Yukimura (Leadale no Daichi nite) East: Yuuichi Naka...",
-      "pubDate": "2026-11-05T09:55:21.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793872448-03b46c468f58e6f6c7c5cb4a32ca1052.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Code Geass: Hoshi Oi no Aspal' Announces Main Cast, Additional Staff",
-      "link": "https://myanimelist.net/news/74906589?_location=rss",
-      "description": "The official website for the Code Geass: Hoshi Oi no Aspal (Code Geass: Star Chaser Aspal) new anime series revealed the main cast, additional staff, and the main visual (pictured) on Thursday. The anime is scheduled to premiere in 2027, with advance screenings beginning in January 2027. Voice actors Ivan Shibata (Kaijuu 8-gou) and Hibiku Yamamura (Pon no Michi) are starring in the anime as Aspal and Zo&eacute;, respectively. Staff Assistant Director: Shinnosuke Itou (Kidou Senshi Gundam: GQuuuu...",
-      "pubDate": "2026-11-05T09:49:09.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793872080-f39226689ea66b245c7b76444e2e9c14.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDM1NTU",
-      "title": "Satoshi Mizukami's Spirit Circle Manga Gets TV Anime in December",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-05/satoshi-mizukami-spirit-circle-manga-gets-tv-anime-in-december/.243555",
-      "description": "Late director Tatsuo Satō helmed his final work at studios NAGOMI x EOTA",
-      "pubDate": "2026-11-05T09:31:49.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.10/243555/circle.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Magic Knight Rayearth' Unveils Additional Cast Pair",
-      "link": "https://myanimelist.net/news/74906532?_location=rss",
-      "description": "The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast pair on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi's \"IMAnimation W\" frame. Voice actors Shinichiro Miki (Youjo Senki) and Megumi Toyoguchi (Mushoku Tensei) joined the cast as Umi's father and Umi's mother, respectively. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Production, with Takayuki Sano (Bullet/Bullet epi...",
-      "pubDate": "2026-11-05T09:16:43.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793870148-77bfb6678092d3c845d543c2d4df295b.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDM1NDc",
-      "title": "New Code Geass Star Chaser Aspal Anime Unveils Cast, More Staff",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-05/new-code-geass-star-chaser-aspal-anime-unveils-cast-more-staff/.243547",
-      "description": "Ivan Shibata, Hibiku Yamamura star in Sunrise anime",
-      "pubDate": "2026-11-05T09:05:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF7/cms/news.10/243547/geass.jpg"
-    },
-    {
-      "id": "cr-ZXItY2FzdA",
-      "title": "Spirit Circle Anime Adaptation Announced, Will Stream in December",
-      "link": "https://crunchyroll.com/news/latest/2026/11/5/spirit-circle-anime-adaptation-announced-teaser-trailer-cast",
-      "description": "A teaser trailer and visual were unveiled, along with cast and staff",
-      "pubDate": "2026-11-05T09:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/92e9e12f3e/spirit-circle.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQzNTM2",
-      "title": "Live-Action Wandance Film's Trailer Previews Theme Song, Dance Scenes",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536",
-      "description": "Film opens in Japan on November 27",
-      "pubDate": "2026-11-05T04:21:18.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG4/cms/news.10/243536/wandance-liveaction-postervisual.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Wandance Live-Action Movie Drops Extended Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/5/wandance-live-action-movie-extended-trailer",
-      "description": "The adaptation opens in Japan on November 27",
-      "pubDate": "2026-11-05T02:53:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/823cc86832/wandance-live-action-header.jpg"
-    },
-    {
-      "id": "cr-b2YtZWRlbg",
-      "title": "East Of Eden Releases A Certain Dark Item Anime Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/5/a-certain-dark-item-anime-opening-song-music-video-east-of-eden",
-      "description": "Crunchyroll is currently streaming the anime series",
-      "pubDate": "2026-11-05T02:39:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ed6189cbfb/east-of-eden-ghost-sequence-mv.jpg"
-    },
-    {
-      "id": "cr-b24tZmlsbQ",
-      "title": "Godzilla Minus Zero Sets Record for Japan's Highest Opening Day Gross for a Live-Action Film",
-      "link": "https://crunchyroll.com/news/latest/2026/11/5/godzilla-minus-zero-japan-highest-opening-day-gross-record-live-action-film",
-      "description": "Godzilla Minus Zero opened with 910 million yen at the box office in Japan",
-      "pubDate": "2026-11-05T02:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f7a573f6d9/godzilla-minus-zero.jpg"
     }
   ]
 };
