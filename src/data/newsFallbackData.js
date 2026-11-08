@@ -1,7 +1,17 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-07T21:07:48.984Z",
+  "lastUpdated": "2026-11-08T02:52:08.125Z",
   "items": [
+    {
+      "id": "ann-LjI0MzYxMg",
+      "title": "Harajuku Himegoto House Multimedia Project Announced",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-07/harajuku-himegoto-house-multimedia-project-announced/.243612",
+      "description": "Project about cafe staffed by assassins includes TV anime",
+      "pubDate": "2026-11-08T01:51:50.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/youtube/q_3Mkye4sQg.jpg"
+    },
     {
       "id": "ann-bC8uMjQzMDE3",
       "title": "Memoirs of Amorous Gentlemen Musical Review",
@@ -591,16 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/36ad06c45f/leviathan-film-student-cast.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM1Njk",
-      "title": "PlayStation 5 Reaches Over 97 Million Shipments",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-05/playstation-5-reaches-over-97-million-shipments/.243569",
-      "description": "Sony shipped 4.2 million PS5 units for current fiscal year so far",
-      "pubDate": "2026-11-05T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/news.6/205804/playstation5.jpg"
     }
   ]
 };
