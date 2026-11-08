@@ -1,12 +1,72 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-08T12:17:29.482Z",
+  "lastUpdated": "2026-11-08T21:24:15.597Z",
   "items": [
+    {
+      "id": "ann-Ni8uMjQzNTY4",
+      "title": "The Legend of Zelda: Ocarina of Time 2026 Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/the-legend-of-zelda/ocarina-of-time-2026/.243568",
+      "description": "The big holiday release from Nintendo, brave enough to challenge the looming release of Grand Theft Auto VI, is finally here—and we have plenty to gush about!",
+      "pubDate": "2026-11-08T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/game-review/243568/ann-the-legend-of-zelda-ocarina-of-time-5.png.jpg"
+    },
+    {
+      "id": "ann-Mi8uMjQzMDY4",
+      "title": "The Makeup Remover Volume 2 K-Comic Review",
+      "link": "https://www.animenewsnetwork.com/review/the-makeup-remover/volume-2/.243068",
+      "description": "If you’re not Barbie-perfect, you’ve lost.",
+      "pubDate": "2026-11-08T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/review.2/243068/makeup-remover-2.jpg"
+    },
+    {
+      "id": "cr-ci12aXN1YWw",
+      "title": "My Crush's Crush Anime Premieres in April 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/8/my-crushs-crush-anime-april-2027-cast-staff-trailer-visual",
+      "description": "Teaser trailer, main cast and more revealed for adaptation based on romcom manga",
+      "pubDate": "2026-11-08T16:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x563/87607e8fab/my_crushs_crush_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzYyNw",
+      "title": "My Crush's Crush Anime's Teaser Unveils Cast, Staff, April Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-08/my-crush-crush-anime-teaser-unveils-cast-staff-april-debut/.243627",
+      "description": "Gakuto Kajiwara, Haruna Mikawa, Nene Hieda star in 2027 anime",
+      "pubDate": "2026-11-08T16:18:47.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/youtube/_iOewgdlvMM.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Boku no Suki na Hito ga Suki na Hito' Reveals Main Cast, Staff, Teaser Promo, Spring 2027 Premiere",
+      "link": "https://myanimelist.net/news/74917765?_location=rss",
+      "description": "Production company Avex Pictures opened an official website for a television anime adaptation of Sekina Aoi and Ryou Tsuzura's Boku no Suki na Hito ga Suki na Hito (My Crush's Crush) manga on Friday, revealing the main cast, staff, teaser visual (pictured), and teaser promotional video. The anime is scheduled to premiere in April 2027. Cast Sora Akizuki: Gakuto Kajiwara (Black Clover) Asahi Suzukaze: Haruna Mikawa (Ninja to Koroshiya no Futarigurashi) Miya Fuwa: Nene Hieda (Summer Pock...",
+      "pubDate": "2026-11-08T15:20:52.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794151147-a0b2c5e6c91c90965dbdeb867dfd2567.jpeg"
+    },
+    {
+      "id": "cr-bm91bmNlZA",
+      "title": "Harajuku Himegoto House Anime and Media Mix Project Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/8/harajuku-himegoto-house-anime-media-mix-project-announced",
+      "description": "Check out a teaser trailer for the \"cute hitmen\" project",
+      "pubDate": "2026-11-08T14:47:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ba4c298722/harajuku-himegoto-house-hero.png"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Spy x Family' Gets Season 4, Second Anime Movie in 2027",
       "link": "https://myanimelist.net/news/74917181?_location=rss",
-      "description": "The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing a teaser visual (pictured) for Season 4. The new season and movie are scheduled for a 2027 premiere. Co-produced by WIT Studio and CloverWorks, the first season aired in split cours in Spring 2022 and Fall 2022. The second season aired in 12 episodes in Fall 2023, followed by a third season in Fall 2025. Crunchyroll streamed the anime with subtitles and dubbed versio...",
+      "description": "The Spy x Family Anime Extra Mission II special event announced a fourth season and a second theatrical movie on Sunday, revealing the production staff and a teaser visual (pictured) for Season 4. The new season and movie are scheduled for a 2027 premiere. Staff Director: Yasuhiro Akamatsu (Spy x Family Season 3 episode director) NEW Assistant Director: Hiroki Shinagawa (Lazarus sub character design) NEW Series Composition: Aya Takaha (Mahoutsukai no Yome script) NEW Assistant Series Composition...",
       "pubDate": "2026-11-08T11:24:31.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -541,66 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793957717-070d7b8e2a1d3e9fcfeafb0ae014aa1f.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDM1ODg",
-      "title": "Laid-Back Camp Season 4's Trailer Unveils April 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-06/laid-back-camp-season-4-trailer-unveils-april-2027-debut/.243588",
-      "description": "Trailer also previews Asaka, Eri Sasaki's theme songs",
-      "pubDate": "2026-11-06T09:21:42.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/243588/modal-4th-2.jpg"
-    },
-    {
-      "id": "cr-bW9yZS1jYXN0",
-      "title": "Wound & Bandage Anime Trailer Reveals MIYAVI Opening Theme Song, More Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/11/6/wound-bandage-anime-trailer-reveals-miyavi-opening-theme-song-more-cast",
-      "description": "A new key visual was also unveiled today",
-      "pubDate": "2026-11-06T07:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x820/3820c78840/wound-and-bandage.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kizuguchi to Houtai' Reveals Additional Cast, Staff, Opening Theme, First Promo",
-      "link": "https://myanimelist.net/news/74909626?_location=rss",
-      "description": "The official website for the television anime adaptation of Nanai Umihoshi's Kizuguchi to Houtai (Wound and Bandage) manga revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Cast Shouta Kawaramori: Kou Bonkobara (Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)) Mamoru Fujiyoshida: Kengo...",
-      "pubDate": "2026-11-06T07:38:34.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793950662-08b72f21c07d23866f7112997d1686ee.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDM1ODU",
-      "title": "He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585",
-      "description": "Atsushi Hizashi, Ion Momoyama, Towa Miyako, Milk Amai star in anime",
-      "pubDate": "2026-11-06T06:13:06.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.10/243585/hedoesabodygood-kv.jpg"
-    },
-    {
-      "id": "ann-LjI0MzU4NA",
-      "title": "Booty Royale: Never Go Down Without a Fight! Manga Gets TV Anime in January",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-06/booty-royale-never-go-down-without-a-fight-manga-gets-tv-anime-in-january/.243584",
-      "description": "Hisako Tōjō, Nao Shiraki, Natsumi Murakami, Hikaru Iida star in risque martial arts anime",
-      "pubDate": "2026-11-06T05:41:13.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.10/243584/hagureidol-kinenillust.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Hagure Idol: Jigoku-hen' Gets TV Anime in Winter 2027",
-      "link": "https://myanimelist.net/news/74909290?_location=rss",
-      "description": "WWWave Corporation's Deregula animation label opened an official website for a television anime adaptation of Rui Takatou's Hagure Idol: Jigoku-hen (Booty Royale: Never Go Down Without a Fight!) manga on Friday, revealing the main cast, staff, and a commemorative visual (pictured). The anime series will premiere in January 2027. Cast Misora Haebaru: Hisako Toujou (Boushoku no Berserk) Sarah Goujima: Nao Shiraki (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen) Yun-Hui...",
-      "pubDate": "2026-11-06T05:11:20.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1793941725-b3cef95c88ebff30170bbe5e61015b08.jpeg"
     }
   ]
 };
