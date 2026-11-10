@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-10T13:50:50.792Z",
+  "lastUpdated": "2026-11-10T22:36:00.968Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM2OTc",
+      "title": "Yu-Gi-Oh! Tag Force GX Game Previews Duels, Partners, Multiplayer, Exploration in New Trailer",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/yu-gi-oh-tag-force-gx-game-previews-duels-partners-multiplayer-exploration-in-new-trailer/.243697",
+      "description": "Updated version of Yu-Gi-Oh! GX Tag Force 3, previously unreleased in N. America, launches on February 16",
+      "pubDate": "2026-11-10T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/youtube/qJ1XPEVA5aM.jpg"
+    },
+    {
+      "id": "ann-Ni8uMjQzNjc0",
+      "title": "WEBTOON Reports US$9.23 Million in 3rd Quarter of 2026",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/webtoon-reports-usd9.23-million-in-3rd-quarter-of-2026/.243674",
+      "description": "Japan, WEBTOON's largest market by revenue, struggled",
+      "pubDate": "2026-11-10T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.8/224522/thumb_basic.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM2OTY",
+      "title": "HIDIVE to Release Made in Abyss: Awakening Mystery Film in 2027 With N. American Premiere Screening at Anime Frontier on December 5",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-release-made-in-abyss-awakening-mystery-film-in-2027-with-n-american-premiere-screening-/.243696",
+      "description": "English-subbed trailer streamed for 1st film in new Made in Abyss anime film series",
+      "pubDate": "2026-11-10T20:00:35.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/youtube/wGI2OGAY6pA.jpg"
+    },
+    {
+      "id": "ann-ci8uMjQzNjg5",
+      "title": "Rock Band FLOW Announce U.S. Dates for New 2027 World Tour",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/rock-band-flow-announce-u.s-dates-for-new-2027-world-tour/.243689",
+      "description": "Band perform in U.S. in February 2027 starting in Boston",
+      "pubDate": "2026-11-10T19:00:22.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.10/243689/flow-world-tour-2027.jpg"
+    },
+    {
+      "id": "cr-aW50ZXJ2aWV3",
+      "title": "Singer-Songwriter Ayra Starr on Creating Starrgirl, Trusting Her Instincts and Her Love of Anime",
+      "link": "https://crunchyroll.com/news/interviews/2026/11/10/ayra-starr-starrgirl-interview",
+      "description": "She also reveals which anime character could pull off the Starrgirl vibe",
+      "pubDate": "2026-11-10T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/f871d56345/ayra-starr.jpg"
+    },
+    {
+      "id": "ann-LjI0MzA1MQ",
+      "title": "Hell Mode Season 2 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/hell-mode-season-2-anime-series/.243051",
+      "description": "The worst of Hell Mode is very firmly behind us in this season, but being an improvement doesn’t necessarily mean it’s suddenly fun to watch.",
+      "pubDate": "2026-11-10T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG7/cms/review.2/243051/hellmodes2.jpg.webp"
+    },
+    {
+      "id": "ann-LjI0MzY5MA",
+      "title": "Dragon Quest RPG Mobile Game's Trailer Reveals 2027 Launch, Closed Beta Test in December",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/dragon-quest-rpg-mobile-game-trailer-reveals-2027-launch-closed-beta-test-in-december/.243690",
+      "description": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle game features turn-based battles, dungeons",
+      "pubDate": "2026-11-10T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gU3/youtube/QkA6TWFDjkE.jpg"
+    },
+    {
+      "id": "cr-cy1iYXR0bGVz",
+      "title": "How Dragon Ball Super: Beerus Restructures Its Battles",
+      "link": "https://crunchyroll.com/news/features/2026/11/10/dragon-ball-super-beerus-battles",
+      "description": "A new way to enjoy the Dragon Ball franchise’s iconic fights",
+      "pubDate": "2026-11-10T16:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/76e804fc49/dragon-ball-super-beerus.jpg"
+    },
+    {
+      "id": "cr-b3ItbW9iaWxl",
+      "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle Announced for Mobile",
+      "link": "https://crunchyroll.com/news/latest/2026/11/10/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-mobile",
+      "description": "Closed beta sign-ups live ahead of 2027 launch",
+      "pubDate": "2026-11-10T16:14:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x541/bed4771bc5/dragon-quest-rpg.jpg"
+    },
+    {
+      "id": "ann-LjI0MzY4OA",
+      "title": "Crunchyroll Streams Suikoden Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688",
+      "description": "1st 6 episodes are now streaming with new episodes premiering on Tuesdays",
+      "pubDate": "2026-11-10T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFK/cms/news.9/235911/hejminuaiaas0pb.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzY4Nw",
+      "title": "Psyren ‒ Episode 5",
+      "link": "https://www.animenewsnetwork.com/review/psyren/episode-5/.243687",
+      "description": "I wish I could still muster some lingering enthusiasm for seeing how the rest of this adaptation pans out, but right now, all I can feel towards it is apathy.",
+      "pubDate": "2026-11-10T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/episode-review.5/243687/psyren-1-1.png.jpg"
+    },
+    {
+      "id": "cr-cy1hcnRodXI",
+      "title": "Millennium Family Anime Casts Mutsumi Tamura as Arthur",
+      "link": "https://crunchyroll.com/news/latest/2026/11/10/millennium-family-anime-casts-mutsumi-tamura-as-arthur",
+      "description": "New character art and a YouTube short showcase the Benfield family's youngest son",
+      "pubDate": "2026-11-10T15:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0e8b003363/millennium-family-arthur-chara.png"
+    },
+    {
+      "id": "cr-b29hbC1nb3du",
+      "title": "Release the Villains: Ains Ooal Gown, a Lonely Gamer Playing the Role of a Lifetime",
+      "link": "https://crunchyroll.com/news/features/2026/11/10/anime-villains-ains-ooal-gown",
+      "description": "The Overlord rules as a terrifying undead deity, but deep down he’s just a salaryman who never wanted to leave the game",
+      "pubDate": "2026-11-10T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/8ec1433eff/overlord.jpg"
+    },
+    {
+      "id": "ann-LjI0MzQ4Ng",
+      "title": "Exploring the MAPPA EXPO 15th Anniversary Exhibition",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-10/exploring-the-mappa-expo-15th-anniversary-exhibition/.243486",
+      "description": "Celebrating its 15th anniversary, MAPPA is looking back on its history with the MAPPA EXPO 15th Anniversary exhibition at the Yurakucho Museum in Tokyo.",
+      "pubDate": "2026-11-10T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/feature/243486/mappa-expo-15th-anniversary-exhibition-36.jpg"
+    },
+    {
+      "id": "ann-LjI0MzY3Ng",
+      "title": "This Week in Anime - Kaiju King",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-10/.243676",
+      "description": "Godzilla contains multitudes, and we're not just talking about the people he eats.",
+      "pubDate": "2026-11-10T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Godzilla",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAA/cms/this-week-in-anime/243676/goji-25.png.jpg"
+    },
+    {
+      "id": "cr-aXZlLWNvdXJz",
+      "title": "Devils’ Crest Anime to Air for Two Consecutive Cours",
+      "link": "https://crunchyroll.com/news/latest/2026/11/10/devils-crest-anime-two-consecutive-cours",
+      "description": "Staff confirms half-year plan for adaptation of Reki Kawahara’s novels",
+      "pubDate": "2026-11-10T14:41:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f1b42df8d8/devils-crest-p3.jpg"
+    },
+    {
+      "id": "cr-LXN0cmVhbQ",
+      "title": "Suikoden: The Anime Now Streaming on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/11/10/suikoden-the-anime-crunchyroll-stream",
+      "description": "The first six episodes are available now, with new episodes streaming weekly starting November 17",
+      "pubDate": "2026-11-10T14:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1280x720/a5bdc472ca/suikoden-the-anime.jpg"
+    },
     {
       "id": "ann-LjI0MzY2Nw",
       "title": "Magical Girl Raising Project restart ‒ Episode 6",
@@ -70,7 +240,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T11:43:13.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/news.10/243679/nightmare.jpeg"
     },
     {
       "id": "ann-Ly4yNDM2Nzg",
@@ -90,7 +260,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSD/cms/news.10/243639/millennium.jpeg"
     },
     {
       "id": "ann-Ly4yNDM2MjA",
@@ -100,7 +270,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T07:53:54.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRE/cms/news.10/243620/resort.jpg"
     },
     {
       "id": "ann-MS8uMjQzNjIx",
@@ -120,7 +290,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T06:48:44.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.10/243671/sheep.jpg"
     },
     {
       "id": "ann-LjI0MzY0Nw",
@@ -130,7 +300,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "AI",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/convention/200852/makoto-yukimura-panel7.jpg"
     },
     {
       "id": "cr-LWZvci0yMDI3",
@@ -170,7 +340,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T03:34:51.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/fU7h5bDqEvw.jpg"
     },
     {
       "id": "ann-Ly4yNDM2NTA",
@@ -180,7 +350,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T03:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN8/cms/news.10/243650/flag2.png.jpg"
     },
     {
       "id": "ann-YS8uMjQzNjY0",
@@ -190,7 +360,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T02:31:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.10/243664/kekkonshimashou.jpg"
     },
     {
       "id": "ann-Ly4yNDM2NDg",
@@ -200,7 +370,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T02:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g4F/encyc/A19669-2198548421.1503972289.jpg"
     },
     {
       "id": "ann-YS8uMjQzNjYw",
@@ -210,7 +380,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T01:56:30.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB7/cms/news.10/243660/hwtsrpuw8aarbjb.jpg"
     },
     {
       "id": "cr-aWRlby1zb3U",
@@ -230,7 +400,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-10T00:49:27.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/youtube/U-M6dQImHrI.jpg"
     },
     {
       "id": "cr-eC1vZmZpY2U",
@@ -280,7 +450,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/news.10/243616/unnamed.png.jpg"
     },
     {
       "id": "cr-LTYtcmVjYXA",
@@ -310,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/cms/episode-review.5/243618/black-clover-s2-e6.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzY1Nw",
@@ -340,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/episode-review.5/243655/hello-witch-6.png.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNjU2",
@@ -360,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/episode-review.5/243652/far-away-6.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzY1Mw",
@@ -400,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKG/cms/episode-review.5/243651/overgeared-1.png.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzMDcx",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEJ/cms/review.2/243071/grow-up-show.jpg"
+      "image": null
     },
     {
       "id": "ann-NS8uMjQzNjMw",
@@ -420,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/cms/episode-review.5/243630/blue-box-s2-eps-5.png.jpg"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQzNTI5",
@@ -430,176 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-09T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-NC8uMjQzNjI2",
-      "title": "The Apothecary Diaries Season 3 ‒ Episode 54",
-      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-54/.243626",
-      "description": "We’ve learned one thing for sure: if you meet someone named Maomao, keep a close eye on your fish.",
-      "pubDate": "2026-11-09T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZS1qYWVnZXI",
-      "title": "Release the Villains: Zeke Jaeger Is Attack on Titan’s Ultimate Agent of Chaos",
-      "link": "https://crunchyroll.com/news/features/2026/11/9/anime-villains-zeke-jaeger",
-      "description": "Zeke Jaeger makes an already complicated story even more complex",
-      "pubDate": "2026-11-09T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/e9deca326f/attack-on-titan.jpeg"
-    },
-    {
-      "id": "cr-ZXMtdm9sLTgw",
-      "title": "Crunchyroll News Puzzles Vol. 80: City Limit Testing and Legendary Leader",
-      "link": "https://crunchyroll.com/news/quizzes/2026/11/9/anime-crosswords-puzzles-vol-80",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-11-09T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-LjI0MzYxNQ",
-      "title": "Romelia War Chronicle ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-6/.243615",
-      "description": "So far as new additions to the cast are concerned, though, Ragn and Gran, the Wonder Twins, are all right.",
-      "pubDate": "2026-11-09T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpc3VhbHM",
-      "title": "Fate Rewinder Anime Reveals Four New Character Visuals",
-      "link": "https://crunchyroll.com/news/latest/2026/11/9/fate-rewinder-anime-character-visuals",
-      "description": "Crunchyroll will stream the series starting in April 2027",
-      "pubDate": "2026-11-09T14:29:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/0d3d7111c8/fate-rewinder-shirai.jpeg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Fool Night Anime Spotlights Toshiro Kamiya in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/9/fool-night-anime-toshiro-kamiya-character-trailer",
-      "description": "Kasumi Yasuda's manga also celebrates 1 million copies in circulation",
-      "pubDate": "2026-11-09T14:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/0ac3030571/fool-night-toshiro-kamiya-hero.png"
-    },
-    {
-      "id": "ann-LjI0MzYyOQ",
-      "title": "Comikey Licenses The Emperor's Treasure, Gakuen Babysitters, 4 More Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/comikey-licenses-the-emperor-treasure-gakuen-babysitters-4-more-titles/.243629",
-      "description": "Also added: The Plebeian: Beyond the Bloodline Elite, The Oppressed Saint and Her Loyal Duke, Mr. Kusakabe's Gentle Love, more",
-      "pubDate": "2026-11-09T14:03:31.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDAyMzQ",
-      "title": "Fall K-Comics Guide",
-      "link": "https://www.animenewsnetwork.com/seasonal/2026/fall/.240234",
-      "description": "From avant-garde manhwa to vertical scrolling delights, come find your next K-Comics read in our guide to fall's releases!",
-      "pubDate": "2026-11-09T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzMjkx",
-      "title": "MEGATERA・ZERO and VK Blanka Bring Fresh Beats to Dragon Ball Super: Beerus Anime",
-      "link": "https://www.animenewsnetwork.com/interview/2026-11-09/megatera-zero-and-vk-blanka-bring-fresh-beats-to-dragon-ball-super-beerus-anime/.243291",
-      "description": "What's it like to work on an internationally beloved anime franchise like Dragon Ball?",
-      "pubDate": "2026-11-09T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-MC8uMjQzNjEz",
-      "title": "The Ramparts of Ice Season 2 ‒ Episode 20",
-      "link": "https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-20/.243613",
-      "description": "Originally, I worried that this episode would be boring.",
-      "pubDate": "2026-11-09T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM2NDY",
-      "title": "SEGA Confirms Leak of 2.2 Million Newsletter Recipients' Email Addresses",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/sega-confirms-leak-of-2.2-million-newsletter-recipients-email-addresses/.243646",
-      "description": "SEGA: No indications that other personal info was also leaked",
-      "pubDate": "2026-11-09T12:34:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzU4Mw",
-      "title": "Suikoden: The Anime ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-5/.243583",
-      "description": "What an effective bit of television.",
-      "pubDate": "2026-11-09T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY0NA",
-      "title": "Dragon Quest Teases New RPG for iOS, Android",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/dragon-quest-teases-new-rpg-for-ios-android/.243644",
-      "description": "Dragon Quest RPG Makai Ju to Michibikareshi Shima game's trailer debuts tomorrow",
-      "pubDate": "2026-11-09T12:10:41.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM2MjQ",
-      "title": "Late Tetsuya Chiba's Autobiographical Manga to End in 8th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/late-tetsuya-chiba-autobiographical-manga-to-end-in-8th-volume/.243624",
-      "description": "Tomorrow's Joe's creator launched Hinemosu Notari Nikki in 2015, went on hiatus on September 25 before his October 22 death",
-      "pubDate": "2026-11-09T09:17:48.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY0MA",
-      "title": "Heisei Haizan-hei ☆ Sumire-chan Manga Resumes on November 16",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/heisei-haizan-hei-sumire-chan-manga-resumes-on-november-16/.243640",
-      "description": "Creator Satomi U went on hiatus due to maternity leave",
-      "pubDate": "2026-11-09T09:06:36.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM0NDM",
-      "title": "Live-Action In the Clear Moonlit Dusk Film Rises to #2, 7th Be Forever Yamato: Rebel 3199 Film Opens at #10",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/live-action-in-the-clear-moonlit-dusk-film-rises-to-no.2-7th-be-forever-yamato-rebel-3199-film-/.243443",
-      "description": "Live-action Resident Evil rises to #3",
-      "pubDate": "2026-11-09T06:25:15.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-bi8uMjQzNjMz",
-      "title": "My Hero Ultra Rumble Game Gets Mobile Version",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-08/my-hero-ultra-rumble-game-gets-mobile-version/.243633",
-      "description": "English, Japanese teasers streamed",
-      "pubDate": "2026-11-09T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
