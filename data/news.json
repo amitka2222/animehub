@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-11-10T22:36:00.968Z",
+  "lastUpdated": "2026-11-11T03:19:46.689Z",
   "items": [
+    {
+      "id": "ann-ZS8uMjQzNzA0",
+      "title": "Mameshiba Characters Get Oyatsushiba Spinoff Short Net Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/mameshiba-characters-get-oyatsushiba-spinoff-short-net-anime/.243704",
+      "description": "Anime about characters inspired by sweet rice cakes debuts on Friday",
+      "pubDate": "2026-11-11T02:43:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243704/oyatsushiba.jpg.webp"
+    },
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "Colorful Runway! Precure Stage Play Shares Main Theme Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/11/colorful-runway-precure-stage-play-main-theme-song-music-video",
+      "description": "The second male Precure show will open on December 5",
+      "pubDate": "2026-11-11T02:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/2f07e656e6/colorful-runway-precure-theme-song-mv.png"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Aoharu Once More Light Anime Announces January 2027 Premiere, Main Voice Cast in Teaser Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/11/aoharu-once-more-light-anime-january-2027-premiere-main-voice-cast-teaser-trailer",
+      "description": "Tasuku Kaito and Kazuki Ura play the two main characters",
+      "pubDate": "2026-11-11T02:07:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f6f849baf7/aoharu-once-more-teaser-trailer.png"
+    },
+    {
+      "id": "ann-Ly4yNDM2ODM",
+      "title": "Detective Conan Saves Man From Drowning in Car",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-10/detective-conan-saves-man-from-drowning-in-car/.243683",
+      "description": "Man: \"In the first 20 seconds I was prepared to die, but then this scene popped into my head, and I escaped with my life.\"",
+      "pubDate": "2026-11-11T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/interest.3/243683/detective-conan-episode-1078.jpeg"
+    },
+    {
+      "id": "cr-ZW8tc3VtaWth",
+      "title": "Sumika Releases The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/11/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-opening-song-music-video-sumika",
+      "description": "Crunchyroll is streaming the P.A. Works-animated series",
+      "pubDate": "2026-11-11T01:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/f51b179d18/sumika-ember-torch-mv.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3MDE",
+      "title": "Tekken 8 Game Streams Roger Jr. Starter Guide",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/tekken-8-game-streams-roger-jr-starter-guide/.243701",
+      "description": "Season 3 character launches in early access on November 11",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF2/youtube/1HsRz8zm4-Q.jpg"
+    },
+    {
+      "id": "ann-LjI0MzY3Nw",
+      "title": "The Iceblade Sorcerer Shall Rule the World Author Nana Mikoshiba's Original Novel Gets Manga Adaptation on November 17",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-10/the-iceblade-sorcerer-shall-rule-the-world-author-nana-mikoshiba-original-novel-gets-manga-/.243677",
+      "description": "Artist Meguru Kanadome draws manga of Mikoshiba's novel",
+      "pubDate": "2026-11-10T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY9/cms/news.10/243677/nana.png.jpg"
+    },
     {
       "id": "ann-Ly4yNDM2OTc",
       "title": "Yu-Gi-Oh! Tag Force GX Game Previews Duels, Partners, Multiplayer, Exploration in New Trailer",
@@ -379,7 +449,7 @@
       "pubDate": "2026-11-10T01:56:30.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB7/cms/news.10/243660/hwtsrpuw8aarbjb.jpg"
+      "image": null
     },
     {
       "id": "cr-aWRlby1zb3U",
@@ -399,7 +469,7 @@
       "pubDate": "2026-11-10T00:49:27.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/youtube/U-M6dQImHrI.jpg"
+      "image": null
     },
     {
       "id": "cr-eC1vZmZpY2U",
@@ -439,7 +509,7 @@
       "pubDate": "2026-11-09T22:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/youtube/Z_-vajruWOs.jpg"
+      "image": null
     },
     {
       "id": "ann-ZC8uMjQzNjE2",
@@ -449,7 +519,7 @@
       "pubDate": "2026-11-09T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF0/cms/news.10/243616/unnamed.png.jpg"
+      "image": null
     },
     {
       "id": "cr-LTYtcmVjYXA",
@@ -529,76 +599,6 @@
       "pubDate": "2026-11-09T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY1Mw",
-      "title": "K Manga Adds nyalra's Strayboy Overkill Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/k-manga-adds-nyalra-strayboy-overkill-manga/.243653",
-      "description": "Needy Girl Overdose writer nyalra debuted Strayboy Overkill on April 7",
-      "pubDate": "2026-11-09T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Story Trailer Debuts",
-      "link": "https://crunchyroll.com/news/latest/2026/11/9/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer",
-      "description": "Next entry in the series launches in the west in February 2027",
-      "pubDate": "2026-11-09T17:58:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/9f285aec5f/atelier-karia-story-trailer.jpg"
-    },
-    {
-      "id": "ann-LjI0MzY1NA",
-      "title": "Deadline: Noah Of The Blood Sea Manga Gets Hollywood Live-Action Film Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/deadline-noah-of-the-blood-sea-manga-gets-hollywood-live-action-film-adaptation/.243654",
-      "description": "Los Angeles-based Tyrus Pictures plans to start production in 2027",
-      "pubDate": "2026-11-09T17:30:52.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM2NTE",
-      "title": "Overgeared ‒ Episode 7",
-      "link": "https://www.animenewsnetwork.com/review/overgeared/episode-7/.243651",
-      "description": "If this episode thought it was saying something with its PSA about revenge, I don't think it succeeded.",
-      "pubDate": "2026-11-09T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzMDcx",
-      "title": "Grow Up Show -Sunflower Circus- Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/grow-up-show-sunflower-circus-anime-series/.243071",
-      "description": "With a large cast and novel premise, it required at least twice as many episodes to reach its full potential.",
-      "pubDate": "2026-11-09T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-NS8uMjQzNjMw",
-      "title": "Blue Box Season 2 ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/blue-box-season-2/episode-5/.243630",
-      "description": "It is a heinous crime against humanity on Blue Box's part to be airing such a holly and jolly celebration of Christmas when we've barely made it through the first week of November.",
-      "pubDate": "2026-11-09T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-YS8uMjQzNTI5",
-      "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky, Underdog Idol, 3 More Manga",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
-      "description": "Also: Noble Reincarnation: Side Story ~14-year-old Noa's Unparalleled Journey~ , A Mysterious Job Called Oda Nobunaga",
-      "pubDate": "2026-11-09T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
     }
   ]
