@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T03:19:48.881Z",
+  "lastUpdated": "2026-11-11T13:01:48.811Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探��コナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -223,7 +223,7 @@
         }
       },
       "synopsis": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n\nJohnny Joestar, once hailed as a genius jockey, is now paralysed and lost in despair.\n\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site, edited)\n\nNote: The first episode initially aired early on March 19th with a runtime of 47 minutes for the First Stage. The eleven episodes for the Second and Third stages began airing weekly on September 25th.",
-      "score": "86.65%",
+      "score": "86.6%",
       "episodes": 12,
       "rank": 8,
       "season": "ONA",
@@ -281,7 +281,7 @@
         }
       },
       "synopsis": "Office worker Leon has just been thrust into an otome game where women hold all the power. His only tool for survival is the knowledge gained from playing this game in his past life. But after befriending the heroine and villainess, and making a name for himself, his choices begin to warp the story beyond what he knows. Now, Leon is dragged into a conspiracy that could shake the entire kingdom.\n\n(Source: Crunchyroll)",
-      "score": "71.43%",
+      "score": "71.5%",
       "episodes": 12,
       "rank": 10,
       "season": "TV",
@@ -907,35 +907,6 @@
       "hasDub": true
     },
     {
-      "mal_id": "47986",
-      "id": "47986",
-      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
-      "titles": {
-        "en": null,
-        "en_jp": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
-        "ja_jp": "世界最高の暗殺者、異世界貴族に転生する 2ndシーズン"
-      },
-      "url": "https://kitsu.io/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-2nd-season",
-      "poster": "https://media.kitsu.app/anime/47986/poster_image/large-7a1fb8617d6cf5d11cd6b09e6fc81e5e.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/47986/poster_image/large-7a1fb8617d6cf5d11cd6b09e6fc81e5e.jpeg",
-          "image_url": "https://media.kitsu.app/anime/47986/poster_image/small-6260c31254e0a07220c50ef2f4833344.jpeg"
-        }
-      },
-      "synopsis": "The second season of Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru.",
-      "score": "N/A",
-      "episodes": null,
-      "rank": 2,
-      "season": "TV",
-      "startDate": "2027-01-31",
-      "year": "2027",
-      "status": "upcoming",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
       "mal_id": "48903",
       "id": "48903",
       "title": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
@@ -954,6 +925,35 @@
         }
       },
       "synopsis": "The third season of MASHLE, adapting the Tri-Magic-Athalon Divine Visionary Final Exam Arc.",
+      "score": "N/A",
+      "episodes": null,
+      "rank": 2,
+      "season": "TV",
+      "startDate": "2027-01-09",
+      "year": "2027",
+      "status": "upcoming",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "47986",
+      "id": "47986",
+      "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
+      "titles": {
+        "en": null,
+        "en_jp": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
+        "ja_jp": "世界最高の暗殺者、異世界貴族に転生する 2ndシーズン"
+      },
+      "url": "https://kitsu.io/anime/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-2nd-season",
+      "poster": "https://media.kitsu.app/anime/47986/poster_image/large-7a1fb8617d6cf5d11cd6b09e6fc81e5e.jpeg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/47986/poster_image/large-7a1fb8617d6cf5d11cd6b09e6fc81e5e.jpeg",
+          "image_url": "https://media.kitsu.app/anime/47986/poster_image/small-6260c31254e0a07220c50ef2f4833344.jpeg"
+        }
+      },
+      "synopsis": "The second season of Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru.",
       "score": "N/A",
       "episodes": null,
       "rank": 3,
