@@ -1,7 +1,157 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-12T14:04:21.548Z",
+  "lastUpdated": "2026-11-12T22:55:04.703Z",
   "items": [
+    {
+      "id": "ann-LjI0Mzc2OA",
+      "title": "Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768",
+      "description": "Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBB/youtube/_yocC5AIQ5M.jpg"
+    },
+    {
+      "id": "cr-dGUtY2hhbmdl",
+      "title": "Romancing SaGa 3: Destinies United Launch Date Shifts Nearly Two Weeks Earlier",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/romancing-saga-3-destinies-united-launch-date-change",
+      "description": "New date has the remake landing on February 4",
+      "pubDate": "2026-11-12T19:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/2ab269b6f9/romancing-saga3.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzc2Nw",
+      "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767",
+      "description": "Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively",
+      "pubDate": "2026-11-12T18:30:41.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g05/cms/news.10/243767/professor-layton-and-the-new-world-of-steam.jpg"
+    },
+    {
+      "id": "cr-bmltYXRpb24",
+      "title": "Sonic the Hedgehog 35th Anniversary Animation Pits the Squad Against Metal Sonic",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/sonic-the-hedgehog-35th-anniversary-animation",
+      "description": "Kevin Molina-Ortiz directs and Ian Flynn writes at GXS Productions",
+      "pubDate": "2026-11-12T18:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x541/196677affb/sonic-35th-ann-video2.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzc2NA",
+      "title": "Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764",
+      "description": "2-part documentary about ikura's experience with High School Musical streams/airs on December 30",
+      "pubDate": "2026-11-12T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS7/youtube/6vu6ubwgQoQ.jpg"
+    },
+    {
+      "id": "cr-dC1tZW1iZXJz",
+      "title": "HOTEL INHUMANS Season 2 Anime Reveals Two New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/hotel-inhumans-season-2-anime-reveals-two-new-cast-members",
+      "description": "Crunchyroll streams adaptation based on drama manga by Ao Tajima",
+      "pubDate": "2026-11-12T17:23:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/9cc5b7c306/hotel_inhumans_hikaru_matsuki_header.jpg"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Charisma Anime Introduces Amahiko Tendo in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/charisma-anime-amahiko-tendo-character-trailer",
+      "description": "The media mix adaptation premieres on January 7",
+      "pubDate": "2026-11-12T17:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/032d906ed0/charisma-anime-amahiko-tendo.png"
+    },
+    {
+      "id": "ann-bC8uMjQyODIz",
+      "title": "Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review",
+      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823",
+      "description": "These volumes really flesh out Mushoku Tensei's expansive world, introducing a fascinating cast of varied new characters and building on already established relationships.",
+      "pubDate": "2026-11-12T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY6/cms/review.2/242823/mushoku-tensei-6-cover.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3NjU",
+      "title": "Fatal Fury City of the Wolves Game Adds Fatal Fury: The Motion Picture's Laocorn on November 19",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765",
+      "description": "Laocorn trailer, Fatal Fury: The Motion Picture digest movie streamed",
+      "pubDate": "2026-11-12T16:31:15.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/youtube/7mnwl9BV7vw.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3NjI",
+      "title": "Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762",
+      "description": "Series casts Yamauchi as Mantarō Kyōgoku, Uo as Tōjin Tōyama",
+      "pubDate": "2026-11-12T15:45:34.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ3/cms/news.10/243762/shin-oishinbo-mantarou.jpg"
+    },
+    {
+      "id": "cr-aGlnYXJha2k",
+      "title": "Release the Villains: Tomura Shigaraki Is a Hero for the Villains",
+      "link": "https://crunchyroll.com/news/features/2026/11/12/anime-villains-tomura-shigaraki",
+      "description": "Shigaraki adds a layer of complexity to the idea of what a villain, and what a hero, is",
+      "pubDate": "2026-11-12T15:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/c7c62514d0/my-hero-academia.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDMxNzM",
+      "title": "Dana Terrace Shares Anime's Influence on Knights of Guinevere",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-12/dana-terrace-shares-anime-influence-on-knights-of-guinevere/.243173",
+      "description": "The Amazing Digital Circus, Knights of Guinevere studio Glitch Productions discuss SAG-AFTRA Agreement",
+      "pubDate": "2026-11-12T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/feature/243173/danaterrace-2.jpg"
+    },
+    {
+      "id": "ann-LjI0MzcxMw",
+      "title": "This Week in Anime - Roll the Dice",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-12/.243713",
+      "description": "Lucas and Chris tackle the next great vice in anime: gambling!",
+      "pubDate": "2026-11-12T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ4/cms/this-week-in-anime/243713/lucas-17.jpg"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Nabe ni Tama o Ukenagara Food Travel Anime Sets January 2027 Premiere",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/nabe-ni-tama-o-ukenagara-food-travel-anime-january-2027-premiere-teaser-trailer",
+      "description": "Juntaro's voice actors were revealed in the first teaser trailer",
+      "pubDate": "2026-11-12T14:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/cd43d25951/nabe-ni-tama-o-ukenagara-getting-shots-on-a-frying-pan-anime-teaser-trailer-video.png"
+    },
+    {
+      "id": "ann-LjI0Mzc1OQ",
+      "title": "Kakao Piccoma Launches New 'Lulumiru' BL Webtoon Platform",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/kakao-piccoma-launches-new-lulumiru-bl-webtoon-platform/.243759",
+      "description": "New service available in Japan only launched on November 5",
+      "pubDate": "2026-11-12T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFF/cms/news.10/243759/lulumiru.webp"
+    },
     {
       "id": "ann-Ny8uMjQzNzQ1",
       "title": "Reincarnated as a Sword Season 2 ‒ Episode 7",
@@ -290,7 +440,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T17:06:22.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY9/cms/news.10/243725/trails-beyond-the-horizon.webp"
+      "image": null
     },
     {
       "id": "cr-dW5jaHlyb2xs",
@@ -320,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFP/cms/review.2/242538/thumb-166936-akanebanashi-gn08-c1-web-3-yissg8jmqdvujsyiktfhra.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQzNzIx",
@@ -330,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN5/cms/episode-review.5/243721/ss-2026-11-09-18-28-15-138.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNzI0",
@@ -340,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T16:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/news.6/205804/playstation5.jpg"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQzNzIy",
@@ -350,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T15:33:40.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7C/cms/news.10/243722/zelda-oot.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3MjA",
@@ -360,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T15:31:35.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g80/cms/episode-review.5/243720/nia-liston-ep-6-review-image.jpg"
+      "image": null
     },
     {
       "id": "cr-LWFza2VsYWRk",
@@ -380,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK2/cms/news.10/243717/partnership-with-mappa.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -420,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T13:59:04.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.9/234154/elden-ring-distant-tales-between-vol.1.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNzA1",
@@ -430,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T13:53:15.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF8/cms/news.10/243705/happyhypoxia.jpg"
+      "image": null
     },
     {
       "id": "ann-Zy8uMjQzNzAz",
@@ -450,156 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T13:35:28.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-c3VhbC1jYXN0",
-      "title": "MASHLE: MAGIC AND MUSCLES Season 3 Anime Shares Trailer, Key Visual, Cast Additions",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/mashle-magic-and-muscles-season-3-anime-release-date-trailer-key-visual-cast",
-      "description": "Crunchyroll will stream the Tri-Magicathlon Divine Visionary Final Exam Arc starting January 9",
-      "pubDate": "2026-11-11T13:34:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/478697b549/mashle-season-3-trailer-hero.png"
-    },
-    {
-      "id": "ann-Ni8uMjQzNzA2",
-      "title": "Ranma ½ Season 3 ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/ranma-season-3/episode-6/.243706",
-      "description": "Kodachi’s a highly motivated femme fatale who’s not above blackmailing the one she loves to get exactly what she wants.",
-      "pubDate": "2026-11-11T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bW9mdXR0bw",
-      "title": "Gacha Girls Corps Anime Casts Momo Sakurai as Mofutto",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/gacha-girls-corps-anime-casts-momo-sakurai-as-mofutto",
-      "description": "Character trailer revealed for upcoming series based on isekai fantasy light novel series",
-      "pubDate": "2026-11-11T13:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1024x576/6e98f773f5/gacha_girls_corps_mofutto_header.jpg"
-    },
-    {
-      "id": "cr-cmFpbGVycw",
-      "title": "Red Riding Hood: A Detective Story Anime Reveals Character Art & Trailers",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/red-riding-hood-a-detective-story-anime-character-art-trailers",
-      "description": "Crunchyroll will stream novel series adaptation in January 2027",
-      "pubDate": "2026-11-11T13:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/71e91264b2/red_riding_hood_a_detective_story_header2.jpg"
-    },
-    {
-      "id": "ann-Zy8uMjQzNzE2",
-      "title": "SSS-Class Revival Hunter Anime's New Video Reveals Ending Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/sss-class-revival-hunter-anime-new-video-reveals-ending-song/.243716",
-      "description": "THE SPELLBOUND × BOOM BOOM SATELLITES perform \"Fading\" ending theme",
-      "pubDate": "2026-11-11T11:14:17.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzcxNQ",
-      "title": "Tomoko Ninomiya's Nanatsu-ya: Shinobu and Her Jewelry Box Manga Gets TV Anime in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/tomoko-ninomiya-nanatsu-ya-shinobu-and-her-jewelry-box-manga-gets-tv-anime-in-2027/.243715",
-      "description": "Nodame Cantabile: Finale director Chiaki Kon helms anime at J.C.STAFF",
-      "pubDate": "2026-11-11T09:48:56.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "SSS-Class Revival Hunter Anime Previews Ending Theme Song in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/sss-class-revival-hunter-anime-ending-theme-song-trailer",
-      "description": "Crunchyroll will stream the series as it airs",
-      "pubDate": "2026-11-11T09:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x563/8491856402/sss-class-revival-hunter.jpg"
-    },
-    {
-      "id": "cr-Zm9yLTIwMjc",
-      "title": "Nanatsu-ya: Shinobu and Her Jewelry Box Anime Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/nanatsu-ya-shinobu-and-her-jewelry-box-anime-announced-for-2027",
-      "description": "J.C.STAFF produces the adaptation of Tomoko Ninomiya's manga",
-      "pubDate": "2026-11-11T09:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/45d525ca2b/nanatsu-ya-shinobu-and-her-jewelry-box.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Nanatsuya: Shinobu no Housekibako' Gets TV Anime in 2027",
-      "link": "https://myanimelist.net/news/74927894?_location=rss",
-      "description": "Production company Pony Canyon opened an official website for a television anime adaptation of Tomoko Ninomiya's Nanatsuya: Shinobu no Housekibako (Nanatsu-ya: Shinobou and Her Jewelry Box) on Wednesday, revealing the main staff, teaser visual (pictured), and teaser promotional video. The anime will premiere in 2027. Staff Director: Chiaki Kon (Golden Time, Niehime to Kemono no Ou) Series Composition: Seishi Minakami (Sugar Apple Fairy Tale) Character Design: Mai Furuki (Mewkledreamy) Studi...",
-      "pubDate": "2026-11-11T09:24:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794388977-779f6573cde1d8290f2e36b9038d83b4.jpeg"
-    },
-    {
-      "id": "cr-cHJlbWllcmU",
-      "title": "Berserk of Gluttony Season 2 Anime Confirms April 2027 Premiere",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/berserk-of-gluttony-season-2-anime-april-2027-premiere",
-      "description": "A new teaser visual was also released",
-      "pubDate": "2026-11-11T09:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x539/a16738fe14/berserk-of-gluttony-s2-april-2027.jpg"
-    },
-    {
-      "id": "ann-LjI0MzY4MQ",
-      "title": "Berserk of Gluttony Season 2 Premieres Next April",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/berserk-of-gluttony-season-2-premieres-next-april/.243681",
-      "description": "New teaser visual also revealed",
-      "pubDate": "2026-11-11T09:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzcxMQ",
-      "title": "≠ME Idol Momo Sakurai Voice-Acts, Sings in Gacha Girls Corps Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/me-idol-momo-sakurai-voice-acts-sings-in-gacha-girls-corps-anime/.243711",
-      "description": "Sakurai voices rabbit Mofutto, sings Mofutto's version of ending song \"Mofu-kyun Heart♡\"",
-      "pubDate": "2026-11-11T08:07:20.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzNjY5",
-      "title": "S. Carolina Man Arrested for Leaving Daughter Unattended in Overnight Pokémon Card Line",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-10/s-carolina-man-arrested-for-leaving-daughter-unattended-in-overnight-pokemon-card-line/.243669",
-      "description": "The Charleston Police Department arrested a South Carolina man outside of the West Ashley Target store on Friday for leaving his six-year-old daughter...",
-      "pubDate": "2026-11-11T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzNzA4",
-      "title": "Aoharu Once More Light Anime's Teaser Reveals Cast, More Staff, January 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-10/aoharu-once-more-light-anime-teaser-reveals-cast-more-staff-january-2027-debut/.243708",
-      "description": "Tasuku Kaito, Kazuki Ura star in BL story",
-      "pubDate": "2026-11-11T04:06:22.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzcwMg",
-      "title": "Kodansha Launches 1999Tokoyo Building Horror Game on Steam",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-10/kodansha-launches-1999tokoyo-building-horror-game-on-steam/.243702",
-      "description": "Visual novel/adventure game launched on Monday for PC",
-      "pubDate": "2026-11-11T03:00:42.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
       "image": null
     }
   ]
