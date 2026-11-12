@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-11T23:45:22.091Z",
+  "lastUpdated": "2026-11-12T04:30:06.769Z",
   "items": [
+    {
+      "id": "ann-ci8uMjQzNzM4",
+      "title": "Rei Mikamoto Ends Blood Friend Manga in December",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738",
+      "description": "Series debuted in December 2025",
+      "pubDate": "2026-11-12T03:52:30.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.10/243738/91qy4sapjtl.sl1500.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQzNzM3",
+      "title": "Duel Masters GT Manga's Part 3 Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-11/duel-masters-gt-manga-part-3-ends/.243737",
+      "description": "3rd part launched on August 12",
+      "pubDate": "2026-11-12T03:43:38.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/240533/duelmastersgt3.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNzQ0",
+      "title": "Tsugumi Project Anime Reveals January 2027 Premiere",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-11/tsugumi-project-anime-reveals-january-2027-premiere/.243744",
+      "description": "New visual also unveiled",
+      "pubDate": "2026-11-12T03:38:17.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.10/243744/tsugumiproject-kv2.jpg"
+    },
+    {
+      "id": "ann-aS8uMjQzNzQz",
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Casts Yūsuke Kobayashi",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-11/the-seven-knights-of-the-marronnier-kingdom-anime-casts-yusuke-kobayashi/.243743",
+      "description": "Yūsuke plays \"mysterious boy\" debuting in episode 7 on Saturday",
+      "pubDate": "2026-11-12T03:34:25.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEG/cms/news.10/243743/marronnieranime-ep7-00001.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQzNzM2",
+      "title": "Welsh & Shedar Anime Launches Webtoon",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-11/welsh-and-shedar-anime-launches-webtoon/.243736",
+      "description": "12-episode webtoon features multiple artists",
+      "pubDate": "2026-11-12T03:10:20.000Z",
+      "source": "Anime News Network",
+      "category": "Comics",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.10/243736/unnamed.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3NDI",
+      "title": "Kirby Rides the Dragoon in New Chogokin Figure",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-11/kirby-rides-the-dragoon-in-new-chogokin-figure/.243742",
+      "description": "Figure arrives next May",
+      "pubDate": "2026-11-12T03:03:33.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/cms/interest.3/243742/kirby-dragoon03.jpg"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Tsugumi Project Anime Reveals January 2027 Broadcast, New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/tsugumi-project-anime-january-2027-release-date-key-visual",
+      "description": "The upcoming series adapts a post-apocalyptic action manga",
+      "pubDate": "2026-11-12T02:51:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x630/b173b572ac/tsugumi-project-visual-header.jpg"
+    },
+    {
+      "id": "cr-bi12aWV3cw",
+      "title": "Star Detective Precure! Anime 1st Ending Video Reaches 10 Million Views",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/star-detective-precure-anime-1st-ending-video-10-million-views",
+      "description": "Crunchyroll streams the 23rd Precure TV series",
+      "pubDate": "2026-11-12T02:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/56e7dfd52a/star-detective-precure-ending.jpg"
+    },
+    {
+      "id": "cr-by1hc2FrYQ",
+      "title": "Asaka Releases Tetsuryo! meet with Tetsudou Musume Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/tetsuryo-meet-with-tetsudou-musume-anime-opening-song-music-video-asaka",
+      "description": "The CD single will be available on November 18",
+      "pubDate": "2026-11-12T01:28:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/4a8643b5cc/asaka-go-go-railway-mv.jpg"
+    },
+    {
+      "id": "cr-ZGV0YWlscw",
+      "title": "The Vermilion Mask Anime Shares More Details on Yuya Tegoshi's Guest Voice Role",
+      "link": "https://crunchyroll.com/news/latest/2026/11/12/the-vermilion-mask-anime-yuya-tegoshi-guest-voice-role-details",
+      "description": "Tegoshi will appear in the anime's Episode 12",
+      "pubDate": "2026-11-12T01:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ba4bea1e47/yuya-tegoshi.jpg"
+    },
     {
       "id": "ann-OC8uMjQzNjg1",
       "title": "Godzilla Minus Zero Film Opens at #1 in Japan, Grotesqqque Anime Film at #8",
@@ -380,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGO/cms/interest.3/233737/pokemon-logo.jpg"
+      "image": null
     },
     {
       "id": "ann-dC8uMjQzNzA4",
@@ -390,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T04:06:22.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/youtube/zydSyuyy0q8.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzcwMg",
@@ -400,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T03:00:42.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/C-EVYvtl24s.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzNzA0",
@@ -410,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T02:43:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.10/243704/oyatsushiba.jpg.webp"
+      "image": null
     },
     {
       "id": "cr-Yy12aWRlbw",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T02:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/interest.3/243683/detective-conan-episode-1078.jpeg"
+      "image": null
     },
     {
       "id": "cr-ZW8tc3VtaWth",
@@ -460,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T00:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF2/youtube/1HsRz8zm4-Q.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzY3Nw",
@@ -501,106 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-ci8uMjQzNjg5",
-      "title": "Rock Band FLOW Announce U.S. Dates for New 2027 World Tour",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-10/rock-band-flow-announce-u.s-dates-for-new-2027-world-tour/.243689",
-      "description": "Band perform in U.S. in February 2027 starting in Boston",
-      "pubDate": "2026-11-10T19:00:22.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "cr-aW50ZXJ2aWV3",
-      "title": "Singer-Songwriter Ayra Starr on Creating Starrgirl, Trusting Her Instincts and Her Love of Anime",
-      "link": "https://crunchyroll.com/news/interviews/2026/11/10/ayra-starr-starrgirl-interview",
-      "description": "She also reveals which anime character could pull off the Starrgirl vibe",
-      "pubDate": "2026-11-10T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/f871d56345/ayra-starr.jpg"
-    },
-    {
-      "id": "ann-LjI0MzA1MQ",
-      "title": "Hell Mode Season 2 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/hell-mode-season-2-anime-series/.243051",
-      "description": "The worst of Hell Mode is very firmly behind us in this season, but being an improvement doesn’t necessarily mean it’s suddenly fun to watch.",
-      "pubDate": "2026-11-10T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY5MA",
-      "title": "Dragon Quest RPG Mobile Game's Trailer Reveals 2027 Launch, Closed Beta Test in December",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-10/dragon-quest-rpg-mobile-game-trailer-reveals-2027-launch-closed-beta-test-in-december/.243690",
-      "description": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle game features turn-based battles, dungeons",
-      "pubDate": "2026-11-10T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-cy1iYXR0bGVz",
-      "title": "How Dragon Ball Super: Beerus Restructures Its Battles",
-      "link": "https://crunchyroll.com/news/features/2026/11/10/dragon-ball-super-beerus-battles",
-      "description": "A new way to enjoy the Dragon Ball franchise’s iconic fights",
-      "pubDate": "2026-11-10T16:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/76e804fc49/dragon-ball-super-beerus.jpg"
-    },
-    {
-      "id": "cr-b3ItbW9iaWxl",
-      "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle Announced for Mobile",
-      "link": "https://crunchyroll.com/news/latest/2026/11/10/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-mobile",
-      "description": "Closed beta sign-ups live ahead of 2027 launch",
-      "pubDate": "2026-11-10T16:14:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/bed4771bc5/dragon-quest-rpg.jpg"
-    },
-    {
-      "id": "ann-LjI0MzY4OA",
-      "title": "Crunchyroll Streams Suikoden Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688",
-      "description": "1st 6 episodes are now streaming with new episodes premiering on Tuesdays",
-      "pubDate": "2026-11-10T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY4Nw",
-      "title": "Psyren ‒ Episode 5",
-      "link": "https://www.animenewsnetwork.com/review/psyren/episode-5/.243687",
-      "description": "I wish I could still muster some lingering enthusiasm for seeing how the rest of this adaptation pans out, but right now, all I can feel towards it is apathy.",
-      "pubDate": "2026-11-10T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-cy1hcnRodXI",
-      "title": "Millennium Family Anime Casts Mutsumi Tamura as Arthur",
-      "link": "https://crunchyroll.com/news/latest/2026/11/10/millennium-family-anime-casts-mutsumi-tamura-as-arthur",
-      "description": "New character art and a YouTube short showcase the Benfield family's youngest son",
-      "pubDate": "2026-11-10T15:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0e8b003363/millennium-family-arthur-chara.png"
-    },
-    {
-      "id": "cr-b29hbC1nb3du",
-      "title": "Release the Villains: Ains Ooal Gown, a Lonely Gamer Playing the Role of a Lifetime",
-      "link": "https://crunchyroll.com/news/features/2026/11/10/anime-villains-ains-ooal-gown",
-      "description": "The Overlord rules as a terrifying undead deity, but deep down he’s just a salaryman who never wanted to leave the game",
-      "pubDate": "2026-11-10T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/8ec1433eff/overlord.jpg"
     }
   ]
 };
