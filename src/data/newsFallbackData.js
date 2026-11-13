@@ -1,7 +1,157 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-13T03:44:59.357Z",
+  "lastUpdated": "2026-11-13T13:29:36.722Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM2NDE",
+      "title": "Stage Musical Adaptation of Webtoon The Siren: Becoming the Villain's Family to Premiere in Seoul on March 24, 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/stage-musical-adaptation-of-webtoon-the-siren-becoming-the-villain-family-to-premiere-in-seoul-on-/.243641",
+      "description": "Story follows grand duke of family that has been afflicted by demonic curse for generations",
+      "pubDate": "2026-11-13T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD7/cms/news.8/221684/204698eb-1c27-428a-af11-93d105b51442-z.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzc3Nw",
+      "title": "Suikoden: The Anime ‒ Episode 6",
+      "link": "https://www.animenewsnetwork.com/review/suikoden-the-anime/episode-6/.243777",
+      "description": "It’s an impossible test under almost any circumstance, and yet the heroes succeed because they have impressed upon Richmond that there is more to their story.",
+      "pubDate": "2026-11-13T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-cy8uMjQzNTUy",
+      "title": "Omniscient Reader, Greatest Estate Developer, Debut or Die!, 7 More Works Win 2026 World Webtoon Awards",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/omniscient-reader-greatest-estate-developer-debut-or-die-7-more-works-win-2026-world-webtoon-awards/.243552",
+      "description": "10 winners will each receive trophy, 10 million won (about US$7,200)",
+      "pubDate": "2026-11-13T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": null
+    },
+    {
+      "id": "ann-LjI0Mzc5NA",
+      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
+      "description": "New episodes from Chainsmoker Cat director Taku Kimura to debut monthly on YouTube",
+      "pubDate": "2026-11-13T11:45:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": null
+    },
+    {
+      "id": "ann-LjI0Mzc5MQ",
+      "title": "NHK Announces 2026 Kōhaku Song Contest Lineup",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-13/nhk-announces-2026-kohaku-song-contest-lineup/.243791",
+      "description": "B'z vocalist and lyricist Koshi Inaba will appear during a special event during the live show",
+      "pubDate": "2026-11-13T11:18:41.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/herald/203021/1113-tokuban.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3OTM",
+      "title": "Stars Shinnosuke Tokudome, Shūichirō Umeda Perform Ending Theme for Ore to Yu Nii! Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/stars-shinnosuke-tokudome-shuichiro-umeda-perform-ending-theme-for-ore-to-yu-nii-anime/.243793",
+      "description": "Series debuts in January 2027",
+      "pubDate": "2026-11-13T11:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7B/cms/news.10/243793/ore-to-yuu-ni-ed-visual.jpg"
+    },
+    {
+      "id": "ann-by8uMjQzNzkw",
+      "title": "Multi-Mind Mayhem: Isekai Tensei Soudouki Anime Reveals January 6 Debut, More Cast in 2nd Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/multi-mind-mayhem-isekai-tensei-soudouki-anime-reveals-january-6-debut-more-cast-in-2nd-promo-video/.243790",
+      "description": "Maverick Mom performs opening theme song 'Isekai,' VTuber Tokino Sora performs ending theme 'Brand New Day'",
+      "pubDate": "2026-11-13T10:54:08.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMA/youtube/GdakXIvTowI.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Isekai Tensei Soudouki' Reveals Additional Cast, Staff, Theme Songs, Second Promo",
+      "link": "https://myanimelist.net/news/74934867?_location=rss",
+      "description": "The official website for the television anime adaptation of Ryousen Takami's Isekai Tensei Soudouki (Multi-Mind Mayhem) novel revealed additional cast, staff, theme songs, a second key visual (pictured), and second promotional video on Friday. The anime is scheduled to premiere on January 6 at 10.00 p.m on Tokyo MX, followed by BS Fuji, and AT-X. Cast Maggot: Marina Inoue (Boku no Hero Academia) Ignis: Takehito Koyasu (Re:Zero kara Hajimeru Isekai Seikatsu) Brooks: Toshiki Kumagai (Tongari...",
+      "pubDate": "2026-11-13T10:25:08.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794565408-8dc13d26a3e072d72d650b9bb68c586b.jpeg"
+    },
+    {
+      "id": "cr-ZS1zb25ncw",
+      "title": "Multi-Mind Mayhem Anime Reveals Premiere Date, Theme Songs in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/13/multi-mind-mayhem-anime-january-6-2027-release-date-trailer-key-visual-additional-cast-theme-songs",
+      "description": "A key visual and additional cast members were also unveiled",
+      "pubDate": "2026-11-13T10:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/4953e0dec5/multi-mind-mayhem.jpg"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Inherit the Winds Anime Takes It Easy in New Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/13/inherit-the-winds-anime-key-visual",
+      "description": "The original series begins airing in January 2027",
+      "pubDate": "2026-11-13T08:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1064x753/f6cc348abb/inherit-the-winds-key-visual.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "CyberAgent Expands Production Network With Latent One Launch and MAPPA Partnership",
+      "link": "https://myanimelist.net/news/74934668?_location=rss",
+      "description": "CyberAgent is expanding its presence in Japan's animation industry through a combination of studio development and strategic investment, establishing a new animation studio under its subsidiary Colorful Palette while entering a business alliance with MAPPA. On October 31, 2026, Colorful Palette announced the establishment of Latent One, a new animation production subsidiary focused on animation planning, production, and production management. Less than two weeks later, on November 11, Cybe...",
+      "pubDate": "2026-11-13T08:50:56.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794559743-2de4e178ae07bd2f6096a6a34bbfd360.jpeg"
+    },
+    {
+      "id": "ann-Yy8uMjQzNzc2",
+      "title": "'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776",
+      "description": "Author also working on manga's upcoming book volume releases",
+      "pubDate": "2026-11-13T05:25:15.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC4/cms/news.10/243776/drawthisthendie-engvol1.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQzNzU3",
+      "title": "Bandai's Gashapon Capsule Prize Machine Now Transforms Into a Robot",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-12/bandai-gashapon-capsule-prize-machine-now-transforms-into-a-robot/.243757",
+      "description": "In celebration of Gashapon's 50th anniversary",
+      "pubDate": "2026-11-13T04:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/interest.3/243757/gashapon-robo-2026.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3NzQ",
+      "title": "Comic Market: Ticketpay Service Restricts Access for International Users",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/comic-market-ticketpay-service-restricts-access-for-international-users/.243774",
+      "description": "Staff is now investigating alternate ways for overseas ticket buyers",
+      "pubDate": "2026-11-13T04:11:44.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": null
+    },
+    {
+      "id": "ann-Zy8uMjQzNzc1",
+      "title": "Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
+      "description": "Drama to debut on Tatedora app",
+      "pubDate": "2026-11-13T04:03:18.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.7/212066/yuriismyjob.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "Light Novel 'Isekai Douraku ni Akitara' Gets TV Anime in Winter 2027",
@@ -50,7 +200,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T01:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/youtube/p4TQLRaQZH4.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzc2OA",
@@ -80,7 +230,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T18:30:41.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g05/cms/news.10/243767/professor-layton-and-the-new-world-of-steam.jpg"
+      "image": null
     },
     {
       "id": "cr-bmltYXRpb24",
@@ -100,7 +250,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS7/youtube/6vu6ubwgQoQ.jpg"
+      "image": null
     },
     {
       "id": "cr-dC1tZW1iZXJz",
@@ -130,7 +280,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY6/cms/review.2/242823/mushoku-tensei-6-cover.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3NjU",
@@ -140,7 +290,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T16:31:15.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKB/youtube/7mnwl9BV7vw.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3NjI",
@@ -150,7 +300,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T15:45:34.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ3/cms/news.10/243762/shin-oishinbo-mantarou.jpg"
+      "image": null
     },
     {
       "id": "cr-aGlnYXJha2k",
@@ -170,7 +320,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG6/cms/feature/243173/danaterrace-2.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzcxMw",
@@ -180,7 +330,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ4/cms/this-week-in-anime/243713/lucas-17.jpg"
+      "image": null
     },
     {
       "id": "cr-ci10cmFpbGVy",
@@ -200,7 +350,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T14:15:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFF/cms/news.10/243759/lulumiru.webp"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzNzQ1",
@@ -210,7 +360,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/cms/episode-review.5/243745/raas2071.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzNzU4",
@@ -220,7 +370,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM6/youtube/AgYZjlZl25U.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -280,7 +430,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T08:30:30.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS4/cms/news.9/234914/260304.png.jpg"
+      "image": null
     },
     {
       "id": "ann-YS8uMjQzNzQx",
@@ -310,7 +460,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T03:52:30.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.10/243738/91qy4sapjtl.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzNzM3",
@@ -320,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T03:43:38.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/240533/duelmastersgt3.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQzNzQ0",
@@ -330,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T03:38:17.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gED/cms/news.10/243744/tsugumiproject-kv2.jpg"
+      "image": null
     },
     {
       "id": "ann-aS8uMjQzNzQz",
@@ -340,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T03:34:25.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEG/cms/news.10/243743/marronnieranime-ep7-00001.jpg"
+      "image": null
     },
     {
       "id": "ann-bi8uMjQzNzM2",
@@ -350,17 +500,17 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-12T03:10:20.000Z",
       "source": "Anime News Network",
       "category": "Comics",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.10/243736/unnamed.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3NDI",
-      "title": "Kirby Rides the Dragoon in New Chogokin Figure",
+      "title": "Kirby Rides the Dragoon in New Chogokin Figure (Updated)",
       "link": "https://www.animenewsnetwork.com/interest/2026-11-11/kirby-rides-the-dragoon-in-new-chogokin-figure/.243742",
       "description": "Figure arrives next May",
       "pubDate": "2026-11-12T03:03:33.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/cms/interest.3/243742/kirby-dragoon03.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXktdmlzdWFs",
@@ -410,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQzNzM1",
@@ -420,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/news.9/239271/greenyuri-kv01.jpg"
+      "image": null
     },
     {
       "id": "ann-bC8uMjQzNzE0",
@@ -430,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/242644/gundam-seed-freedom-zero.jpg"
+      "image": null
     },
     {
       "id": "cr-Y3Jvc3NvdmVy",
@@ -450,157 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gUD/cms/feature/243259/guilty.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM3Mjk",
-      "title": "Final Fantasy XIV Game Band The Primals' Bassist Eikichi Iwai Dies",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/final-fantasy-xiv-game-band-the-primals-bassist-eikichi-iwai-dies/.243729",
-      "description": "Iwai had just performed concert with MMORPG's official rock band at event in Tokyo on November 1",
-      "pubDate": "2026-11-11T19:35:02.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/news.10/243729/eikichi-iwai-primals.webp"
-    },
-    {
-      "id": "ann-LjI0MzU5OQ",
-      "title": "Director Yuta Shimotsu Stirs Up Scares in Strange: Junji Ito's Tales for Sleepless Nights",
-      "link": "https://www.animenewsnetwork.com/interview/2026-11-11/director-yuta-shimotsu-stirs-up-scares-in-strange-junji-ito-tales-for-sleepless-nights/.243599",
-      "description": "Yūta Shimotsu, the man behind the live-action anthology Strange: Junji Ito's Tales for Sleepless Nights, sat down with ANN to discuss his influences, favorite Ito stories, and what it takes to bring Ito's world to horrifying life.",
-      "pubDate": "2026-11-11T18:58:10.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS7/cms/interview/243599/yutav3.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM3MzE",
-      "title": "The World's Strongest Witch ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-6/.243731",
-      "description": "This was a breezy romp that, ironically, improved my Wednesday and that’s about all I need from a show like The World’s Strongest Witch.",
-      "pubDate": "2026-11-11T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM3MjU",
-      "title": "Falcom Reveals Sequel for The Legend of Heroes: Trails beyond the Horizon Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/falcom-reveals-sequel-for-the-legend-of-heroes-trails-beyond-the-horizon-game/.243725",
-      "description": "Sequel slated for release by September 2027",
-      "pubDate": "2026-11-11T17:06:22.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-dW5jaHlyb2xs",
-      "title": "Crunchyroll to Stream Medaka Kuroiwa is Impervious to My Charms Season 2",
-      "link": "https://crunchyroll.com/news/announcements/2026/11/11/medaka-kuroiwa-is-impervious-to-my-charms-season-2-anime-stream-crunchyroll",
-      "description": "The new season premieres in January 2027",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/2048x1152/5ab9879bf6/medaka-kuroiwa-season-2.jpg"
-    },
-    {
-      "id": "cr-Y2hlZHVsZQ",
-      "title": "Crunchyroll Heads to Anime Frontier 2026 with New Anime Premiere Screenings",
-      "link": "https://crunchyroll.com/news/announcements/2026/11/11/anime-frontier-2026-crunchyroll-programming-schedule",
-      "description": "Anime Frontier runs from December 4-6 in Fort Worth, Texas",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/dc8d9f1b97/anime-frontier-2026.png"
-    },
-    {
-      "id": "ann-LjI0MjUzOA",
-      "title": "Akane-banashi Volumes 7-9 Manga Review",
-      "link": "https://www.animenewsnetwork.com/review/akane-banashi-volumes-7-9-manga/.242538",
-      "description": "As her professional debut continues, Akane tries to clinch a win at the Four Person Selection Event held by Ikken Arakawa, but can Akane move past her father’s shadow?",
-      "pubDate": "2026-11-11T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ni8uMjQzNzIx",
-      "title": "Even the Student Council Has Its Holes! ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-6/.243721",
-      "description": "I think it's hilarious that Hisako, Komaro, and Arisu all go to the bathroom at the same time and each find themselves stuck in their stalls for uniquely embarrassing reasons.",
-      "pubDate": "2026-11-11T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzNzI0",
-      "title": "PlayStation 5 Reaches Over 100 Million Shipments",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/playstation-5-reaches-over-100-million-shipments/.243724",
-      "description": "PS5 had shipped over 97.9 million units as of September 30",
-      "pubDate": "2026-11-11T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LS8uMjQzNzIy",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Sells Over 5.2 Million Units to Become Nintendo's Fastest-Selling Switch 2 Game",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/the-legend-of-zelda-ocarina-of-time-remake-sells-over-5.2-million-units-to-become-nintendo-fastest-/.243722",
-      "description": "Remake surpasses previously reported lifetime sales of 2nd bestselling Switch 2 title Donkey Kong Bananza",
-      "pubDate": "2026-11-11T15:33:40.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM3MjA",
-      "title": "Nia Liston: The Merciless Maiden ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-6/.243720",
-      "description": "Nia Liston’s extremely specific charm still manages to shine through in even a quieter episode, and I’m confident what this episode sets up will be a return to form for the show.",
-      "pubDate": "2026-11-11T15:31:35.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LWFza2VsYWRk",
-      "title": "Release the Villains: Askeladd and Setting a Path of Vengeance",
-      "link": "https://crunchyroll.com/news/features/2026/11/11/anime-villains-askeladd",
-      "description": "How Askeladd’s actions set the course of Thorfinn’s life",
-      "pubDate": "2026-11-11T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/4412ff58e7/askeladd-from-vinland-saga.png"
-    },
-    {
-      "id": "ann-YS8uMjQzNzE3",
-      "title": "CyberAgent Announces Business Alliance With Animation Studio MAPPA",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717",
-      "description": "CyberAgent has acquired stake in MAPPA's parent company MHD Co.",
-      "pubDate": "2026-11-11T15:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Industry",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen' Reveals Additional Cast, Promo",
-      "link": "https://myanimelist.net/news/74928431?_location=rss",
-      "description": "The official website of the Mashle (Mashle: Magic and Muscles) television anime revealed additional cast pair, a key visual and a promotional video for its third season on Wednesday. The new season is scheduled to premiere on January 10 at 12.00 a.m. on Tokyo MX, BS11, Gunma TV and Tochigi TV, followed by Mainichi Broadcasting, Shizuoka Broadcasting, FBS Fukoka, Chukyo TV, Nagano Asahi, Okayama, Miyagi TV, Sapporo TV, Television Niigata and Chugoku. Voice actors Souma Saitou (Youkoso Jitsuryoku...",
-      "pubDate": "2026-11-11T14:46:50.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794408175-e0476084784c967fc79c4578a3bc0dcb.jpeg"
-    },
-    {
-      "id": "cr-aGliaXRpb24",
-      "title": "Monogatari Series and Secret Society holoX Announce Collab and Exhibition",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/monogatari-series-secret-society-holox-collaboration-exhibition",
-      "description": "The exhibition kicks off in Shibuya on January 3, 2027",
-      "pubDate": "2026-11-11T14:37:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/06f3d285d1/_caramel-ribbon-cursetard_-_nademonogatari_-non-credit-op-video-_-_monogatari-series-off-monster-season_-1-3-screenshot.png"
     }
   ]
 };
