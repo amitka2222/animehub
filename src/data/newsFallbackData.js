@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-12T22:55:04.703Z",
+  "lastUpdated": "2026-11-13T03:44:59.357Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Isekai Douraku ni Akitara' Gets TV Anime in Winter 2027",
+      "link": "https://myanimelist.net/news/74934042?_location=rss",
+      "description": "Publishing company Shufunotomo announced a television anime adaptation of Fudaya Sanmongarasu and Tomozo's Isekai Douraku ni Akitara (Living It Up in Another World Until I Get Bored) light novel on Friday. The anime series will premiere in January 2027. Sanmongarasu began writing the adventure fantasy novel on the Shousetsuka ni Narou website in June 2016. Shufunotomo began printing the light novel under its Prime Novels imprint in June 2017, featuring illustrations by Tomozo. The imprint p...",
+      "pubDate": "2026-11-13T03:23:14.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794540059-9f76257a0672a1369be9c871e20bd9c9.jpeg"
+    },
+    {
+      "id": "ann-bC8uMjQzNzU0",
+      "title": "Teto Kasane Comes to Fortnite Festival",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-12/teto-kasane-comes-to-fortnite-festival/.243754",
+      "description": "And will appear in Fortnite Battle Royale with Vocaloid idol Hatsune Miku",
+      "pubDate": "2026-11-13T03:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/interest.3/243754/kasane-teto-fortnite-festival.jpg"
+    },
+    {
+      "id": "cr-ZS1yZWFkeQ",
+      "title": "Voice Actor Unit IXIS Shares New Music Video \"Are We Ready?\"",
+      "link": "https://crunchyroll.com/news/latest/2026/11/13/ixis-voice-actor-unit-new-music-video-are-we-ready",
+      "description": "The unit's second mini album \"Shooot!!\" ranks No. 20 on the daily chart",
+      "pubDate": "2026-11-13T01:34:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/bb1e84918c/ixis-are-we-ready-mv.png"
+    },
+    {
+      "id": "cr-b3QtZmlsbQ",
+      "title": "OROCHI -Seventh Echoes- Original Anime Movie Releases Pilot Film",
+      "link": "https://crunchyroll.com/news/latest/2026/11/13/orochi-seventh-echoes-original-anime-movie-pilot-film",
+      "description": "Takashi Nakamura handles the original concept, direction, character design and art design",
+      "pubDate": "2026-11-13T01:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/db917c4408/orochi-seventh-echoes-pilot-film.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzNzQ4",
+      "title": "Blue Rights Company Unveils Pilot Film for Orochi -Seventh Echoes- Original Animated Feature",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
+      "description": "Akira film animation director Takashi Nakamura helms film, credited for original concept",
+      "pubDate": "2026-11-13T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMD/youtube/p4TQLRaQZH4.jpg"
+    },
     {
       "id": "ann-LjI0Mzc2OA",
       "title": "Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube",
@@ -430,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-11T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/episode-review.5/243731/strongest-witch-ep-6-review-image.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3MjU",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1280x720/06f3d285d1/_caramel-ribbon-cursetard_-_nademonogatari_-non-credit-op-video-_-_monogatari-series-off-monster-season_-1-3-screenshot.png"
-    },
-    {
-      "id": "cr-aC0yLWdhbWU",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Becomes Fastest-Selling Switch 2 Game",
-      "link": "https://crunchyroll.com/news/latest/2026/11/11/the-legend-of-zelda-ocarina-of-time-remake-fastest-selling-switch-2-game",
-      "description": "Link’s updated adventure moves 5.2 million units in first four days",
-      "pubDate": "2026-11-11T14:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/101488ccd7/thelegendofzeldaocarinaoftime_46.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM3MTA",
-      "title": "Elden Ring: Distant Tales Between Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/elden-ring-distant-tales-between-manga-ends-in-next-chapter/.243710",
-      "description": "Final chapter's date to be determined for manga which launched in July 2024",
-      "pubDate": "2026-11-11T13:59:04.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-cy8uMjQzNzA1",
-      "title": "Sayaka Mogi's Happy Hypoxia Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/sayaka-mogi-happy-hypoxia-manga-ends/.243705",
-      "description": "Manga launched in June 2025",
-      "pubDate": "2026-11-11T13:53:15.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Zy8uMjQzNzAz",
-      "title": "Unbreakable ~Yaburezaru Monotachi~ Manga Resumes With Final Arc Next Spring",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/unbreakable-~yaburezaru-monotachi~-manga-resumes-with-final-arc-next-spring/.243703",
-      "description": "Adaptation moves from Young Champion magazine to Yanchan Web",
-      "pubDate": "2026-11-11T13:50:09.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzNzE5",
-      "title": "Mashle: Magic and Muscles Season 3's New Video Unveils More Cast & Staff, January 9 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-11/mashle-magic-and-muscles-season-3-new-video-unveils-more-cast-and-staff-january-9-debut/.243719",
-      "description": "Sōma Saitō, Ryōta Suzuki join cast",
-      "pubDate": "2026-11-11T13:35:28.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
