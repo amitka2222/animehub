@@ -1,7 +1,27 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-13T22:56:58.248Z",
+  "lastUpdated": "2026-11-14T03:43:23.242Z",
   "items": [
+    {
+      "id": "cr-ZGVvLXNpenVr",
+      "title": "Sizuk Releases The Iceblade Sorcerer Shall Rule the World II Anime Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/the-iceblade-sorcerer-shall-rule-the-world-season-2-anime-opening-song-music-video-sizuk",
+      "description": "The new season is now available on Crunchyroll",
+      "pubDate": "2026-11-14T01:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/03940f0095/sizuk-diamond-dust-mv.jpg"
+    },
+    {
+      "id": "cr-ZXZvbHV0aW9u",
+      "title": "77th Kohaku Uta Gassen Announces Performers Including Ado, YOASOBI, TM NETWORK, T.M.Revolution and More",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/77th-kohaku-uta-gassen-performers-ado-yoasobi-tm-network-tm-revolution",
+      "description": "Japan's most prestigious TV music show airs on December 31",
+      "pubDate": "2026-11-14T00:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9dd6061ebe/77th-kohaku-header.jpg"
+    },
     {
       "id": "cr-bnRlcnZpZXc",
       "title": "Naruto's Original Voice Actors on Why Returning to Team 7 Feels Different After 20 Years",
@@ -94,7 +114,7 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-LS8uMjQzODAw",
-      "title": "Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation",
+      "title": "Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation (Updated)",
       "link": "https://www.animenewsnetwork.com/news/2026-11-13/titan-holds-distribution-of-five-star-stories-manga-1st-english-volume-to-review-translation-/.243800",
       "description": "Titan Manga: \"We take the quality and integrity of our translations extremely seriously and fully recognize the gravity of this situation.\"",
       "pubDate": "2026-11-13T19:00:00.000Z",
@@ -578,26 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762",
       "description": "Series casts Yamauchi as Mantarō Kyōgoku, Uo as Tōjin Tōyama",
       "pubDate": "2026-11-12T15:45:34.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-aGlnYXJha2k",
-      "title": "Release the Villains: Tomura Shigaraki Is a Hero for the Villains",
-      "link": "https://crunchyroll.com/news/features/2026/11/12/anime-villains-tomura-shigaraki",
-      "description": "Shigaraki adds a layer of complexity to the idea of what a villain, and what a hero, is",
-      "pubDate": "2026-11-12T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/c7c62514d0/my-hero-academia.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxNzM",
-      "title": "Dana Terrace Shares Anime's Influence on Knights of Guinevere",
-      "link": "https://www.animenewsnetwork.com/feature/2026-11-12/dana-terrace-shares-anime-influence-on-knights-of-guinevere/.243173",
-      "description": "The Amazing Digital Circus, Knights of Guinevere studio Glitch Productions discuss SAG-AFTRA Agreement",
-      "pubDate": "2026-11-12T15:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
