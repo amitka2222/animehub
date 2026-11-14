@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-14T03:43:23.242Z",
+  "lastUpdated": "2026-11-14T12:35:19.038Z",
   "items": [
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Re:Zero kara Hajimeru Isekai Seikatsu' Gets 5th Season",
+      "link": "https://myanimelist.net/news/74938716?_location=rss",
+      "description": "The Re:Zero 10th Anniversary Starlight Party special event announced a fifth season on Saturday, revealing an ultra teaser visual (pictured). Produced by White Fox, the first anime season adapting Tappei Nagatsuki's isekai fantasy light novel debuted in Spring 2016, covering the first nine volumes. The Memory Snow side-story OVA premiered in theaters in October 2018, followed by the Hyouketsu no Kizuna (The Frozen Bond) prequel OVA in November 2019. The second season aired in split cours, w...",
+      "pubDate": "2026-11-14T12:16:16.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794657961-581441fa4f12821d4387bb339c63d3af.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDM3ODY",
+      "title": "Japan's Video Game Rankings, November 2-8",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-14/japan-video-game-rankings-november-2-8/.243786",
+      "description": "The Legend of Zelda: Ocarina of Time remake debuts at #1 with 537,041 copies sold",
+      "pubDate": "2026-11-14T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGR/cms/news.10/243786/ocarina.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Re:ZERO -Starting Life in Another World- Season 5 Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/re-zero-starting-life-in-another-world-season-5-anime-announced-ultra-teaser-visual",
+      "description": "A teaser visual was also unveiled at an event today",
+      "pubDate": "2026-11-14T12:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/fef7981b04/re-zero-starting-life-in-another-world-season-4.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQzODEz",
+      "title": "Re:ZERO -Starting Life in Another World- TV Anime Gets 5th Season",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813",
+      "description": "\"Ultra teaser visual\" revealed",
+      "pubDate": "2026-11-14T12:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFQ/cms/news.10/243813/re05-teaserv-jpn.jpg"
+    },
+    {
+      "id": "ann-OC8uMjQzNzg3",
+      "title": "Japanese Animation TV Ranking, November 2-8",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-14/japanese-animation-tv-ranking-november-2-8/.243787",
+      "description": "The Apothecary Diaries season 3 earned 3.5% rating last week",
+      "pubDate": "2026-11-14T10:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/encyc/A37931-397630352.1789645121.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Gushing Over Magical Girls Season 2 Anime Confirms 2027 Broadcast in New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/gushing-over-magical-girls-season-2-anime-2027-release-date-ultra-teaser-visual",
+      "description": "Asahi Production continues to produce the animation",
+      "pubDate": "2026-11-14T09:05:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a75f7b3c48/gushing-over-magical-girls.jpg"
+    },
+    {
+      "id": "ann-LjI0MzgxMg",
+      "title": "Gushing Over Magical Girls Anime's 2nd Season Debuts in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-14/gushing-over-magical-girls-anime-2nd-season-debuts-in-2027/.243812",
+      "description": "Returning cast, staff also revealed",
+      "pubDate": "2026-11-14T09:02:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/news.10/243812/ultra-teaser-visual.jpg"
+    },
+    {
+      "id": "cr-bWJlci0yMDI2",
+      "title": "Voice Actor Yuki Tanaka to Release 10th Debut Anniversary Photobook This December",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/voice-actor-yuki-tanaka-10th-debut-anniversary-photobook-december-2026",
+      "description": "The limited edition comes with a making-of DVD",
+      "pubDate": "2026-11-14T05:37:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/dc026f14cf/yuki-tanaka-photobook-header.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM3ODk",
+      "title": "Uma Musume Revs its Engines with F1 Japanese Grand Prix",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-13/uma-musume-revs-its-engines-with-f1-japanese-grand-prix/.243789",
+      "description": "Horse-girl racing meets Formula 1 racing",
+      "pubDate": "2026-11-14T04:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIP/cms/interest.3/243789/uma-musume-f1-japanese-gp-banner.jpeg"
+    },
+    {
+      "id": "cr-ZW8tbmVndXNl",
+      "title": "Neguse. Shares Please Excuse My Younger Brothers Cour 2 Anime Opening Song Collab Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/14/please-excuse-my-younger-brothers-cour-2-anime-opening-song-collab-music-video-neguse",
+      "description": "The rom-com series is available on Crunchyroll",
+      "pubDate": "2026-11-14T04:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/80182e4ef2/neguse-love-and-like-collab-mv.png"
+    },
     {
       "id": "cr-ZGVvLXNpenVr",
       "title": "Sizuk Releases The Iceblade Sorcerer Shall Rule the World II Anime Opening Song Music Video",
@@ -370,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T10:54:08.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMA/youtube/GdakXIvTowI.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -420,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T05:25:15.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC4/cms/news.10/243776/drawthisthendie-engvol1.jpg"
+      "image": null
     },
     {
       "id": "ann-dC8uMjQzNzU3",
@@ -430,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/interest.3/243757/gashapon-robo-2026.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM3NzQ",
@@ -440,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T04:11:44.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCK/herald/203010/comiket3.jpg"
+      "image": null
     },
     {
       "id": "ann-Zy8uMjQzNzc1",
@@ -450,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T04:03:18.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.7/212066/yuriismyjob.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -498,106 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-11-12/blue-rights-company-unveils-pilot-film-for-orochi-seventh-echoes-original-animated-feature/.243748",
       "description": "Akira film animation director Takashi Nakamura helms film, credited for original concept",
       "pubDate": "2026-11-13T01:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzc2OA",
-      "title": "Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768",
-      "description": "Short commemorating franchise's 35th anniversary features Sonic & friends vs. Metal Sonic",
-      "pubDate": "2026-11-12T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-dGUtY2hhbmdl",
-      "title": "Romancing SaGa 3: Destinies United Launch Date Shifts Nearly Two Weeks Earlier",
-      "link": "https://crunchyroll.com/news/latest/2026/11/12/romancing-saga-3-destinies-united-launch-date-change",
-      "description": "New date has the remake landing on February 4",
-      "pubDate": "2026-11-12T19:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2ab269b6f9/romancing-saga3.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzc2Nw",
-      "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767",
-      "description": "Christopher Robin Miller, Lani Minella return as Professor Layton, Luke, respectively",
-      "pubDate": "2026-11-12T18:30:41.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-bmltYXRpb24",
-      "title": "Sonic the Hedgehog 35th Anniversary Animation Pits the Squad Against Metal Sonic",
-      "link": "https://crunchyroll.com/news/latest/2026/11/12/sonic-the-hedgehog-35th-anniversary-animation",
-      "description": "Kevin Molina-Ortiz directs and Ian Flynn writes at GXS Productions",
-      "pubDate": "2026-11-12T18:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x541/196677affb/sonic-35th-ann-video2.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzc2NA",
-      "title": "Disney to Premiere Lilas Dreams & Memories Documentary About YOASOBI's Lilas Ikuta on December 30",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-12/disney-to-premiere-lilas-dreams-and-memories-documentary-about-yoasobi-lilas-ikuta-on-december-30/.243764",
-      "description": "2-part documentary about ikura's experience with High School Musical streams/airs on December 30",
-      "pubDate": "2026-11-12T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "cr-dC1tZW1iZXJz",
-      "title": "HOTEL INHUMANS Season 2 Anime Reveals Two New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/11/12/hotel-inhumans-season-2-anime-reveals-two-new-cast-members",
-      "description": "Crunchyroll streams adaptation based on drama manga by Ao Tajima",
-      "pubDate": "2026-11-12T17:23:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/9cc5b7c306/hotel_inhumans_hikaru_matsuki_header.jpg"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Charisma Anime Introduces Amahiko Tendo in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/12/charisma-anime-amahiko-tendo-character-trailer",
-      "description": "The media mix adaptation premieres on January 7",
-      "pubDate": "2026-11-12T17:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/032d906ed0/charisma-anime-amahiko-tendo.png"
-    },
-    {
-      "id": "ann-bC8uMjQyODIz",
-      "title": "Mushoku Tensei: Jobless Reincarnation Volumes 4-6 Light Novel Review",
-      "link": "https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-4-6/light-novel/.242823",
-      "description": "These volumes really flesh out Mushoku Tensei's expansive world, introducing a fascinating cast of varied new characters and building on already established relationships.",
-      "pubDate": "2026-11-12T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM3NjU",
-      "title": "Fatal Fury City of the Wolves Game Adds Fatal Fury: The Motion Picture's Laocorn on November 19",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-12/fatal-fury-city-of-the-wolves-game-adds-fatal-fury-the-motion-picture-laocorn-on-november-19/.243765",
-      "description": "Laocorn trailer, Fatal Fury: The Motion Picture digest movie streamed",
-      "pubDate": "2026-11-12T16:31:15.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM3NjI",
-      "title": "Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762",
-      "description": "Series casts Yamauchi as Mantarō Kyōgoku, Uo as Tōjin Tōyama",
-      "pubDate": "2026-11-12T15:45:34.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
