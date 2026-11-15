@@ -1,6 +1,6 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-14T21:43:14.793Z",
+  "lastUpdated": "2026-11-15T03:21:05.131Z",
   "items": [
     {
       "id": "cr-a2FzYS1jYXN0",
@@ -146,7 +146,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "ann-bi8uMjQzODEz",
       "title": "Re:ZERO -Starting Life in Another World- TV Anime Gets 5th Season",
       "link": "https://www.animenewsnetwork.com/news/2026-11-14/re-zero-starting-life-in-another-world-tv-anime-gets-5th-season/.243813",
-      "description": "\"Early teaser visual\" revealed",
+      "description": "\"Ultra teaser visual\" revealed",
       "pubDate": "2026-11-14T12:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
@@ -510,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/episode-review.5/243779/fxfk071.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM2NDE",
