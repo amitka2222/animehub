@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-16T03:22:26.485Z",
+  "lastUpdated": "2026-11-16T14:05:07.683Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDMxNzI",
+      "title": "Nia Liston: The Merciless Maiden Volumes 1-4 Light Novel Series Review",
+      "link": "https://www.animenewsnetwork.com/review/nia-liston/the-merciless-maiden-volumes-1-4/light-novel-series/.243172",
+      "description": "An ancient warrior’s soul inhabits a small girl's dying body and brings her back to health. Now this four-year-old has a plan for power, and the world will tremble.",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/review.2/243172/nia-liston-volume-4-cover-art.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQzNDUz",
+      "title": "Anime News Network's Shojosei Anime Wishlist",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-16/anime-news-network-shojosei-anime-wishlist/.243453",
+      "description": "Manga shelves are bursting with great shojosei titles just waiting to be adapted. Our editorial staff has assembled a few of them here. Let's keep our fingers crossed that someday these will see the animated light of day!",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/feature/243453/montage-2.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDM4MTE",
+      "title": "This Week in Mobile Games - Dragon Quest, Finally an RPG",
+      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-11-14/.243811",
+      "description": "A new Dragon Quest game that's...an RPG?! Will wonders never cease? Plus the continuing fallout from NIKKE's PC issues and a potential change to gacha games in Europe.",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/youtube/qO9QPcKDzX4.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM4MjE",
+      "title": "Manta Opens Creator's Alley, a Self-Publishing Space for Independent Creators",
+      "link": "https://www.animenewsnetwork.com/press-release/2026-11-14/manta-opens-creator-alley-a-self-publishing-space-for-independent-creators/.243821",
+      "description": "Global content platform Manta has now opened the Creator's Alley space for aspiring authors to bring their work to more readers, find new opportunities and build new fandoms.",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Promoted",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/press-release.2/243821/manta-creators-alley-pr-2400x1180.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzODQx",
+      "title": "Ranma ½ Season 3 ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/ranma-season-3/episode-7/.243841",
+      "description": "With friends like Ranma and Ryoga, who the hell needs enemies?",
+      "pubDate": "2026-11-16T13:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAS/cms/episode-review.5/243841/ranma-7.6.png.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg0Mw",
+      "title": "The Summer Hikaru Died Novels End With 3rd Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/the-summer-hikaru-died-novels-end-with-3rd-volume/.243843",
+      "description": "3rd volume ships on January 25",
+      "pubDate": "2026-11-16T13:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/news.10/243843/summerhikarudied-novel-engvol01.jpg"
+    },
+    {
+      "id": "ann-LjI0MzgyMA",
+      "title": "Romelia War Chronicle ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-7/.243820",
+      "description": "I love that Romelia War Chronicle is willing to treat its audience like adults who can actually handle a story with some complexity and ambiguity.",
+      "pubDate": "2026-11-16T12:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/episode-review.5/243820/romelia-7.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzgzOA",
+      "title": "Märchen Crown Manga Ends in Next Chapter",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/marchen-crown-manga-ends-in-next-chapter/.243838",
+      "description": "Series from Aka Akasaka, Aoi Kujira, Ajichika debuted in March 2025",
+      "pubDate": "2026-11-16T12:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE3/cms/news.10/243838/71jxm8yg8nl.sl1200.jpg"
+    },
+    {
+      "id": "cr-bi12aXN1YWw",
+      "title": "Are You a Landmine, Chihara-san? Anime Goes Bang with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/16/are-you-a-landmine-chihara-san-anime-main-visual",
+      "description": "The rom-com series premieres on January 7",
+      "pubDate": "2026-11-16T10:52:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/04b5edb974/are-you-a-landmine-chihara-san.jpg"
+    },
+    {
+      "id": "cr-YWwtY2FzdA",
+      "title": "Skip and Loafer Season 2 Anime Releases New Trailer, Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/16/skip-and-loafer-season-2-anime-trailer-key-visual-additional-cast",
+      "description": "Crunchyroll will stream the new season when it premieres in April 2027",
+      "pubDate": "2026-11-16T09:48:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/541e01c090/skip-and-loafer-season-2.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Skip to Loafer 2nd Season' Reveals Additional Cast Pair, First Promo",
+      "link": "https://myanimelist.net/news/74945973?_location=rss",
+      "description": "The official website for the Skip to Loafer (Skip and Loafer) television anime revealed an additional pair of cast, new key visual, and the first promotional video for the Season 2 on Monday. The second season adapting Misaki Takamatsu's coming-of-age manga will premiere in April 2027. Voice actresses Reina Ueda (Mao) and Yuuto Takenaka (Saijo no Osewa) are joining in the anime as Chieri Yasaka and Kiyohiko Ujiie, respectively. Kotomi Deai (Natsume Yuujinchou Go) is directing the anime at P...",
+      "pubDate": "2026-11-16T09:46:46.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794822374-1b94caf26ae2863aca7cf65712fa6cba.jpeg"
+    },
+    {
+      "id": "ann-by8uMjQzODUy",
+      "title": "Skip & Loafer Anime's 2nd Season Reveals More Cast in 1st Promo Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/skip-and-loafer-anime-2nd-season-reveals-more-cast-in-1st-promo-video/.243852",
+      "description": "Reina Ueda, Yuto Takenaka join cast for new season debuting in April 2027",
+      "pubDate": "2026-11-16T09:39:47.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/Mu1bChJEm1c.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg1MA",
+      "title": "Wanpaku! Touken Ranbu TV Anime Debuts on January 6",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/wanpaku-touken-ranbu-tv-anime-debuts-on-january-6/.243850",
+      "description": "Main staff also revealed",
+      "pubDate": "2026-11-16T07:23:41.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.10/243850/wanpaku.jfif.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Wanpaku! Touken Ranbu' Reveals Main Staff, Winter 2027 Premiere",
+      "link": "https://myanimelist.net/news/74945506?_location=rss",
+      "description": "The official website of the Wanpaku! Touken Ranbu television anime revealed the main staff and a teaser visual (pictured). The anime series, based on the character project designed and produced by Sanrio for the Touken Ranbu Online game, will premiere on January 6 at 9:54 p.m. on Tokyo MX. Staff Director: Gaku Kinoshita (Sumikko Gurashi) Script: Rieko Ebisu Art Director: Midori Shimada (Garden of Remembrance) Studio: Fanworks The original Touken Ranbu Online game has received adaptations in vari...",
+      "pubDate": "2026-11-16T05:26:52.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794806756-6075a10893d9a757fcf0d548513b666c.jpeg"
+    },
+    {
+      "id": "ann-LjI0MzcxOA",
+      "title": "Scope Out the New VOTOMS Popcorn Bucket",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-15/scope-out-the-new-votoms-popcorn-bucket/.243718",
+      "description": "Even the new VOTOMS anime's voice actors Miyuki Sawashiro & Mabuki Ando enjoy it",
+      "pubDate": "2026-11-16T04:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/interest.3/243718/scope-dog-popcorn-bucket.jpg"
+    },
+    {
+      "id": "cr-ci12aXN1YWw",
+      "title": "Wanpaku! Touken Ranbu Anime Unveils January 6, 2027 Premiere Date, Teaser Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/16/wanpaku-touken-ranbu-anime-january-6-2027-premiere-date-teaser-visual",
+      "description": "Gaku Kinoshita (Sumikko Gurashi) serves as director",
+      "pubDate": "2026-11-16T04:20:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/fb0a1ac908/wanpaku-touken-ranbu-header.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzODE5",
+      "title": "Black Witch Mirror Manga to End in 4th Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-15/black-witch-mirror-manga-to-end-in-4th-volume/.243819",
+      "description": "Series debuted in October 2023",
+      "pubDate": "2026-11-16T03:59:58.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/235783/black-witch-mirror-1-jpn-cover-not-final.jpg"
+    },
     {
       "id": "ann-LjI0MzgzMw",
       "title": "Netflix Announces 'KPop Demon Hunters Golden World Tour' Dates",
@@ -310,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-14T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGR/cms/news.10/243786/ocarina.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -330,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-14T12:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFQ/cms/news.10/243813/re05-teaserv-jpn.jpg"
+      "image": null
     },
     {
       "id": "ann-OC8uMjQzNzg3",
@@ -340,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-14T10:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/encyc/A37931-397630352.1789645121.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXItdmlzdWFs",
@@ -360,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-14T09:02:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH5/cms/news.10/243812/ultra-teaser-visual.jpg"
+      "image": null
     },
     {
       "id": "cr-bWJlci0yMDI2",
@@ -380,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-14T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIP/cms/interest.3/243789/uma-musume-f1-japanese-gp-banner.jpeg"
+      "image": null
     },
     {
       "id": "cr-ZW8tbmVndXNl",
@@ -430,176 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-13T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSM/herald/203040/apothecary-diaries-season-2-bluray.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzgwMw",
-      "title": "Magic Knight Rayearth ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-6/.243803",
-      "description": "This week was the first time I felt this quicker pacing working more to this series’ disadvantage.",
-      "pubDate": "2026-11-13T21:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMM/cms/episode-review.5/243803/rayearth-1.jpg"
-    },
-    {
-      "id": "ann-MS8uMjQzODAy",
-      "title": "The Ramparts of Ice Season 2 ‒ Episode 21",
-      "link": "https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episode-21/.243802",
-      "description": "I really can't feel bad for Momoka, even if I can agree with some of the things that she is saying.",
-      "pubDate": "2026-11-13T20:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAJ/cms/episode-review.5/243802/vlcsnap-2026-11-13-11h45m48s068.png.jpg"
-    },
-    {
-      "id": "ann-LjI0MzgwNA",
-      "title": "Giant Ojosama TV Anime Reveals More Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
-      "description": "Series casts Rina Kawaguchi as Stella, Risa Imayanagi as Madoka Ito",
-      "pubDate": "2026-11-13T20:00:05.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI1/youtube/d9dCZ_tZ7zk.jpg"
-    },
-    {
-      "id": "cr-LXJlbGVhc2Vz",
-      "title": "J-Novel Club Announces 13 New Digital Releases and Two New Print Releases",
-      "link": "https://crunchyroll.com/news/latest/2026/11/13/j-novel-club-announces-13-new-digital-releases-and-two-new-print-releases",
-      "description": "Releases of seven light novels and six manga are now available on the website",
-      "pubDate": "2026-11-13T20:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x537/eb15e5affb/j-novel-club-logo.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzc4MQ",
-      "title": "J-Novel Club Licenses Putting a Price on World Peace Novels, I'm Dating a Dark Summoner Manga, More Titles",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/j-novel-club-licenses-putting-a-price-on-world-peace-novels-im-dating-a-dark-summoner-manga-more-/.243781",
-      "description": "Company to also release Rebuild World novels, A Royal Rebound manga in print next year",
-      "pubDate": "2026-11-13T20:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g44/cms/news.10/243781/putting-a-price-on-world-peace-ln-volume-1-en-cover.jpg"
-    },
-    {
-      "id": "ann-LjI0MzgwNQ",
-      "title": "The Fall 2026 Anime Preview Guide - One-Room TA",
-      "link": "https://www.animenewsnetwork.com/preview-guide/2026/fall/one-room-ta/.243805",
-      "description": "Streaming service OceanVeil's new boys-love series premiered today! We checked out One-Room TA to see what the fuss is about.",
-      "pubDate": "2026-11-13T19:49:19.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEA/cms/preview-guide/243805/one-room-ta-ep-1-image-2-ld.jpg"
-    },
-    {
-      "id": "ann-NS8uMjQzNzk5",
-      "title": "The Apothecary Diaries Season 3 ‒ Episode 55",
-      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-55/.243799",
-      "description": "If Basen comes through this plotline with his sanity intact, I will be very impressed.",
-      "pubDate": "2026-11-13T19:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/cms/episode-review.5/243799/apothecary-55.png.jpg"
-    },
-    {
-      "id": "ann-LS8uMjQzODAw",
-      "title": "Titan Holds Distribution of Five Star Stories Manga's 1st English Volume to Review Translation Situation (Updated)",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/titan-holds-distribution-of-five-star-stories-manga-1st-english-volume-to-review-translation-/.243800",
-      "description": "Titan Manga: \"We take the quality and integrity of our translations extremely seriously and fully recognize the gravity of this situation.\"",
-      "pubDate": "2026-11-13T19:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM4MDE",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 9",
-      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-9/.243801",
-      "description": "This episode captures every part of what I love about the original manga and somehow, almost miraculously, manages to improve upon one of the most celebrated works in all of illustrative fiction.",
-      "pubDate": "2026-11-13T18:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bGFjay1vbnl4",
-      "title": "Cosmic Princess Kaguya! Virtual Event Announces Guest Performers Black onyX",
-      "link": "https://crunchyroll.com/news/latest/2026/11/13/cosmic-princess-kaguya-virtual-event-guest-performers-black-onyx",
-      "description": "Tsukuyomi Kansha-sai event takes place December 26 on YouTube and VRChat",
-      "pubDate": "2026-11-13T17:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/8f66331bd3/tsukuyomi-kansha-sai-hero.png"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "A Certain Dark Item Anime Publishes VS ITEM Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/13/a-certain-dark-item-anime-vs-item-trailer",
-      "description": "Adaptation based on science fiction light novel series streams on Crunchyroll",
-      "pubDate": "2026-11-13T17:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x822/c413404c26/a_certain_dark_item_header2.jpg"
-    },
-    {
-      "id": "ann-LjI0MzY0NQ",
-      "title": "This Week in Games - SaGa's End",
-      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-11-13/saga-end/.243645",
-      "description": "We bid farewell to a beloved translator this week before exploring a new mystery visual novel.",
-      "pubDate": "2026-11-13T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzc3OA",
-      "title": "Expelled From Paradise: Resonance Anime Film Review",
-      "link": "https://www.animenewsnetwork.com/review/expelled-from-paradise/resonance-anime-film/.243778",
-      "description": "The film is also a thought experiment about AI.",
-      "pubDate": "2026-11-13T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LW1vZGUtZGxj",
-      "title": "Naruto to Boruto: Shinobi Striker Welcomes Kabuto Yakushi (Sage Mode) as 50th DLC",
-      "link": "https://crunchyroll.com/news/latest/2026/11/13/naruto-to-boruto-shinobi-striker-kabuto-yakushi-sage-mode-dlc",
-      "description": "Free update launches with the new character today",
-      "pubDate": "2026-11-13T16:56:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x542/56d1664f10/shinobi-striker-dlc-50.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzc5OA",
-      "title": "Living It Up in Another World Until I Get Bored Novels Get TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/living-it-up-in-another-world-until-i-get-bored-novels-get-tv-anime/.243798",
-      "description": "Anime based on Fudaya Sanmongarasu, Tomozo's novels debuts in January 2027",
-      "pubDate": "2026-11-13T16:37:14.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-bGF5LXZpZGVv",
-      "title": "Attack on Titan 3 Ventures Beyond the Walls in Gameplay Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/13/attack-on-titan-3-ventures-beyond-the-walls-in-gameplay-video",
-      "description": "Koei Tecmo and Omega Force’s latest game arrives on December 10",
-      "pubDate": "2026-11-13T16:27:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/2ed6861abe/attack-on-titan-3-expeditions.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM3ODM",
-      "title": "Gifted Baseball Webtoon Gets Live-Action TV Series Adaptation Premiering on December 5",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/gifted-baseball-webtoon-gets-live-action-tv-series-adaptation-premiering-on-december-5/.243783",
-      "description": "Series centers on coach who gains ability to see players' natural talents, limits to their potential",
-      "pubDate": "2026-11-13T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
       "image": null
     }
   ]
