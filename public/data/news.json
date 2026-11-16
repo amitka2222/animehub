@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-11-15T22:09:41.570Z",
+  "lastUpdated": "2026-11-16T03:22:26.485Z",
   "items": [
+    {
+      "id": "ann-LjI0MzgzMw",
+      "title": "Netflix Announces 'KPop Demon Hunters Golden World Tour' Dates",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-15/netflix-announces-kpop-demon-hunters-golden-world-tour-dates/.243833",
+      "description": "HUNTR/X: “4THEFANS!”",
+      "pubDate": "2026-11-16T03:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/interest.3/243833/2027-kpopdemonhunters-genericsocial-1920x1080.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQzODM2",
+      "title": "SPITZ Band's Drummer Tatsuo Sakiyama Seriously Injured in Traffic Accident",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-15/spitz-band-drummer-tatsuo-sakiyama-seriously-injured-in-traffic-accident/.243836",
+      "description": "Band's next TV appearances to use Sakiyama's pre-recorded performances during his hospitalization",
+      "pubDate": "2026-11-15T22:53:16.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.10/243836/profile-sakiyama.jpg"
+    },
     {
       "id": "cr-LXRyYWlsZXI",
       "title": "Magical Sisters Lulutto Lilly Anime Showcases Idols Toko and Sena in New Character Trailer",
@@ -489,7 +509,7 @@
       "pubDate": "2026-11-13T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIL/cms/news.9/237605/5ss-vol1-front-cvr.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM4MDE",
@@ -499,7 +519,7 @@
       "pubDate": "2026-11-13T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL1/cms/episode-review.5/243801/sbr-ep-9-review-image.jpg"
+      "image": null
     },
     {
       "id": "cr-bGFjay1vbnl4",
@@ -580,26 +600,6 @@
       "source": "Anime News Network",
       "category": "Korean",
       "image": null
-    },
-    {
-      "id": "ann-LjI0Mzc4NQ",
-      "title": "Aquaman Romance Webtoon Gets Japanese Live-Action Series Premiering on December 25",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-13/aquaman-romance-webtoon-gets-japanese-live-action-series-premiering-on-december-25/.243785",
-      "description": "Story explores main characters' changing feelings as they confront emotions they had not previously recognized",
-      "pubDate": "2026-11-13T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "cr-a2FtaXNoaXJv",
-      "title": "Release the Villains: Rize Kamishiro Never Misses a Meal",
-      "link": "https://crunchyroll.com/news/features/2026/11/13/anime-villains-rize-kamishiro",
-      "description": "Tokyo Ghoul still has one of anime’s worst first dates",
-      "pubDate": "2026-11-13T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/6b16434fab/tokyo-ghoul.jpg"
     }
   ]
 }
