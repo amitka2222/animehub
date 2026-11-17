@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-17T01:10:00.663Z",
+  "lastUpdated": "2026-11-17T14:58:39.759Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM4ODM",
+      "title": "Trinity Blood Artist Kiyo Kyujyō Launches Manga About Leonardo da Vinci",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/trinity-blood-artist-kiyo-kyujyo-launches-manga-about-leonardo-da-vinci/.243883",
+      "description": "Davide no Ishi manga launched on Monday",
+      "pubDate": "2026-11-17T14:00:23.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.10/243883/davide.jpg"
+    },
+    {
+      "id": "cr-ZXItY2FzdA",
+      "title": "Josemaru Short Anime Debuts on January 10",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/josemaru-short-anime-premiere-date-trailer-cast",
+      "description": "New teaser art, trailer and cast members revealed for upcoming series",
+      "pubDate": "2026-11-17T13:18:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c1ba93d02d/josemaru_header2.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Main Cast for 'Odoru Sennen Kazoku' Announced",
+      "link": "https://myanimelist.net/news/74949726?_location=rss",
+      "description": "The official website for the television anime adaptation of Akira Kazugai's Odoru Sennen Kazoku (Millennium Family) manga announced six additional cast members on Sunday. The anime series will air on TBS and other channels. Cast Arthur: Mutsumi Tamura (Kobayashi-san Chi no Maid Dragon) Raine: Haruna Mikawa (Ore dake Level Up na Ken) Noel: Taihi Kimura (Onmyou Kaiten Re:Birth) Eve: Lynn (Bokutachi wa Benkyou ga Dekinai) Hayden: Katsuyuki Konishi (Kimetsu no Yaiba) Hugo: Ryouta Suzuki (Kaguya...",
+      "pubDate": "2026-11-17T13:09:47.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794920942-81b870f66b11b1ce89e2045a016feae0.jpeg"
+    },
+    {
+      "id": "cr-aWMtdmlkZW8",
+      "title": "Suikoden: The Anime Shares Ending Theme Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/suikoden-the-anime-ending-theme-song-music-video",
+      "description": "Crunchyroll streams adaptation based on classic JRPG series",
+      "pubDate": "2026-11-17T13:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ca0d11d29f/suikoden_the_anime_episode7_header.jpg"
+    },
+    {
+      "id": "ann-LjI0MzkwNQ",
+      "title": "Mistress Kanan is Devilishly Easy Season 2's 1st Video Unveils More Cast & Staff, 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/mistress-kanan-is-devilishly-easy-season-2-1st-video-unveils-more-cast-and-staff-2027-debut/.243905",
+      "description": "Returning cast, staff for Kanan-sama wa Akumade Choroi 2 EASY also confirmed",
+      "pubDate": "2026-11-17T10:53:39.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMG/youtube/SJdisi3kEhQ.jpg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmdz",
+      "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure Anime Reveals Premiere Date, Theme Songs in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure-anime-january-9-release-date-main-trailer-theme-songs",
+      "description": "Crunchyroll will stream the series in January 2027",
+      "pubDate": "2026-11-17T10:25:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/0e9a47aec0/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kanan-sama wa Akumade Choroi 2nd Season' Reveals Additional Cast, New Staff, First Promo, 2027 Debut",
+      "link": "https://myanimelist.net/news/74949337?_location=rss",
+      "description": "The official website for the television anime adaptation of nonco's Kanan-sama wa Akumade Choroi (Mistress Kanan is Devilishly Easy) manga revealed additional cast, new staff, a teaser visual (pictured), and the first promotional video for the second season, subtitled Easy, on Tuesday. The anime series will premiere in 2027. Cast Tekka Shinryuuji: Misato Matsuoka (Yani Neko) Hanako Ohanabatake: Miku Itou (5-toubun no Hanayome) Lily Kageno: Miyu Tomita (Kaguya-sama wa Kokurasetai? Tensai-tac...",
+      "pubDate": "2026-11-17T09:56:09.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794909319-d05cd24bfa7a268104f21c22fdda0107.jpeg"
+    },
+    {
+      "id": "ann-dC8uMjQzOTA0",
+      "title": "Josemaru Short Anime's 3rd Teaser Reveals More Cast, January 10 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/josemaru-short-anime-3rd-teaser-reveals-more-cast-january-10-debut/.243904",
+      "description": "Mariya Ise, Hikaru Tōno, Nana Enomoto join cast",
+      "pubDate": "2026-11-17T09:51:14.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIB/cms/news.10/243904/jose.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Mistress Kanan is Devilishly Easy Season 2 Anime Reveals 2027 Broadcast in New Trailer, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/mistress-kanan-is-devilishly-easy-season-2-anime-2027-release-date-trailer-teaser-visual",
+      "description": "Crunchyroll streams all 12 episodes of the first season",
+      "pubDate": "2026-11-17T09:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2664x1498/d1362d57e8/mistress-kanan-is-devilishly-easy-season-2.png"
+    },
+    {
+      "id": "ann-LjI0Mzg5OQ",
+      "title": "Sonic the Hedgehog, McLaren Racing Collaborates on 3-Episode Animated Special",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/sonic-the-hedgehog-mclaren-racing-collaborates-on-3-episode-animated-special/.243899",
+      "description": "Sonic the Hedgehog x McLaren Racing: Beyond Fast previewed in teaser",
+      "pubDate": "2026-11-17T09:17:45.000Z",
+      "source": "Anime News Network",
+      "category": "Animation",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJD/youtube/f8lFkUzg5Mg.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg4OQ",
+      "title": "The Eternal Fool's Words of Wisdom Anime's New Video Unveils More Cast, Theme Songs, January 9 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/the-eternal-fool-words-of-wisdom-anime-new-video-unveils-more-cast-theme-songs-january-9-debut/.243889",
+      "description": "Rie Kugimiya joins cast as Aileen; Nako Misaki × sajou no hana, Arcana Project perform theme songs",
+      "pubDate": "2026-11-17T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/youtube/Kgi2eMlP4LU.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg5Mg",
+      "title": "Gundam Seed Freedom Zero & Fool Night Stand Back-to-Back in Crossover Art",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-16/gundam-seed-freedom-zero-and-fool-night-stand-back-to-back-in-crossover-art/.243892",
+      "description": "Two “seeds” come together before their respective releases",
+      "pubDate": "2026-11-17T04:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGM/cms/interest.3/243892/gundam-seed-freedom-zero-fool-night-2b.jpeg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmc",
+      "title": "Onee-chan no Midori-kun Live-Action Film Releases New Clip Featuring Timelesz Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/onee-chan-no-midori-kun-live-action-film-new-clip-timelesz-theme-song",
+      "description": "The adaptation of Amu Meguro's romance manga opens on December 4",
+      "pubDate": "2026-11-17T04:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a9ee62956a/onee-chan-no-midori-kun-theme-song-clip.png"
+    },
+    {
+      "id": "ann-dC8uMjQzODkw",
+      "title": "Live-Action Twisted Sisters Series Reveals More Cast, January 10 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/live-action-twisted-sisters-series-reveals-more-cast-january-10-debut/.243890",
+      "description": "Hiroshi Tachi, Jin Shirasu, Rui Kurihara, Haruki Mochizuki, Tomu Miyazaki, 3 more join cast",
+      "pubDate": "2026-11-17T04:43:31.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF6/cms/news.10/243006/twistedsisters-cast.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM4OTM",
+      "title": "Live-Action My Sister's Boyfriend Film's New Video Highlights Song by timelesz",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/live-action-my-sister-boyfriend-film-new-video-highlights-song-by-timelesz/.243893",
+      "description": "Film opens in Japan on December 4",
+      "pubDate": "2026-11-17T04:34:31.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/youtube/GlIfTeigEAQ.jpg"
+    },
+    {
+      "id": "ann-LjI0MzUwNw",
+      "title": "Haruhi Suzumiya Collaborates With Sanrio Characters",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-16/haruhi-suzumiya-collaborates-with-sanrio-characters/.243507",
+      "description": "Sanrio characters aren't quite the aliens, time-travelers, & espers Haruhi's looking for",
+      "pubDate": "2026-11-17T04:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/interest.3/243507/haruhi-sario-collaboration.jpg"
+    },
+    {
+      "id": "cr-LWNhdGVnb3J5",
+      "title": "LiSA Earns Grammy Nomination for The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc- Anime Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/lisa-grammy-nomination-best-asian-pop-music-performance-category",
+      "description": "\"YES\" is the only anime theme song in the Best Asian Pop Music Performance category",
+      "pubDate": "2026-11-17T01:39:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8f6f958af2/lisa-header.jpg"
+    },
     {
       "id": "cr-LW9mZmljZQ",
       "title": "Japan Box Office: Godzilla Minus Zero Stays at No. 1 for 2nd Weekend",
@@ -40,7 +210,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ3/cms/news.10/243868/noa-nekada-ultraman-teo.jpg"
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI6/cms/news.10/243868/noa-nekada-ultraman-teo.jpg"
     },
     {
       "id": "cr-ZS1hd2FyZHM",
@@ -300,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDE/cms/news.10/243843/summerhikarudied-novel-engvol01.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzgyMA",
@@ -310,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T12:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/episode-review.5/243820/romelia-7.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzgzOA",
@@ -320,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE3/cms/news.10/243838/71jxm8yg8nl.sl1200.jpg"
+      "image": null
     },
     {
       "id": "cr-bi12aXN1YWw",
@@ -360,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T09:39:47.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/Mu1bChJEm1c.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg1MA",
@@ -370,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T07:23:41.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJC/cms/news.10/243850/wanpaku.jfif.jpeg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -390,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF5/cms/interest.3/243718/scope-dog-popcorn-bucket.jpg"
+      "image": null
     },
     {
       "id": "cr-ci12aXN1YWw",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T03:59:58.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ6/cms/news.9/235783/black-witch-mirror-1-jpn-cover-not-final.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0MzgzMw",
@@ -420,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T03:15:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/interest.3/243833/2027-kpopdemonhunters-genericsocial-1920x1080.jpg"
+      "image": null
     },
     {
       "id": "ann-dC8uMjQzODM2",
@@ -430,177 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-15T22:53:16.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.10/243836/profile-sakiyama.jpg"
-    },
-    {
-      "id": "cr-LXRyYWlsZXI",
-      "title": "Magical Sisters Lulutto Lilly Anime Showcases Idols Toko and Sena in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/15/magical-sisters-lulutto-lilly-anime-toko-sena-character-trailer",
-      "description": "The second cour of the magical girl series is now airing",
-      "pubDate": "2026-11-15T17:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/a55421bb93/magical-sisters-lulutto-lilly-toko-sena.png"
-    },
-    {
-      "id": "cr-Y2gtb3JkZXI",
-      "title": "Mushoku Tensei: Jobless Reincarnation Watch Order and Arc Guide",
-      "link": "https://crunchyroll.com/news/guides/2026/11/15/mushoku-tensei-jobless-reincarnation-watch-order",
-      "description": "Let’s explore Rudeus Greyrat’s story",
-      "pubDate": "2026-11-15T17:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Guides",
-      "image": "https://a.storyblok.com/f/178900/1000x563/edc7b81ff6/mushoku-tensei-jobless-reincarnation-season-3.jpg"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica – The Die is Cast Sequel Anime Centers MyGO!!!!! in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/15/bang-dream-its-mygo-ave-mujica-the-die-is-cast-sequel-anime-mygo-teaser-trailer",
-      "description": "The crossover series premieres January 8, 2027",
-      "pubDate": "2026-11-15T16:46:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/4bd36a638b/bang-dream-ave-mujica-its-mygo-trailer-hero.png"
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "WITCH WATCH Season 2 Anime Announces 2027 Premiere",
-      "link": "https://crunchyroll.com/news/latest/2026/11/15/witch-watch-season-2-anime-2027-premiere-teaser-visual",
-      "description": "A new teaser visual was released following the manga's finale",
-      "pubDate": "2026-11-15T16:28:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/b7732503ee/witch-watch.png"
-    },
-    {
-      "id": "cr-Y2FsLWZpbG0",
-      "title": "Little Shark's Day Out Anime Announces 2nd Theatrical Film",
-      "link": "https://crunchyroll.com/news/latest/2026/11/15/little-sharks-day-out-anime-announces-2nd-theatrical-film",
-      "description": "A teaser trailer and visual were revealed for the announcement",
-      "pubDate": "2026-11-15T16:06:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/b99d951659/odekake_kozame_movie2_header.jpg"
-    },
-    {
-      "id": "cr-dHJhaWxlcg",
-      "title": "Bride of the Barrier Master Anime Shares Hazuki Ichise Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/15/bride-of-the-barrier-master-anime-hazuki-ichise-character-trailer",
-      "description": "The anime is scheduled to debut in Japan in January 2027",
-      "pubDate": "2026-11-15T15:55:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/58f2402d96/bride_of_the_barrier_master_header3.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Witch Watch' Concludes Serialization",
-      "link": "https://myanimelist.net/news/74943102?_location=rss",
-      "description": "Kenta Shinohara's Witch Watch manga has concluded with chapter 270 in the 51st issue of Weekly Shounen Jump magazine on Monday, after a five-year serialization. Shinohara began serializing the supernatural comedy manga in Weekly Shonen Jump in February 2021. Shueisha published the 28th volume on October 2. Produced by Bibury Animation Studios, the 25-episode first season aired in Spring 2025. Crunchyroll and Netflix simulcasted the anime worldwide with subtitles and dubs in multiple languag...",
-      "pubDate": "2026-11-15T15:23:38.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794755832-b061ce020fcc34266a276d8094352e34.jpeg"
-    },
-    {
-      "id": "ann-Ny8uMjQzODM0",
-      "title": "Witch Watch Manga Ends With Anime Season 2 to Air in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/witch-watch-manga-ends-with-anime-season-2-to-air-in-2027/.243834",
-      "description": "Kenta Shinohara's Witch Watch manga ended in this year's 51st issue of Shueisha's Weekly Shonen Jump magazine on Monday. The staff of the television anime...",
-      "pubDate": "2026-11-15T15:12:39.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzODE3",
-      "title": "Uzono Shiniko Hōkoku Manga Ends in 4th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/uzono-shiniko-hokoku-manga-ends-in-4th-volume/.243817",
-      "description": "Manga adaptation of Bunkichi Majima's novel debuted in December 2024",
-      "pubDate": "2026-11-15T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ci8uMjQzMzgx",
-      "title": "DEMONS' NIGHT FEVER Game Review",
-      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch/demons-night-fever/.243381",
-      "description": "Folks who want a rollicking good time being bad to the bone will find that in DEMONS' NIGHT FEVER, but you will have to work for it.",
-      "pubDate": "2026-11-15T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgzMg",
-      "title": "Odekake Kozame Anime Gets 2nd Film",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832",
-      "description": "3 main cast members celebrate news with staff returning from 1st film, 2nd season",
-      "pubDate": "2026-11-15T13:24:54.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzY0Mg",
-      "title": "WEBTOON CEO Junkoo Kim Receives Outstanding Contribution Award at Korea's 26th Cartoon Day Ceremony",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/webtoon-ceo-junkoo-kim-receives-outstanding-contribution-award-at-korea-26th-cartoon-day-ceremony/.243642",
-      "description": "Kim shares award with attorney Sung-joo Kim of law firm Deoksu, who was recognized for his work protecting cartoonists' rights, providing legal support",
-      "pubDate": "2026-11-15T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgyOQ",
-      "title": "Stranger Than Heaven Game Streams Story Trailer for 2nd Act 'Kure'",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/stranger-than-heaven-game-streams-story-trailer-for-2nd-act-kure/.243829",
-      "description": "Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam",
-      "pubDate": "2026-11-15T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzODI4",
-      "title": "RetroCrush Streams Sugar Sugar Rune, Genocyber Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/retrocrush-streams-sugar-sugar-rune-genocyber-anime/.243828",
-      "description": "Service also adds 1983 live-action film The Girl Who Leapt Through Time",
-      "pubDate": "2026-11-15T10:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQzODMx",
-      "title": "Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831",
-      "description": "Kanon Takao voices Hana's twin sister in anime premiering in January",
-      "pubDate": "2026-11-15T09:26:33.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgyNw",
-      "title": "MAGES Develops Girls und Panzer Mahjong Game For PS5, Switch 2",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/mages-develops-girls-und-panzer-mahjong-game-for-ps5-switch-2/.243827",
-      "description": "Game slated for 2027 release",
-      "pubDate": "2026-11-15T07:06:19.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-a2FzYS1jYXN0",
-      "title": "Even the Student Council Has Its Holes! Anime Casts Yoko Hikasa, Shares New Opening Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/14/even-the-student-council-has-its-holes-anime-new-opening-video-yoko-hikasa-cast",
-      "description": "The anime adaptation of Muchimaro's manga series is now airing",
-      "pubDate": "2026-11-14T20:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/2c0ae6fb2d/even-the-student-council-has-its-holes-new-op-hero.png"
     }
   ]
 };
