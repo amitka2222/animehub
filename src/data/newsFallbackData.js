@@ -1,7 +1,237 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-17T14:58:39.759Z",
+  "lastUpdated": "2026-11-18T00:04:20.026Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDM5MTY",
+      "title": "RPG Maker U2U Software Launches for PC via Steam on January 28",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/rpg-maker-u2u-software-launches-for-pc-via-steam-on-january-28/.243916",
+      "description": "Perspective 2D Map Editor Demo available until release",
+      "pubDate": "2026-11-17T23:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQJ/herald/203148/rpg-maker-u2u.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQzODgy",
+      "title": "Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882",
+      "description": "Series debuted in June 2025",
+      "pubDate": "2026-11-17T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTH/cms/news.10/243882/81b4dcz7lal.sl1500.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg4MQ",
+      "title": "Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881",
+      "description": "Jun Esaka, Kine Usuto's series debuted on January 11",
+      "pubDate": "2026-11-17T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO8/cms/news.10/243881/61z-pvg0dzl.sl1000.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzODIy",
+      "title": "Black Clover Season 2 ‒ Episode 177",
+      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episode-177/.243822",
+      "description": "Yuno might be a prince, but Noelle’s a downright slay queen. Good for her!",
+      "pubDate": "2026-11-17T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/episode-review.5/243822/black-clover-s2-e7.png.jpg"
+    },
+    {
+      "id": "ann-bi8uMjQzODg2",
+      "title": "Attack on Titan 3 Brings the Video Game Series to Its Brutal, Bloody Conclusion",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-17/attack-on-titan-3-brings-the-video-game-series-to-its-brutal-bloody-conclusion/.243886",
+      "description": "The good news is that, based on the opening chapters of this preview PC build I was able to sink my giant boxcutter blades into, the eight-year wait was worth it.",
+      "pubDate": "2026-11-17T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/feature/243886/attack-on-titan-3-pv1.png.jpg"
+    },
+    {
+      "id": "cr-bmF0aW9ucw",
+      "title": "Resident Evil Requiem, The Legend of Zelda: Ocarina of Time Nominated for Game of the Year at The Game Awards",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/resident-evil-requiem-ocarina-of-time-remake-game-awards-nominations",
+      "description": "Resident Evil Requiem among most-nominated with six nominations",
+      "pubDate": "2026-11-17T20:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/3840x2160/79ffed34b3/resident-evil-requiem-tga.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM5MTQ",
+      "title": "Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914",
+      "description": "Sei Shimotsuki's novel ships on December 17",
+      "pubDate": "2026-11-17T20:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.9/240969/battle-spirits.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM4NDI",
+      "title": "Overgeared ‒ Episode 8",
+      "link": "https://www.animenewsnetwork.com/review/overgeared/episode-8/.243842",
+      "description": "With how much Grid hates playing with others, it should be pretty funny to see how he handles being forced into a group",
+      "pubDate": "2026-11-17T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/episode-review.5/243842/overgeared.png.jpg"
+    },
+    {
+      "id": "ann-LS8uMjQzOTE3",
+      "title": "HIDIVE Streams Giant Ojosama TV Anime This Winter; Screens N. American Premiere at Anime Frontier on December 4",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917",
+      "description": "English-subbed trailer streams for anime premiering in January 2027",
+      "pubDate": "2026-11-17T19:17:32.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIJ/youtube/BwvGi1tz-rE.jpg"
+    },
+    {
+      "id": "cr-ZS03LXJlY2Fw",
+      "title": "The Apothecary Diaries Season 3, Episode 7 Recap, “The Bet”",
+      "link": "https://crunchyroll.com/news/features/2026/11/17/the-apothecary-diaries-season-3-episode-7-recap",
+      "description": "1 girl vs. 5 men",
+      "pubDate": "2026-11-17T18:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/b51992f3d5/the-apothecary-diaries-season-3-episode-7.png"
+    },
+    {
+      "id": "ann-LjI0Mzg4Nw",
+      "title": "Magical Girl Raising Project restart ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episode-7/.243887",
+      "description": "With this conversation between Keek and Snow White, we finally have all the pieces to see what is actually going on in this series.",
+      "pubDate": "2026-11-17T18:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGL/cms/episode-review.5/243887/mgrpr-07.jpg"
+    },
+    {
+      "id": "ann-LjI0MzkxNQ",
+      "title": "The Game Awards 2026 Reveals Nominees",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/the-game-awards-2026-reveals-nominees/.243915",
+      "description": "The Legend of Zelda: Ocarina of Time, Resident Evil Requiem, more games earn nominations",
+      "pubDate": "2026-11-17T17:43:41.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7C/cms/news.10/243722/zelda-oot.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg5MQ",
+      "title": "Psyren ‒ Episode 6",
+      "link": "https://www.animenewsnetwork.com/review/psyren/episode-6/.243891",
+      "description": "Whatever passion went into this adaptation isn't coming through in the end product, and all we have is a show that feels like it's going through the motions.",
+      "pubDate": "2026-11-17T17:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ6/cms/episode-review.5/243891/psyren.png.jpg"
+    },
+    {
+      "id": "ann-LjI0MzkwOQ",
+      "title": "Maki Terashima-Furuta Joins ASIFA-Hollywood's Board of Directors Ahead of 54th Annie Awards' New Anime Category",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/maki-terashima-furuta-joins-asifa-hollywood-board-of-directors-ahead-of-54th-annie-awards-new-anime-/.243909",
+      "description": "Maki Terashima-Furuta serves as Production I.G. USA's President",
+      "pubDate": "2026-11-17T17:01:57.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGK/cms/news.10/243909/maki-terashima-furuta.jpg"
+    },
+    {
+      "id": "ann-LjI0MzMxMA",
+      "title": "MAO Episodes 15-26 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/mao-episodes-15-26-anime-series/.243310",
+      "description": "For better or worse, this anime is nothing but setup, which makes it hard to recommend to anyone not interested in using it as a springboard into the manga.",
+      "pubDate": "2026-11-17T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/review.2/243310/maocour2.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "The Fable Season 2 Anime Prepares for the Holidays with New Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/the-fable-season-2-anime-christmas-visual",
+      "description": "Second season adapting Katsuhisa Minami’s manga kicks off January 9",
+      "pubDate": "2026-11-17T16:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/22eee2b4e0/the-fable.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg5NA",
+      "title": "Firefly Wedding ‒ Episodes 5-6",
+      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episodes-5-6/.243894",
+      "description": "If the characters were transplanted into modern-day, Satoko would be the new girl and Shinpei the handsome, untouchable popular boy.",
+      "pubDate": "2026-11-17T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/cms/episode-review.5/243894/screenshot-2026-11-16-204602.png.jpg"
+    },
+    {
+      "id": "cr-cy1jb2xsYWI",
+      "title": "Pokémon and BOSS Welcome Back Alien Jones for Ongoing Collab",
+      "link": "https://crunchyroll.com/news/latest/2026/11/17/pokemon-boss-coffee-alien-tommy-lee-jones-collab",
+      "description": "The collaboration celebrates the 30th anniversary of Pokémon",
+      "pubDate": "2026-11-17T16:19:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/62df2b9172/alien-jones-pikachu-hero.png"
+    },
+    {
+      "id": "ann-LjI0MzkwOA",
+      "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908",
+      "description": "Kurabayashi worked on Tetris 99, Pac-Man 99, Street Fighter EX games",
+      "pubDate": "2026-11-17T16:00:20.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIY/cms/news.10/243908/arika.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg1MQ",
+      "title": "This Week in Anime - Five Star Sordid",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-17/.243851",
+      "description": "Fans were in a fervor last week after it was discovered that the Five Star Stories manga release may be connected to a controversial scanlator. Lucas and Sylvia dive into the twisting history behind the allegations and why it's taken so long to read the series in English.",
+      "pubDate": "2026-11-17T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/this-week-in-anime/243851/lucas-09.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka' Concludes with 8th Volume",
+      "link": "https://myanimelist.net/news/74950128?_location=rss",
+      "description": "The official X account for author Nana Ootori announced on Tuesday that the Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (May I Ask for One Final Thing?) light novel series will end with its eighth volume, scheduled to be released on December 1. Ootori began penning the action romcom novel on the Shousetsuka ni Narou website in April 2018. AlphaPolis began publishing the novel under its Regina Books imprint with illustrations by Satsuki in August 2018 and published the seventh volume...",
+      "pubDate": "2026-11-17T15:21:13.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794928805-5f872ec5a02d923f8d64f77ff7c73881.jpeg"
+    },
+    {
+      "id": "ann-YS8uMjQzODUz",
+      "title": "Exclusive: Nakama Press Licenses Uoyama's Opening the Door to Hinata-San's Heart Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/exclusive-nakama-press-licenses-uoyama-opening-the-door-to-hinata-san-heart-manga/.243853",
+      "description": "Manga from Love's in Sight author centers on shut-in high school student",
+      "pubDate": "2026-11-17T15:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV2/cms/news.10/243853/nkm-openingthedoortohinatasansheart-01-cover.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM4Nzg",
+      "title": "Mission: Yozakura Family's Hitsuji Gondaira Launches Manga About Police Officer in Meiji-Era Japan",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/mission-yozakura-family-hitsuji-gondaira-launches-manga-about-police-officer-in-meiji-era-japan/.243878",
+      "description": "Ginza Uradoori Kо̄ban no HIzuki-san debuts next Tuesday",
+      "pubDate": "2026-11-17T14:17:47.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOA/cms/news.10/243878/hitsuji-gondaira.png.jpg"
+    },
     {
       "id": "ann-Ly4yNDM4ODM",
       "title": "Trinity Blood Artist Kiyo Kyujyō Launches Manga About Leonardo da Vinci",
@@ -93,9 +323,9 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://a.storyblok.com/f/178900/2664x1498/d1362d57e8/mistress-kanan-is-devilishly-easy-season-2.png"
     },
     {
-      "id": "ann-LjI0Mzg5OQ",
-      "title": "Sonic the Hedgehog, McLaren Racing Collaborates on 3-Episode Animated Special",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/sonic-the-hedgehog-mclaren-racing-collaborates-on-3-episode-animated-special/.243899",
+      "id": "ann-bC8uMjQzODk5",
+      "title": "Sonic the Hedgehog, McLaren Racing Collaborate on 3-Episode Animated Special",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-17/sonic-the-hedgehog-mclaren-racing-collaborate-on-3-episode-animated-special/.243899",
       "description": "Sonic the Hedgehog x McLaren Racing: Beyond Fast previewed in teaser",
       "pubDate": "2026-11-17T09:17:45.000Z",
       "source": "Anime News Network",
@@ -204,9 +434,9 @@ export const INITIAL_NEWS_DATA = {
     },
     {
       "id": "ann-My8uMjQzODY4",
-      "title": "Ultraman Teo Actress Noa Nekada Dies at 23",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nekada-dies-at-23/.243868",
-      "description": "Ongoing Ultraman Teo series will broadcast as planned with Nekada's already-filmed scenes",
+      "title": "Ultraman Teo Actress Noa Nakada Dies at 23",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-16/ultraman-teo-actress-noa-nakada-dies-at-23/.243868",
+      "description": "Ongoing Ultraman Teo series will broadcast as planned with Nakada's already-filmed scenes",
       "pubDate": "2026-11-16T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
@@ -240,7 +470,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/243866/yukio-yamagata.jpeg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzODYy",
@@ -250,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD9/cms/episode-review.5/243862/hello-witch-7.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM4NTk",
@@ -260,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.9/239467/bafkreieus7mvngxcunaow4evfcbc7skdfjw4wy5w4mmtqdxj6alchyvpie.webp"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM4NjA",
@@ -270,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T18:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD0/cms/episode-review.5/243860/far-away-7.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg2MQ",
@@ -280,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.10/243861/lisa-yes.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM4NDc",
@@ -290,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T17:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/episode-review.5/243847/dark-item-06.jpg"
+      "image": null
     },
     {
       "id": "cr-MjAyNi1wb2xs",
@@ -310,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV9/cms/news.10/243766/frederic-boilet.jpg"
+      "image": null
     },
     {
       "id": "ann-Ni8uMjQzODQ4",
@@ -320,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T16:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMK/cms/episode-review.5/243848/vlcsnap-2026-11-16-00h02m34s121.png.jpg"
+      "image": null
     },
     {
       "id": "cr-YW5ub3VuY2Vk",
@@ -340,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T15:41:18.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO0/cms/news.10/243858/the-days-of-diamond-anime.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg0Ng",
@@ -350,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T15:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGI/cms/episode-review.5/243846/devils-crest-03.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -370,236 +600,6 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-16T15:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/cms/news.10/243855/image5.jpg"
-    },
-    {
-      "id": "cr-LXZvbC04MQ",
-      "title": "Crunchyroll News Puzzles Vol. 81: Universal Guidance and Messy Members",
-      "link": "https://crunchyroll.com/news/quizzes/2026/11/16/anime-crosswords-puzzles-vol-81",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-11-16T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "cr-cm8tY29sbGFi",
-      "title": "Fool Night Anime Shares Yomiko Horai Character Trailer, Gundam SEED FREEDOM ZERO Collab",
-      "link": "https://crunchyroll.com/news/latest/2026/11/16/fool-night-anime-yomiko-horai-character-trailer-gundam-seed-freedom-zero-collab",
-      "description": "All episodes of the sci-fi thriller debut on November 26",
-      "pubDate": "2026-11-16T14:57:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/6ac1c26bc6/fool-night-yomiko-horai-hero.png"
-    },
-    {
-      "id": "ann-Ni8uMjQzODM3",
-      "title": "Blue Box Season 2 ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/blue-box-season-2/episode-6/.243837",
-      "description": "Taiki and Chinatsu have hugged each other, everybody, and on Christmas Eve, no less. We can only pray that these crazy kids were smart enough to use contraceptives.",
-      "pubDate": "2026-11-16T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGK/cms/episode-review.5/243837/blue-box-s2-eps-6.png.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzg0MA",
-      "title": "34% of Developers in 2026 GDC Survey Were Laid Off in Last 2 Years",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/34-percent-of-developers-in-2026-gdc-survey-were-laid-off-in-last-2-years/.243840",
-      "description": "40% of game developers use generative AI, though 55% comment it has negative impact",
-      "pubDate": "2026-11-16T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLI/cms/news.8/220222/_as_fyo_400x400.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDMxNzI",
-      "title": "Nia Liston: The Merciless Maiden Volumes 1-4 Light Novel Series Review",
-      "link": "https://www.animenewsnetwork.com/review/nia-liston/the-merciless-maiden-volumes-1-4/light-novel-series/.243172",
-      "description": "An ancient warrior’s soul inhabits a small girl's dying body and brings her back to health. Now this four-year-old has a plan for power, and the world will tremble.",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/cms/review.2/243172/nia-liston-volume-4-cover-art.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM0NTM",
-      "title": "Anime News Network's Classic Shojosei Anime Wishlist",
-      "link": "https://www.animenewsnetwork.com/feature/2026-11-16/anime-news-network-classic-shojosei-anime-wishlist/.243453",
-      "description": "Manga shelves are bursting with great shojosei titles just waiting to be adapted. Our editorial staff has assembled a few of them here. Let's keep our fingers crossed that someday these will see the animated light of day!",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/feature/243453/montage-2.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDM4MTE",
-      "title": "This Week in Mobile Games - Dragon Quest, Finally an RPG",
-      "link": "https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-11-16/.243811",
-      "description": "A new Dragon Quest game that's...an RPG?! Will wonders never cease? Plus the continuing fallout from NIKKE's PC issues and a potential change to gacha games in Europe.",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/youtube/qO9QPcKDzX4.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM4MjE",
-      "title": "Manta Opens Creator's Alley, a Self-Publishing Space for Independent Creators",
-      "link": "https://www.animenewsnetwork.com/press-release/2026-11-16/manta-opens-creator-alley-a-self-publishing-space-for-independent-creators/.243821",
-      "description": "Global content platform Manta has now opened the Creator's Alley space for aspiring authors to bring their work to more readers, find new opportunities and build new fandoms.",
-      "pubDate": "2026-11-16T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Promoted",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/press-release.2/243821/manta-creators-alley-pr-2400x1180.jpg"
-    },
-    {
-      "id": "ann-Ny8uMjQzODQx",
-      "title": "Ranma ½ Season 3 ‒ Episode 7",
-      "link": "https://www.animenewsnetwork.com/review/ranma-season-3/episode-7/.243841",
-      "description": "With friends like Ranma and Ryoga, who the hell needs enemies?",
-      "pubDate": "2026-11-16T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAS/cms/episode-review.5/243841/ranma-7.6.png.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzg0Mw",
-      "title": "The Summer Hikaru Died Novels End With 3rd Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/the-summer-hikaru-died-novels-end-with-3rd-volume/.243843",
-      "description": "3rd volume ships on January 25",
-      "pubDate": "2026-11-16T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgyMA",
-      "title": "Romelia War Chronicle ‒ Episode 7",
-      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-7/.243820",
-      "description": "I love that Romelia War Chronicle is willing to treat its audience like adults who can actually handle a story with some complexity and ambiguity.",
-      "pubDate": "2026-11-16T12:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgzOA",
-      "title": "Märchen Crown Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/marchen-crown-manga-ends-in-next-chapter/.243838",
-      "description": "Series from Aka Akasaka, Aoi Kujira, Ajichika debuted in March 2025",
-      "pubDate": "2026-11-16T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-bi12aXN1YWw",
-      "title": "Are You a Landmine, Chihara-san? Anime Goes Bang with New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/16/are-you-a-landmine-chihara-san-anime-main-visual",
-      "description": "The rom-com series premieres on January 7",
-      "pubDate": "2026-11-16T10:52:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/04b5edb974/are-you-a-landmine-chihara-san.jpg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "Skip and Loafer Season 2 Anime Releases New Trailer, Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/16/skip-and-loafer-season-2-anime-trailer-key-visual-additional-cast",
-      "description": "Crunchyroll will stream the new season when it premieres in April 2027",
-      "pubDate": "2026-11-16T09:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/541e01c090/skip-and-loafer-season-2.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Skip to Loafer 2nd Season' Reveals Additional Cast Pair, First Promo",
-      "link": "https://myanimelist.net/news/74945973?_location=rss",
-      "description": "The official website for the Skip to Loafer (Skip and Loafer) television anime revealed an additional pair of cast, new key visual, and the first promotional video for the Season 2 on Monday. The second season adapting Misaki Takamatsu's coming-of-age manga will premiere in April 2027. Voice actresses Reina Ueda (Mao) and Yuuto Takenaka (Saijo no Osewa) are joining in the anime as Chieri Yasaka and Kiyohiko Ujiie, respectively. Kotomi Deai (Natsume Yuujinchou Go) is directing the anime at P...",
-      "pubDate": "2026-11-16T09:46:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794822374-1b94caf26ae2863aca7cf65712fa6cba.jpeg"
-    },
-    {
-      "id": "ann-by8uMjQzODUy",
-      "title": "Skip & Loafer Anime's 2nd Season Reveals More Cast in 1st Promo Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/skip-and-loafer-anime-2nd-season-reveals-more-cast-in-1st-promo-video/.243852",
-      "description": "Reina Ueda, Yuto Takenaka join cast for new season debuting in April 2027",
-      "pubDate": "2026-11-16T09:39:47.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzg1MA",
-      "title": "Wanpaku! Touken Ranbu TV Anime Debuts on January 6",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-16/wanpaku-touken-ranbu-tv-anime-debuts-on-january-6/.243850",
-      "description": "Main staff also revealed",
-      "pubDate": "2026-11-16T07:23:41.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Wanpaku! Touken Ranbu' Reveals Main Staff, Winter 2027 Premiere",
-      "link": "https://myanimelist.net/news/74945506?_location=rss",
-      "description": "The official website of the Wanpaku! Touken Ranbu television anime revealed the main staff and a teaser visual (pictured). The anime series, based on the character project designed and produced by Sanrio for the Touken Ranbu Online game, will premiere on January 6 at 9:54 p.m. on Tokyo MX. Staff Director: Gaku Kinoshita (Sumikko Gurashi) Script: Rieko Ebisu Art Director: Midori Shimada (Garden of Remembrance) Studio: Fanworks The original Touken Ranbu Online game has received adaptations in vari...",
-      "pubDate": "2026-11-16T05:26:52.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794806756-6075a10893d9a757fcf0d548513b666c.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzcxOA",
-      "title": "Scope Out the New VOTOMS Popcorn Bucket",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-15/scope-out-the-new-votoms-popcorn-bucket/.243718",
-      "description": "Even the new VOTOMS anime's voice actors Miyuki Sawashiro & Mabuki Ando enjoy it",
-      "pubDate": "2026-11-16T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "cr-ci12aXN1YWw",
-      "title": "Wanpaku! Touken Ranbu Anime Unveils January 6, 2027 Premiere Date, Teaser Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/16/wanpaku-touken-ranbu-anime-january-6-2027-premiere-date-teaser-visual",
-      "description": "Gaku Kinoshita (Sumikko Gurashi) serves as director",
-      "pubDate": "2026-11-16T04:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/fb0a1ac908/wanpaku-touken-ranbu-header.jpg"
-    },
-    {
-      "id": "ann-ZS8uMjQzODE5",
-      "title": "Black Witch Mirror Manga to End in 4th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/black-witch-mirror-manga-to-end-in-4th-volume/.243819",
-      "description": "Series debuted in October 2023",
-      "pubDate": "2026-11-16T03:59:58.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzgzMw",
-      "title": "Netflix Announces 'KPop Demon Hunters Golden World Tour' Dates",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-15/netflix-announces-kpop-demon-hunters-golden-world-tour-dates/.243833",
-      "description": "HUNTR/X: “4THEFANS!”",
-      "pubDate": "2026-11-16T03:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzODM2",
-      "title": "SPITZ Band's Drummer Tatsuo Sakiyama Seriously Injured in Traffic Accident",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-15/spitz-band-drummer-tatsuo-sakiyama-seriously-injured-in-traffic-accident/.243836",
-      "description": "Band's next TV appearances to use Sakiyama's pre-recorded performances during his hospitalization",
-      "pubDate": "2026-11-15T22:53:16.000Z",
-      "source": "Anime News Network",
-      "category": "Music",
       "image": null
     }
   ]
