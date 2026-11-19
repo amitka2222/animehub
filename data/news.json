@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-11-19T14:45:50.154Z",
+  "lastUpdated": "2026-11-19T23:56:49.038Z",
   "items": [
+    {
+      "id": "cr-Zy1pbi1sYQ",
+      "title": "GROTESQQQUE Anime Anthology Film Gets One-Week Screening in LA",
+      "link": "https://crunchyroll.com/news/latest/2026/11/19/grotesqqque-anime-anthology-film-gets-one-week-screening-in-la",
+      "description": "Screening to be held at the Alamo Drafthouse Cinema Downtown Los Angeles starting December 3",
+      "pubDate": "2026-11-19T23:09:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a5a99b2561/grotesqqque-main.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzk5NQ",
+      "title": "Criterion Channel Adds Speed Racer Anime",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/criterion-channel-adds-speed-racer-anime/.243995",
+      "description": "Anime streams in English/Japanese versions in December",
+      "pubDate": "2026-11-19T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIH/cms/news.7/210438/speed-racer.jpg"
+    },
+    {
+      "id": "ann-eS8uMjQzOTk3",
+      "title": "Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997",
+      "description": "Omnibus film with 3 stories screens at Alamo Drafthouse Cinema Downtown Los Angeles",
+      "pubDate": "2026-11-19T21:09:35.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/youtube/7ZPr9rqaRM0.jpg"
+    },
+    {
+      "id": "cr-ZS1tYW5nYQ",
+      "title": "Omoi Licenses Sho Asahina’s Tsuyo-Girl: Taking Charge Manga",
+      "link": "https://crunchyroll.com/news/latest/2026/11/19/omoi-licenses-sho-asahina-tsuyo-girl-taking-charge-manga",
+      "description": "Exclusive digital release set to launch in January 2027",
+      "pubDate": "2026-11-19T21:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/570f76acd3/omoi-logo.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzk4MQ",
+      "title": "Omoi Announces Digital Release of Shō Asahina's Tsuyo-Girl Manga in January",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/omoi-announces-digital-release-of-sho-asahina-tsuyo-girl-manga-in-january/.243981",
+      "description": "Romantic comedy manga launched in 2021",
+      "pubDate": "2026-11-19T21:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE0/cms/news.10/243981/tsuyo.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM5OTY",
+      "title": "This World is Worth Fighting For Manga Gets Live-Action Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/this-world-is-worth-fighting-for-manga-gets-live-action-series/.243996",
+      "description": "Series based on Hatsumi Kodama's Kono Yo wa Tatakau Kachi ga Aru manga debuts in January 2027",
+      "pubDate": "2026-11-19T20:35:15.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH3/cms/news.10/243996/this-world-is-worth-fighting-for.jpg"
+    },
+    {
+      "id": "ann-LjI0MzkzNA",
+      "title": "This Week in Anime - Satoshi Mizukami's Anime Adaptations Come Full Spirit Circle",
+      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-19/.243934",
+      "description": "Christopher and Jairus reflect on past anime based on the works of Satoshi Mizukami, from Lucifer and the Biscuit Hammer to Sengoku Youko, and why the upcoming Spirit Circle series is a big deal.",
+      "pubDate": "2026-11-19T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gN9/cms/this-week-in-anime/243934/biscuit-12.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM5OTQ",
+      "title": "hololive Shop Reports Customer Information Leak",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/hololive-shop-reports-customer-information-leak/.243994",
+      "description": "Unauthorized 3rd party gained access to outsourced product shipping company OPENLOGI Inc.",
+      "pubDate": "2026-11-19T19:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Industry",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI5/herald/203202/hololive-shop.png.jpg"
+    },
+    {
+      "id": "ann-by8uMjQzOTky",
+      "title": "Getbackers Manga Gets Comic Anime From AI Platform MangaNow Studio",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/getbackers-manga-gets-comic-anime-from-ai-platform-manganow-studio/.243992",
+      "description": "Comic anime based on 1999 manga debuts on YouTube on December 1",
+      "pubDate": "2026-11-19T18:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ4/youtube/fn25Ug7TzW0.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Charisma Anime Welcomes Terra in Latest Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/19/charisma-anime-terra-character-trailer",
+      "description": "The media mix adaptation premieres on January 7",
+      "pubDate": "2026-11-19T17:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/8e601929d3/charisma-terra.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Kaminaki Sekai no Kamisama Katsudou' Concludes with 14th Volume",
+      "link": "https://myanimelist.net/news/74958547?_location=rss",
+      "description": "Aoi Akashiro and Sonshou Hangetsuban's Kaminaki Sekai no Kamisama Katsudou (Working for God in a Godless World) manga ended its serialization on October 2. The 77th and final chapter marked the end of its seven-year run. The 14th and final volume is scheduled to be released on November 30. Akashiro began writing the fantasy manga illustrated by Hangetsuban in Monthly Hero's magazine in May 2019. Following the magazine's discontinuation in October 2020, the series moved to the Comi...",
+      "pubDate": "2026-11-19T17:17:34.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795108618-0d5825103394e00eb05b5d3f6316d1fb.png"
+    },
+    {
+      "id": "ann-dC8uMjQzNTMz",
+      "title": "Gachiakuta Dumpster Season 1 (Vol 1-10) Manga Box Set Review",
+      "link": "https://www.animenewsnetwork.com/review/gachiakuta-dumpster-season-1/manga-box-set/.243533",
+      "description": "For a shonen battle manga, Gachiakuta has some considered, deep, even challenging character work here.",
+      "pubDate": "2026-11-19T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gOX/cms/review.2/243533/gachiakuta-box-set-image-2.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzk5MQ",
+      "title": "Masanao Kawajiri's Cherry and Virgin Film Wins at Aichi Nagoya Int'l Animation Film Fest",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991",
+      "description": "2nd ANIAFF took place from November 13-18",
+      "pubDate": "2026-11-19T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.9/235427/cherryandvirgin.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Gensou Suikoden' Reveals Additional Cast",
+      "link": "https://myanimelist.net/news/74958379?_location=rss",
+      "description": "The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday. The anime series adapting Konami's fantasy role-playing game premiered on October 3 at 11.30 p.m. on Tokyo MX followed by Kansai TV, BS Asahi, and 32 other stations. Cast Makai: Ikuji Nose (Mob Psycho 100) Tai Ho: Masaki Ishimine Yam Koo: Hideyuki Kobayashi (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki) Ridley: Takaya Kuroda (Mairimashita! Iruma-kun) Gaboc...",
+      "pubDate": "2026-11-19T16:22:13.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795105280-ca33c40940e1d392001dfb15ef9ef3c9.jpeg"
+    },
+    {
+      "id": "cr-Zy1jb2xsYWI",
+      "title": "K-Pop Superstar TZUYU on DAN DA DAN, F1 Racing and Her New Original Song",
+      "link": "https://crunchyroll.com/news/interviews/2026/11/19/tzuyu-f1-racing-dan-da-dan-song-collab",
+      "description": "The song will debut early 2027",
+      "pubDate": "2026-11-19T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/ea64c5e7fd/tzuyu.JPG"
+    },
+    {
+      "id": "ann-LjI0Mzk5MA",
+      "title": "WIXOSS TCG to End New Production in February 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/wixoss-tcg-to-end-new-production-in-february-2027/.243990",
+      "description": "English releases ended last year",
+      "pubDate": "2026-11-19T16:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/cms/news.10/243990/wixoss.jpg"
+    },
     {
       "id": "ann-LjI0Mzk4OQ",
       "title": "Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Features Laocorn",
@@ -299,7 +459,7 @@
       "pubDate": "2026-11-18T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK1/cms/news.6/204603/hotta.jpeg"
+      "image": null
     },
     {
       "id": "ann-cy8uMjQzOTUx",
@@ -309,7 +469,7 @@
       "pubDate": "2026-11-18T20:01:00.000Z",
       "source": "Anime News Network",
       "category": "Industry",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFF/cms/news.10/243951/cdjapan.jpg"
+      "image": null
     },
     {
       "id": "ann-MS8uMjQzOTUw",
@@ -319,7 +479,7 @@
       "pubDate": "2026-11-18T19:00:00.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC1/cms/news.10/243950/hiromi-ota.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzk0OQ",
@@ -329,7 +489,7 @@
       "pubDate": "2026-11-18T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJK/cms/news.10/243949/sumikkogurashi-welcome-to-poka-poka-onsen.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM0NjU",
@@ -339,7 +499,7 @@
       "pubDate": "2026-11-18T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gY1/cms/review.2/243465/witchandmercenaryvol1.jpg"
+      "image": null
     },
     {
       "id": "ann-OC8uMjQzOTAy",
@@ -349,7 +509,7 @@
       "pubDate": "2026-11-18T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHF/cms/news.10/243902/inklore-ikokunikkiv1-3dmockup.jpg"
+      "image": null
     },
     {
       "id": "ann-Yi8uMjQzOTQ4",
@@ -359,7 +519,7 @@
       "pubDate": "2026-11-18T16:14:03.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/231727/blackcatwitch_kv2.jpg"
+      "image": null
     },
     {
       "id": "cr-eGNpdGVtZW50",
@@ -379,7 +539,7 @@
       "pubDate": "2026-11-18T15:47:20.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFO/youtube/c_BSOlzYNyE.jpg"
+      "image": null
     },
     {
       "id": "cr-cnktdmlzdWFs",
@@ -429,7 +589,7 @@
       "pubDate": "2026-11-18T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/interview/243504/edgoldfarb.jpg"
+      "image": null
     },
     {
       "id": "ann-dC8uMjQzOTQy",
@@ -439,167 +599,7 @@
       "pubDate": "2026-11-18T12:00:19.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/cms/news.10/243942/992.png.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei' Reveals Main Cast, Staff, 2027 Premiere",
-      "link": "https://myanimelist.net/news/74953973?_location=rss",
-      "description": "An official site opened for the television anime adaptation of Yuuji Yuuji's 99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (Kuku-Loop: The 100th Time's the Charm) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi Hasegawa (Tetsunabe no Jan!) and Kazuki Ura (Tougen Anki) are starri...",
-      "pubDate": "2026-11-18T11:26:53.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795001131-4a747b7a4d8ef2aa5768400f46bb666c.jpeg"
-    },
-    {
-      "id": "ann-eS8uMjQzOTQx",
-      "title": "Spice & Wolf: merchant meets the wise wolf Season 2 to Debut in January (Updated)",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-to-debut-in-january/.243941",
-      "description": "Season 2's key visual, character visuals also revealed",
-      "pubDate": "2026-11-18T11:06:37.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-LjI0MzkzOA",
-      "title": "New Votoms Anime Films Stream 1st 9 Minutes",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-18/new-votoms-anime-films-stream-1st-9-minutes/.243938",
-      "description": "1st film opens in Japan on Friday",
-      "pubDate": "2026-11-18T09:02:38.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzkzMw",
-      "title": "Identity V Game's Oha Suta Daigo Gakuen Short Anime Unveils More Cast, Staff, November 24 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-18/identity-v-game-oha-suta-daigo-gakuen-short-anime-unveils-more-cast-staff-november-24-debut/.243933",
-      "description": "Takehito Koyasu, Nobunaga Shimazaki, Yūichirō Umehara, Makoto Furukawa co-star",
-      "pubDate": "2026-11-18T07:20:06.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM4NTQ",
-      "title": "Frieren Joins Mahjong Soul Game for Limited-Time Crossover",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-17/frieren-joins-mahjong-soul-game-for-limited-time-crossover/.243854",
-      "description": "Frieren is taking another several years to learn the popular tile-based game",
-      "pubDate": "2026-11-18T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Isekai Munchkin' Reveals New Staff, Theme Songs, Second Promo",
-      "link": "https://myanimelist.net/news/74952442?_location=rss",
-      "description": "The official website for the television anime adaptation of Yuu Shimizu and Makoto Aogiri's Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku (Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP!) manga revealed additional cast, new staff, a second key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series will premiere on January 8 at 12:30 a.m. on Tokyo MX, followed by Me-Television and Gunma TV. Voice actor Yuuichi...",
-      "pubDate": "2026-11-18T04:58:59.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794977875-fbea98330b1d9f82b1f3a5a8e3695906.jpeg"
-    },
-    {
-      "id": "cr-aGVtZS1zb25n",
-      "title": "YAIBA: Samurai Legend Season 2 Anime Reveals Opening Theme Song, Gekko Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/yaiba-samurai-legend-season-2-anime-chico-with-honeyworks-opening-theme-song",
-      "description": "The reboot series returns next year",
-      "pubDate": "2026-11-18T03:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/95e9dc045b/yaiba-samurai-legend.jpg"
-    },
-    {
-      "id": "ann-LjI0MzkyNA",
-      "title": "Yaiba: Samurai Legend Season 2 Reveals Cast Member Yūma Uchida, Opening Song Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/yaiba-samurai-legend-season-2-reveals-cast-member-yuma-uchida-opening-song-artists/.243924",
-      "description": "Uchida plays Gekkō, CHiCO with HoneyWorks performs opening song \"CHASE!\"",
-      "pubDate": "2026-11-18T03:11:10.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZW1lLXNvbmdz",
-      "title": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! Anime Trailer Reveals Premiere Date, Theme Songs",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp-anime-january-7-2027-release-date-trailer-key-visual-theme-songs",
-      "description": "Crunchyroll will stream the isekai series when it airs",
-      "pubDate": "2026-11-18T03:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/373c686649/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM5MjE",
-      "title": "Otherworldly Munchkin Anime's New Video Reveals More Cast, Staff, Theme Songs, January 7 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921",
-      "description": "Yūichirō Umehara joins cast with some staff changes after delay of more than a year",
-      "pubDate": "2026-11-18T03:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzOTA3",
-      "title": "Archive of Our Own Site Reopens Following 'Security Incident'",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-17/archive-of-our-own-site-reopens-following-security-incident/.243907",
-      "description": "Staff: “Some features have been temporarily disabled to allow us to bring the site back earlier”",
-      "pubDate": "2026-11-18T02:45:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-YWItdmlkZW8",
-      "title": "Street Fighter 6 x Star Detective Precure! Collab Video Streamed",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/street-fighter-6-x-star-detective-precure-collab-video",
-      "description": "The four-part collab story will be available on December 17",
-      "pubDate": "2026-11-18T02:08:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/950b84cdac/street-fighter6-star-detective-precure-collab-video.jpg"
-    },
-    {
-      "id": "cr-Zy10cmFpbGVy",
-      "title": "Sakamoto Days Season 2 Anime Trailer Reveals Premiere Date, Creepy Nuts Opening Theme Song",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/sakamoto-days-season-2-anime-creepy-nuts-opening-theme-song-trailer",
-      "description": "The action comedy series returns on January 18",
-      "pubDate": "2026-11-18T02:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/f50d7daf90/sakamoto-days-season-2.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQzOTI1",
-      "title": "Sakamoto Days Season 2's Trailer Unveils More Cast, Opening Song, January 18 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/sakamoto-days-season-2-trailer-unveils-more-cast-opening-song-january-18-debut/.243925",
-      "description": "Kenyū Horiuchi, Kishō Taniyama join cast with Creepy Nuts performing opening song",
-      "pubDate": "2026-11-18T02:00:08.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Sakamoto Days 2nd Season' Unveils Additional Cast, Opening Theme, First Promo",
-      "link": "https://myanimelist.net/news/74951901?_location=rss",
-      "description": "The official website of the Sakamoto Days television anime unveiled a pair of additional cast, key visual (pictured), the opening theme, and first promotional video for the second season on Wednesday. The anime adapting Yuuto Suzuki's action comedy manga is scheduled to premiere on TV Tokyo and its affiliated networks on January 19, 2027, at 12:00 a.m. It will also air on BS TV Tokyo on January 25 at 12:40 a.m. The first episode will be available for advance streaming on Netflix. Voice acto...",
-      "pubDate": "2026-11-18T02:00:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794967162-fc6bd2956b9bbaaec9cd5704a3ac64a1.jpeg"
-    },
-    {
-      "id": "cr-Yy12aWRlbw",
-      "title": "Super Psychic Policeman Chojo Anime Shares \"Chinjuku Sentai Chinranger\" Lyric Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/super-psychic-policeman-chojo-anime-chinjuku-sentai-chinranger-lyric-video",
-      "description": "",
-      "pubDate": "2026-11-18T01:36:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6ebe2ff6f4/chinjuku-sentai-chinranger-lyric-video.png"
     }
   ]
 }
