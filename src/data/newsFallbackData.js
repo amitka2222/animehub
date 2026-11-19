@@ -1,7 +1,107 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-18T23:38:30.250Z",
+  "lastUpdated": "2026-11-19T04:40:43.939Z",
   "items": [
+    {
+      "id": "ann-LjI0Mzk0Mw",
+      "title": "Pac-Man's New Animated Short Reveals Return to Macy's Thanksgiving Parade",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-18/pac-man-new-animated-short-reveals-return-to-macy-thanksgiving-parade/.243943",
+      "description": "Hello Kitty, Goku, KPop Demon Hunters' Derpy & Sussie, Mario, Pikachu & Eevee also return",
+      "pubDate": "2026-11-19T04:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI8/youtube/WQk2ldDdBOc.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQzOTcw",
+      "title": "The Detective Is Already Dead Game Launches in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/the-detective-is-already-dead-game-launches-in-2027/.243970",
+      "description": "Taito develops game for Switch",
+      "pubDate": "2026-11-19T03:52:28.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.10/243970/tanmoshi-game.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM5NjA",
+      "title": "Live-Action  Leviathan Film Casts Shun Oguri, Ai Hashimoto",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/live-action-leviathan-film-casts-shun-oguri-ai-hashimoto/.243960",
+      "description": "Oguri, Hashimoto play teachers in survival game in February 11 film",
+      "pubDate": "2026-11-19T03:42:10.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/news.10/243960/hxapts8buaetdyu.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM5NTk",
+      "title": "Seven Seas Licenses 'I am Blue, in Pain, and Fragile,' Predator Witches Audiobooks",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/seven-seas-licenses-i-am-blue-in-pain-and-fragile-predator-witches-audiobooks/.243959",
+      "description": "Also in December: English audiobook of The Lucky Egg Game: Cai Dan You Xi danmei series",
+      "pubDate": "2026-11-19T03:35:18.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDI/cms/news.10/243959/predator-witches-ab-01-copy01-12-05-25.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Webtoon 'Not-Sew-Wicked Stepmom' Gets TV Anime",
+      "link": "https://myanimelist.net/news/74956781?_location=rss",
+      "description": "Publishing company Kakao Piccoma announced a television anime adaptation of Ilu and Moguraeng's Not-Sew-Wicked Stepmom webtoon on Thursday, revealing an announcement visual (pictured). The anime will premiere under the Japanese title Mamahaha dakedo Musume ga Kawaisugiru. Iru originally wrote the isekai villainess novel on the KakaoPage website from January 2019 to May 2019, with illustrations by Dinorex. The main story concluded with 186 chapters, followed by 24 side story chapters publish...",
+      "pubDate": "2026-11-19T03:27:11.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795058790-38f2224b90d9cc6cb752db4711f07c0a.jpeg"
+    },
+    {
+      "id": "cr-Yy12aWRlbw",
+      "title": "THE iDOLM@STER CINDERELLA GIRLS Releases 15th Anniversary Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/19/the-idolmaster-cinderella-girls-15th-anniversary-song-music-video",
+      "description": "The series' 15th anniversary concert will be held on November 28 and 29",
+      "pubDate": "2026-11-19T01:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/a5493e4447/the-idolmaster-cinderella-girls-hourglass-mv.jpg"
+    },
+    {
+      "id": "cr-bmNoeXJvbGw",
+      "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 to Stream on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/11/19/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-stream-crunchyroll",
+      "description": "The new season will premiere in January 2027",
+      "pubDate": "2026-11-19T01:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1766x994/cd01b8f1ae/spice-and-wolf-merchant-meets-the-wise-wolf-season-2.png"
+    },
+    {
+      "id": "ann-Ly4yNDM5MTk",
+      "title": "Blood Addict Manga Ends",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/blood-addict-manga-ends/.243919",
+      "description": "Series debuted in April 2025",
+      "pubDate": "2026-11-19T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gCD/cms/news.10/243919/81flpijs2hl.sl1500.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzk0MA",
+      "title": "Sesuji's About a Pilgrimage to the Defiled Sacred Grounds Novel Gets Live-Action Film in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/sesuji-about-a-pilgrimage-to-the-defiled-sacred-grounds-novel-gets-live-action-film-in-2027/.243940",
+      "description": "Horror novel launched in 2024",
+      "pubDate": "2026-11-19T01:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRF/cms/news.10/243940/about.jpg"
+    },
+    {
+      "id": "ann-LjI0MzkxOA",
+      "title": "K Manga Adds Godmother Manga",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
+      "description": "Series from Young Magazine US launches in Monthly Young Magazine on Wednesday",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSC/cms/news.10/243918/hxuxze4aqaa3sfj.jpg"
+    },
     {
       "id": "ann-LjI0Mzk1OA",
       "title": "Hiromasa Okujima Announces 1st Original Boys-Love Manga",
@@ -186,7 +286,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "mal-YXRpb249cnNz",
       "title": "'99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei' Reveals Main Cast, Staff, 2027 Premiere",
       "link": "https://myanimelist.net/news/74953973?_location=rss",
-      "description": "An official site opened for the television anime adaptation of Yuuji Yuuji's 99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (Kuku-Loop: The 100th Time&rsquo;s the Charm) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi Hasegawa (Tetsunabe no Jan!) and Kazuki Ura (Tougen Anki) are starr...",
+      "description": "An official site opened for the television anime adaptation of Yuuji Yuuji's 99-kai Danzai sareta Loop Reijou desu ga Konse wa \"Chouzetsu Aisare Mode\" desu tte!? Shin no Chikara ni Mezamete Hajimaru 100-kaime no Jinsei (Kuku-Loop: The 100th Time's the Charm) light novel on Wednesday, revealing the main cast, staff, and a teaser visual (pictured). The anime is scheduled to premiere in 2027. Voice actors Ikumi Hasegawa (Tetsunabe no Jan!) and Kazuki Ura (Tougen Anki) are starri...",
       "pubDate": "2026-11-18T11:26:53.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -201,16 +301,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBJ/cms/news.10/243941/spice.jpg"
-    },
-    {
-      "id": "cr-ZXktdmlzdWFs",
-      "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Season 2 Reveals January 2027 Premiere",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-january-2027-premiere-key-visual",
-      "description": "A new key visual was also unveiled for fantasy series",
-      "pubDate": "2026-11-18T10:11:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1766x995/e183edfd6c/spice-and-wolf-merchant-meets-the-wise-wolf-season-2.png"
     },
     {
       "id": "ann-LjI0MzkzOA",
@@ -326,7 +416,7 @@ export const INITIAL_NEWS_DATA = {
       "id": "ann-dC8uMjQzOTI1",
       "title": "Sakamoto Days Season 2's Trailer Unveils More Cast, Opening Song, January 18 Debut",
       "link": "https://www.animenewsnetwork.com/news/2026-11-17/sakamoto-days-season-2-trailer-unveils-more-cast-opening-song-january-18-debut/.243925",
-      "description": "Kenyū Horiuchi, Kish�� Taniyama join cast with Creepy Nuts performing opening song",
+      "description": "Kenyū Horiuchi, Kishō Taniyama join cast with Creepy Nuts performing opening song",
       "pubDate": "2026-11-18T02:00:08.000Z",
       "source": "Anime News Network",
       "category": "Anime",
@@ -410,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gTH/cms/news.10/243882/81b4dcz7lal.sl1500.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg4MQ",
@@ -420,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO8/cms/news.10/243881/61z-pvg0dzl.sl1000.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzODIy",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/episode-review.5/243822/black-clover-s2-e7.png.jpg"
+      "image": null
     },
     {
       "id": "ann-bi8uMjQzODg2",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/feature/243886/attack-on-titan-3-pv1.png.jpg"
+      "image": null
     },
     {
       "id": "cr-bmF0aW9ucw",
@@ -460,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T20:00:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.9/240969/battle-spirits.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM4NDI",
@@ -470,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/episode-review.5/243842/overgeared.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LS8uMjQzOTE3",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-17T19:17:32.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIJ/youtube/BwvGi1tz-rE.jpg"
+      "image": null
     },
     {
       "id": "cr-ZS03LXJlY2Fw",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Games",
       "image": null
-    },
-    {
-      "id": "ann-LjI0Mzg5MQ",
-      "title": "Psyren ‒ Episode 6",
-      "link": "https://www.animenewsnetwork.com/review/psyren/episode-6/.243891",
-      "description": "Whatever passion went into this adaptation isn't coming through in the end product, and all we have is a show that feels like it's going through the motions.",
-      "pubDate": "2026-11-17T17:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzkwOQ",
-      "title": "Maki Terashima-Furuta Joins ASIFA-Hollywood's Board of Directors Ahead of 54th Annie Awards' New Anime Category",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/maki-terashima-furuta-joins-asifa-hollywood-board-of-directors-ahead-of-54th-annie-awards-new-anime-/.243909",
-      "description": "Maki Terashima-Furuta serves as Production I.G. USA's President",
-      "pubDate": "2026-11-17T17:01:57.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0MzMxMA",
-      "title": "MAO Episodes 15-26 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/mao-episodes-15-26-anime-series/.243310",
-      "description": "For better or worse, this anime is nothing but setup, which makes it hard to recommend to anyone not interested in using it as a springboard into the manga.",
-      "pubDate": "2026-11-17T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "The Fable Season 2 Anime Prepares for the Holidays with New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/17/the-fable-season-2-anime-christmas-visual",
-      "description": "Second season adapting Katsuhisa Minami’s manga kicks off January 9",
-      "pubDate": "2026-11-17T16:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/22eee2b4e0/the-fable.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzg5NA",
-      "title": "Firefly Wedding ‒ Episodes 5-6",
-      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episodes-5-6/.243894",
-      "description": "If the characters were transplanted into modern-day, Satoko would be the new girl and Shinpei the handsome, untouchable popular boy.",
-      "pubDate": "2026-11-17T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-cy1jb2xsYWI",
-      "title": "Pokémon and BOSS Welcome Back Alien Jones for Ongoing Collab",
-      "link": "https://crunchyroll.com/news/latest/2026/11/17/pokemon-boss-coffee-alien-tommy-lee-jones-collab",
-      "description": "The collaboration celebrates the 30th anniversary of Pokémon",
-      "pubDate": "2026-11-17T16:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/62df2b9172/alien-jones-pikachu-hero.png"
-    },
-    {
-      "id": "ann-LjI0MzkwOA",
-      "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908",
-      "description": "Kurabayashi worked on Tetris 99, Pac-Man 99, Street Fighter EX games",
-      "pubDate": "2026-11-17T16:00:20.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzg1MQ",
-      "title": "This Week in Anime - Five Star Sordid",
-      "link": "https://www.animenewsnetwork.com/this-week-in-anime/2026-11-17/.243851",
-      "description": "Fans were in a fervor last week after it was discovered that the Five Star Stories manga release may be connected to a controversial scanlator. Lucas and Sylvia dive into the twisting history behind the allegations and why it's taken so long to read the series in English.",
-      "pubDate": "2026-11-17T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Light Novel 'Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka' Concludes with 8th Volume",
-      "link": "https://myanimelist.net/news/74950128?_location=rss",
-      "description": "The official X account for author Nana Ootori announced on Tuesday that the Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (May I Ask for One Final Thing?) light novel series will end with its eighth volume, scheduled to be released on December 1. Ootori began penning the action romcom novel on the Shousetsuka ni Narou website in April 2018. AlphaPolis began publishing the novel under its Regina Books imprint with illustrations by Satsuki in August 2018 and published the seventh volume...",
-      "pubDate": "2026-11-17T15:21:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1794928805-5f872ec5a02d923f8d64f77ff7c73881.jpeg"
     }
   ]
 };
