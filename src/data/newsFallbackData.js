@@ -1,7 +1,87 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-19T23:56:49.038Z",
+  "lastUpdated": "2026-11-20T04:55:59.383Z",
   "items": [
+    {
+      "id": "cr-cmUtZGF0ZQ",
+      "title": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked Anime Announces January 1, 2027 Premiere, New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/20/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-january-1-2027-premiere-date",
+      "description": "The story is set in a world suddenly overrun with zombies",
+      "pubDate": "2026-11-20T04:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/1e7d6a9b9c/in-a-world-full-of-zombies.png"
+    },
+    {
+      "id": "ann-Ly4yNDQwMDc",
+      "title": "'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007",
+      "description": "Mitsuki Kuribayashi, Risae Matsuda, Sarah Emi Bridcutt, Seigo Yokota, Shuhei Matsuda, 2 more join cast",
+      "pubDate": "2026-11-20T03:58:04.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/news.10/242682/zombie-kv.jpg"
+    },
+    {
+      "id": "ann-LjI0NDAwNg",
+      "title": "Live-Action Fukakōryoku no I Love You Film Casts M!LK Idol Shunta Sono",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-19/live-action-fukakoryoku-no-i-love-you-film-casts-m-lk-idol-shunta-sono/.244006",
+      "description": "Idol group member plays Saku's childhood friend Rentarō Akizuki in March 2027 film",
+      "pubDate": "2026-11-20T03:42:28.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/news.10/244006/shuntasono.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Additional Cast for 'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Announced",
+      "link": "https://myanimelist.net/news/74960147?_location=rss",
+      "description": "The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) television anime announced seven additional cast members on Friday. The anime series adapting Rokuro Uraji's supernaturalhorror light novel is scheduled to premiere on January 2 at 1:00 a.m. on AT-X. Cast Takashi Fujino: Mitsuki Kuribayashi Masaru Fujino: Risae Matsuda (Cheat Kusushi no Slow Life) Kiriko Ogura: Sarah Emi Bridcutt (Shi...",
+      "pubDate": "2026-11-20T03:38:17.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795145844-b7169808d19a53f1d1c4a671fe1bc94a.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQzOTg4",
+      "title": "Star Detective Precure's Cure Answer Poses as Street Fighter 6 Characters",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-19/star-detective-precure-cure-answer-poses-as-street-fighter-6-characters/.243988",
+      "description": "Cure Answer poses as Luke, Jamie, Guile, Ken, Dhalism, Dee Jay, Marisa, Cammy, Akuma, Alex, Ingrid",
+      "pubDate": "2026-11-20T02:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/youtube/DYAh1kLR8lg.jpg"
+    },
+    {
+      "id": "cr-cm9ja2V0cw",
+      "title": "Kisida Kyodan & The Akebosi Rockets Releases A Certain Dark Item Anime Ending Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/20/a-certain-dark-item-anime-ending-song-music-video-kisida-kyodan-the-akebosi-rockets",
+      "description": "The J.C.Staff-animated series currently available on Crunchyroll",
+      "pubDate": "2026-11-20T01:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/19e823059f/kisida-kyodan-the-akebosi-rockets-meltdowner-mv.jpg"
+    },
+    {
+      "id": "cr-bmNoeXJvbGw",
+      "title": "My Hero Academia: World Heroes' Mission Anime Movie Now Streaming on Crunchyroll",
+      "link": "https://crunchyroll.com/news/announcements/2026/11/20/my-hero-academia-world-heroes-mission-anime-movie-streaming-crunchyroll",
+      "description": "The movie was originally released in Japan on August 6, 2021",
+      "pubDate": "2026-11-20T01:02:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Announcements",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/ca65aef247/my-hero-academia-world-heroes-mission-deku.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Wandance Live-Action Movie Releases Manga Collaboration Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/20/wandance-live-action-movie-manga-collab-trailer",
+      "description": "The adaptation releases in Japan on November 27",
+      "pubDate": "2026-11-20T00:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/9cc11ba636/wandance-live-action-manga-collab-trailer.jpg"
+    },
     {
       "id": "cr-Zy1pbi1sYQ",
       "title": "GROTESQQQUE Anime Anthology Film Gets One-Week Screening in LA",
@@ -430,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-18T23:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/243958/hxzzsvyaqaabmmp.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM5NTc",
@@ -440,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-18T22:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/cms/news.9/240533/duelmastersgt3.jpg"
+      "image": null
     },
     {
       "id": "ann-Ny8uMjQzOTQ2",
@@ -450,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-18T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/episode-review.5/243946/ss-2026-11-15-08-34-57-268.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM5NTY",
@@ -518,86 +598,6 @@ export const INITIAL_NEWS_DATA = {
       "link": "https://www.animenewsnetwork.com/news/2026-11-18/the-classroom-of-a-black-cat-and-a-witch-anime-gets-english-dub/.243948",
       "description": "Crunchyroll streams dub for series that debuted on April 12",
       "pubDate": "2026-11-18T16:14:03.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-eGNpdGVtZW50",
-      "title": "Get Ready for Satoshi Mizukami’s Stunning Spirit Circle!",
-      "link": "https://crunchyroll.com/news/features/2026/11/18/spirit-circle-anime-adaptation-excitement",
-      "description": "Spirit Circle getting an anime adaptation is a huge win",
-      "pubDate": "2026-11-18T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/64c7692916/spirit-circle.jpg"
-    },
-    {
-      "id": "ann-LjI0Mzk0Nw",
-      "title": "Pero Pero★Sparkles Anime's Promo Video Reveals January 10 Premiere",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-18/pero-pero-sparkles-anime-promo-video-reveals-january-10-premiere/.243947",
-      "description": "Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star in anime of Yurie Sekiya's characters",
-      "pubDate": "2026-11-18T15:47:20.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-cnktdmlzdWFs",
-      "title": "Inu x Boku Secret Service Anime Celebrates 15th Anniversary with New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/inu-x-boku-secret-service-anime-15th-anniversary-visual",
-      "description": "Viewers in Japan can rewatch the entire 12-episode series",
-      "pubDate": "2026-11-18T15:19:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0d84ff5b49/inu-x-boku-hero.png"
-    },
-    {
-      "id": "cr-aWVyZS1kYXRl",
-      "title": "Peropero Sparkles Anime Premieres on January 10",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/peropero-sparkles-anime-premiere-date",
-      "description": "Teaser trailer published for series based on mascot characters created by Yurie Sekiya",
-      "pubDate": "2026-11-18T14:44:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/88f1067b49/peropero_sparkles_header3.jpg"
-    },
-    {
-      "id": "cr-dC12aXN1YWw",
-      "title": "KUKU-LOOP: The 100th Time’s the Charm TV Anime Debuts in 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/kuku-loop-the-100th-times-the-charm-anime-2027-premiere-main-staff-cast-visual",
-      "description": "Main staff, cast and teaser image revealed for upcoming light novel adaptation",
-      "pubDate": "2026-11-18T14:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/db6877f44a/the-100th-time-s-the-charm-teaser-header.jpg"
-    },
-    {
-      "id": "cr-Zi1mb290YWdl",
-      "title": "Armored Trooper VOTOMS: Die Graue Hexe Anime Film Shares 9 Minutes of Footage",
-      "link": "https://crunchyroll.com/news/latest/2026/11/18/armored-trooper-votoms-die-graue-hexe-anime-film-shares-9-minutes-of-footage",
-      "description": "First part of 2-part movie begins screening in Japan on November 20",
-      "pubDate": "2026-11-18T14:17:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x537/2e27363e24/votoms-movie-9m.jpg"
-    },
-    {
-      "id": "ann-Yy8uMjQzNTA0",
-      "title": "How Ed Goldfarb Brings Regional Authenticity to Pokémon Music",
-      "link": "https://www.animenewsnetwork.com/interview/2026-11-18/how-ed-goldfarb-brings-regional-authenticity-to-pokemon-music/.243504",
-      "description": "To prepare for his audition, Goldfarb wrote a specific musical motif for every single Pokémon that popped up on the screen, scoring every bit of the action.",
-      "pubDate": "2026-11-18T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzOTQy",
-      "title": "KuKu-Loop: The 100th Time's the Charm Anime Reveals Main Cast, Staff, 2027 TV Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-18/kuku-loop-the-100th-time-the-charm-anime-reveals-main-cast-staff-2027-tv-debut/.243942",
-      "description": "Ikumi Hasegawa, Kazuki Ura star in XINGFU anime",
-      "pubDate": "2026-11-18T12:00:19.000Z",
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
