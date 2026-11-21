@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-21T13:46:54.065Z",
+  "lastUpdated": "2026-11-21T22:29:36.625Z",
   "items": [
+    {
+      "id": "ann-Ly4yNDMwNTQ",
+      "title": "Angel Next Door Spoils Me Rotten Season 2 Anime Series Review",
+      "link": "https://www.animenewsnetwork.com/review/angel-next-door-spoils-me-rotten/season-2/.243054",
+      "description": "I regret to inform you that, as it turns out, the first season is only the shaky preamble to the cacophonous chronicle of courtship that is its second season.",
+      "pubDate": "2026-11-21T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g1E/cms/review.2/243054/angelnextdoors2full.jpg"
+    },
+    {
+      "id": "cr-bW1lcmNpYWw",
+      "title": "MAPPA, Men's Hair Care Brand MARO17 Reunite for 4th Collab Commercial",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/mappa-maro17-mens-hair-care-4th-commercial",
+      "description": "Two new characters join the popular anime ad",
+      "pubDate": "2026-11-21T16:50:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/6c4759726b/mappa-maro17-ad-2026.png"
+    },
+    {
+      "id": "cr-YW5kLWFyYw",
+      "title": "A Tale of the Secret Saint Anime Reveals New Key Art for Sutherland Arc",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/a-tale-of-the-secret-saint-anime-new-key-art-sutherland-arc",
+      "description": "Crunchyroll is currently streaming the anime series as it airs",
+      "pubDate": "2026-11-21T16:32:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6c4be03516/a_tale_of_the_secret_saint_header.jpg"
+    },
+    {
+      "id": "ann-Ni8uMjQ0MDU5",
+      "title": "The Apothecary Diaries Season 3 ‒ Episode 56",
+      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-56/.244059",
+      "description": "As Shakespeare said in Henry IV Part Two, “uneasy is the head that wears a crown.”",
+      "pubDate": "2026-11-21T16:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/episode-review.5/244059/apothecary-56.png.jpg"
+    },
+    {
+      "id": "cr-bW1lcmNpYWw",
+      "title": "Witch on the Holy Night Anime Film Reveals 3rd Key Visual, TV Commercial",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/witch-on-the-holy-night-anime-film-3rd-key-visual-tv-commercial",
+      "description": "Witch on the Holy Night will release worldwide in January 2027",
+      "pubDate": "2026-11-21T16:21:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x544/91c8487e12/witch_on_the_holy_night_header3.jpg"
+    },
+    {
+      "id": "ann-MC8uMjQ0MDU4",
+      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 10",
+      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-10/.244058",
+      "description": "This episode punches up many of the ideas that made the original Dio one of the most iconic villains in anime, and it's so much fun to see Araki’s original ideas explored again.",
+      "pubDate": "2026-11-21T15:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/episode-review.5/244058/sbr-ep-10-review-image.jpg"
+    },
+    {
+      "id": "ann-LjI0NDA0Mw",
+      "title": "New Hana-Kimi Live-Action Series Reveals Theme Songs, Short Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-21/new-hana-kimi-live-action-series-reveals-theme-songs-short-video/.244043",
+      "description": "CIRRA, Ryugujo perform themes for series debuting on December 5",
+      "pubDate": "2026-11-21T15:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMA/cms/news.10/244043/hana-kimi-visual.jfif.jpeg"
+    },
+    {
+      "id": "ann-LjI0NDA1Nw",
+      "title": "Magic Knight Rayearth ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-7/.244057",
+      "description": "The mental image of someone having to fill out an I-9 form to work for Zagato is hilarious.",
+      "pubDate": "2026-11-21T14:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJO/cms/episode-review.5/244057/rayearth-2.jpg"
+    },
+    {
+      "id": "ann-NS8uMjQ0MDEz",
+      "title": "Japan's Video Game Rankings, November 9-15",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-21/japan-video-game-rankings-november-9-15/.244013",
+      "description": "The Legend of Zelda: Ocarina of Time remake stays at #1 for 2nd week",
+      "pubDate": "2026-11-21T14:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/cms/news.10/244013/zelda.jpg"
+    },
     {
       "id": "ann-Mi8uMjQ0MDM2",
       "title": "The Ramparts of Ice Season 2 ‒ Episode 22",
@@ -410,7 +500,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/episode-review.5/243966/world-s-strongest-witch-ep-7-review-image.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQwMDU",
@@ -420,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/seasonal/233013/smile.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDAwMg",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP3/cms/news.10/244002/junikuojisan.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQwMjI",
@@ -440,7 +530,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T11:00:02.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKE/youtube/pLuS4_5FziQ.jpg"
+      "image": null
     },
     {
       "id": "ann-ZS8uMjQ0MDIw",
@@ -450,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T10:07:10.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL3/cms/news.10/244020/ijihaji-tv.jpg"
+      "image": null
     },
     {
       "id": "cr-Zm9yLTIwMjc",
@@ -480,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T09:16:57.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI2/cms/news.10/244017/landmine-stage-kv.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "ann-Ny8uMjQ0MDE4",
-      "title": "2nd New Armored Trooper Votoms Anime Film to Open in 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/2nd-new-armored-trooper-votoms-anime-film-to-open-in-2027/.244018",
-      "description": "Teaser visual revealed for 2nd film; 1st film opened on Friday",
-      "pubDate": "2026-11-20T08:34:46.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-dC8uMjQzOTg3",
-      "title": "Pokémon Joins Duolingo for 'Duo's Pokémon Party' Event",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-19/pokemon-joins-duolingo-for-duo-pokemon-party-event/.243987",
-      "description": "And maybe learn Pokémon speak while you're at it",
-      "pubDate": "2026-11-20T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-cmUtZGF0ZQ",
-      "title": "In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked Anime Announces January 1, 2027 Premiere, New Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-january-1-2027-premiere-date",
-      "description": "The story is set in a world suddenly overrun with zombies",
-      "pubDate": "2026-11-20T04:30:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/1e7d6a9b9c/in-a-world-full-of-zombies.png"
-    },
-    {
-      "id": "ann-Ly4yNDQwMDc",
-      "title": "'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007",
-      "description": "Mitsuki Kuribayashi, Risae Matsuda, Sarah Emi Bridcutt, Seigo Yokota, Shuhei Matsuda, 2 more join cast",
-      "pubDate": "2026-11-20T03:58:04.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDAwNg",
-      "title": "Live-Action Fukakōryoku no I Love You Film Casts M!LK Idol Shunta Sono",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-19/live-action-fukakoryoku-no-i-love-you-film-casts-m-lk-idol-shunta-sono/.244006",
-      "description": "Idol group member plays Saku's childhood friend Rentarō Akizuki in March 2027 film",
-      "pubDate": "2026-11-20T03:42:28.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Additional Cast for 'Zombie no Afureta Sekai de Ore dake ga Osowarenai' Announced",
-      "link": "https://myanimelist.net/news/74960147?_location=rss",
-      "description": "The official website of the Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I'm the Only One Who Doesn't Get Attacked) television anime announced seven additional cast members on Friday. The anime series adapting Rokuro Uraji's supernaturalhorror light novel is scheduled to premiere on January 2 at 1:00 a.m. on AT-X. Cast Takashi Fujino: Mitsuki Kuribayashi Masaru Fujino: Risae Matsuda (Cheat Kusushi no Slow Life) Kiriko Ogura: Sarah Emi Bridcutt (Shi...",
-      "pubDate": "2026-11-20T03:38:17.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795145844-b7169808d19a53f1d1c4a671fe1bc94a.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQzOTg4",
-      "title": "Star Detective Precure's Cure Answer Poses as Street Fighter 6 Characters",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-19/star-detective-precure-cure-answer-poses-as-street-fighter-6-characters/.243988",
-      "description": "Cure Answer poses as Luke, Jamie, Guile, Ken, Dhalism, Dee Jay, Marisa, Cammy, Akuma, Alex, Ingrid",
-      "pubDate": "2026-11-20T02:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "cr-cm9ja2V0cw",
-      "title": "Kisida Kyodan & The Akebosi Rockets Releases A Certain Dark Item Anime Ending Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/a-certain-dark-item-anime-ending-song-music-video-kisida-kyodan-the-akebosi-rockets",
-      "description": "The J.C.Staff-animated series currently available on Crunchyroll",
-      "pubDate": "2026-11-20T01:45:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/19e823059f/kisida-kyodan-the-akebosi-rockets-meltdowner-mv.jpg"
-    },
-    {
-      "id": "cr-bmNoeXJvbGw",
-      "title": "My Hero Academia: World Heroes' Mission Anime Movie Now Streaming on Crunchyroll",
-      "link": "https://crunchyroll.com/news/announcements/2026/11/20/my-hero-academia-world-heroes-mission-anime-movie-streaming-crunchyroll",
-      "description": "The movie was originally released in Japan on August 6, 2021",
-      "pubDate": "2026-11-20T01:02:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Announcements",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/ca65aef247/my-hero-academia-world-heroes-mission-deku.jpg"
     }
   ]
 };
