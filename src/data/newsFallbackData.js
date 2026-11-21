@@ -1,7 +1,57 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-20T23:26:11.031Z",
+  "lastUpdated": "2026-11-21T04:25:39.929Z",
   "items": [
+    {
+      "id": "ann-cy8uMjQ0MDI4",
+      "title": "Uniqlo Unfurls New Studio Ghibli T-Shirts",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-20/uniqlo-unfurls-new-studio-ghibli-t-shirts/.244028",
+      "description": "Show off your Ghibli love with the new collection",
+      "pubDate": "2026-11-21T04:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/herald/203242/usgoods-493591-sub6-3x4.jpg.jpg"
+    },
+    {
+      "id": "cr-cGVhcmFuY2U",
+      "title": "Godzilla Minus Zero Film Confirms Hideaki Anno's Cameo Appearance",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/godzilla-minus-zero-film-hideaki-anno-cameo-appearance",
+      "description": "The 31st Japanese Godzilla film has earned over 15 billion yen worldwide",
+      "pubDate": "2026-11-21T02:13:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/b60cf9b1a1/godzilla-minus-zero-hideaki-anno.jpg"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "New BanG Dream! Yume∞Mita Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/bang-dream-yume-mita-new-anime-announced",
+      "description": "Mugendai Mewtype plans a tour in Japan starting in January 2027",
+      "pubDate": "2026-11-21T01:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e5515fb9e2/bang-dream-yume-mita-header.jpg"
+    },
+    {
+      "id": "cr-YW5ub3VuY2Vk",
+      "title": "Duel Masters LOST ~Shitsuraku no Duel~ Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/duel-masters-lost-shitsuraku-no-duel-anime-announced",
+      "description": "The series' fifth part is now in production",
+      "pubDate": "2026-11-21T01:20:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1200x675/b505bb6351/duel-masters-lost-shitsuraku-no-duel.jpg"
+    },
+    {
+      "id": "cr-aWNlLWNhc3Q",
+      "title": "Doraemon: Nobita's Steam-Powered Time Machine Anime Film Announces 5 New Voice Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/21/doraemon-nobitas-steam-powered-time-machine-anime-film-new-voice-cast",
+      "description": "The 46th Doraemon film releases in Japan on March 5, 2027",
+      "pubDate": "2026-11-21T00:40:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/beaf7a6170/doraemon-nobita-steam-powered-time-machine-header.png"
+    },
     {
       "id": "ann-Ly4yNDM4Nzk",
       "title": "North American Anime, Manga Releases, November 15-21",
@@ -20,7 +70,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T20:58:32.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/youtube/iKO9zX_4x6k.jpg"
     },
     {
       "id": "ann-LjI0NDAzNQ",
@@ -30,7 +80,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T19:57:31.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD6/cms/news.10/244035/oshi-no-ko-etude-for-two-cnf.jpg"
     },
     {
       "id": "ann-Ly4yNDQwMjQ",
@@ -40,7 +90,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.10/242320/chiruran-shinsengumi-requiem-1-vol1-2-3-cover.jpg"
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -60,7 +110,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": null
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/review.2/243215/overgeared-4.jpg"
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -210,7 +260,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.10/242644/gundam-seed-freedom-zero.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg0NQ",
@@ -220,7 +270,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/cms/feature/243845/screenshot-2026-10-25-215956.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDAwOQ",
@@ -230,7 +280,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T14:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE9/cms/review.2/244009/witch-on-the-holy-night.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM5NjY",
@@ -240,7 +290,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T13:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/episode-review.5/243966/world-s-strongest-witch-ep-7-review-image.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQwMDU",
@@ -250,7 +300,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T13:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gV5/cms/seasonal/233013/smile.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDAwMg",
@@ -260,7 +310,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gP3/cms/news.10/244002/junikuojisan.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQwMjI",
@@ -490,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-19T21:00:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE0/cms/news.10/243981/tsuyo.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM5OTY",
@@ -551,56 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795108618-0d5825103394e00eb05b5d3f6316d1fb.png"
-    },
-    {
-      "id": "ann-dC8uMjQzNTMz",
-      "title": "Gachiakuta Dumpster Season 1 (Vol 1-10) Manga Box Set Review",
-      "link": "https://www.animenewsnetwork.com/review/gachiakuta-dumpster-season-1/manga-box-set/.243533",
-      "description": "For a shonen battle manga, Gachiakuta has some considered, deep, even challenging character work here.",
-      "pubDate": "2026-11-19T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzk5MQ",
-      "title": "Masanao Kawajiri's Cherry and Virgin Film Wins at Aichi Nagoya Int'l Animation Film Fest",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-19/masanao-kawajiri-cherry-and-virgin-film-wins-at-aichi-nagoya-intl-animation-film-fest/.243991",
-      "description": "2nd ANIAFF took place from November 13-18",
-      "pubDate": "2026-11-19T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Gensou Suikoden' Reveals Additional Cast",
-      "link": "https://myanimelist.net/news/74958379?_location=rss",
-      "description": "The official website of Gensou Suikoden (Suikoden: The Anime) revealed additional cast on Wednesday. The anime series adapting Konami's fantasy role-playing game premiered on October 3 at 11.30 p.m. on Tokyo MX followed by Kansai TV, BS Asahi, and 32 other stations. Cast Makai: Ikuji Nose (Mob Psycho 100) Tai Ho: Masaki Ishimine Yam Koo: Hideyuki Kobayashi (Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki) Ridley: Takaya Kuroda (Mairimashita! Iruma-kun) Gaboc...",
-      "pubDate": "2026-11-19T16:22:13.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795105280-ca33c40940e1d392001dfb15ef9ef3c9.jpeg"
-    },
-    {
-      "id": "cr-Zy1jb2xsYWI",
-      "title": "K-Pop Superstar TZUYU on DAN DA DAN, F1 Racing and Her New Original Song",
-      "link": "https://crunchyroll.com/news/interviews/2026/11/19/tzuyu-f1-racing-dan-da-dan-song-collab",
-      "description": "The song will debut early 2027",
-      "pubDate": "2026-11-19T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Interviews",
-      "image": "https://a.storyblok.com/f/178900/960x540/ea64c5e7fd/tzuyu.JPG"
-    },
-    {
-      "id": "ann-LjI0Mzk5MA",
-      "title": "WIXOSS TCG to End New Production in February 2027",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-19/wixoss-tcg-to-end-new-production-in-february-2027/.243990",
-      "description": "English releases ended last year",
-      "pubDate": "2026-11-19T16:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
     }
   ]
 };

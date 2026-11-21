@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T23:26:18.302Z",
+  "lastUpdated": "2026-11-21T04:25:43.172Z",
   "topWeekly": [
     {
       "mal_id": "12",
@@ -37,7 +37,7 @@
       "titles": {
         "en": "Detective Conan",
         "en_jp": "Meitantei Conan",
-        "ja_jp": "名探偵コナン"
+        "ja_jp": "名探偵���ナン"
       },
       "url": "https://kitsu.io/anime/detective-conan",
       "poster": "https://media.kitsu.app/anime/poster_images/210/large.jpg",
@@ -223,7 +223,7 @@
         }
       },
       "synopsis": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Spanning around 4,000 miles, the race offered 50 million dollars as the winning prize.\n\nJohnny Joestar, once hailed as a genius jockey, is now paralysed and lost in despair.\n\nHe finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the Steel Ball Run Race.\n\nEach having their own goal in mind, the two form an alliance and set foot upon the gruelling adventure and race.\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site, edited)\n\nNote: The first episode initially aired early on March 19th with a runtime of 47 minutes for the First Stage. The eleven episodes for the Second and Third stages began airing weekly on September 25th.",
-      "score": "86.62%",
+      "score": "86.52%",
       "episodes": 12,
       "rank": 8,
       "season": "ONA",
@@ -294,35 +294,6 @@
   ],
   "newThisWeek": [
     {
-      "mal_id": "50965",
-      "id": "50965",
-      "title": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
-      "titles": {
-        "en": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
-        "en_jp": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
-        "ja_jp": "カードファイト!! ヴァンガード Divinez 運命星戦編"
-      },
-      "url": "https://kitsu.io/anime/cardfight-vanguard-divinez-parallactic-fate",
-      "poster": "https://media.kitsu.app/anime/50965/poster_image/large-fe08bcf48bcc766c7b968ea8f852d0ff.jpeg",
-      "cover": null,
-      "images": {
-        "webp": {
-          "large_image_url": "https://media.kitsu.app/anime/50965/poster_image/large-fe08bcf48bcc766c7b968ea8f852d0ff.jpeg",
-          "image_url": "https://media.kitsu.app/anime/50965/poster_image/small-274fade2cfaf511c24e051dabb9171f9.jpeg"
-        }
-      },
-      "synopsis": "Note: The anime first premiered in theaters across Japan on October 2, 2026. It was later split into 3 episodes aired weekly on TV starting November 7, 2026.",
-      "score": "N/A",
-      "episodes": 3,
-      "rank": 1,
-      "season": "TV",
-      "startDate": "2026-11-07",
-      "year": "2026",
-      "status": "current",
-      "hasSub": true,
-      "hasDub": true
-    },
-    {
       "mal_id": "50851",
       "id": "50851",
       "title": "Demon's Crest",
@@ -343,7 +314,7 @@
       "synopsis": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic , a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!\n\n(Source: Yen Press)",
       "score": "N/A",
       "episodes": null,
-      "rank": 2,
+      "rank": 1,
       "season": "TV",
       "startDate": "2026-11-06",
       "year": "2026",
@@ -372,7 +343,7 @@
       "synopsis": "Gakken's hugely popular illustrated encyclopedia series, which everyone can enjoy with its laid-back four-panel comics, is finally being adapted into a TV anime!\n\nDiscover surprising aspects and fun facts about living creatures—full of secrets that will make you say, \"Wow!\"\n\nEnjoy this new kind of anime that makes even scary things fun and easy to watch, with its cute art style.\n\n(Source: Official Site, translated)",
       "score": "N/A",
       "episodes": null,
-      "rank": 3,
+      "rank": 2,
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
@@ -401,7 +372,7 @@
       "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n\n(Source: REMOW)",
       "score": "N/A",
       "episodes": 12,
-      "rank": 4,
+      "rank": 3,
       "season": "TV",
       "startDate": "2026-10-02",
       "year": "2026",
@@ -430,7 +401,7 @@
       "synopsis": "Mitarai, a bank clerk bored with his everyday life and work, soon finds himself transferred to the \"Appraisal Unit.\" Guided by his new boss Usami, Mitarai's led through a secret underground passage within the bank where a new, exciting world of gambling awaits.",
       "score": "N/A",
       "episodes": null,
-      "rank": 5,
+      "rank": 4,
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
@@ -459,7 +430,7 @@
       "synopsis": "The mask causes disaster. The mask prefers slaughter. The mask has a will. A traveling mask merchant Pell who can create a mysterious mask that grants abilities. In a city with a gloomy atmosphere, I meet a mysterious girl, Sona ...!? The boy begins to walk at the end of publicity and self-discipline! Masked battle fantasy!",
       "score": "N/A",
       "episodes": null,
-      "rank": 6,
+      "rank": 5,
       "season": "TV",
       "startDate": "2026-10-31",
       "year": "2026",
@@ -488,7 +459,7 @@
       "synopsis": "Third season of Luo Xiaohei Zhanji.",
       "score": "N/A",
       "episodes": 6,
-      "rank": 7,
+      "rank": 6,
       "season": "ONA",
       "startDate": "2026-10-30",
       "year": "2026",
@@ -517,7 +488,7 @@
       "synopsis": "No synopsis available.",
       "score": "N/A",
       "episodes": null,
-      "rank": 8,
+      "rank": 7,
       "season": "ONA",
       "startDate": "2026-10-25",
       "year": "2026",
@@ -546,7 +517,7 @@
       "synopsis": "Ever since his mother died in a fire, Terrence has drifted through life in a fog of apathy, terrified by any flame. The same nightmare haunts him every night until he finally confronts his phobia. By overcoming his fear, Terrence becomes a Voyager, able to command fire and cross into Dreamland, the mysterious dimension where humanity’s dreams and nightmares come to life.\n\n(Source: Crunchyroll)",
       "score": "N/A",
       "episodes": 10,
-      "rank": 9,
+      "rank": 8,
       "season": "ONA",
       "startDate": "2026-10-18",
       "year": "2026",
@@ -575,9 +546,37 @@
       "synopsis": "Third season of Da Li Si Rizhi.",
       "score": "N/A",
       "episodes": 16,
-      "rank": 10,
+      "rank": 9,
       "season": "ONA",
       "startDate": "2026-10-15",
+      "year": "2026",
+      "status": "current",
+      "hasSub": true,
+      "hasDub": true
+    },
+    {
+      "mal_id": "50986",
+      "id": "50986",
+      "title": "DARK MACHINE: The Animation",
+      "titles": {
+        "en": null,
+        "en_jp": "DARK MACHINE: The Animation",
+        "ja_jp": "DARK MACHINE -The Animation-"
+      },
+      "url": "https://kitsu.io/anime/dark-machine-the-animation",
+      "poster": "https://media.kitsu.app/anime/50986/poster_image/6f66dabd3bc8a1796f4223230c8e44d5.jpg",
+      "cover": null,
+      "images": {
+        "webp": {
+          "large_image_url": "https://media.kitsu.app/anime/50986/poster_image/6f66dabd3bc8a1796f4223230c8e44d5.jpg"
+        }
+      },
+      "synopsis": "Part of the \"DARK MACHINE\" Web3 cross-media project where the story of the Game and its anime adaptation intertwine.",
+      "score": "N/A",
+      "episodes": 11,
+      "rank": 10,
+      "season": "TV",
+      "startDate": "2026-10-14",
       "year": "2026",
       "status": "current",
       "hasSub": true,
