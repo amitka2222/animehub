@@ -1,12 +1,212 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-22T03:40:04.622Z",
+  "lastUpdated": "2026-11-22T13:40:12.303Z",
   "items": [
+    {
+      "id": "ann-Ny8uMjQ0MDg5",
+      "title": "Nahato's 'The One. Later On...' Light Novels Get TV Anime in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/nahato-the-one-later-on-light-novels-get-tv-anime-in-2027/.244089",
+      "description": "Kent Itō, Yui Ogura star in Jumondo anime",
+      "pubDate": "2026-11-22T12:02:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/244089/sono.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Singer, Voice Actress Kiyono Yasuno Announces Marriage",
+      "link": "https://myanimelist.net/news/74968356?_location=rss",
+      "description": "Voice actress Kiyono Yasuno announced her marriage on her official website on Sunday. In her written message, Yasuno expressed her gratitude to everyone who had supported her throughout her career as a voice actress and singer. She also stated that she would continue to approach her works and roles with sincerity and strive to grow further as a performer. \"Although I still have much to learn, I hope to continue growing as an individual as well, taking things one step at a time each day. I w...",
+      "pubDate": "2026-11-22T11:58:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795348564-c8eaa2328cf15c33266c015913764907.jpeg"
+    },
+    {
+      "id": "cr-LWZvci0yMDI3",
+      "title": "The One. Later On… Anime Adaptation Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/the-one-later-on-anime-adaptation-announced-for-2027",
+      "description": "A teaser visual was unveiled, along with cast and staff details",
+      "pubDate": "2026-11-22T11:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/a00167a4aa/the-one-later-on-header.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Light Novel 'Sono Mono. Nochi ni…' Gets TV Anime in 2027",
+      "link": "https://myanimelist.net/news/74968322?_location=rss",
+      "description": "An official website opened for a television anime adaptation of NAHAaTO's Sono Mono. Nochi ni... (That Person. Later on...) light novel on Sunday, revealing the main cast, staff, opening theme song artist, and a teaser visual (pictured). The anime will premiere in 2027. Voice actors Kent Itou (Isekai no Sata wa Shachiku Shidai) and Yui Ogura (Goblin Slayer) are starring in the anime as Wazu and Mear, respectively. Staff Chief Director: Kouichi Oohata (9: Ruler's Crown director) Directo...",
+      "pubDate": "2026-11-22T11:36:49.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795347161-10996a968a218fe8b2a9883583e97e9d.jpeg"
+    },
+    {
+      "id": "ann-LjI0NDA4MA",
+      "title": "4-Piece Band Subway Daydream Disbands",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/4-piece-band-subway-daydream-disbands/.244080",
+      "description": "Band performed opening theme song of \"Ippon\" Again! anime in 2023",
+      "pubDate": "2026-11-22T11:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHW/cms/news.10/244080/subway.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season' Reveals Additional Cast, Fourth Promo for \"Assassin\" Arc",
+      "link": "https://myanimelist.net/news/74968286?_location=rss",
+      "description": "The official website for the television anime adaptation of Miraijin A's Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World) light novel revealed additional cast, and the fourth promotional video for the third season on Sunday. The new arc is scheduled to premiere on November 22 at 11:30 p.m. on CBC and TBS' 28-...",
+      "pubDate": "2026-11-22T10:57:55.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795344953-9c53fa06eee98d00872f39d2ddb0c3f0.jpeg"
+    },
+    {
+      "id": "ann-dC8uMjQ0MDYz",
+      "title": "Shōzen TV Anime Unveils New Trailer, Key Visual, Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/shozen-tv-anime-unveils-new-trailer-key-visual-cast/.244063",
+      "description": "Kana Hanazawa joins cast of April series",
+      "pubDate": "2026-11-22T10:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/cms/news.10/244063/shozen-kv.jpg"
+    },
+    {
+      "id": "cr-cy12aXN1YWw",
+      "title": "Isshiki-san Wants to Know About Love Anime Releases Wedding Dress Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/isshiki-san-wants-to-know-about-love-anime-wedding-dress-visual",
+      "description": "The anime series debuts in January 2027",
+      "pubDate": "2026-11-22T09:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/2d9be5c698/isshiki-san-wants-to-know-about-love.jpg"
+    },
+    {
+      "id": "cr-ZXktdmlzdWFs",
+      "title": "Aria the Scarlet Ammo 15th Anniversary Short Anime Reveals Title, Release Date and Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/aria-the-scarlet-ammo-15th-anniversary-short-anime-reveals-title-release-date-key-visual",
+      "description": "The production staff and cast details were also confirmed",
+      "pubDate": "2026-11-22T08:31:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/0d6452bcc7/aria-the-scarlet-ammo.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Hidan no Aria Corto' Reveals Main Staff, New Cast, April 2027 Premiere",
+      "link": "https://myanimelist.net/news/74967474?_location=rss",
+      "description": "The MF Bunko J Autumn School Festival 2026 event revealed the main staff, new cast, and a key visual (pictured) for Hiden no Aria Corto (Aria the Scarlet Ammo Corto) on Sunday. The short anime adapting Chuugaku Akamatsu's action comedy light novel will stream on various platforms beginning in April 2027. Cast Kinji Tooyama: Junji Majima (Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!) Aria Holmes Kanzaki: Rie Kugimiya (Gintama) Shirayuki Hotogi: Mikako Takahashi (D-Frag!)...",
+      "pubDate": "2026-11-22T08:30:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795324628-b6bcb595759424b430ea61b85ef48af7.jpeg"
+    },
+    {
+      "id": "ann-aS8uMjQ0MDYx",
+      "title": "Mission: Yozakura Family Season 2 Anime's 2nd Part Casts Shinichirō Miki",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061",
+      "description": "New character appears in episode 47",
+      "pubDate": "2026-11-22T08:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH1/cms/news.10/244061/yozakura.jpg"
+    },
+    {
+      "id": "ann-LjI0NDA3NQ",
+      "title": "New Aria the Scarlet Ammo Short Anime Unveils Title, New & Returning Cast, April 2027 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075",
+      "description": "Main staff for Hidan no Aria Corto short anime also revealed",
+      "pubDate": "2026-11-22T08:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/news.10/244075/aria.jpg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "The Detective Is Already Dead Season 2 Anime Releases New Arc Trailer, Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/the-detective-is-already-dead-season-2-anime-new-arc-trailer-visual",
+      "description": "Crunchyroll currently streams the new season",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/ea20220700/the-detective-is-already-dead-season-2-new-arc-trailer.jpg"
+    },
+    {
+      "id": "ann-Yy8uMjQ0MDc0",
+      "title": "The Detective is Already Dead Anime's 2nd Season Reveals Trailer, Visual for New Arc",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/the-detective-is-already-dead-anime-2nd-season-reveals-trailer-visual-for-new-arc/.244074",
+      "description": "New season debuted on October 7",
+      "pubDate": "2026-11-22T06:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.10/244074/detective-is-already-dead-visual.jpg"
+    },
+    {
+      "id": "ann-LjI0NDA1Mw",
+      "title": "Uma Musume Pretty Derby Joins the Denver Broncos",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-21/uma-musume-pretty-derby-joins-the-denver-broncos/.244053",
+      "description": "The horse-girls are suiting up to take on the Miami Dolphins",
+      "pubDate": "2026-11-22T04:59:00.000Z",
+      "source": "Anime News Network",
+      "category": "Events",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/herald/203263/2027broncos-collabokv-w1500h2000-white-02-l1795126500b.jpg"
+    },
+    {
+      "id": "cr-bm91bmNlZA",
+      "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Sequel Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-sequel-announced",
+      "description": "A teaser visual featuring Yuki was also released",
+      "pubDate": "2026-11-22T04:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/82f79c35fb/shiboyugi-playing-death-games-to-put-food-on-the-table.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Shibou Yuugi de Meshi wo Kuu.' Sequel Anime in Production",
+      "link": "https://myanimelist.net/news/74967311?_location=rss",
+      "description": "The MF Bunko J Autumn School Festival 2026 event announced on Sunday that a sequel for the Shibou Yuugi de Meshi wo Kuu. (Shiboyugi: Playing Death Games to Put Food on the Table) anime series is in production, revealing an \"ultra\" teaser visual (pictured). Produced by Studio Deen, the television anime adapting Yuushi Ukai's action suspense light novel aired in 11 episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitles and dubs in multiple languages. Shibou Yuugi...",
+      "pubDate": "2026-11-22T04:30:03.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795319620-b7a52ba53e8de23d27f27f10be78b86d.jpeg"
+    },
+    {
+      "id": "cr-ZXItdmlzdWFs",
+      "title": "Bride of the Barrier Master Anime Trailer Reveals Premiere Date, Opening Theme Song",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/bride-of-the-barrier-master-anime-january-6-release-date-main-trailer-visual",
+      "description": "A main visual and two cast additions were also revealed",
+      "pubDate": "2026-11-22T04:24:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/dacba06eb9/bride-of-the-barrier-master.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kekkaishi no Ichirinka' Reveals Additional Cast, Staff, Opening Theme, First Promo",
+      "link": "https://myanimelist.net/news/74967291?_location=rss",
+      "description": "The official website of the Kekkaishi no Ichirinka (Bride of the Barrier Master) television anime revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Sunday. The anime series adapting Kureha's romantic supernatural novel is scheduled to premiere on January 6 at 11:00 p.m. on Tokyo MX, followed by BS Nippon Television, Sun TV, and other stations. The first episode will air as a one-hour special. A preview screening event featuring a tal...",
+      "pubDate": "2026-11-22T03:49:18.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795319310-9527ecc36c77c322b4f7b02662a10bd7.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDQwNzM",
+      "title": "Bride of the Barrier Master TV Anime Reveals 1-Hour Debut on January 6, More Cast in Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-21/bride-of-the-barrier-master-tv-anime-reveals-1-hour-debut-on-january-6-more-cast-in-video/.244073",
+      "description": "Naniwa Danshi performs opening theme; Chiaki Kobayashi, Takuya Eguchi join cast",
+      "pubDate": "2026-11-22T03:38:39.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/X6R__ZiTM2Y.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki' Airs in 2027",
       "link": "https://myanimelist.net/news/74967203?_location=rss",
-      "description": "The MF Bunko J Autumn School Festival 2026 revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa's 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Slave) Ke...",
+      "description": "The MF Bunko J Autumn School Festival 2026 event revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa's 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Sla...",
       "pubDate": "2026-11-22T03:16:05.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -340,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T19:57:31.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD6/cms/news.10/244035/oshi-no-ko-etude-for-two-cnf.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQwMjQ",
@@ -350,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T18:00:00.000Z",
       "source": "Anime News Network",
       "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.10/242320/chiruran-shinsengumi-requiem-1-vol1-2-3-cover.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -370,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Korean",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/review.2/243215/overgeared-4.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -390,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-20T16:46:21.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g07/cms/news.10/244025/duel-masters-lost-part-5.jpg"
+      "image": null
     },
     {
       "id": "cr-Yi12aXN1YWw",
@@ -401,206 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/1920x1350/d1178f204c/though-i-am-an-inept-villainess-mothra.png"
-    },
-    {
-      "id": "cr-LXRoaW5ncw",
-      "title": "Cozy Anime Corner: Find Your People in Uncle's Obsession with Cute Things",
-      "link": "https://crunchyroll.com/news/features/2026/11/20/cozy-anime-corner-uncles-obsession-with-cute-things",
-      "description": "Have you ever heard a grown man squee? You should!",
-      "pubDate": "2026-11-20T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/394c07bcd4/uncles-obsession-with-cute-things.png"
-    },
-    {
-      "id": "ann-bi8uMjQ0MDI2",
-      "title": "BanG Dream! Yume∞Mita Series Confirms New Anime in Production",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/bang-dream-yume-mita-series-confirms-new-anime-in-production/.244026",
-      "description": "TV anime based on BanG Dream! project's Mugendai Mewtype band premiered on July 2",
-      "pubDate": "2026-11-20T15:59:17.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/news.9/232975/yume.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Supporting Cast for 'Kaketa Tsuki no Mercedes' Announced",
-      "link": "https://myanimelist.net/news/74961677?_location=rss",
-      "description": "The official website for the television anime adaptation of Firehead's Kaketa Tsuki no Mercedes: Kyuuketsuki no Kizoku ni Tensei shita kedo Suteraresou nanode Dungeon wo Seiha suru (Mercedes and the Waning Moon: The Dungeoneering Feats of a Discarded Vampire Aristocrat) light novel revealed supporting cast and second visual (pictured). The anime will premiere on January 10 at 4:30 p.m. on TBS-affiliated networks across Japan, airing every Sunday on 28 stations. Cast Margitte Grunewald: Nich...",
-      "pubDate": "2026-11-20T15:58:05.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795190225-66dfcaa127139fe1d225305472407afd.jpeg"
-    },
-    {
-      "id": "cr-cmUtdmlzdWFs",
-      "title": "Armored Trooper VOTOMS: Die Graue Hexe Second Anime Film Confirms 2027 Premiere in New Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/armored-trooper-votoms-die-graue-hexe-second-film-2027-premiere-visual",
-      "description": "The first film premieres today in Japan",
-      "pubDate": "2026-11-20T15:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/1e63a8db48/votoms-2kvs.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQwMTA",
-      "title": "FX Fighter Kurumi-chan ‒ Episode 8",
-      "link": "https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episode-8/.244010",
-      "description": "After all her insistence that she's not to be imitated or given responsibility or blamed, it is following Kurumi's examples of \"borrowing\" for investments that's led her protege here. Mebuki learned it by watching her.",
-      "pubDate": "2026-11-20T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g86/cms/episode-review.5/244010/fxfk081.jpg"
-    },
-    {
-      "id": "ann-LjI0NDAyMw",
-      "title": "Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023",
-      "description": "Film opened in August 2021 in Japan",
-      "pubDate": "2026-11-20T14:50:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHC/cms/news.4/173640/visual.jpg"
-    },
-    {
-      "id": "cr-dWFsLWNhc3Q",
-      "title": "Mercedes and the Waning Moon Anime Premiere Date, Visual, More Cast Revealed",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/mercedes-and-the-waning-moon-anime-premiere-date-visual-cast",
-      "description": "Isekai fantasy adaptation premieres on January 10",
-      "pubDate": "2026-11-20T14:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/744bdd101f/mercedes_and_the_waning_moon_punch_header.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'BanG Dream! Yume∞Mita' New Anime in Production",
-      "link": "https://myanimelist.net/news/74961509?_location=rss",
-      "description": "The 3rd Anniversary livestream event of Mugendai MewType announced a new anime for BanG Dream! Yume&infin;Mita television anime on Friday. Produced by Nichicaline, the 13-episode series aired in Summer 2026. Crunchyroll streamed the anime in English subtitles. The first television anime of the multimedia franchise, abbreviated as Bandori, was produced by Xebec and Issen in Winter 2017. A second season by SANZIGEN premiered in Winter 2019, followed by a third season in Winter 2020. The BanG Drea...",
-      "pubDate": "2026-11-20T14:41:52.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795185784-46bcee1f778e431bb5e4a848d27792b6.jpeg"
-    },
-    {
-      "id": "ann-OC8uMjQzOTcz",
-      "title": "Reincarnated as a Sword Season 2 ‒ Episode 8",
-      "link": "https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episode-8/.243973",
-      "description": "In the name of efficiency, I'm fine with this being a way to get Teacher, Fran, and the others into prison so that they can then get broken out of prison by new characters.",
-      "pubDate": "2026-11-20T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/cms/episode-review.5/243973/raas2081.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQwMDQ",
-      "title": "Maison and the Man-Eating Apartment Manga Ends in Next Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/maison-and-the-man-eating-apartment-manga-ends-in-next-chapter/.244004",
-      "description": "Kuu Tanaka, Akima launched manga in March 2025; English version available on Manga Plus",
-      "pubDate": "2026-11-20T14:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE2/cms/news.10/244004/maison.jpg"
-    },
-    {
-      "id": "cr-dWFsLWNhc3Q",
-      "title": "A Pen, Handcuffs, and a Common-Law Marriage Anime Premieres on January 9",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/a-pen-handcuffs-and-a-common-law-marriage-anime-premiere-date-trailer-visual-cast",
-      "description": "Trailer, key art and more revealed for upcoming mystery / romcom adaptation",
-      "pubDate": "2026-11-20T14:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/5d17ad1ed9/a_pen_handcuffs_and_a_common_law_marriage_header3.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQzNTAy",
-      "title": "Planning the Cosmic Era with Mobile Suit Gundam Seed FREEDOM ZERO Producer Kaori Shida",
-      "link": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/planning-the-cosmic-era-with-mobile-suit-gundam-seed-freedom-zero-producer-kaori-shida/.243502",
-      "description": "Shida shares insights into what to expect from the upcoming film and how it fits into the broader Gundam Seed universe.",
-      "pubDate": "2026-11-20T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0Mzg0NQ",
-      "title": "Combining Titillation and Tiles, a Brief History of Strip Mahjong",
-      "link": "https://www.animenewsnetwork.com/feature/2026-11-20/combining-titillation-and-tiles-a-brief-history-of-strip-mahjong/.243845",
-      "description": "Big-brained developers had an idea: riichi mahjong is readily available, but what if we add an often lucrative lure: what if you could see attractive anime women naked by winning?",
-      "pubDate": "2026-11-20T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDAwOQ",
-      "title": "Witch on the Holy Night Anime Film Review",
-      "link": "https://www.animenewsnetwork.com/review/witch-on-the-holy-night-anime-film/.244009",
-      "description": "Without Witch on the Holy Night, there never would have been Tsukihime, Garden of Sinners, or Fate/Stay Night—or anything related that came after.",
-      "pubDate": "2026-11-20T14:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDM5NjY",
-      "title": "The World's Strongest Witch ‒ Episode 7",
-      "link": "https://www.animenewsnetwork.com/review/the-world-strongest-witch/episode-7/.243966",
-      "description": "Episode seven of The World’s Strongest Witch gave me exactly the hit of millennial gamer nostalgia I’ve come to expect from the series.",
-      "pubDate": "2026-11-20T13:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwMDU",
-      "title": "Mitei Hattori's Smile! Manga Gets Epilogue Chapter",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/mitei-hattori-smile-manga-gets-epilogue-chapter/.244005",
-      "description": "Epilogue chapter debuts on December 4",
-      "pubDate": "2026-11-20T13:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDAwMg",
-      "title": "Life with an Ordinary Guy Who Reincarnated into a Total Fantasy Knockout Manga Ends With 20th Volume",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-manga-ends-with-20th-volume/.244002",
-      "description": "Manga launched in November 2019, inspired 2022 TV anime",
-      "pubDate": "2026-11-20T12:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwMjI",
-      "title": "'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Theme Song Artists, More Cast, January 9 Debut in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-theme-song-artists-more-cast-january-9-/.244022",
-      "description": "Inori Minase performs opening theme song, saeco performs ending theme song",
-      "pubDate": "2026-11-20T11:00:02.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQ0MDIw",
-      "title": "Kengo Matsumoto's Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Manga Gets TV Anime",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/kengo-matsumoto-jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-manga-gets-tv-anime/.244020",
-      "description": "Gekkō animates misunderstanding romcom debuting next year",
-      "pubDate": "2026-11-20T10:07:10.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-Zm9yLTIwMjc",
-      "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyoto Shitara, Betsu no Tatakai ga Hajimatta Anime Announced for 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-announced-for-2027",
-      "description": "The first teaser visual was released",
-      "pubDate": "2026-11-20T10:06:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/2064x1457/9d151b65c7/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-manga-header.jpeg"
     }
   ]
 };
