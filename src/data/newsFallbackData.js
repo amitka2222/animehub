@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-22T13:40:12.303Z",
+  "lastUpdated": "2026-11-22T22:52:44.735Z",
   "items": [
+    {
+      "id": "ann-LjI0NDA3OA",
+      "title": "Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078",
+      "description": "Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere",
+      "pubDate": "2026-11-22T21:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/cms/news.9/240004/img-ae39526d-fd78-4901-85bd-3099fb7e26da.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQwNzc",
+      "title": "I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077",
+      "description": "Game will feature exploration, territory management, defensive battles",
+      "pubDate": "2026-11-22T20:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gS8/cms/news.10/244077/ka5evryipprimfcmmrymftewvv822mw3hiptv8caejnz2zuglphwnezducn6rsmws0fyw8ungevjgjxxa-kdrw.webp"
+    },
+    {
+      "id": "ann-Ly4yNDQwNzk",
+      "title": "Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079",
+      "description": "Manhwa is scheduled to conclude in February 2027 with its 97th collected volume",
+      "pubDate": "2026-11-22T19:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD5/cms/news.10/244079/240319.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQwNTQ",
+      "title": "Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List",
+      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054",
+      "description": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
+      "pubDate": "2026-11-22T18:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL1/cms/daily-briefs/244054/713pf8p6eyl.sl1500.jpg"
+    },
+    {
+      "id": "cr-bmdhLWVuZHM",
+      "title": "Sakamoto Days Manga Ends in Weekly Shonen Jump",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/sakamoto-days-manga-ends",
+      "description": "The manga series originally premiered in November 2020",
+      "pubDate": "2026-11-22T17:33:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1000x730/583b888e04/sakamoto-days.jpeg"
+    },
+    {
+      "id": "ann-cy8uMjQ0MDYy",
+      "title": "Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062",
+      "description": "13 manga volumes including Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece make list",
+      "pubDate": "2026-11-22T17:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL1/cms/daily-briefs/244054/713pf8p6eyl.sl1500.jpg"
+    },
+    {
+      "id": "cr-dmlzdWFsLTI",
+      "title": "Shozen Anime Reveals New Trailer, Visual, Cast Additions",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/shozen-anime-trailer-key-visual-2",
+      "description": "The fantasy series premieres April 2027",
+      "pubDate": "2026-11-22T17:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/3b8b8cd152/shozen-hero.png"
+    },
+    {
+      "id": "ann-LjI0MzI1MA",
+      "title": "Japanese Ghost Stories Folio Society Edition Book Review",
+      "link": "https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250",
+      "description": "If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.",
+      "pubDate": "2026-11-22T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Novels",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/review.2/243250/japanese-ghost-stories.png.jpg"
+    },
+    {
+      "id": "cr-aWxlci1jYXN0",
+      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Previews Assassin Arc in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/as-a-reincarnated-aristocrat-season-3-anime-assassin-arc-new-trailer-cast",
+      "description": "Three new cast members were also revealed",
+      "pubDate": "2026-11-22T16:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/eed642364c/reincarnated-aristocrat-assassin-arc-hero.png"
+    },
+    {
+      "id": "cr-ci10cmFpbGVy",
+      "title": "Firefly Wedding Anime Introduces Kotaro Ogawa in New Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/firefly-wedding-anime-kotaro-ogawa-character-trailer",
+      "description": "Crunchyroll currently streams the anime based on Oreco Tachibana's manga",
+      "pubDate": "2026-11-22T16:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/251aedf083/firefly_wedding_header_kentaro_ogawa.jpg"
+    },
+    {
+      "id": "ann-LjI0NDA1NQ",
+      "title": "Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055",
+      "description": "16 manga volumes including Spy x Family, The Summer Hikaru Died, Steel Ball Run, Demon Slayer, Gachiakuta, One Piece, Witch Hat Atelier, Kaiju No. 8, The Apothecary Diaries make list",
+      "pubDate": "2026-11-22T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBD/herald/203270/jjk.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQ0MDkz",
+      "title": "Voice Actor Kiyono Yasuno Announces Marriage",
+      "link": "https://www.animenewsnetwork.com/interest/2026-11-22/voice-actor-kiyono-yasuno-announces-marriage/.244093",
+      "description": "Voice of Saekano's Megumi Katō, Macross Delta Kaname Buccaneer, My Hero Academia's Nejire Hado",
+      "pubDate": "2026-11-22T16:13:28.000Z",
+      "source": "Anime News Network",
+      "category": "People",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFJ/herald/203285/profile.jpg2.jpg"
+    },
+    {
+      "id": "cr-aW5maW5pdHk",
+      "title": "Why Did It Take Me So Long to Watch SK8 the Infinity?",
+      "link": "https://crunchyroll.com/news/features/2026/11/22/late-to-the-party-sk8-the-infinity",
+      "description": "Infinite possibilities",
+      "pubDate": "2026-11-22T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/5d4ff1e708/sk8-the-inifinity-season-1-episode-1.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Yozakura-san Chi no Daisakusen' Creator Launches New Manga",
+      "link": "https://myanimelist.net/news/74968770?_location=rss",
+      "description": "The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday. This marks Gondaira's return to serialization in nearly two years following the end of Yozakura-san Chi no Daisakusen in January 2025. Gondaira is best known for Yozakura-san Chi no Daisakusen (Mission: Yozakura Family), which ran in Weekly Shounen Magazine from August 2019 to January 2025. Shueisha published th...",
+      "pubDate": "2026-11-22T15:11:56.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795360263-83d07cad6b32383dfc48802c2003ffd2.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga 'Sakamoto Days' Concludes Serialization",
+      "link": "https://myanimelist.net/news/74968755?_location=rss",
+      "description": "Yuuto Suzuki's Sakamoto Days manga has concluded with chapter 284 in the 52nd issue of Weekly Shounen Jump magazine on Monday, after 6-year serialization. Suzuki originally drew the action comedy manga as a one-shot in Jump GIGA magazine in December 2019. The manga began serializing in the Weekly Shounen Jump in November 2020. Shueisha published the 29th volume on November 4. The manga has over 18 million copies in circulation. Produced by TMS Entertainment, the first season aired in split...",
+      "pubDate": "2026-11-22T15:08:35.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795360015-bddcc754aae52a1000ca2296cd171e55.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDQwOTI",
+      "title": "Witch on the Holy Night Film Expands 981 Cuts for ScreenX Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-cuts-for-screenx-release/.244092",
+      "description": "New trailer: ufotable updated 67 minutes for premium screenings starting on Friday",
+      "pubDate": "2026-11-22T15:02:44.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/youtube/t9F6xLLG5rg.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Link Click Season 3 Releases Part Two Trailer and Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/22/link-click-season-3-part-two-release-date-trailer-visual",
+      "description": "All 12 episodes of Season 3 Part One are now streaming on Crunchyroll",
+      "pubDate": "2026-11-22T13:51:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/5e5913ff58/link-click-season-3-part-one.jpg"
+    },
     {
       "id": "ann-Ny8uMjQ0MDg5",
       "title": "Nahato's 'The One. Later On...' Light Novels Get TV Anime in 2027",
@@ -380,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-21T12:15:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/encyc/A37931-397630352.1789645121.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDA1MA",
@@ -390,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-21T11:05:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI4/cms/news.10/244050/doraemon-nye.png.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-21T10:05:00.000Z",
       "source": "Anime News Network",
       "category": "Novels",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE1/cms/news.10/244044/one-final-8.jfif.jpeg"
+      "image": null
     },
     {
       "id": "cr-bm91bmNlZA",
@@ -430,177 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-21T09:05:00.000Z",
       "source": "Anime News Network",
       "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF3/cms/news.10/244048/takamine-volume-1.jpg"
-    },
-    {
-      "id": "ann-LjI0NDA0Ng",
-      "title": "Suu Morishita's A Sign of Affection Manga Ends in 3 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/suu-morishita-a-sign-of-affection-manga-ends-in-3-chapters/.244046",
-      "description": "Manga inspired anime adaptation that debuted in January 2024",
-      "pubDate": "2026-11-21T08:00:22.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL4/cms/news.6/196953/9yubi.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Yubisaki to Renren' Ends in Three Chapters",
-      "link": "https://myanimelist.net/news/74963930?_location=rss",
-      "description": "The official X (formerly Twitter) account of Dessert magazine announced on Saturday that Suu Morishita's Yubisaki to Renren (A Sign of Affection) manga will end in three chapters. The 63rd chapter will mark the manga's conclusion. Morishita began serializing the romance manga in Dessert magazine in July 2019. The manga went on hiatus in June 2021 due to Morishita giving birth, and resumed serialization in November of the same year. Kodansha published the 14th volume on May 13, with the...",
-      "pubDate": "2026-11-21T07:38:06.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795246640-b93853a9a64e9e01ca50abcd96d6ff88.jpeg"
-    },
-    {
-      "id": "ann-bi8uMjQ0MDA4",
-      "title": "What Sailor Moon Fans Can Buy (& Eat) at Universal Studios Japan",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-20/what-sailor-moon-fans-can-buy-at-universal-studios-japan/.244008",
-      "description": "Grab your Universal Heart Compact and “Moon Cosmic, Make-up!”",
-      "pubDate": "2026-11-21T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHB/cms/interest.3/244008/usj-sailor-moon-menu-01.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQ0MDI4",
-      "title": "Uniqlo Unfurls New Studio Ghibli T-Shirts",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-20/uniqlo-unfurls-new-studio-ghibli-t-shirts/.244028",
-      "description": "Show off your Ghibli love with the new collection",
-      "pubDate": "2026-11-21T04:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEH/herald/203242/usgoods-493591-sub6-3x4.jpg.jpg"
-    },
-    {
-      "id": "cr-cGVhcmFuY2U",
-      "title": "Godzilla Minus Zero Film Confirms Hideaki Anno's Cameo Appearance",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/godzilla-minus-zero-film-hideaki-anno-cameo-appearance",
-      "description": "The 31st Japanese Godzilla film has earned over 15 billion yen worldwide",
-      "pubDate": "2026-11-21T02:13:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/b60cf9b1a1/godzilla-minus-zero-hideaki-anno.jpg"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "New BanG Dream! Yume∞Mita Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/bang-dream-yume-mita-new-anime-announced",
-      "description": "Mugendai Mewtype plans a tour in Japan starting in January 2027",
-      "pubDate": "2026-11-21T01:26:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e5515fb9e2/bang-dream-yume-mita-header.jpg"
-    },
-    {
-      "id": "cr-YW5ub3VuY2Vk",
-      "title": "Duel Masters LOST ~Shitsuraku no Duel~ Anime Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/duel-masters-lost-shitsuraku-no-duel-anime-announced",
-      "description": "The series' fifth part is now in production",
-      "pubDate": "2026-11-21T01:20:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1200x675/b505bb6351/duel-masters-lost-shitsuraku-no-duel.jpg"
-    },
-    {
-      "id": "cr-aWNlLWNhc3Q",
-      "title": "Doraemon: Nobita's Steam-Powered Time Machine Anime Film Announces 5 New Voice Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/doraemon-nobitas-steam-powered-time-machine-anime-film-new-voice-cast",
-      "description": "The 46th Doraemon film releases in Japan on March 5, 2027",
-      "pubDate": "2026-11-21T00:40:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/beaf7a6170/doraemon-nobita-steam-powered-time-machine-header.png"
-    },
-    {
-      "id": "ann-Ly4yNDM4Nzk",
-      "title": "North American Anime, Manga Releases, November 15-21",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/north-american-anime-manga-releases-november-15-21/.243879",
-      "description": "Jujutsu Kaisen: Hidden Inventory / Premature Death – The Movie anime; BECK, Heroes, Love is Money manga ship",
-      "pubDate": "2026-11-20T22:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/herald/203233/jjk-bd.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDM4ODA",
-      "title": "This Week in Games - Cleaning Bots, Ocarina Thoughts, and Sonic's 35th Anniversary",
-      "link": "https://www.animenewsnetwork.com/this-week-in-games/2026-11-20/cleaning-bots-ocarina-thoughts-and-sonic-35th-anniversary/.243880",
-      "description": "Jean-Karlo shares his impressions of the Game of the Year contender and takes a trip through Green Hill to celebrate Sonic's anniversary.",
-      "pubDate": "2026-11-20T20:58:32.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/youtube/iKO9zX_4x6k.jpg"
-    },
-    {
-      "id": "ann-LjI0NDAzNQ",
-      "title": "Yen Press Licenses [Oshi No Ko] Étude for Two, Bungo Stray Dogs: The Untold Origins of the Detective Agency, More Manga/Novels",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/yen-press-licenses-oshi-no-ko-etude-for-two-bungo-stray-dogs-the-untold-origins-of-the-detective-/.244035",
-      "description": "Also: Mercenary Sisters, Caring for a Corpse, Megarosalia, more",
-      "pubDate": "2026-11-20T19:57:31.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwMjQ",
-      "title": "Chiruran Manga Gets New Stage Play by All-Female Troupe O'Clock Kumamoto Revue",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/chiruran-manga-gets-new-stage-play-by-all-female-troupe-oclock-kumamoto-revue/.244024",
-      "description": "Series' original author Umemura writes script for play opening in early summer 2027",
-      "pubDate": "2026-11-20T18:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Tougen Anki: Nikko Kegon no Taki-hen' Unveils Additional Cast",
-      "link": "https://myanimelist.net/news/74961958?_location=rss",
-      "description": "The official website for the Tougen Anki: Nikko Kegon no Taki-hen (Tougen Anki: Nikko Kegon Falls Arc) television anime unveiled additional cast members on Saturday. The first part of the second season adapting Yura Urushibara's action fantasy manga premiered on October 2 at 11.30 p.m. on Nippon Television's Friday Anime Night programming block, followed by BS Nippon Television. Cast Kokuryo Momosaka: Masahiro Ichinose Meidai Momotoba, Katakura Momogakuin: Eiji Miyashita (Tensei shitar...",
-      "pubDate": "2026-11-20T17:44:20.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795196503-70062e79a8a976ffeae928b163f59db6.jpeg"
-    },
-    {
-      "id": "ann-LjI0MzIxNQ",
-      "title": "Overgeared Volumes 4-6 K-Comic Review",
-      "link": "https://www.animenewsnetwork.com/review/overgeared/volumes-4-6/.243215",
-      "description": "Every time I finish a volume of Overgeared, I think the same thing: Grid's a jerk, but…. It's hard to say whether this is a feature or a bug.",
-      "pubDate": "2026-11-20T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Manga 'Haite Kudasai, Takamine-san' Ends Serialization",
-      "link": "https://myanimelist.net/news/74961851?_location=rss",
-      "description": "The official X account for author Yuuichi Hiiragi announced on Friday that the Haite Kudasai Takamine-san (Please Put Them On, Takamine-san) manga will end in the February issue of Gangan Joker magazine, marking the end of the manga's nearly 8-year run. Hiiragi began serializing the ecchi romance comedy manga in Gangan Joker in January 2019. Square Enix published the 11th volume on February 20. A 12-episode television anime adaptation produced by LIDENFILMS aired in Spring 2025. Crunchyroll...",
-      "pubDate": "2026-11-20T16:56:46.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795193679-b00e6e2c5934855699dd1a13a0aa6095.jpeg"
-    },
-    {
-      "id": "ann-LjI0NDAyNQ",
-      "title": "Duel Masters LOST Anime Gets 5th Part",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-20/duel-masters-lost-anime-gets-5th-part/.244025",
-      "description": "Manga's 5th part Duel Masters LOST ~Shitsuraku no Duel~ debuted on September 17",
-      "pubDate": "2026-11-20T16:46:21.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-Yi12aXN1YWw",
-      "title": "Though I Am an Inept Villainess Shares New Collab Art Celebrating Mothra Year",
-      "link": "https://crunchyroll.com/news/latest/2026/11/20/though-i-am-an-inept-villainess-mothra-year-collab-visual",
-      "description": "The second cour of Though I Am an Inept Villainess premieres in January 2027",
-      "pubDate": "2026-11-20T16:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1350/d1178f204c/though-i-am-an-inept-villainess-mothra.png"
     }
   ]
 };
