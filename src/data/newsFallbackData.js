@@ -1,7 +1,97 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-24T03:30:56.428Z",
+  "lastUpdated": "2026-11-24T16:33:44.495Z",
   "items": [
+    {
+      "id": "cr-bnRlcnZpZXc",
+      "title": "Cold World on Their Special Connection With Japan, Hardcore, and Anime",
+      "link": "https://crunchyroll.com/news/interviews/2026/11/24/cold-world-interview",
+      "description": "There’s something special and culturally significant and cool about this stuff",
+      "pubDate": "2026-11-24T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Interviews",
+      "image": "https://a.storyblok.com/f/178900/960x540/79dba7b1f4/cold-world-band.jpg"
+    },
+    {
+      "id": "cr-Zi10cmFpbGVy",
+      "title": "Disney Twisted-Wonderland The Animation Season 2 Anime Reveals Ending Theme Song in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/24/disney-twisted-wonderland-the-animation-season-2-episode-of-savanaclaw-anime-payoff-trailer",
+      "description": "The series returns on December 23",
+      "pubDate": "2026-11-24T10:57:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/8f6aa803ab/disney-twisted-wonderland-the-animation-season-2.jpg"
+    },
+    {
+      "id": "ann-LjI0NDE1NA",
+      "title": "Twisted-Wonderland: Episode of Savanaclaw Anime's New Video Unveils Ending Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/twisted-wonderland-episode-of-savanaclaw-anime-new-video-unveils-ending-song/.244154",
+      "description": "Savanaclaw dorm members perform \"DIADEM\" ending song",
+      "pubDate": "2026-11-24T10:14:30.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRE/youtube/qOliB7MqNG8.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxNTE",
+      "title": "Witch on the Holy Night Anime Film's Sequel Confrmed",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/witch-on-the-holy-night-anime-film-sequel-confrmed/.244151",
+      "description": "1st film earned 516 million yen in 1st 4 days",
+      "pubDate": "2026-11-24T08:31:48.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.10/244151/witch.webp"
+    },
+    {
+      "id": "ann-Ly4yNDQxNDg",
+      "title": "All You Need Is Kill, Kaguya!, Grotesqqque, More Anime Confirmed Eligible for Oscars",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/all-you-need-is-kill-kaguya-grotesqqque-more-anime-confirmed-eligible-for-oscars/.244148",
+      "description": "Jinsei, Last Blossom, 2nd Gundam Hathaway film, Ribbon Hero, Super Mario Galaxy Movie, Avatar Aang also eligible",
+      "pubDate": "2026-11-24T07:55:40.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.9/232217/aynik_kv.jpg"
+    },
+    {
+      "id": "cr-ZS1zZXF1ZWw",
+      "title": "Witch on the Holy Night Anime Sequel Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/24/witch-on-the-holy-night-anime-sequel",
+      "description": "The 1st feature film is currently showing in theaters across Japan",
+      "pubDate": "2026-11-24T07:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/f517d54733/witch-on-the-holy-night.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Mahoutsukai no Yoru' Sequel Anime Announced",
+      "link": "https://myanimelist.net/news/74975780?_location=rss",
+      "description": "The official X (formerly Twitter) account for the anime movie adaptation of Type-Moon's Mahoutsukai no Yoru (Witch on the Holy Night) visual novel announced on Tuesday that a sequel anime is in production. Produced by ufotable, Mahoutsukai no Yoru (Witch on the Holy Night) theatrical movie premiered in Japan on November 20 and is currently screening in theaters, grossing over 526.13 million yen (approximately US$3.4 million) in its first four days. Developed and published by Type-Moon, the...",
+      "pubDate": "2026-11-24T07:21:33.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795504801-f92e80a47ff0f942dbb3edacb2a76c13.jpeg"
+    },
+    {
+      "id": "cr-LWNvcGllcw",
+      "title": "A Tale of the Secret Saint Series Surpasses 5 Million Copies in Print",
+      "link": "https://crunchyroll.com/news/latest/2026/11/24/a-tale-of-the-secret-saint-series-5-million-copies",
+      "description": "The FelixFilm-produced TV anime is currently available on Crunchyroll",
+      "pubDate": "2026-11-24T04:44:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/6c98a23ca7/a-tale-of-the-secret-saint-5-million-copies.jpg"
+    },
+    {
+      "id": "cr-LWFjdG9ycw",
+      "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyoto Shitara, Betsu no Tatakai ga Hajimatta Anime Reveals Voice Actor Leads in 1st Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/24/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-announcement-trailer-lead-voice-actors",
+      "description": "The anime series is scheduled to premiere in 2027",
+      "pubDate": "2026-11-24T04:26:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1076/480d12dfda/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyoto-shitara-betsu-no-tatakai-ga-hajimatta-anime-teaser-trailer.png"
+    },
     {
       "id": "ann-LjI0NDE0MA",
       "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
@@ -390,7 +480,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T16:13:28.000Z",
       "source": "Anime News Network",
       "category": "People",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFJ/herald/203285/profile.jpg2.jpg"
+      "image": null
     },
     {
       "id": "cr-aW5maW5pdHk",
@@ -430,7 +520,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T15:02:44.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/youtube/t9F6xLLG5rg.jpg"
+      "image": null
     },
     {
       "id": "cr-LXZpc3VhbA",
@@ -450,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T12:02:53.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH8/cms/news.10/244089/sono.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -511,96 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Anime News Network",
       "category": "Anime",
       "image": null
-    },
-    {
-      "id": "cr-cy12aXN1YWw",
-      "title": "Isshiki-san Wants to Know About Love Anime Releases Wedding Dress Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/isshiki-san-wants-to-know-about-love-anime-wedding-dress-visual",
-      "description": "The anime series debuts in January 2027",
-      "pubDate": "2026-11-22T09:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/2d9be5c698/isshiki-san-wants-to-know-about-love.jpg"
-    },
-    {
-      "id": "cr-ZXktdmlzdWFs",
-      "title": "Aria the Scarlet Ammo 15th Anniversary Short Anime Reveals Title, Release Date and Key Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/aria-the-scarlet-ammo-15th-anniversary-short-anime-reveals-title-release-date-key-visual",
-      "description": "The production staff and cast details were also confirmed",
-      "pubDate": "2026-11-22T08:31:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/0d6452bcc7/aria-the-scarlet-ammo.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Hidan no Aria Corto' Reveals Main Staff, New Cast, April 2027 Premiere",
-      "link": "https://myanimelist.net/news/74967474?_location=rss",
-      "description": "The MF Bunko J Autumn School Festival 2026 event revealed the main staff, new cast, and a key visual (pictured) for Hiden no Aria Corto (Aria the Scarlet Ammo Corto) on Sunday. The short anime adapting Chuugaku Akamatsu's action comedy light novel will stream on various platforms beginning in April 2027. Cast Kinji Tooyama: Junji Majima (Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!) Aria Holmes Kanzaki: Rie Kugimiya (Gintama) Shirayuki Hotogi: Mikako Takahashi (D-Frag!)...",
-      "pubDate": "2026-11-22T08:30:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795324628-b6bcb595759424b430ea61b85ef48af7.jpeg"
-    },
-    {
-      "id": "ann-aS8uMjQ0MDYx",
-      "title": "Mission: Yozakura Family Season 2 Anime's 2nd Part Casts Shinichirō Miki",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/mission-yozakura-family-season-2-anime-2nd-part-casts-shinichiro-miki/.244061",
-      "description": "New character appears in episode 47",
-      "pubDate": "2026-11-22T08:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDA3NQ",
-      "title": "New Aria the Scarlet Ammo Short Anime Unveils Title, New & Returning Cast, April 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/new-aria-the-scarlet-ammo-short-anime-unveils-title-new-and-returning-cast-april-2027-debut/.244075",
-      "description": "Main staff for Hidan no Aria Corto short anime also revealed",
-      "pubDate": "2026-11-22T08:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "The Detective Is Already Dead Season 2 Anime Releases New Arc Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/the-detective-is-already-dead-season-2-anime-new-arc-trailer-visual",
-      "description": "Crunchyroll currently streams the new season",
-      "pubDate": "2026-11-22T06:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ea20220700/the-detective-is-already-dead-season-2-new-arc-trailer.jpg"
-    },
-    {
-      "id": "ann-Yy8uMjQ0MDc0",
-      "title": "The Detective is Already Dead Anime's 2nd Season Reveals Trailer, Visual for New Arc",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/the-detective-is-already-dead-anime-2nd-season-reveals-trailer-visual-for-new-arc/.244074",
-      "description": "New season debuted on October 7",
-      "pubDate": "2026-11-22T06:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDA1Mw",
-      "title": "Uma Musume Pretty Derby Joins the Denver Broncos",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-21/uma-musume-pretty-derby-joins-the-denver-broncos/.244053",
-      "description": "The horse-girls are suiting up to take on the Miami Dolphins",
-      "pubDate": "2026-11-22T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Events",
-      "image": null
-    },
-    {
-      "id": "cr-bm91bmNlZA",
-      "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table Anime Sequel Announced",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/shiboyugi-playing-death-games-to-put-food-on-the-table-anime-sequel-announced",
-      "description": "A teaser visual featuring Yuki was also released",
-      "pubDate": "2026-11-22T04:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/82f79c35fb/shiboyugi-playing-death-games-to-put-food-on-the-table.jpg"
     }
   ]
 };
