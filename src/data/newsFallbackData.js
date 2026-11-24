@@ -1,7 +1,177 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-23T16:36:45.575Z",
+  "lastUpdated": "2026-11-24T03:30:56.428Z",
   "items": [
+    {
+      "id": "ann-LjI0NDE0MA",
+      "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
+      "description": "Staff: Voice comic itself does not use generative AI",
+      "pubDate": "2026-11-24T03:22:47.000Z",
+      "source": "Anime News Network",
+      "category": "AI",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFC/cms/news.10/244140/getbackers.jpg"
+    },
+    {
+      "id": "ann-LjI0NDA0OQ",
+      "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Anime's Video Unveils Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-anime-video-unveils-cast/.244049",
+      "description": "Kaori Maeda, Yūko Natsuyoshi, more star in romcom debuting in 2027",
+      "pubDate": "2026-11-24T03:11:47.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/youtube/jAV5noX1OHM.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxNDI",
+      "title": "Psyren TV Anime Adds 6 Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/psyren-tv-anime-adds-6-cast-members/.244142",
+      "description": "Takaya Kuroda, Wataru Komada, Mutsumi Tamura, Mitsuki Saiga, Ayana Taketatsu, Kana Ichinose join cast",
+      "pubDate": "2026-11-24T03:04:07.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/cms/news.10/244142/psyren-tsuikacast.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQ0MTAy",
+      "title": "Manga Creator Tsukasa Sei Dies",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102",
+      "description": "Sei serialized Mukashi wa Yokatta manga in Shonen Jump+ in 2023",
+      "pubDate": "2026-11-24T01:34:14.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGE/cms/news.10/244102/mukashiwayokatta.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxMzg",
+      "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
+      "description": "Charles Melton also in talks to join cast",
+      "pubDate": "2026-11-24T01:22:42.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0M/herald/203319/img-character2.png.jpg"
+    },
+    {
+      "id": "cr-bWVtYmVycw",
+      "title": "PSYREN Anime Announces 6 New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/24/psyren-anime-new-cast-members",
+      "description": "Crunchyroll is currently streaming the anime series",
+      "pubDate": "2026-11-24T00:35:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/40cafe3e83/psyren-new-cast-members.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQ0MTM2",
+      "title": "#I'm Looking For a Zombie ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episode-7/.244136",
+      "description": "This whole mini-arc was nothing but setup, with barely any payoff.",
+      "pubDate": "2026-11-24T00:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/episode-review.5/244136/vlcsnap-2026-11-23-16h50m54s569.png.jpg"
+    },
+    {
+      "id": "ann-LjI0NDEzNQ",
+      "title": "Firefly Wedding ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/firefly-wedding/episode-7/.244135",
+      "description": "Our boy Shinpei is just as much a prisoner as Satoko is.",
+      "pubDate": "2026-11-23T23:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g83/cms/episode-review.5/244135/screenshot-2026-11-23-124828.png.jpg"
+    },
+    {
+      "id": "ann-Ny8uMjQ0MTIw",
+      "title": "Blue Box Season 2 ‒ Episode 7",
+      "link": "https://www.animenewsnetwork.com/review/blue-box-season-2/episode-7/.244120",
+      "description": "Blue Box is finally paying off all those romantic promises made in that very first episode, and it's come with interest to spare, ensuring all accounts are settled in full.",
+      "pubDate": "2026-11-23T22:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/244120/blue-box-s2-eps-7.png.jpg"
+    },
+    {
+      "id": "ann-OC8uMjQ0MDY2",
+      "title": "Black Clover Season 2 ‒ Episode 178",
+      "link": "https://www.animenewsnetwork.com/review/black-clover-season-2/episode-178/.244066",
+      "description": "Nice cinematic touch ya got going on here, Black Clover. Nice cinematic touch. Somewhere out there, the ghost of Sergei Eisenstein is blushing.",
+      "pubDate": "2026-11-23T21:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIJ/cms/episode-review.5/244066/black-clover-s2-e8.png.jpg"
+    },
+    {
+      "id": "cr-ZS04LXJlY2Fw",
+      "title": "The Apothecary Diaries Season 3, Episode 8 Recap, “Hemp and Folk Religion”",
+      "link": "https://crunchyroll.com/news/features/2026/11/23/the-apothecary-diaries-season-3-episode-8-recap",
+      "description": "The road trip continues",
+      "pubDate": "2026-11-23T20:30:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Features",
+      "image": "https://a.storyblok.com/f/178900/960x540/ed57a4d5bd/the-apothecary-diaries-season-3-episode-8.png"
+    },
+    {
+      "id": "ann-LjI0NDA5OQ",
+      "title": "Romelia War Chronicle ‒ Episode 8",
+      "link": "https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-8/.244099",
+      "description": "Romelia is cunning enough to understand that wars are won first and foremost by the strength of the supply line.",
+      "pubDate": "2026-11-23T20:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLN/cms/episode-review.5/244099/romelia-8.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxMDM",
+      "title": "Overgeared ‒ Episode 9",
+      "link": "https://www.animenewsnetwork.com/review/overgeared/episode-9/.244103",
+      "description": "As Overgeared keeps trying to let Grid cake and eat it too, all its attempts to subvert the usual expectations of a gamer fantasy just circle back to playing them straight.",
+      "pubDate": "2026-11-23T19:30:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7B/cms/episode-review.5/244103/overgeared.png.jpg"
+    },
+    {
+      "id": "ann-LjI0Mzg2OQ",
+      "title": "The Anime News Network Holiday Gift Guide 2026",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-23/the-anime-news-network-holiday-gift-guide-2026/.243869",
+      "description": "Unlike boring catalogs, our gift guide helps you find what the otaku in your life might be missing, from fancy Blu-ray sets to a Baki rug for your at-home grappling matches!",
+      "pubDate": "2026-11-23T18:37:19.000Z",
+      "source": "Anime News Network",
+      "category": "Merch",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFU/cms/feature/218018/ann-holiday-gift-guide-boxes.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDM1MzI",
+      "title": "Another Eden Begins Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/nintendo-switch-switch-2-and-pc/another-eden-begins/.243532",
+      "description": "The story is a slow burn, but patience is rewarded in seeing some incredibly emotional storytelling.",
+      "pubDate": "2026-11-23T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/game-review/243532/another-eden-begins-cover.png.jpg"
+    },
+    {
+      "id": "ann-dC8uMjQ0MTA5",
+      "title": "Akane-banashi Season 2 Announces January 9 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-23/akane-banashi-season-2-announces-january-9-debut/.244109",
+      "description": "New season starts streaming on ABEMA, Netflix on January 10",
+      "pubDate": "2026-11-23T16:54:44.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/news.10/243178/ab2-kv-english-r-sm.jpg"
+    },
+    {
+      "id": "cr-bmV3LWNhc3Q",
+      "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! Anime Adds 3 New Cast",
+      "link": "https://crunchyroll.com/news/latest/2026/11/23/magical-buffs-the-support-caster-is-stronger-than-he-realized-anime-3-new-cast",
+      "description": "The series is scheduled to premiere on January 4, 2027",
+      "pubDate": "2026-11-23T16:43:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/b117467361/magical_buffs_heidemarie_header.jpg"
+    },
     {
       "id": "cr-LXByZW1pZXJl",
       "title": "Akane-banashi Season 2 Anime Premieres on January 9, 2027",
@@ -253,9 +423,9 @@ export const INITIAL_NEWS_DATA = {
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795360015-bddcc754aae52a1000ca2296cd171e55.jpeg"
     },
     {
-      "id": "ann-Ly4yNDQwOTI",
-      "title": "Witch on the Holy Night Film Expands 981 Cuts for ScreenX Release",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-cuts-for-screenx-release/.244092",
+      "id": "ann-ZS8uMjQ0MDky",
+      "title": "Witch on the Holy Night Film Expands 981 Shots for ScreenX Release",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-shots-for-screenx-release/.244092",
       "description": "New trailer: ufotable updated 67 minutes for premium screenings starting on Friday",
       "pubDate": "2026-11-22T15:02:44.000Z",
       "source": "Anime News Network",
@@ -320,7 +490,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T11:00:00.000Z",
       "source": "Anime News Network",
       "category": "Music",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHW/cms/news.10/244080/subway.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -340,7 +510,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T10:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/cms/news.10/244063/shozen-kv.jpg"
+      "image": null
     },
     {
       "id": "cr-cy12aXN1YWw",
@@ -380,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T08:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH1/cms/news.10/244061/yozakura.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDA3NQ",
@@ -390,7 +560,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T08:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLL/cms/news.10/244075/aria.jpg"
+      "image": null
     },
     {
       "id": "cr-ZXItdmlzdWFs",
@@ -410,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T06:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.10/244074/detective-is-already-dead-visual.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0NDA1Mw",
@@ -420,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-22T04:59:00.000Z",
       "source": "Anime News Network",
       "category": "Events",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/herald/203263/2027broncos-collabokv-w1500h2000-white-02-l1795126500b.jpg"
+      "image": null
     },
     {
       "id": "cr-bm91bmNlZA",
@@ -431,176 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/82f79c35fb/shiboyugi-playing-death-games-to-put-food-on-the-table.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Shibou Yuugi de Meshi wo Kuu.' Sequel Anime in Production",
-      "link": "https://myanimelist.net/news/74967311?_location=rss",
-      "description": "The MF Bunko J Autumn School Festival 2026 event announced on Sunday that a sequel for the Shibou Yuugi de Meshi wo Kuu. (Shiboyugi: Playing Death Games to Put Food on the Table) anime series is in production, revealing an \"ultra\" teaser visual (pictured). Produced by Studio Deen, the television anime adapting Yuushi Ukai's action suspense light novel aired in 11 episodes in Winter 2026. Crunchyroll simulcasted the anime with subtitles and dubs in multiple languages. Shibou Yuugi...",
-      "pubDate": "2026-11-22T04:30:03.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795319620-b7a52ba53e8de23d27f27f10be78b86d.jpeg"
-    },
-    {
-      "id": "cr-ZXItdmlzdWFs",
-      "title": "Bride of the Barrier Master Anime Trailer Reveals Premiere Date, Opening Theme Song",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/bride-of-the-barrier-master-anime-january-6-release-date-main-trailer-visual",
-      "description": "A main visual and two cast additions were also revealed",
-      "pubDate": "2026-11-22T04:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/dacba06eb9/bride-of-the-barrier-master.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Kekkaishi no Ichirinka' Reveals Additional Cast, Staff, Opening Theme, First Promo",
-      "link": "https://myanimelist.net/news/74967291?_location=rss",
-      "description": "The official website of the Kekkaishi no Ichirinka (Bride of the Barrier Master) television anime revealed additional cast, staff, a key visual (pictured), the opening theme, and first promotional video on Sunday. The anime series adapting Kureha's romantic supernatural novel is scheduled to premiere on January 6 at 11:00 p.m. on Tokyo MX, followed by BS Nippon Television, Sun TV, and other stations. The first episode will air as a one-hour special. A preview screening event featuring a tal...",
-      "pubDate": "2026-11-22T03:49:18.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795319310-9527ecc36c77c322b4f7b02662a10bd7.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDQwNzM",
-      "title": "Bride of the Barrier Master TV Anime Reveals 1-Hour Debut on January 6, More Cast in Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/bride-of-the-barrier-master-tv-anime-reveals-1-hour-debut-on-january-6-more-cast-in-video/.244073",
-      "description": "Naniwa Danshi performs opening theme; Chiaki Kobayashi, Takuya Eguchi join cast",
-      "pubDate": "2026-11-22T03:38:39.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL7/youtube/X6R__ZiTM2Y.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki' Airs in 2027",
-      "link": "https://myanimelist.net/news/74967203?_location=rss",
-      "description": "The MF Bunko J Autumn School Festival 2026 event revealed cast members, main staff, and a teaser visual (pictured) for Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2-nensei-hen 2 Gakki (Classroom of the Elite 5th Season: Second Year, Second Semester) on Sunday. The first part of the fifth season adapting Shougo Kinugasa's 2-nensei-hen (Year 2) sequel light novel will premiere in 2027. Cast Kiyotaka Ayanokouji: Shouya Chiba (86) Suzune Horikita: Akari Kitou (Mato Seihei no Sla...",
-      "pubDate": "2026-11-22T03:16:05.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795317332-d7b96857edc3703b90525f37babb584d.jpeg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Classroom of the Elite 5th Season: Second Year, Second Semester Part 1 Anime Reveals 2027 Premiere, Teaser Trailer and Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/classroom-of-the-elite-season-5-part-1-anime-2027-premiere-teaser-trailer-visual",
-      "description": "The new season will consist of \"Part 1\" and \"Part 2\"",
-      "pubDate": "2026-11-22T03:15:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e8f645b3ce/classroom-of-the-elite-5th-season-part-1-header.png"
-    },
-    {
-      "id": "ann-LjI0NDA1MQ",
-      "title": "Classroom of the Elite Anime's 5th Season Reveals Full Title, Visual, 2027 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/classroom-of-the-elite-anime-5th-season-reveals-full-title-visual-2027-debut/.244051",
-      "description": "New season to cover 1st half of 2nd semester in Year 2",
-      "pubDate": "2026-11-22T03:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDA/cms/news.10/244051/thumbnail.png.jpg"
-    },
-    {
-      "id": "ann-YS8uMjQ0MDY1",
-      "title": "Mawaru Penguindrum Anime Inspires Stage Reading Production by Kunihiko Ikuhara",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/mawaru-penguindrum-anime-inspires-stage-reading-production-by-kunihiko-ikuhara/.244065",
-      "description": "Ikuhara co-writes, co-directs February 6-7 Reading in the dark: Kodomo Broiler Sensō",
-      "pubDate": "2026-11-22T00:56:53.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gSM/cms/news.10/244065/hxjmihtacaarsbi.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQwNjQ",
-      "title": "Kurumizawa's Folly Manga Ends in 3 Chapters",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/kurumizawa-folly-manga-ends-in-3-chapters/.244064",
-      "description": "Series debuted in September 2025",
-      "pubDate": "2026-11-22T00:25:29.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBL/herald/203261/hxla6fdayaad-hu.jpeg"
-    },
-    {
-      "id": "ann-Ly4yNDMwNTQ",
-      "title": "Angel Next Door Spoils Me Rotten Season 2 Anime Series Review",
-      "link": "https://www.animenewsnetwork.com/review/angel-next-door-spoils-me-rotten/season-2/.243054",
-      "description": "I regret to inform you that, as it turns out, the first season is only the shaky preamble to the cacophonous chronicle of courtship that is its second season.",
-      "pubDate": "2026-11-21T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g1E/cms/review.2/243054/angelnextdoors2full.jpg"
-    },
-    {
-      "id": "cr-bW1lcmNpYWw",
-      "title": "MAPPA, Men's Hair Care Brand MARO17 Reunite for 4th Collab Commercial",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/mappa-maro17-mens-hair-care-4th-commercial",
-      "description": "Two new characters join the popular anime ad",
-      "pubDate": "2026-11-21T16:50:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1280x720/6c4759726b/mappa-maro17-ad-2026.png"
-    },
-    {
-      "id": "cr-YW5kLWFyYw",
-      "title": "A Tale of the Secret Saint Anime Reveals New Key Art for Sutherland Arc",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/a-tale-of-the-secret-saint-anime-new-key-art-sutherland-arc",
-      "description": "Crunchyroll is currently streaming the anime series as it airs",
-      "pubDate": "2026-11-21T16:32:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/6c4be03516/a_tale_of_the_secret_saint_header.jpg"
-    },
-    {
-      "id": "ann-Ni8uMjQ0MDU5",
-      "title": "The Apothecary Diaries Season 3 ‒ Episode 56",
-      "link": "https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-56/.244059",
-      "description": "As Shakespeare said in Henry IV Part Two, “uneasy is the head that wears a crown.”",
-      "pubDate": "2026-11-21T16:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLH/cms/episode-review.5/244059/apothecary-56.png.jpg"
-    },
-    {
-      "id": "cr-bW1lcmNpYWw",
-      "title": "Witch on the Holy Night Anime Film Reveals 3rd Key Visual, TV Commercial",
-      "link": "https://crunchyroll.com/news/latest/2026/11/21/witch-on-the-holy-night-anime-film-3rd-key-visual-tv-commercial",
-      "description": "Witch on the Holy Night will release worldwide in January 2027",
-      "pubDate": "2026-11-21T16:21:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x544/91c8487e12/witch_on_the_holy_night_header3.jpg"
-    },
-    {
-      "id": "ann-MC8uMjQ0MDU4",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 10",
-      "link": "https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-10/.244058",
-      "description": "This episode punches up many of the ideas that made the original Dio one of the most iconic villains in anime, and it's so much fun to see Araki’s original ideas explored again.",
-      "pubDate": "2026-11-21T15:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/episode-review.5/244058/sbr-ep-10-review-image.jpg"
-    },
-    {
-      "id": "ann-LjI0NDA0Mw",
-      "title": "New Hana-Kimi Live-Action Series Reveals Theme Songs, Short Video",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-21/new-hana-kimi-live-action-series-reveals-theme-songs-short-video/.244043",
-      "description": "CIRRA, Ryugujo perform themes for series debuting on December 5",
-      "pubDate": "2026-11-21T15:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDA1Nw",
-      "title": "Magic Knight Rayearth ‒ Episode 7",
-      "link": "https://www.animenewsnetwork.com/review/magic-knight-rayearth/episode-7/.244057",
-      "description": "The mental image of someone having to fill out an I-9 form to work for Zagato is hilarious.",
-      "pubDate": "2026-11-21T14:30:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": null
     }
   ]
 };
