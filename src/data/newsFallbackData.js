@@ -1,7 +1,257 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-25T01:40:17.044Z",
+  "lastUpdated": "2026-11-25T16:15:37.778Z",
   "items": [
+    {
+      "id": "ann-LjI0NDE4Mw",
+      "title": "K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183",
+      "description": "\"Evergreen\" video to debut on Monday",
+      "pubDate": "2026-11-25T15:15:40.000Z",
+      "source": "Anime News Network",
+      "category": "Music",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGA/cms/daily-briefs/244183/hx30aglbaaakrlm.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDI5MzA",
+      "title": "Dragon And Chameleon Is Series Born From Unwavering Commitment",
+      "link": "https://www.animenewsnetwork.com/feature/2026-11-25/dragon-and-chameleon-is-series-born-from-unwavering-commitment/.242930",
+      "description": "It's clear there is a lot of passion and dedication for this series, not just from the author, but from everyone involved in helping bring it to as many people as possible.",
+      "pubDate": "2026-11-25T14:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGF/cms/feature/242930/img-9543.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Kakunaru Ue wa' Unveils Additional Cast, Theme Songs, Second Promo",
+      "link": "https://myanimelist.net/news/74979929?_location=rss",
+      "description": "The official website of the Kakunaru Ue wa (Now That We Draw) television anime unveiled additional cast, a key visual (pictured), the theme songs, and second promotional video on Wednesday. The anime series adapting Kyuu Takahata and Yuuji Kaba's romantic comedy manga is scheduled to premiere on January 9 at 12:30 a.m. on Tokyo MX and BS11, followed by AT-X. Voice actors Hina Youmiya (Boku no Kokoro no Yabai Yatsu) and Kousuke Toriumi (Youjo Senki) are joining the cast as Ren Shioiri and Oy...",
+      "pubDate": "2026-11-25T12:38:37.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795610276-d275af0f265aa7fa09e813ba8651709f.jpeg"
+    },
+    {
+      "id": "ann-Ny8uMjQ0MTg3",
+      "title": "'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/at-25-00-in-akasaka-boys-love-manga-gets-tv-anime-in-2027/.244187",
+      "description": "Sōma Saitō, Takuya Satō star in anime of Hiroko Natsuno's manga",
+      "pubDate": "2026-11-25T11:17:56.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/news.10/244187/akasaka.jpeg"
+    },
+    {
+      "id": "cr-ZW1lLXNvbmc",
+      "title": "Kindergarten Wars Anime Reveals April 2027 Premiere in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/kindergarten-wars-anime-april-2027-premiere-new-trailer-main-visual-ado-opening-theme-song",
+      "description": "Ado has been announced as the opening theme song artist",
+      "pubDate": "2026-11-25T11:10:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/4267904746/kindergarten-wars-anime-shocked.png"
+    },
+    {
+      "id": "cr-LWZvci0yMDI3",
+      "title": "At 25:00 in Akasaka Anime Adaptation Announced for 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/at-25-00-in-akasaka-anime-adaptation-announced-for-2027",
+      "description": "The lead cast members were also revealed",
+      "pubDate": "2026-11-25T10:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/2664x1498/bcb120686a/at-25-00-in-arasaka.png"
+    },
+    {
+      "id": "ann-LjI0NDE4Ng",
+      "title": "'Now That We Draw' Anime's New Video Unveils More Cast, Ending Song Artist, January 8 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/now-that-we-draw-anime-new-video-unveils-more-cast-ending-song-artist-january-8-debut/.244186",
+      "description": "Hina Yomiya joins cast; Inner Journey perform ending song \"Serifu wa Iranai\"",
+      "pubDate": "2026-11-25T10:50:35.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gID/encyc/A38035-2959408585.1776838019.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Manga '25-ji, Akasaka de' Gets TV Anime in 2027",
+      "link": "https://myanimelist.net/news/74979702?_location=rss",
+      "description": "An official website opened for a television anime adaptation of Hiroko Natsuno's 25-ji, Akasaka de (At 25:00 in Akasaka) web manga on Wednesday, revealing the main cast, teaser visual (pictured), and teaser promotional video. The anime will premiere on TBS in 2027. Voice actors Souma Saitou (Odayaka Kizoku no Kyuuka no Susume.) and Takuya Satou (Super no Ura de Yani Suu Futari) are starring in the anime as Yuki Shirasaki and Asami Hayama, respectively. Natsuno began serializing the boys&#03...",
+      "pubDate": "2026-11-25T10:47:18.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795603457-c182e4d25f29fcda8b0a869dd86f149e.jpeg"
+    },
+    {
+      "id": "cr-c2UtZGF0ZQ",
+      "title": "Migratory Birds And Snail Anime Premieres in Summer 2027",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/migratory-birds-and-snail-anime-summer-2027-release-date",
+      "description": "The series follows a mechanic and an illustrator who travel together",
+      "pubDate": "2026-11-25T10:08:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/800x419/97e3c60874/migratory-birds-and-snail-volume-7-header.jpg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Now That We Draw Anime Releases New Trailer, Key Visual",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/now-that-we-draw-anime-january-8-release-date-main-trailer-theme-songs-visual",
+      "description": "The rom-com series premieres on January 8, 2027",
+      "pubDate": "2026-11-25T09:53:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/05c1f11516/now-that-we-draw.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxODU",
+      "title": "Migratory Birds & Snail TV Anime Debuts Next Summer",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185",
+      "description": "Adaptation of Makoto Takatsu's road trip manga announced in 2024",
+      "pubDate": "2026-11-25T09:44:34.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJB/cms/news.10/244185/birds2.png.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Youchien Wars' Unveils Additional Staff, Main Promo, Opening Theme",
+      "link": "https://myanimelist.net/news/74979574?_location=rss",
+      "description": "The official website for the Youchien Wars (Kindergarten Wars) revealed additional staff, opening theme, main visual (pictured), and main promotional video on Wednesday. The anime series adapting You Chiba's action comedy manga will air on TV Tokyo network stations in April 2027. Staff Series Composition, Script: Takaomi Kanasaki (Silent Witch) Art Director: Satoru Kuwahara (Isekai Yururi Kikou) Color Design: Saori Yoshida (Kono Subarashii Sekai ni Shukufuku wo!) CG Director: Masami Suzuki...",
+      "pubDate": "2026-11-25T09:23:54.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795598570-45a9ea2b8081983317fb43b76a82959a.jpeg"
+    },
+    {
+      "id": "ann-Ly4yNDQxNzY",
+      "title": "Kindergarten Wars Anime's Video Reveals More Staff, ado's Opening Song, April Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176",
+      "description": "Ado performs anime's opening theme \"Bibayatarametta\"",
+      "pubDate": "2026-11-25T09:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/youtube/o5Ua73kZCUU.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Himekishi-sama no Himo' Reveals Supporting Cast, Second Promo",
+      "link": "https://myanimelist.net/news/74979528?_location=rss",
+      "description": "The official website for the Himekishi-sama no Himo (The Kept Man of the Princess Knight) television anime adaptation revealed supporting cast and second promotional video on Wednesday. The anime adapting Tooru Shirogane's action fantasy light novel will premiere on AT-X on January 3 at 11.30 p.m., followed by broadcasts on Tokyo MX and BS Asahi. Cast Ralph: Yuuya Hirose (World Is Dancing) Noelle: Manaka Iwami (Oni no Hanayome) Beatrice Maretto: Shion Wakayama (Tefuda ga Oome no Victoria) C...",
+      "pubDate": "2026-11-25T08:45:57.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795596294-fee4c2369649790d499ea47e2e1038ab.jpeg"
+    },
+    {
+      "id": "cr-YWwtY2FzdA",
+      "title": "The Kept Man of the Princess Knight Anime Reveals January 3, 2027 Premiere in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/the-kept-man-of-the-princess-knight-anime-main-trailer-january-3-2027-release-date-additional-cast",
+      "description": "The fantasy series' ending theme song is also previewed",
+      "pubDate": "2026-11-25T08:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/e8d02bdd40/the-kept-man-of-the-princess-knight.jpg"
+    },
+    {
+      "id": "ann-LjI0NDE3Nw",
+      "title": "The Kept Man of the Princess Knight Anime's New Video Reveals More Cast, Ending Song, January 3 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-25/the-kept-man-of-the-princess-knight-anime-new-video-reveals-more-cast-ending-song-january-3-debut/.244177",
+      "description": "Yūya Hirose, Manaka Iwami, Shion Wakayama, Saori Ōnishi join anime's cast",
+      "pubDate": "2026-11-25T08:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIK/cms/news.10/244177/knight.jpg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "Supporting Cast for 'Cheat Fuyo' Announced",
+      "link": "https://myanimelist.net/news/74979057?_location=rss",
+      "description": "The official X account of the Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add \"Enhancement Points\" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want, but Are the People Left Behind Going to Be Okay?)...",
+      "pubDate": "2026-11-25T06:01:20.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795586386-b03f092d6442d5bd51049f7ad8cbad2f.jpeg"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Historie' Unveils Production Staff, Additional Cast, Theme Songs, Second Promo",
+      "link": "https://myanimelist.net/news/74978922?_location=rss",
+      "description": "The official website for the television anime adaptation of Hitoshi Iwaaki's Historie manga revealed the production staff, additional cast, theme songs, key visual (pictured), and a second promotional video on Wednesday. The anime is scheduled to premiere as a two-episode special on January 9 at 1:23 a.m. on MBS, TBS, CBC, and Prime Video, followed by BS-TBS and AT-X. Cast Antigonus: Fumihiko Tachiki (Bleach) Satura: Akira Sekine (Tenmaku no Jaadugar) Bato: Toshiki Masuda (Boku no Hero Acad...",
+      "pubDate": "2026-11-25T04:35:33.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795581323-ed622d604aea0a0992a1e53153edcc03.jpeg"
+    },
+    {
+      "id": "cr-LXZpc3VhbA",
+      "title": "Historie Anime Reveals Premiere Date, Theme Songs in New Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/historie-anime-january-8-release-date-trailer-key-visual",
+      "description": "A key visual, staff details and six cast additions were also shared",
+      "pubDate": "2026-11-25T04:16:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1460x821/046bd64155/historie.jpg"
+    },
+    {
+      "id": "ann-LjI0NDE3Mw",
+      "title": "Historie Anime's Video Unveils More Cast & Staff, Theme Songs, January 8 Debut",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/historie-anime-video-unveils-more-cast-and-staff-theme-songs-january-8-debut/.244173",
+      "description": "Fumihiko Tachiki, Akira Sekine, Toshiki Masuda, Ryōta Takeuchi, Seiichirō Yamashita join cast",
+      "pubDate": "2026-11-25T04:08:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/youtube/MSYV142dqsg.jpg"
+    },
+    {
+      "id": "ann-Zy8uMjQ0MTQ5",
+      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149",
+      "description": "Jin Urayama, HItomi Shogawa, Nao Shiraki, Akiko Seri join cast with music by  Kuricorder Quartet",
+      "pubDate": "2026-11-25T03:12:53.000Z",
+      "source": "Anime News Network",
+      "category": "Anime",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/youtube/q-LKeN4TruM.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxNjk",
+      "title": "Live-Action 10 Things I Want to Do Before I Turn 40 Film's Trailer Reveals Theme Song",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/live-action-10-things-i-want-to-do-before-i-turn-40-film-trailer-reveals-theme-song/.244169",
+      "description": "sumika performs theme song \"Taisetsu\" for January 22 film",
+      "pubDate": "2026-11-25T02:04:32.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPF/youtube/_t6sjT70XdA.jpg"
+    },
+    {
+      "id": "cr-YnVjay10aWNr",
+      "title": "BUCK∞TICK Shares DARK MACHINE THE ANIMATION Opening Song Music Video",
+      "link": "https://crunchyroll.com/news/latest/2026/11/25/dark-machine-the-animation-opening-song-music-video-buck-tick",
+      "description": "The original mecha esports series is currently available on Crunchyroll",
+      "pubDate": "2026-11-25T02:03:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/c12bd667bf/buck-tick-sonzai-riyu-kai-mv.jpg"
+    },
+    {
+      "id": "ann-cy8uMjQ0MTY1",
+      "title": "Frieren: Beyond Journey's End Manga Gets Spinoff Manga Mini-Series",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/frieren-beyond-journey-end-manga-gets-spinoff-manga-mini-series/.244165",
+      "description": "Sōsō no Frieren: Betsutan launches on December 2",
+      "pubDate": "2026-11-25T01:50:33.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.10/244165/frieren.png.jpg"
+    },
+    {
+      "id": "ann-Ly4yNDQxNjg",
+      "title": "Live-Action 2027 Kaiji Film Unveils Full Trailer, Poster, More Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/live-action-2027-kaiji-film-unveils-full-trailer-poster-more-cast/.244168",
+      "description": "Katsuhisa Namase, Ken Mitsuishi, Yusuke Onuki, more join cast of January 29 film",
+      "pubDate": "2026-11-25T01:25:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJF/youtube/3mNGGgIRryI.jpg"
+    },
     {
       "id": "cr-dC1tZW1iZXJz",
       "title": "Kaiji: Jinsei Revenge Game Live-Action Film Unveils New Main Trailer, Visual, Cast Members",
@@ -21,6 +271,16 @@ export const INITIAL_NEWS_DATA = {
       "source": "Crunchyroll News",
       "category": "Latest News",
       "image": "https://a.storyblok.com/f/178900/960x540/c767aa7e38/godzilla-minus-zero.png"
+    },
+    {
+      "id": "ann-cy8uMjQ0MTY3",
+      "title": "Mitei Hattori's Smile! Manga Gets Live-Action Series With Global Release Plans",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-24/mitei-hattori-smile-manga-gets-live-action-series-with-global-release-plans/.244167",
+      "description": "Suzuki=Bakudan's Akira Nagai, Ryohei Kumamoto helm psychological suspense story",
+      "pubDate": "2026-11-25T00:55:04.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGO/cms/news.10/244167/hx7etj-a4aaawgt.jpg"
     },
     {
       "id": "ann-LjI0NDE0Ng",
@@ -280,7 +540,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T22:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGG/cms/episode-review.5/244120/blue-box-s2-eps-7.png.jpg"
+      "image": null
     },
     {
       "id": "ann-OC8uMjQ0MDY2",
@@ -290,7 +550,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T21:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIJ/cms/episode-review.5/244066/black-clover-s2-e8.png.jpg"
+      "image": null
     },
     {
       "id": "cr-ZS04LXJlY2Fw",
@@ -310,7 +570,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T20:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLN/cms/episode-review.5/244099/romelia-8.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDQxMDM",
@@ -320,7 +580,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T19:30:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g7B/cms/episode-review.5/244103/overgeared.png.jpg"
+      "image": null
     },
     {
       "id": "ann-LjI0Mzg2OQ",
@@ -330,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T18:37:19.000Z",
       "source": "Anime News Network",
       "category": "Merch",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFU/cms/feature/218018/ann-holiday-gift-guide-boxes.png.jpg"
+      "image": null
     },
     {
       "id": "ann-Ly4yNDM1MzI",
@@ -340,267 +600,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-23T17:00:00.000Z",
       "source": "Anime News Network",
       "category": "Games",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/game-review/243532/another-eden-begins-cover.png.jpg"
-    },
-    {
-      "id": "ann-dC8uMjQ0MTA5",
-      "title": "Akane-banashi Season 2 Announces January 9 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-23/akane-banashi-season-2-announces-january-9-debut/.244109",
-      "description": "New season starts streaming on ABEMA, Netflix on January 10",
-      "pubDate": "2026-11-23T16:54:44.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFD/cms/news.10/243178/ab2-kv-english-r-sm.jpg"
-    },
-    {
-      "id": "cr-bmV3LWNhc3Q",
-      "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! Anime Adds 3 New Cast",
-      "link": "https://crunchyroll.com/news/latest/2026/11/23/magical-buffs-the-support-caster-is-stronger-than-he-realized-anime-3-new-cast",
-      "description": "The series is scheduled to premiere on January 4, 2027",
-      "pubDate": "2026-11-23T16:43:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/b117467361/magical_buffs_heidemarie_header.jpg"
-    },
-    {
-      "id": "cr-LXByZW1pZXJl",
-      "title": "Akane-banashi Season 2 Anime Premieres on January 9, 2027",
-      "link": "https://crunchyroll.com/news/latest/2026/11/23/akane-banashi-season-2-anime-january-9-2027-premiere",
-      "description": "Ayumu Watanabe will continue to direct the series at studio ZEXCS",
-      "pubDate": "2026-11-23T16:24:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1920x1080/4a8283a00a/akane-banashi-pv-still.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Psyren' Announces Supporting Cast",
-      "link": "https://myanimelist.net/news/74973042?_location=rss",
-      "description": "The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro's Psyren manga announced supporting cast on Monday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Cast Kagetora Hyoudou: Takaya Kuroda (Mairimashita! Iruma-kun) Ian: Wataru Komada (One Punch Man 3) Kyle Tenjuin: Mutsumi Tamura (Tsue to Tsurugi no Wistoria) Shao Tenjuin: Mitsuki Saiga (Tongari Boushi no Atelier) Frederica Tenjuin: Ayana Taketat...",
-      "pubDate": "2026-11-23T15:56:00.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795449241-3a9c8c48a2d0f37bf6c7354ad5014ca1.jpeg"
-    },
-    {
-      "id": "cr-LXZvbC04Mg",
-      "title": "Crunchyroll News Puzzles Vol. 82: Product Testing and Cold Calling",
-      "link": "https://crunchyroll.com/news/quizzes/2026/11/23/anime-crosswords-puzzles-vol-82",
-      "description": "Test your anime knowledge with our latest puzzle collection!",
-      "pubDate": "2026-11-23T15:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Quizzes",
-      "image": "https://a.storyblok.com/f/178900/1600x900/90b789da29/crunchyroll-news-puzzles-header.png"
-    },
-    {
-      "id": "ann-Ly4yNDQxMDg",
-      "title": "From the VIZ Elves to Your Shelves",
-      "link": "https://www.animenewsnetwork.com/advertorial/2026-11-23/from-the-viz-elves-to-your-shelves/.244108",
-      "description": "For each and every fan, there’s something in store, give VIZ this season, and make spirits soar!",
-      "pubDate": "2026-11-23T12:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHY/cms/advertorial/244108/hol2026-giftguide-anncoverimage-400x200.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made' Announces Additional Cast",
-      "link": "https://myanimelist.net/news/74972403?_location=rss",
-      "description": "The official website for the television anime adaptation of Haka Tokura and Shin Arakawa's Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga announced additional cast on Monday. The anime will be broadcast on Tokyo MX, MBS, and BS11 on January 4. Cast Nikura: Yuuki Hirose (Katainaka no Ossan, Kensei ni Naru) Melis: Natsumi Takamori (Bleach: Sennen Kessen-hen) Sophia: Yuka Nukui (Fate/strange Fake) Hideki Okamot...",
-      "pubDate": "2026-11-23T11:08:59.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795432017-5d9529c624c71001c16e6f9cb6ca2ca1.jpeg"
-    },
-    {
-      "id": "ann-LjI0NDExMQ",
-      "title": "Magical Buffs Anime Announces 3 More Cast Members",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111",
-      "description": "Yūki Hirose, Natsumi Takamori, Yuka Nukui join anime debuting on January 4",
-      "pubDate": "2026-11-23T10:28:11.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFG/cms/news.10/242647/kv-in01.jpg"
-    },
-    {
-      "id": "cr-YXNlLWRhdGU",
-      "title": "The Daily Life of the Immortal King Season 6 Releases New Trailer, Visual",
-      "link": "https://crunchyroll.com/news/latest/2026/11/23/the-daily-life-of-the-immortal-king-season-6-trailer-visual-release-date",
-      "description": "Wang Ling returns in the first half of 2027",
-      "pubDate": "2026-11-23T09:48:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/ee7070201a/the-daily-life-of-the-immortal-king-season-6.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQwODc",
-      "title": "Live-Action Wakako-zake Season 10 Unveils January 6 Debut, Year-End Special, Opening Song Artists",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/live-action-wakako-zake-season-10-unveils-january-6-debut-year-end-special-opening-song-artists/.244087",
-      "description": "\"Chichibu no Sake Meguri\" special runs on December 30; idol group Title Mitei performs \"Kyūfu\" opening song",
-      "pubDate": "2026-11-23T02:08:48.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gDB/cms/news.10/244087/sake.webp"
-    },
-    {
-      "id": "ann-cy8uMjQ0MDk2",
-      "title": "Champignon Witch Manga to Resume After 10 Months",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096",
-      "description": "Series debuted in October 2019",
-      "pubDate": "2026-11-23T01:56:05.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFH/cms/news.9/239921/champignon-witch-v1-cnf.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQ0MDk4",
-      "title": "Sakamoto Days Manga Ends",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/sakamoto-days-manga-ends/.244098",
-      "description": "Series debuted in November 2020, with final volume shipping on April 30, 2027",
-      "pubDate": "2026-11-23T00:21:13.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEE/cms/news.8/227062/sakamoto-days-volume-1.jpg"
-    },
-    {
-      "id": "ann-LjI0NDA3OA",
-      "title": "Live-Action The Remarried Empress Series Drives Surge in Original Webtoon, Web Novel Readership",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/live-action-the-remarried-empress-series-drives-surge-in-original-webtoon-web-novel-readership/.244078",
-      "description": "Global views of original webtoon increased approximately 35-fold during 2 weeks following show's November 3 premiere",
-      "pubDate": "2026-11-22T21:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
       "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwNzc",
-      "title": "I Became the Tyrant of a Defense Game Web Novel, Webtoon Gets Mobile Game Adaptation",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077",
-      "description": "Game will feature exploration, territory management, defensive battles",
-      "pubDate": "2026-11-22T20:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwNzk",
-      "title": "Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079",
-      "description": "Manhwa is scheduled to conclude in February 2027 with its 97th collected volume",
-      "pubDate": "2026-11-22T19:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Korean",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQwNTQ",
-      "title": "Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List",
-      "link": "https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054",
-      "description": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
-      "pubDate": "2026-11-22T18:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-bmdhLWVuZHM",
-      "title": "Sakamoto Days Manga Ends in Weekly Shonen Jump",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/sakamoto-days-manga-ends",
-      "description": "The manga series originally premiered in November 2020",
-      "pubDate": "2026-11-22T17:33:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1000x730/583b888e04/sakamoto-days.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQ0MDYy",
-      "title": "Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062",
-      "description": "13 manga volumes including Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece make list",
-      "pubDate": "2026-11-22T17:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "cr-dmlzdWFsLTI",
-      "title": "Shozen Anime Reveals New Trailer, Visual, Cast Additions",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/shozen-anime-trailer-key-visual-2",
-      "description": "The fantasy series premieres April 2027",
-      "pubDate": "2026-11-22T17:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/3b8b8cd152/shozen-hero.png"
-    },
-    {
-      "id": "ann-LjI0MzI1MA",
-      "title": "Japanese Ghost Stories Folio Society Edition Book Review",
-      "link": "https://www.animenewsnetwork.com/review/japanese-ghost-stories/folio-society-edition-book/.243250",
-      "description": "If you're already a fan of yokai, ghost stories, and folklore, this new edition of the early 20th-century book is a beautiful addition to any collection.",
-      "pubDate": "2026-11-22T17:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Novels",
-      "image": null
-    },
-    {
-      "id": "cr-aWxlci1jYXN0",
-      "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 Anime Previews Assassin Arc in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/as-a-reincarnated-aristocrat-season-3-anime-assassin-arc-new-trailer-cast",
-      "description": "Three new cast members were also revealed",
-      "pubDate": "2026-11-22T16:55:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/eed642364c/reincarnated-aristocrat-assassin-arc-hero.png"
-    },
-    {
-      "id": "cr-ci10cmFpbGVy",
-      "title": "Firefly Wedding Anime Introduces Kotaro Ogawa in New Character Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/22/firefly-wedding-anime-kotaro-ogawa-character-trailer",
-      "description": "Crunchyroll currently streams the anime based on Oreco Tachibana's manga",
-      "pubDate": "2026-11-22T16:35:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/251aedf083/firefly_wedding_header_kentaro_ogawa.jpg"
-    },
-    {
-      "id": "ann-LjI0NDA1NQ",
-      "title": "Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-22/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055",
-      "description": "16 manga volumes including Spy x Family, The Summer Hikaru Died, Steel Ball Run, Demon Slayer, Gachiakuta, One Piece, Witch Hat Atelier, Kaiju No. 8, The Apothecary Diaries make list",
-      "pubDate": "2026-11-22T16:15:00.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": null
-    },
-    {
-      "id": "ann-ZS8uMjQ0MDkz",
-      "title": "Voice Actor Kiyono Yasuno Announces Marriage",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-22/voice-actor-kiyono-yasuno-announces-marriage/.244093",
-      "description": "Voice of Saekano's Megumi Katō, Macross Delta's Kaname Buccaneer, My Hero Academia's Nejire Hado",
-      "pubDate": "2026-11-22T16:13:28.000Z",
-      "source": "Anime News Network",
-      "category": "People",
-      "image": null
-    },
-    {
-      "id": "cr-aW5maW5pdHk",
-      "title": "Why Did It Take Me So Long to Watch SK8 the Infinity?",
-      "link": "https://crunchyroll.com/news/features/2026/11/22/late-to-the-party-sk8-the-infinity",
-      "description": "Infinite possibilities",
-      "pubDate": "2026-11-22T16:00:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Features",
-      "image": "https://a.storyblok.com/f/178900/960x540/5d4ff1e708/sk8-the-inifinity-season-1-episode-1.png"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Yozakura-san Chi no Daisakusen' Creator Launches New Manga",
-      "link": "https://myanimelist.net/news/74968770?_location=rss",
-      "description": "The 52nd issue of Weekly Shounen Jump magazine began serializing a new manga by Hitsuji Gondaira, titled Ginza Uradoori Kouban no Hizuki-san (Hizuki of the Ginza Patrol), on Monday. This marks Gondaira's return to serialization in nearly two years following the end of Yozakura-san Chi no Daisakusen in January 2025. Gondaira is best known for Yozakura-san Chi no Daisakusen (Mission: Yozakura Family), which ran in Weekly Shounen Magazine from August 2019 to January 2025. Shueisha published th...",
-      "pubDate": "2026-11-22T15:11:56.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795360263-83d07cad6b32383dfc48802c2003ffd2.jpeg"
     }
   ]
 };
