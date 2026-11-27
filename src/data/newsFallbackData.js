@@ -1,12 +1,132 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-26T15:52:54.272Z",
+  "lastUpdated": "2026-11-27T01:11:48.586Z",
   "items": [
+    {
+      "id": "cr-Zy1kYW5jZQ",
+      "title": "Are You a Landmine, Chihara-san? Anime Music Project Releases 5th Music Video \"Darling Dance\"",
+      "link": "https://crunchyroll.com/news/latest/2026/11/27/are-you-a-landmine-chihara-san-anime-music-project-5th-music-video-darling-dance",
+      "description": "The TV anime is set to premiere on January 7, 2027",
+      "pubDate": "2026-11-27T00:55:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/297b464802/mai-chihara-darling-dance-mv.jpg"
+    },
+    {
+      "id": "cr-LW1lbWJlcnM",
+      "title": "Darwin's Game Live-Action Film Unveils Main Trailer, Visual, New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/27/darwins-game-live-action-film-main-trailer-visual-new-cast-members",
+      "description": "The adaptation hits Japanese theaters on March 12, 2027",
+      "pubDate": "2026-11-27T00:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/8749d35163/darwins-game-live-action-header.jpg"
+    },
+    {
+      "id": "cr-dC1tZW1iZXJz",
+      "title": "Fool Night Anime Announces Three New Cast Members",
+      "link": "https://crunchyroll.com/news/latest/2026/11/26/fool-night-anime-announces-three-new-cast-members",
+      "description": "Nobuo Tobita, Akiko Yajima and Yumiko Kobayashi join the cast",
+      "pubDate": "2026-11-26T23:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1920x1080/885b0a8543/fool-night-pv3.jpeg"
+    },
+    {
+      "id": "ann-dC8uMjQ0MjE5",
+      "title": "Live-Action Darwin's Game Film's Trailer Reveals More Cast",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-26/live-action-darwin-game-film-trailer-reveals-more-cast/.244219",
+      "description": "Raul, Gaku Sano, Haruse Akune, Hinano Nakayama, Kōki Maeda, Kentarō Maeda join cast",
+      "pubDate": "2026-11-26T22:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/youtube/F6IWPEtw9_w.jpg"
+    },
+    {
+      "id": "ann-LjI0NDE1MA",
+      "title": "Ao no Hana Utsuwa no Mori Live-Action Series Gets 2-Episode Spinoff Drama on December 21",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-26/ao-no-hana-utsuwa-no-mori-live-action-series-gets-2-episode-spinoff-drama-on-december-21/.244150",
+      "description": "Ao no Hana Utsuwa no Mori Spinoff Ano Ko no Kuchibeni features new story, cast members; main series also to end on December 17",
+      "pubDate": "2026-11-26T21:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQO/cms/news.10/244150/utsuwa.jpg"
+    },
+    {
+      "id": "cr-Z2EtdGl0YW4",
+      "title": "A Nobody’s Way Up to an Exploration Hero Manga Coming from Titan",
+      "link": "https://crunchyroll.com/news/latest/2026/11/26/a-nobodys-way-up-to-an-exploration-hero-manga-titan",
+      "description": "First volume launches in June 2027",
+      "pubDate": "2026-11-26T20:45:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/eb2096a4ba/a-nobodys-way-up-ep1.png"
+    },
+    {
+      "id": "ann-LjI0NDEwMA",
+      "title": "Live-Action Quiztopia Series Adds 13 Cast Members",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-26/live-action-quiztopia-series-adds-13-cast-members/.244100",
+      "description": "Series debuts on Netflix on December 17",
+      "pubDate": "2026-11-26T19:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Live-Action",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG0/cms/news.10/244100/kokuminquiz-tsuikacast.jpg"
+    },
+    {
+      "id": "cr-dHJhaWxlcg",
+      "title": "Charisma Anime Uncovers Minato Ohse Character Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/26/charisma-anime-minato-ohse-character-trailer",
+      "description": "The media mix adaptation premieres on January 7",
+      "pubDate": "2026-11-26T17:22:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/1280x720/fb598aa1aa/charisma-minato-ohse-hero.png"
+    },
+    {
+      "id": "mal-YXRpb249cnNz",
+      "title": "'Giant Ojousama' Reveals Additional Cast, Character Promo",
+      "link": "https://myanimelist.net/news/74984947?_location=rss",
+      "description": "The official X (formerly Twitter) account for the television anime adaptation of Q Nikumura's Giant Ojousama manga revealed additional cast and three character promotional videos on Friday. The anime is scheduled to premiere in January 2027. Cast Madoka Itou: Risa Imayanagi (Nokemono-tachi no Yoru) Stella: Rina Kawaguchi (Needy Girl Overdose) Gimlet: Ryoutarou Okiayu (Kanan-sama wa Akumade Choroi) Hiroshi Ikehata (Witch Watch) is directing at Tatsunoko Production. Yuu Satou (Haite Kudasai,...",
+      "pubDate": "2026-11-26T17:17:50.000Z",
+      "source": "MyAnimeList",
+      "category": "News",
+      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795713440-f393b5e55ab4e82e1c767dd9d99cb8ec.jpeg"
+    },
+    {
+      "id": "ann-ZS8uMjQ0MTA2",
+      "title": "The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-26/the-dragon-prince-ill-mated-betrothal-manga-ends-gets-3-chapter-epilogue/.244106",
+      "description": "Manga's main story ended on September 17",
+      "pubDate": "2026-11-26T17:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/cms/news.10/244106/ill.jpg"
+    },
+    {
+      "id": "ann-aC8uMjQzNTc3",
+      "title": "ANOMALITH Game Review",
+      "link": "https://www.animenewsnetwork.com/review/game/pc-playsation-5-nintendo-switch-2/anomalith/.243577",
+      "description": "The best way to describe ANOMALITH's strengths is that it manages to do a lot with very little, though that means it often bites off more than it can chew.",
+      "pubDate": "2026-11-26T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Games",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH2/cms/game-review/243577/anomalith-cover.png.jpg"
+    },
+    {
+      "id": "ann-ZS8uMjQ0MjAw",
+      "title": "MangaPlaza Add Seven Seas Titles to Catalogue",
+      "link": "https://www.animenewsnetwork.com/news/2026-11-26/mangaplaza-add-seven-seas-titles-to-catalogue/.244200",
+      "description": "Titles include Mushoku Tensei, The Saint's Magic Power is Omnipotent, The Strange House, more",
+      "pubDate": "2026-11-26T16:15:00.000Z",
+      "source": "Anime News Network",
+      "category": "Manga",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHG/herald/203370/mp-20261125-sevenseas-2208-1242.jpg"
+    },
     {
       "id": "mal-YXRpb249cnNz",
       "title": "Manga 'Isekai Kuimetsu no Same' Receives TV Anime Adaptation",
       "link": "https://myanimelist.net/news/74984559?_location=rss",
-      "description": "An official website opened for a television anime adaptation of Kuboken's Isekai Kuimetsu no Same (Killer Shark in Another World) on Thursday, revealing staff, a teaser visual (pictured), and a teaser promotional video. Staff Director: Shigeru Fukase (Vinland Saga Season 2 episode director) Series Composition, Script: Shigeru Murakoshi (Ballpark de Tsukamaete!) Character Design: Sou Ikuyama (Watashi wo Tabetai, Hitodenashi) Shark Design: Iroha Mitsuki (Shin Shinka no Mi: Shiranai Uchi ni Ka...",
+      "description": "Production company Kadokawa opened an official website for a television anime adaptation of Kuboken's Isekai Kuimetsu no Same (Killer Shark in Another World) on Thursday, revealing the main staff, a teaser visual (pictured), and teaser promotional video. Staff Director: Shigeru Fukase (Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei) Series Composition, Script: Shigeru Murakoshi (Ballpark de Tsukamaete!) Character Design: Sou Ikuyama (Watashi wo Tabetai, Hitodenashi) Shark Design: Iroh...",
       "pubDate": "2026-11-26T15:39:48.000Z",
       "source": "MyAnimeList",
       "category": "News",
@@ -470,7 +590,7 @@ export const INITIAL_NEWS_DATA = {
       "pubDate": "2026-11-25T09:00:00.000Z",
       "source": "Anime News Network",
       "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLB/youtube/o5Ua73kZCUU.jpg"
+      "image": null
     },
     {
       "id": "mal-YXRpb249cnNz",
@@ -481,126 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795596294-fee4c2369649790d499ea47e2e1038ab.jpeg"
-    },
-    {
-      "id": "cr-YWwtY2FzdA",
-      "title": "The Kept Man of the Princess Knight Anime Reveals January 3, 2027 Premiere in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/25/the-kept-man-of-the-princess-knight-anime-main-trailer-january-3-2027-release-date-additional-cast",
-      "description": "The fantasy series' ending theme song is also previewed",
-      "pubDate": "2026-11-25T08:01:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/e8d02bdd40/the-kept-man-of-the-princess-knight.jpg"
-    },
-    {
-      "id": "ann-LjI0NDE3Nw",
-      "title": "The Kept Man of the Princess Knight Anime's New Video Reveals More Cast, Ending Song, January 3 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-25/the-kept-man-of-the-princess-knight-anime-new-video-reveals-more-cast-ending-song-january-3-debut/.244177",
-      "description": "Yūya Hirose, Manaka Iwami, Shion Wakayama, Saori Ōnishi join anime's cast",
-      "pubDate": "2026-11-25T08:00:00.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIK/cms/news.10/244177/knight.jpg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Supporting Cast for 'Cheat Fuyo' Announced",
-      "link": "https://myanimelist.net/news/74979057?_location=rss",
-      "description": "The official X account of the Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? (The Laid-Off Cheat-Granting Mage Enjoys a New Life: I Can Add \"Enhancement Points\" Not Just to Weapons but to Anything, and I Can Cancel the Effects Whenever I Want, but Are the People Left Behind Going to Be Okay?)...",
-      "pubDate": "2026-11-25T06:01:20.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795586386-b03f092d6442d5bd51049f7ad8cbad2f.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "'Historie' Unveils Production Staff, Additional Cast, Theme Songs, Second Promo",
-      "link": "https://myanimelist.net/news/74978922?_location=rss",
-      "description": "The official website for the television anime adaptation of Hitoshi Iwaaki's Historie manga revealed the production staff, additional cast, theme songs, key visual (pictured), and a second promotional video on Wednesday. The anime is scheduled to premiere as a two-episode special on January 9 at 1:23 a.m. on MBS, TBS, CBC, and Prime Video, followed by BS-TBS and AT-X. Cast Antigonus: Fumihiko Tachiki (Bleach) Satura: Akira Sekine (Tenmaku no Jaadugar) Bato: Toshiki Masuda (Boku no Hero Acad...",
-      "pubDate": "2026-11-25T04:35:33.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795581323-ed622d604aea0a0992a1e53153edcc03.jpeg"
-    },
-    {
-      "id": "cr-LXZpc3VhbA",
-      "title": "Historie Anime Reveals Premiere Date, Theme Songs in New Trailer",
-      "link": "https://crunchyroll.com/news/latest/2026/11/25/historie-anime-january-8-release-date-trailer-key-visual",
-      "description": "A key visual, staff details and six cast additions were also shared",
-      "pubDate": "2026-11-25T04:16:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/1460x821/046bd64155/historie.jpg"
-    },
-    {
-      "id": "ann-LjI0NDE3Mw",
-      "title": "Historie Anime's Video Unveils More Cast & Staff, Theme Songs, January 8 Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-24/historie-anime-video-unveils-more-cast-and-staff-theme-songs-january-8-debut/.244173",
-      "description": "Fumihiko Tachiki, Akira Sekine, Toshiki Masuda, Ryōta Takeuchi, Seiichirō Yamashita join cast",
-      "pubDate": "2026-11-25T04:08:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/youtube/MSYV142dqsg.jpg"
-    },
-    {
-      "id": "ann-Zy8uMjQ0MTQ5",
-      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149",
-      "description": "Jin Urayama, HItomi Shogawa, Nao Shiraki, Akiko Seri join cast with music by  Kuricorder Quartet",
-      "pubDate": "2026-11-25T03:12:53.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHI/youtube/q-LKeN4TruM.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQxNjk",
-      "title": "Live-Action 10 Things I Want to Do Before I Turn 40 Film's Trailer Reveals Theme Song",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-24/live-action-10-things-i-want-to-do-before-i-turn-40-film-trailer-reveals-theme-song/.244169",
-      "description": "sumika performs theme song \"Taisetsu\" for January 22 film",
-      "pubDate": "2026-11-25T02:04:32.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPF/youtube/_t6sjT70XdA.jpg"
-    },
-    {
-      "id": "cr-YnVjay10aWNr",
-      "title": "BUCK∞TICK Shares DARK MACHINE THE ANIMATION Opening Song Music Video",
-      "link": "https://crunchyroll.com/news/latest/2026/11/25/dark-machine-the-animation-opening-song-music-video-buck-tick",
-      "description": "The original mecha esports series is currently available on Crunchyroll",
-      "pubDate": "2026-11-25T02:03:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/c12bd667bf/buck-tick-sonzai-riyu-kai-mv.jpg"
-    },
-    {
-      "id": "ann-cy8uMjQ0MTY1",
-      "title": "Frieren: Beyond Journey's End Manga Gets Spinoff Manga Mini-Series",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-24/frieren-beyond-journey-end-manga-gets-spinoff-manga-mini-series/.244165",
-      "description": "Sōsō no Frieren: Betsutan launches on December 2",
-      "pubDate": "2026-11-25T01:50:33.000Z",
-      "source": "Anime News Network",
-      "category": "Manga",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.10/244165/frieren.png.jpg"
-    },
-    {
-      "id": "ann-Ly4yNDQxNjg",
-      "title": "Live-Action 2027 Kaiji Film Unveils Full Trailer, Poster, More Cast",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-24/live-action-2027-kaiji-film-unveils-full-trailer-poster-more-cast/.244168",
-      "description": "Katsuhisa Namase, Ken Mitsuishi, Yusuke Onuki, more join cast of January 29 film",
-      "pubDate": "2026-11-25T01:25:00.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "cr-dC1tZW1iZXJz",
-      "title": "Kaiji: Jinsei Revenge Game Live-Action Film Unveils New Main Trailer, Visual, Cast Members",
-      "link": "https://crunchyroll.com/news/latest/2026/11/25/kaiji-jinsei-revenge-game-live-action-film-new-main-trailer-visual-cast-members",
-      "description": "The fourth Kaiji live-action movie releases in Japan on January 29, 2027",
-      "pubDate": "2026-11-25T01:18:00.000Z",
-      "source": "Crunchyroll News",
-      "category": "Latest News",
-      "image": "https://a.storyblok.com/f/178900/960x540/4c50a112d9/kaiji-jinsei-revenge-game-header.jpg"
     }
   ]
 };
