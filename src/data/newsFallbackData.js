@@ -1,7 +1,67 @@
 // Auto-generated news seed data for instant 0ms load
 export const INITIAL_NEWS_DATA = {
-  "lastUpdated": "2026-11-27T15:41:21.200Z",
+  "lastUpdated": "2026-11-28T00:44:34.161Z",
   "items": [
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Overgeared Anime Releases Action-Packed Special Trailer Ahead of Climax",
+      "link": "https://crunchyroll.com/news/latest/2026/11/28/overgeared-anime-special-climax-trailer",
+      "description": "Crunchyroll is currently streaming the manhwa adaptation",
+      "pubDate": "2026-11-28T00:15:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/1240ae5b96/overgeared-climax-pv.jpg"
+    },
+    {
+      "id": "cr-bm5vdW5jZWQ",
+      "title": "Moru Morumotto Short Anime Announced",
+      "link": "https://crunchyroll.com/news/latest/2026/11/27/moru-morumotto-short-anime-announced",
+      "description": "The first installment is now available to watch on YouTube",
+      "pubDate": "2026-11-27T17:01:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x504/2ea33d130f/moru-morumotto-hero.png"
+    },
+    {
+      "id": "cr-YXJlLXlvdS0",
+      "title": "Which Member of Desir’s Party Are You in A Returner's Magic Should Be Special?",
+      "link": "https://crunchyroll.com/news/quizzes/2026/11/27/which-member-of-desir-s-party-are-you-",
+      "description": "Find out which A Returner’s Magic Should Be Special character is the most like you",
+      "pubDate": "2026-11-27T17:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Quizzes",
+      "image": "https://a.storyblok.com/f/178900/960x540/97ea34291f/a-returners-magic.png"
+    },
+    {
+      "id": "ann-Ly4yNDMzOTI",
+      "title": "Father, I Don't Want This Marriage Volumes 1-4 K-Comic Review",
+      "link": "https://www.animenewsnetwork.com/review/father-i-dont-want-this-marriage/volumes-1-4/.243392",
+      "description": "Father, I Don’t Want This Marriage rapidly becomes a case of misunderstandings fueling misconceptions in delightful romcom fashion, albeit with a dark underbelly.",
+      "pubDate": "2026-11-27T17:00:00.000Z",
+      "source": "Anime News Network",
+      "category": "Korean",
+      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gB6/cms/review.2/243392/father-i-don-t-want.jpg"
+    },
+    {
+      "id": "cr-LXRyYWlsZXI",
+      "title": "Pokémon Horizons Anime Confirms New Season Starting October 2027 in Latest Trailer",
+      "link": "https://crunchyroll.com/news/latest/2026/11/27/pokemon-horizons-anime-new-season-october-2027-trailer",
+      "description": "The current arc ends in three episodes",
+      "pubDate": "2026-11-27T16:54:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Latest News",
+      "image": "https://a.storyblok.com/f/178900/960x540/d4c88a4486/pokemon-new-season-hero.png"
+    },
+    {
+      "id": "cr-ZGVyLWd1aWRl",
+      "title": "How to Watch Tonkatsu DJ Agetaro in Order",
+      "link": "https://crunchyroll.com/news/guides/2026/11/27/tonkatsu-dj-agetaro-watch-order-guide",
+      "description": "Maximize your chill and don’t be a fool",
+      "pubDate": "2026-11-27T16:00:00.000Z",
+      "source": "Crunchyroll News",
+      "category": "Guides",
+      "image": "https://a.storyblok.com/f/178900/1200x675/5c143c0638/agetaro4.jpeg"
+    },
     {
       "id": "ann-Ly4yNDQyMDk",
       "title": "The World's Strongest Witch ‒ Episode 8",
@@ -541,66 +601,6 @@ export const INITIAL_NEWS_DATA = {
       "source": "MyAnimeList",
       "category": "News",
       "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795684507-2d69345f527534758c542b61383adb21.jpeg"
-    },
-    {
-      "id": "mal-YXRpb249cnNz",
-      "title": "Main Cast for 'Monster Strike: Mera×Death - Shinigami to Boku no Ijou na Koi' Announced",
-      "link": "https://myanimelist.net/news/74983668?_location=rss",
-      "description": "The official website of the Monster Strike: Mera&times;Death - Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) television anime announced the main cast on Thursday. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5. Cast Mera Kagari: Kaito Ishikawa (Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai) Thirteen: Shion Wakayama (Dandadan) Mizuki Kagari: Hana Hishikawa (Sayonara Lara) Renge: Misaki Kuno (3...",
-      "pubDate": "2026-11-26T09:03:38.000Z",
-      "source": "MyAnimeList",
-      "category": "News",
-      "image": "https://cdn.myanimelist.net/s/common/uploaded_files/1795683771-2f702ec9dad847e14789ad5b3ad72153.jpeg"
-    },
-    {
-      "id": "ann-LjI0NDE4MQ",
-      "title": "1st Witch on the Holy Night Film Opens at #2",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-26/1st-witch-on-the-holy-night-film-opens-at-no.2/.244181",
-      "description": "Godzilla Minus Zero stays at #1 in 3rd weekend",
-      "pubDate": "2026-11-26T07:21:25.000Z",
-      "source": "Anime News Network",
-      "category": "Anime",
-      "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ8/cms/news.9/235565/mahoyo-kv.jfif.jpeg"
-    },
-    {
-      "id": "ann-cy8uMjQ0MTkw",
-      "title": "Japan's Gundam Base Stores Toughen ID Verification for Buyers",
-      "link": "https://www.animenewsnetwork.com/interest/2026-11-25/japan-gundam-base-stores-toughen-id-verification-for-buyers/.244190",
-      "description": "Stores now only accept passport or Japan's My Number Card as ID",
-      "pubDate": "2026-11-26T04:59:00.000Z",
-      "source": "Anime News Network",
-      "category": "Merch",
-      "image": null
-    },
-    {
-      "id": "ann-LS8uMjQ0MTcw",
-      "title": "Live-Action 'Kekkon Shimashō, Koi Suru Mae ni' Series Reveals Cast, Theme Song Artists, January 2027 Streaming Debut",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-25/live-action-kekkon-shimasho-koi-suru-mae-ni-series-reveals-cast-theme-song-artists-january-2027-/.244170",
-      "description": "Former Nogizaka46 idol Tamami Sakaguchi, Genin wa Jibun ni Aru's Jun Mutō star in shorts with song by YU's",
-      "pubDate": "2026-11-26T04:04:45.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
-    },
-    {
-      "id": "ann-Ly4yNDQxNjY",
-      "title": "Nioh 3 Game Streams First Look Trailer for New DLC",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-25/nioh-3-game-streams-first-look-trailer-for-new-dlc/.244166",
-      "description": "Bloody Insurrection DLC Vol. 2 launches on December 17",
-      "pubDate": "2026-11-26T03:50:11.000Z",
-      "source": "Anime News Network",
-      "category": "Games",
-      "image": null
-    },
-    {
-      "id": "ann-LjI0NDE3MQ",
-      "title": "Live-Action High School Family: Kokosei Kazoku Film Gets Spinoff Shorts",
-      "link": "https://www.animenewsnetwork.com/news/2026-11-25/live-action-high-school-family-kokosei-kazoku-film-gets-spinoff-shorts/.244171",
-      "description": "11 short episodes stream in lead-up to film's January opening",
-      "pubDate": "2026-11-26T03:46:21.000Z",
-      "source": "Anime News Network",
-      "category": "Live-Action",
-      "image": null
     }
   ]
 };
